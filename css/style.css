@@ -1154,5 +1154,34 @@ footer #newsletter input::placeholder {
     max-height: 50px;
   }
   
-  /* Delivery */
+  /* Jobs */
+  .positions-title{
+    font-size: 1.5rem;
+    line-height: 1.5rem;
+    text-align: left;
+  }
+  
+  .job-title {
+    font-size: 1.25rem;
+    line-height: 1.5rem;
+  }
+  .job-location {
+    font-size: 1.25rem;
+    line-height: 24px;
+  }
+
+  /* Contact */
+  .single-information {
+    max-width: 260px;
+    width: 100%;
+  }
+  .info-content p {
+    font-size: 18px;
+  }
+
+  /* instagram */
+  .instagram-item{
+    width: 48%;
+    margin-bottom: 16px;
+  }
 }
