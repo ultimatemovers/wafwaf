@@ -6,10 +6,71 @@
 
 {% include nav.html %}
 
-<div class="container mx-auto">
-
+<div class="container pt-0 sm:pt-6 pb-4 sm:pb-0">
+  <div class="w-full mt-8 mx-auto swiper-container custom-carousel hero-custom-carousel flex items-center justify-center">
+    <div class="swiper-wrapper overflow-hidden">
+      {% for image in page.hero_images %}
+        <div class="swiper-slide">
+          <img src="{{ image }}" alt="wafwaf hero {{ forloop.index }}" width="100%">
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+  <h1 class="h1 w-full mt-2 mb-0 sm:mt-12 reveal">{{ page.big_title }}</h1>
 </div>
 
+<div class="container px-6 sm:px-0">
+  <div class="w-full after-title-section mb-16 sm:mt-12 sm:mt-24 reveal">
+    <div  class="rubic-pattern top"></div>
+    <div class="after-title-section-content">
+      {{ page.subtitle }}
+    </div>
+    <div  class="rubic-pattern bottom"></div>
+  </div>
+</div>
+
+<div class="container px-6 sm:px-16">
+  <div class="latest-posts mt-12 pr-6 sm:mt-20 mb-16 px-0">
+    <div class="latest-posts-wrapper flex justify-between">
+      {% for post in site.posts limit: 3 %}
+        <div class="latest-posts-item w-full sm:w-1/4 reveal-delay-{{ forloop.index | plus: 1 }}00">
+          <img src="{{ post.feature_image }}" alt="post.title">
+          <h4 class="post-title mt-8 mb-6 sm:mb-12 sm:w-3/4 sm:mx-auto lg:w-full">{{ post.title }}</h4>
+          <div class="post-content sm:w-3/4 sm:mx-auto lg:w-full">{{ post.content }}</div>
+          <a target="_blank" href="{{ post.url }}" class="sm:w-1/2 lg:w-full rounded-outline-btn mt-6 block btn-zoom-in-out">ZJISTIT VIC</a>
+        </div>
+    {% endfor %}
+    </div>
+  </div>
+</div>
+
+<div class="container px-6 sm:px-0">
+  <div class="showcase-group px-6 sm:px-0 sm:overflow-y-hidden">
+    <div class="sm:px-6 lg:px-0 flex sm:flex-wrap showcase-wrapper">
+      {% assign delay = 275 %}
+      {% for showcase in page.showcase_images %}
+        {% assign index = forloop.index0 | modulo: 2 %}
+        {% assign delay = delay | plus: 75 %}
+        {% if index == 0 %}
+          <div class="w-full sm:w-1/2 showcase-item sm:px-4 lg:pr-8 lg:pl-0 sm:py-4 lg:py-8 reveal reveal-delay-200">
+            <img src="{{ showcase }}" alt="showcase {{ index }}">
+          </div>
+        {% else %}
+          <div class="w-full sm:w-1/2 showcase-item sm:px-4 lg:pl-8 lg:pr-0 sm:py-4 lg:py-8 reveal reveal-delay-400">
+            <img src="{{ showcase }}" alt="showcase {{ index }}">
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+<div class="container px-6 sm:px-0 reveal">
+  <h2 class="h2 w-full sm:w-3/5 mx-auto text-center mt-12 sm:mb-16 px-6 sm:px-0">{{ page.breakfast }}</h2>
+  <div class="w-full sm:w-1/5 mx-auto mb-0 sm:mb-24">
+    <a href="/delivery" class="black-btn block reveal btn-zoom-in-out">OBJEDNAT</a>
+  </div>
+</div>
 {% include instagram.html %}
 
 {% include footer.html %}

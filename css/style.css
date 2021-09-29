@@ -1,11 +1,11 @@
 /* FONTS */
 @font-face {
   font-family: 'Obcecada Sans';
-  src: url('../fonts/Obcecada-Sans.eot');
-  src: url('../fonts/Obcecada-Sans.eot?#iefix') format('embedded-opentype'),
-      url('../fonts/Obcecada-Sans.woff2') format('woff2'),
-      url('../fonts/Obcecada-Sans.woff') format('woff'),
-      url('../fonts/Obcecada-Sans.ttf') format('truetype');
+  src: url('https://wafwaf.vercel.app/fonts/Obcecada-Sans.eot');
+  src: url('https://wafwaf.vercel.app/fonts/Obcecada-Sans.eot?#iefix') format('embedded-opentype'),
+      url('https://wafwaf.vercel.app/fonts/Obcecada-Sans.woff2') format('woff2'),
+      url('https://wafwaf.vercel.app/fonts/Obcecada-Sans.woff') format('woff'),
+      url('https://wafwaf.vercel.app/fonts/Obcecada-Sans.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -13,11 +13,11 @@
 
 @font-face {
   font-family: 'Brandon Text';
-  src: url('../fonts/BrandonText-Bold.eot');
-  src: url('../fonts/BrandonText-Bold.eot?#iefix') format('embedded-opentype'),
-      url('../fonts/BrandonText-Bold.woff2') format('woff2'),
-      url('../fonts/BrandonText-Bold.woff') format('woff'),
-      url('../fonts/BrandonText-Bold.ttf') format('truetype');
+  src: url('https://wafwaf.vercel.app/fonts/BrandonText-Bold.eot');
+  src: url('https://wafwaf.vercel.app/fonts/BrandonText-Bold.eot?#iefix') format('embedded-opentype'),
+      url('https://wafwaf.vercel.app/fonts/BrandonText-Bold.woff2') format('woff2'),
+      url('https://wafwaf.vercel.app/fonts/BrandonText-Bold.woff') format('woff'),
+      url('https://wafwaf.vercel.app/fonts/BrandonText-Bold.ttf') format('truetype');
   font-weight: bold;
   font-style: normal;
   font-display: swap;
@@ -25,11 +25,11 @@
 
 @font-face {
   font-family: 'AvenirNext';
-  src: url('../fonts/AvenirNext-DemiBold.eot');
-  src: url('../fonts/AvenirNext-DemiBold.eot?#iefix') format('embedded-opentype'),
-      url('../fonts/AvenirNext-DemiBold.woff2') format('woff2'),
-      url('../fonts/AvenirNext-DemiBold.woff') format('woff'),
-      url('../fonts/AvenirNext-DemiBold.ttf') format('truetype');
+  src: url('https://wafwaf.vercel.app/fonts/AvenirNext-DemiBold.eot');
+  src: url('https://wafwaf.vercel.app/fonts/AvenirNext-DemiBold.eot?#iefix') format('embedded-opentype'),
+      url('https://wafwaf.vercel.app/fonts/AvenirNext-DemiBold.woff2') format('woff2'),
+      url('https://wafwaf.vercel.app/fonts/AvenirNext-DemiBold.woff') format('woff'),
+      url('https://wafwaf.vercel.app/fonts/AvenirNext-DemiBold.ttf') format('truetype');
   font-weight: 600;
   font-style: normal;
   font-display: swap;
@@ -37,11 +37,11 @@
 
 @font-face {
   font-family: 'Avenir LT Std';
-  src: url('../fonts/AvenirLTStd-Roman.eot');
-  src: url('../fonts/AvenirLTStd-Roman.eot?#iefix') format('embedded-opentype'),
-      url('../fonts/AvenirLTStd-Roman.woff2') format('woff2'),
-      url('../fonts/AvenirLTStd-Roman.woff') format('woff'),
-      url('../fonts/AvenirLTStd-Roman.ttf') format('truetype');
+  src: url('https://wafwaf.vercel.app/fonts/AvenirLTStd-Roman.eot');
+  src: url('https://wafwaf.vercel.app/fonts/AvenirLTStd-Roman.eot?#iefix') format('embedded-opentype'),
+      url('https://wafwaf.vercel.app/fonts/AvenirLTStd-Roman.woff2') format('woff2'),
+      url('https://wafwaf.vercel.app/fonts/AvenirLTStd-Roman.woff') format('woff'),
+      url('https://wafwaf.vercel.app/fonts/AvenirLTStd-Roman.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -49,11 +49,11 @@
 
 @font-face {
   font-family: 'AvenirNext';
-  src: url('../fonts/AvenirNext-Regular.eot');
-  src: url('../fonts/AvenirNext-Regular.eot?#iefix') format('embedded-opentype'),
-      url('../fonts/AvenirNext-Regular.woff2') format('woff2'),
-      url('../fonts/AvenirNext-Regular.woff') format('woff'),
-      url('../fonts/AvenirNext-Regular.ttf') format('truetype');
+  src: url('https://wafwaf.vercel.app/fonts/AvenirNext-Regular.eot');
+  src: url('https://wafwaf.vercel.app/fonts/AvenirNext-Regular.eot?#iefix') format('embedded-opentype'),
+      url('https://wafwaf.vercel.app/fonts/AvenirNext-Regular.woff2') format('woff2'),
+      url('https://wafwaf.vercel.app/fonts/AvenirNext-Regular.woff') format('woff'),
+      url('https://wafwaf.vercel.app/fonts/AvenirNext-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -61,22 +61,22 @@
 
 @font-face {
   font-family: 'AvenirNextLTPro-Cn';
-  src: url('../fonts/AvenirNextLTPro-Cn.eot');
-  src: url('../fonts/AvenirNextLTPro-Cn.eot?#iefix') format('embedded-opentype'),
-      url('../fonts/AvenirNextLTPro-Cn.woff2') format('woff2'),
-      url('../fonts/AvenirNextLTPro-Cn.woff') format('woff'),
-      url('../fonts/AvenirNextLTPro-Cn.ttf') format('truetype');
+  src: url('https://wafwaf.vercel.app/fonts/AvenirNextLTPro-Cn.eot');
+  src: url('https://wafwaf.vercel.app/fonts/AvenirNextLTPro-Cn.eot?#iefix') format('embedded-opentype'),
+      url('https://wafwaf.vercel.app/fonts/AvenirNextLTPro-Cn.woff2') format('woff2'),
+      url('https://wafwaf.vercel.app/fonts/AvenirNextLTPro-Cn.woff') format('woff'),
+      url('https://wafwaf.vercel.app/fonts/AvenirNextLTPro-Cn.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'AvenirNextLTPro-Bold';
-  src: url('../fonts/Mada-Bold.eot');
-  src: url('../fonts/Mada-Bold.eot?#iefix') format('embedded-opentype'),
-      url('../fonts/Mada-Bold.woff2') format('woff2'),
-      url('../fonts/Mada-Bold.woff') format('woff'),
-      url('../fonts/Mada-Bold.ttf') format('truetype');
+  src: url('https://wafwaf.vercel.app/fonts/Mada-Bold.eot');
+  src: url('https://wafwaf.vercel.app/fonts/Mada-Bold.eot?#iefix') format('embedded-opentype'),
+      url('https://wafwaf.vercel.app/fonts/Mada-Bold.woff2') format('woff2'),
+      url('https://wafwaf.vercel.app/fonts/Mada-Bold.woff') format('woff'),
+      url('https://wafwaf.vercel.app/fonts/Mada-Bold.ttf') format('truetype');
   font-weight: bold;
   font-style: normal;
   font-display: swap;
@@ -102,16 +102,16 @@ body {
 
 .h1 {
   font-family: 'Obcecada Sans', sans-serif;
-  font-size: 200px;
-  line-height: 220px;
+  font-size: 11rem;
+  line-height: 12rem;
   text-align: center;
 }
 
 .h2 {
   font-family: 'Brandon Text', sans-serif;
-  font-size: 60px;
+  font-size: 2.5rem;
   font-weight: bold;
-  line-height: 72px;
+  line-height: 3.5rem;
   letter-spacing: -1.5px;
   text-align: center;
 }
@@ -537,15 +537,111 @@ header nav .menu-item.active {
   color: #251C16;
 }
 
+/* Hero */
 
+.hero-custom-carousel {
+  max-width: 80%;
+  aspect-ratio: 16/9;
+  overflow: hidden;
+  border-radius: 30px;
+}
+
+.swiper-css-mode>.swiper-wrapper>.swiper-slide {
+  overflow: hidden;
+}
+
+.hero-custom-carousel img,
+.swiper-slide img {
+  -webkit-transition: all 0.7s ease;
+  transition: all 0.7s ease;
+  -webkit-transform: scale(1.5);
+  transform: scale(1.5);
+  -webkit-animation: -webkit-zoom-out 1s ease-in-out forwards;
+  animation: zoom-out 1s ease-in-out forwards;
+}
+
+@keyframes zoom-out {
+  0% {
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+  }
+  100% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+}
+@-webkit-keyframes zoom-out {
+  0% {
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+  }
+  100% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+}
+
+.after-title-section-content {
+  font-family: 'Brandon Text', sans-serif;
+  font-size: 2.5rem;
+  line-height: 3rem;
+  letter-spacing: -1.5px;
+  text-align: center;
+  padding: 3.4rem;
+  background: #85D3C4;
+}
+
+/* Posts */
+.latest-posts .post-title {
+  font-family: 'Brandon', sans-serif;
+  font-weight: bold;
+  font-size: 1.4rem;
+  line-height: 1.8rem;
+  color: #CF909B;
+  min-height: 84px;
+}
+
+/* Button */
+.rounded-outline-btn {
+  width: 100%;
+  font-family: 'Brandon', sans-serif;
+  font-weight: bold;
+  font-size: 1.1rem;
+  line-height: 2rem;
+  text-transform: uppercase;
+  border: 1px solid #251C16;
+  border-radius: 30px;
+  text-align: center;
+}
+
+.black-btn {
+  width: 100%;
+  font-family: 'Brandon', sans-serif;
+  font-weight: bold;
+  font-size: 1.1rem;
+  line-height: 2rem;
+  text-transform: uppercase;
+  color: #fff;
+  background-color:#251C16;
+  border: 1px solid #251C16;
+  border-radius: 30px;
+  text-align: center;
+  letter-spacing: 1px;
+}
+
+.black-btn:hover {
+  color: #251C16;
+  background-color: transparent;
+}
 
 /* Instagram */
 h2.instagram-title {
   font-family: 'Brandon', sans-serif;
-  font-size: 2rem;
+  font-size: 2.5rem;
   font-weight: bold;
+  line-height: 3.5rem;
+  letter-spacing: -1px;
   color:#CF909B;
-  letter-spacing: 1px;
 }
 
 .instagram-item {
