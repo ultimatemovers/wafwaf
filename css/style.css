@@ -280,51 +280,6 @@ html .load-hidden {
   height: auto;
 }
 
-.black-btn {
-  max-width: 412px;
-  width: 100%;
-  background: #251C16;
-  font-family: 'AvenirNextLTPro-Bold', sans-serif;
-  font-size: 1rem;
-  font-weight: bold;
-  text-transform: uppercase;
-  letter-spacing: 2px;
-  line-height: 40px;
-  text-align: center;
-  color: #fff;
-  border-radius: 30px;
-  margin-left: auto;
-  margin-right: auto;
-  border: 1px solid #251C16;
-  transition: all .5s cubic-bezier(0.19, 1, 0.22, 1);
-}
-
-.black-btn:hover {
-  color: #251C16;
-  background: transparent;
-}
-
-.rounded-outline-btn {
-  font-family: 'AvenirNextLTPro-Bold', sans-serif;
-  font-size: 1rem;
-  font-weight: bold;
-  text-transform: uppercase;
-  letter-spacing: 2px;
-  line-height: 40px;
-  text-align: center;
-  color: #251C16;
-  border: 1px solid #251C16;
-  border-radius: 30px;
-  margin-left: auto;
-  margin-right: auto;
-  transition: all .5s cubic-bezier(0.19, 1, 0.22, 1);
-}
-
-.rounded-outline-btn:hover {
-  background: #251C16;
-  border-color: #251C16;
-  color: #FFFDF5;
-}
 
 /* Locations */
 
@@ -606,6 +561,46 @@ html .load-hidden {
 #about .black-btn{
   margin-left: 0;
   margin-right: 0;
+}
+
+
+/* Contact */
+
+.single-information {
+  max-width: 205px;
+  width: 100%;
+}
+
+.info-title {
+  font-family: 'AvenirNext', sans-serif;
+  background: rgb(70, 62, 55);
+  height: 120px;
+  font-size: 1.2rem;
+  font-weight: bold;
+  padding: 0 10%;
+  color: rgb(229,	213, 136);
+}
+
+.info-content {
+  font-family: 'AvenirNext', sans-serif;
+  line-height: 1.5rem;
+  color: #FFFDF5;
+  white-space: pre-line;
+}
+
+.info-content p {
+  font-size: 0.95rem;
+  color: #FFFDF5;
+}
+
+.info-content p a {
+  /* color: #251C16; */
+  text-decoration: underline;
+}
+
+.info-content.content-column-1 p br,
+.info-content.content-column-5 p br {
+  display: none;
 }
 
 
