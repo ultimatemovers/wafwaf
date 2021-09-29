@@ -297,13 +297,13 @@
     changeLocations.forEach((cl) => {
       cl.classList.remove('change-location-active')
       if(cl.dataset.location === locationId)
-        cl.classList.add('change-location-active')
+      cl.classList.add('change-location-active')
     })
     locationSections.forEach((l) => {
       if(l.dataset.section !== locationId)
-        l.classList.remove('location-section-active')
+      l.classList.remove('location-section-active')
       else
-        l.classList.add('location-section-active')
+      l.classList.add('location-section-active')
     })
   }
 

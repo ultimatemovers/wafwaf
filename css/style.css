@@ -83,7 +83,8 @@
 }
 
 * {
-  font-size: 16px;;
+  font-size: 16px;
+  font-family: 'AvenirNext-Regular', sans-serif;
 }
 
 body {
@@ -358,6 +359,11 @@ html .load-hidden {
 .location-section-active {
  display: block;
 }
+.location-section-active .reveal,
+.location-section-active .sm\:reveal {
+  opacity: 1!important;
+  transform: none!important;
+}
 
 .location-info h2{
   font-family: 'Obcecada Sans';
@@ -394,3 +400,191 @@ html .load-hidden {
 }
 
 
+
+/* Navigation */
+.nav-mobile {
+  display: none;
+}
+
+.main-nav .menu-item {
+  font-family: 'AvenirNext', sans-serif;
+  font-size: 0.9rem;
+  font-weight: bold;
+  padding: 10px 0;
+  width: 115px;
+  text-align: center;
+  background: #76685E;
+  color: #F8EABF;
+  border-radius: 30px;
+  transition: all .3s ease-in-out;
+}
+
+.main-nav .menu-logo {
+  margin: 0 10px;
+}
+
+#jobs header nav .menu-item,
+#about header nav .menu-item,
+#franchising header nav .menu-item,
+#contact header nav .menu-item {
+  background: #FFFDF5;
+  color: #251C16;
+}
+
+#about header nav .menu-item:hover,
+#jobs header nav .menu-item:hover,
+#franchising header nav .menu-item:hover,
+#contact header nav .menu-item:hover,
+header nav .menu-item:hover {
+  color: #251C16;
+  background: #ecd684;
+}
+
+#about header nav .menu-item.active,
+#jobs header nav .menu-item.active,
+#franchising header nav .menu-item.active,
+#contact header nav .menu-item.active,
+header nav .menu-item.active {
+  color: #251C16;
+  background: #ecd684;
+}
+
+#menu header nav .menu-item {
+  color: #FFFDF5;
+  background: #251C16;
+}
+
+#menu header nav .menu-item.active,
+#menu header nav .menu-item:hover {
+  color: #251C16;
+  background: #ECD684;
+}
+
+#locations header nav .menu-item{
+  background-color: #85D3C4;
+  color: #251C16;
+}
+
+#locations header nav .menu-item:hover{
+  background: #ecd684;
+  color: #251C16;
+}
+
+#locations header nav .menu-item.active{
+  background: #ecd684;
+  color: #251C16;
+}
+
+
+
+/* Instagram */
+h2.instagram-title {
+  font-family: 'Brandon', sans-serif;
+  font-size: 2rem;
+  font-weight: bold;
+  color:#CF909B;
+  letter-spacing: 1px;
+}
+
+.instagram-item {
+  width: calc(33% - 40px);
+  aspect-ratio: 1 / 1;
+  overflow: hidden;
+  border-radius: 30px;
+  margin-bottom: 62px;
+}
+
+.instagram-item img {
+  width: 100%;
+  transition: all .3s cubic-bezier(0.215, 0.610, 0.355, 1);
+}
+
+.instagram-item:hover img {
+  transform: scale(1.1) rotate(5deg);
+  cursor: pointer;
+}
+
+
+/* Footer */
+footer.site-footer {
+  background: #ECD684;
+  border-radius: 30px;
+}
+
+#delivery footer.site-footer  {
+  background: rgb(244,	233,	192);
+}
+
+footer .footer-content {
+  padding: 50px 69px 40px 69px;
+}
+
+footer .footer-logo {
+  max-width: 180px;
+  width: 100%;
+  margin-right: 50px;
+}
+
+footer .footer-title {
+  font-family: 'Brandon', sans-serif;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #251C16;
+  line-height: 52px;
+  letter-spacing: .6px;
+}
+
+footer .footer-body {
+  font-family: 'AvenirNext', sans-serif;
+  font-weight: normal;
+  padding-right: 20px;
+}
+
+footer .footer-body div {
+  line-height: 2rem;
+}
+
+footer .footer-info {
+  line-height: 50px;
+}
+
+footer .footer-social-place {
+  margin-top: 65px;
+}
+
+footer .social-icons {
+  padding: 1px 0;
+  max-height: 40px;
+  transform: scale(1);
+  transition: transform .3s ease-in-out;
+}
+
+footer .social-icons:hover {
+  opacity: .8;
+  filter: contrast(1000%) invert(75%) sepia(100%) saturate(8270%) hue-rotate(156deg);
+  transform: scale(1.08);
+}
+
+footer #newsletter input {
+  font-family: 'AvenirNext', sans-serif;
+  font-size: 18px;
+  font-weight: normal;
+  background: transparent!important;
+  border: 2px solid #251C16;
+  width: 100%;
+  padding: 8px;
+  color: #251C16;
+  letter-spacing: .5px;
+}
+
+footer #newsletter input[type="button"] {
+  width: 62px;
+  border-left: none;
+  outline: none;
+  box-shadow: none;
+  cursor: pointer;
+}
+
+footer #newsletter input::placeholder {
+  color: #251C16;
+}
