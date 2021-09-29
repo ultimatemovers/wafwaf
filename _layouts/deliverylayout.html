@@ -1,0 +1,64 @@
+{% assign current_page = 'delivery' %}
+{% assign page_title = 'Razvoz' %}
+
+{% include head.html %}
+
+{% include nav.html %}
+
+<div class="container pt-12 pb-24">
+  <div class="mx-auto hero-custom-carousel flex items-center justify-center">
+    <div class="overflow-hidden">
+      <img src="{{ page.hero_image }}" alt="wafwaf hero" width="100%">
+    </div>
+  </div>
+  <h1 class="h1 mt-12 reveal">{{ page.big_title }}</h1>
+  <div class="mb-16 mt-24 reveal w-full">
+    <div  class="rubic-pattern top"></div>
+    <div class="after-title-section-content">
+      {{ page.subtitle }}
+    </div>
+    <div  class="rubic-pattern bottom"></div>
+  </div>
+  <h2 class="h2 px-8 my-20 text-pink reveal">{{ page.delivery_title }}</h2>
+  <div>
+    <div class="rubic-pattern top"></div>
+    <div class="bg-pink py-12 px-16 flex flex-wrap justify-between items">
+      {% for location in page.locations %}
+        <div class="single-location py-12 pb-0 text-center reveal-delay-{{ forloop.index | plus:1 }}00">
+          <img src="{{ location.location_image }}" alt="{{ location.location_title }}">
+          <h3 class="h3 my-2">{{ location.location_title }}</h3>
+          <div class="mt-6">
+            {% if location.wolt %}
+              <a target="_blank" href="{{ location.wolt_url }}" class="delivery-btn flex items-center justify-center">
+                <img src="/img/wolt.png" alt="wolt" height="28" style="height: 28px;">
+              </a>
+            {% endif %}
+            {% if location.boltfood %}
+              <a target="_blank" href="{{ location.boltfood_url }}" class="delivery-btn flex items-center justify-center mt-6">
+                <img src="/img/boltfood.png" alt="wolt" height="43" style="height: 43px;">
+              </a>
+            {% endif %}
+            {% if location.damejidlo %}
+              <a target="_blank" href="{{ location.jidlo_url }}" class="delivery-btn flex items-center justify-center mt-6">
+                <img src="/img/damejidlo.png" alt="wolt" height="37" style="height: 37px;">
+              </a>
+            {% endif %}
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+    <div class="rubic-pattern bottom"></div>
+  </div>
+
+  <div class="my-20 mx-auto w-1/2">
+    {{ page.delivery_description }}
+  </div>
+
+  <div class="mx-auto hero-custom-carousel flex items-center justify-center reveal">
+    <!-- <div class="overflow-hidden"> -->
+      <img src="{{ page.delivery_image }}" alt="wafwaf delivery" width="100%">
+    <!-- </div> -->
+  </div>
+</div>
+
+{% include footer.html %}

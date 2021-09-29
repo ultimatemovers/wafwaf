@@ -604,6 +604,34 @@ html .load-hidden {
 }
 
 
+/* Delivery */
+#delivery header nav .menu-item {
+  background: #FFFDF5;
+  color: #251C16;
+}
+
+#delivery header nav .menu-item:hover {
+  background: #85D3C4;
+}
+
+#delivery header nav .menu-item.active {
+  background: #85D3C4;
+}
+
+.single-location {
+  max-width: 220px;
+}
+
+.single-location h3{
+  font-size: 1.125rem;
+}
+
+.delivery-btn {
+  background: #FFFDF5;
+  border-radius: 30px;
+  height: 50px;
+  cursor: pointer;
+}
 
 
 
