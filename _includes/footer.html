@@ -1,0 +1,52 @@
+<footer class="site-footer container w-full reveal">
+  <div class="rubic-pattern top"></div>
+  <div class="footer-content flex flex-wrap sm:flex-nowrap items-center">
+    <div class="hidden xl:flex footer-logo reveal">
+      <img src="{{ '/img/footer-logo.svg' | absolute_url }}" alt="waf waf logo 2">
+    </div>
+    <div class="flex flex-wrap justify-end items-start w-full reveal-delay-200">
+      <div class="w-full flex-grow sm:w-1/4 mb-12 sm:mb-0">
+        <div class="footer-title">WafWaf</div>
+        <div class="footer-body footer-info">
+          <div><a href="mailto:info@waf-waf.cz">info@waf-waf.cz</a></div>
+          <div><a href="tel:+320725344097">+320 725 344 097</a></div>
+          <div><a  href="/">www.waf-waf.cz</a></div>
+        </div>
+      </div>
+      <div class="w-full sm:w-1/3 mb-12 sm:mb-0 reveal-delay-300">
+        <div class="footer-title">Sleduj nás!</div>
+        <div class="footer-body">
+          <div>Ochutnejte naše novinky hned, jak je pro vás připravíme.</div>
+        </div>
+        <div class="flex justify-between mt-6 sm:w-4/5 footer-social-place">
+          <a target="_blank" href="https://www.facebook.com/WafWafCZ/">
+            <img class="cursor-pointer social-icons" src="/img/facebook.svg" alt="facebook">
+          </a>
+          <a target="_blank" href="https://www.instagram.com/wafwafcz/">
+            <img class="cursor-pointer social-icons" src="/img/instagram.svg" alt="instagram">
+          </a>
+          <a target="_blank" href="https://www.tiktok.com/@wafwafcz">
+            <img class="cursor-pointer social-icons" src="/img/tiktok.svg" alt="tiktok">
+          </a>
+        </div>
+      </div>
+      <div class="w-full sm:w-1/3 mb-12 sm:mb-0 reveal-delay-400">
+        <div class="footer-title">Spoj se s námi!</div>
+        <div class="footer-body mb-6">
+          <div>Přidejte se k nám a mějte nejnovější novinky jako první na dosah!</div>
+        </div>
+        {% include newsletter.html %}
+      </div>
+    </div>
+  </div>
+  <div class="rubic-pattern bottom"></div>
+</footer>
+<!-- Javascript -->
+<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+<script src="https://unpkg.com/scrollreveal@4.0.0/dist/scrollreveal.min.js"></script>
+
+<script src="{{ "/js/gsap.min.js" | absolute_url }}" type="text/javascript"></script>
+<script src="{{ "/js/ScrollTrigger.min.js" | absolute_url }}" type="text/javascript"></script>
+<script src="{{ "/js/main.js" | absolute_url }}" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,122 @@
+{% assign url = page.url | remove:'index.html' %}
+<header class="site-header">
+    {% if current_page == 'contact' %}
+      <div>
+    {% else %}
+      <div div class="container">
+    {% endif %}
+      <div class="rubic-pattern navbar-pattern"></div>
+      <div class="mobile-nav xl:hidden flex justify-between items-center">
+        <a  href="/" class="menu-logo">
+          {% if current_page == 'contact' or current_page == 'jobs' or current_page == 'franchising' or current_page == 'about' %}
+            <img src="/img/Waf-Waf-white.svg" alt="Waf Waf - crepes & waffles" width="192">
+          {% else %}
+            <img src="/img/Waf-Waf-logo.svg" alt="Waf Waf - crepes & waffles" width="192">
+          {% endif %}
+        </a>
+        <div class="hamburger" id="hamburger">
+          <span class="line"></span>
+          <span class="line"></span>
+          <span class="line"></span>
+        </div>
+      </div>
+
+      <nav class="nav-mobile" id="nav-mobile">
+        <div class="pl-8 pb-6">
+          <a  href="/" class="menu-logo">
+            <img src="/img/Waf-Waf-logo.svg" alt="Waf Waf - crepes & waffles" width="92">
+          </a>
+        </div>
+        <a  href="/" class="menu-item">
+          <div class="nav-mobile-item">
+            Home
+          </div>
+        </a>
+        <a  href="/locations" class="menu-item">
+          <div class="nav-mobile-item">
+            Naše pobočky
+          </div>
+        </a>
+        <a  href="/menu" class="menu-item">
+          <div class="nav-mobile-item">
+            Menu
+          </div>
+        </a>
+        <a  href="/franchising" class="menu-item">
+          <div class="nav-mobile-item">
+            Franchise
+          </div>
+        </a>
+        <a  href="/about" class="menu-item">
+          <div class="nav-mobile-item">
+            Náš příběh
+          </div>
+        </a>
+        <a  href="/contact" class="menu-item">
+          <div class="nav-mobile-item">
+            Kontakty
+          </div>
+        </a>
+        <a  href="/jobs" class="menu-item">
+          <div class="nav-mobile-item">
+            Přidej se
+          </div>
+        </a>
+        <a  href="/delivery" class="menu-item">
+          <div class="nav-mobile-item">
+            Rozvoz
+          </div>
+        </a>
+
+        <div class="pt-8 pb-20">
+          <div class="flex justify-between w-2/3 mx-auto">
+            <a target="_blank" href="https://www.instagram.com/wafwafcz/">
+              <img class="cursor-pointer social-icons" src="/img/instagram.svg" alt="instagram">
+            </a>
+            <a target="_blank" href="https://www.facebook.com/WafWafCZ/">
+              <img class="cursor-pointer social-icons" src="/img/facebook.svg" alt="facebook">
+            </a>
+            <a target="_blank" href="https://www.tiktok.com/@wafwafcz">
+              <img class="cursor-pointer social-icons" src="/img/tiktok.svg" alt="tiktok">
+            </a>
+          </div>
+        </div>
+      </nav>
+
+      <nav class="main-nav flex justify-between items-center">
+        <a href="/" class="menu-item btn-zoom-in-out">
+          Home
+        </a>
+        <a href="/locations" class="menu-item btn-zoom-in-out">
+          Naše pobočky
+        </a>
+        <a href="/menu" class="menu-item btn-zoom-in-out">
+          Menu
+        </a>
+        <a href="/franchising" class="menu-item btn-zoom-in-out">
+          Franchise
+        </a>
+
+        <a href="/" class="menu-logo btn-zoom-in-out">
+          {% if current_page == 'contact' or current_page == 'jobs' or current_page == 'franchising' or current_page == 'about' %}
+            <img src="/img/Waf-Waf-white.svg" alt="Waf Waf - crepes & waffles" width="192">
+          {% else %}
+            <img src="/img/Waf-Waf-logo.svg" alt="Waf Waf - crepes & waffles" width="192">
+          {% endif %}
+        </a>
+
+        <a href="/about" class="menu-item btn-zoom-in-out">
+          Náš příběh
+        </a>
+        <a href="/contact" class="menu-item btn-zoom-in-out">
+          Kontakty
+        </a>
+        <a href="/jobs" class="menu-item btn-zoom-in-out">
+          Přidej se 
+        </a>
+        <a href="/delivery" class="menu-item btn-zoom-in-out">
+          Rozvoz
+        </a>
+      </nav>
+  </div>
+</header>
