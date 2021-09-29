@@ -400,6 +400,68 @@ html .load-hidden {
 }
 
 
+/* Menu */
+.category-title {
+  font-family: 'AvenirNextLTPro-Bold', sans-serif;
+  font-weight: bold;
+  font-size: 1.5rem;
+  color:#F8EABF;
+  flex: 0 0 auto;
+}
+
+.category-title.active {
+  color: #251C16;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.single-product .product-title,
+.single-product .product-price {
+  font-family: 'BrandonText-Bold', sans-serif;
+  font-size: 56px;
+  font-weight: bold;
+  letter-spacing: -1.4px;
+  line-height: 56px;
+  color: #251C16;
+  margin-top: 22px;
+}
+/* 
+.single-product:nth-child(odd){
+  padding-right: 4rem;
+}
+.single-product:nth-child(even){
+  padding-left: 4rem;
+} */
+
+.single-product .product-description {
+  font-family: 'AvenirNext-Regular', sans-serif;
+  font-size: 18px;
+  line-height: 25px;
+  color: #483B33;
+}
+
+.single-product .product-price {
+  margin-top: 0;
+  text-align: right;
+  color: #85D3C4;
+}
+
+.single-product-img{
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  aspect-ratio: 1/1;
+  margin: 0 auto;
+}
+
 
 /* Navigation */
 .nav-mobile {
