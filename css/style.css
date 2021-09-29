@@ -633,6 +633,65 @@ html .load-hidden {
   cursor: pointer;
 }
 
+/* Jobs */
+.job-title {
+  font-family: 'Brandon Text', sans-serif;
+  font-size: 1.875rem;
+  font-weight: bold;
+  line-height: 3rem;
+}
+
+.job-location {
+  font-family: 'Brandon Text', sans-serif;
+  font-size: 1.625rem;
+  line-height: 50px;
+}
+
+.positions-title {
+  font-size: 1.675rem;
+}
+
+.job-description {
+  max-height: 0;
+  font-family: 'AvenirNext-Regular', sans-serif;
+  font-size: 1.125rem;
+  line-height: 5px;
+  white-space: pre-wrap;
+  overflow: hidden;
+  transition: max-height 0.6s ease-in;
+}
+
+.job-description p, .job-description li {
+  line-height: 30px;
+}
+
+.job-description ul li {
+  position: relative;
+  padding-left: 30px;
+}
+
+.job-description ul li::before {
+  content: '•';
+  position: absolute;
+  left: 10px;
+  top: 1px;
+}
+
+.accordion-opened .job-description {
+  max-height: 1500px;
+  transition: max-height 0.8s ease-in;
+}
+
+.open-accordion {
+  transition: all 0.5s ease-in-out;
+}
+
+.accordion-opened .open-accordion {
+  transform-origin: center !important;
+  transform: rotate(45deg)
+}
+
+
 
 
 /* Navigation */
