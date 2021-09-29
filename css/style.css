@@ -377,7 +377,10 @@ html .load-hidden {
 .location-left-portrait,
 .location-left-image,
 .location-right_portrait,
-.location-footer-image{
+.location-footer-image,
+.about-first-section-image,
+.about-second-section-middle-image,
+.about-right-section-left-image{
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -461,6 +464,152 @@ html .load-hidden {
   aspect-ratio: 1/1;
   margin: 0 auto;
 }
+
+/* About */ 
+.proccess-title{
+  color: #fdfbf1;
+  font-size: 3rem;
+  line-height: 3.75rem;
+  padding-bottom: 60px;
+  font-weight: 700;
+  letter-spacing: -1.5px;
+}
+
+.proccess-item h3 {
+  font-family: 'BrandonText-Bold', sans-serif;
+  font-size: 1.25rem;
+  font-weight: bold;
+  line-height: 2rem;
+  color: #85D3C4;
+}
+
+.proccess-item-index {
+  font-family: 'BrandonText-Bold', sans-serif;
+  font-size: 3rem;
+  line-height: 2.8rem;
+  font-weight: bold;
+  color: #fff;
+  margin-right: 0.75rem;
+}
+
+.proccess-icon-1,
+.proccess-icon-2,
+.proccess-icon-3,
+.proccess-icon-4 {
+  position: relative;
+  transition: all 1s cubic-bezier(0.275, 0.82, 0.165, 1)
+}
+
+.proccess-icon-image img,
+#about .left-image-margin {
+  height: 100%!important;
+}
+
+/* .proccess-icon-image{
+  height: 190px !important;
+} */
+
+.proccess-item{
+  width: 23%!important;
+  padding: 10px;
+  min-width: 180px !important;
+  max-width: 280px !important;
+}
+
+.proccess-item-1::before,
+.proccess-item-2::before,
+.proccess-item-3::before {
+  content: '';
+  position: absolute;
+  z-index: 3;
+  width: 80px;
+  height: 36px;
+  background: url(/img/arrow.svg) no-repeat;
+  background-size: cover;
+  background-position: right;
+}
+
+.proccess-item-1::before {
+  top: 20%;
+  right: -80px;
+}
+.proccess-item-2::before {
+  top: 15%;
+  right: -70px;
+  transform: scaleY(-1);
+  z-index: 4;
+}
+.proccess-item-3::before {
+  top: 35%;
+  right: -80px;
+}
+
+.proccess-icon-1 {
+  transform: rotate(-10deg);
+}
+
+.proccess-icon-2 {
+  transform: rotate(10deg);
+}
+
+.proccess-icon-3 {
+  transform: rotate(-4deg);
+}
+
+.proccess-icon-4 {
+  transform: rotate(5deg);
+}
+
+.proccess-icon-1:hover,
+.proccess-icon-2:hover,
+.proccess-icon-3:hover,
+.proccess-icon-4:hover {
+  transform: rotate(0);
+}
+
+
+#about h4 {
+  font-family: 'BrandonText-Bold', sans-serif;
+  font-size: 3rem;
+  line-height: 3rem;
+  font-weight: bold;
+  color: #fff;
+}
+
+#about p {
+  font-family: 'AvenirNext-Regular', sans-serif;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  color: #251C16;
+}
+
+.about-first-section-image{
+  aspect-ratio: 5/4;
+}
+.about-right-section{
+  overflow: visible;
+}
+.about-right-section-left-image{
+  margin-left: calc(-50vw + 560px);
+  border-radius: 30px;
+  width: 100%;
+  aspect-ratio: 2/3;
+}
+.about-second-section-middle-image{
+  width: 100%;
+  aspect-ratio: 9/5;
+}
+.about-icon img{
+  height: 7rem;
+}
+
+#about .black-btn{
+  margin-left: 0;
+  margin-right: 0;
+}
+
+
+
 
 
 /* Navigation */
