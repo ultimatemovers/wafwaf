@@ -1,0 +1,106 @@
+{% assign current_page = 'locations' %}
+{% assign page_title = 'Naše pobočky' %}
+
+{% include head.html %}
+
+{% include nav.html %}
+
+<div class="container">
+  <div class="mx-auto hero-custom-carousel flex items-center justify-center">
+    <div class="overflow-hidden">
+      <img src="{{ page.hero_image }}" alt="wafwaf hero" width="100%">
+    </div>
+  </div>
+  <h1 class="h1 reveal text-green">{{ page.locations_title }}</h1>
+  <div class="reveal">
+    <div class="rubic-pattern top"></div>
+    <div class="bg-green relative z-0 flex items-center overflow-x-auto pt-16 pb-8">
+      {% for location in page.locations %}
+      {% if forloop.index == 1 %}
+        <div class="change-location w-full cursor-pointer change-location-active" data-location="{{ forloop.index }}">
+      {% else %}
+        <div class="change-location w-full cursor-pointer" data-location="{{ forloop.index }}">
+      {% endif %}
+          <!-- <div> -->
+            <img class="btn-zoom-in-out" src="{{ location.local_image }}" alt="{{ location.location_name }}" style="max-width: 260px; border-radius: 40px;">
+            <h2 class="text-xl font-bold pt-4 w-full text-center">{{ location.location_name }}</h2>
+          <!-- </div> -->
+        </div>
+      {% endfor %}
+    </div>
+    <div class="rubic-pattern bottom"></div>
+
+    {% for l in page.locations %}
+      {% if forloop.index == 1 %}
+        <div class="location-section location-section-active mt-16" data-section="{{ forloop.index }}">
+      {% else %}
+        <div class="location-section mt-16" data-section="{{ forloop.index }}">
+      {% endif %}
+      <div class="flex flex-wrap flex-col-reverse md:flex-row md:justify-between mb-40">
+        <div class="reveal rounded-50 location-left-portrait overflow-hidden w-1/2" style="background-image: url('{{ l.first_left_image }}');"></div>
+        <div class="location-info w-2/5">
+          <h2 class="h2 w-full reveal pb-4">{{ l.location_name }}</h2>
+          <p class="w-3/4 reveal pb-8">{{ l.location_address }}</p>
+          <p class="w-3/4 reveal pb-16">{{ l.location_contact }}</p>
+          <p class="w-3/4 reveal pb-16">{{ l.location_description }}</p>
+          <div class="w-3/4 reveal">
+            <a href="tel:{{ l.contact_number }}" class="mb-8 block black-btn btn-zoom-in-out">Kontaktujte nas</a>
+            <a href="{{ l.location_gmaps_url }}" target="_blank" class="block rounded-outline-btn btn-zoom-in-out" style="max-width: 412px;">jak se tam dostanu</a>
+          </div>
+        </div>
+      </div>
+      <div class="flex flex-wrap justify-between items-start">
+        <div class="flex flex-wrap justify-between w-1/2">
+          <div class="reveal columng-above-image w-2/5">
+            {{ l.first_column_above_image}}
+          </div>
+          <div class="reveal columng-above-image w-2/5">
+            {{ l.second_column_above_image}}
+          </div>
+          <div class="reveal rounded-50 location-left-image my-16" style="background-image: url('{{l.image_left }}');">
+          </div>
+        </div>
+        <div class="reveal rounded-50 location-right_portrait overflow-hidden w-2/5" style="background-image: url('{{l.image_right_portrait}}');">
+        </div>
+      </div>
+      <div class="reveal">
+        <div class="w-1/2 flex justify-end">
+          <div class="w-1/2">
+            {{ l.third_column_under_image}}
+          </div>
+        </div>
+      </div>
+      <div class="flex flex-wrap flex-col-reverse justify-between md:flex-row mt-12 md:mt-32">
+        <div class="reveal rounded-50 location-footer-image w-2/3" style="background-image: url('{{ l.footer_image }}');"></div>
+        <div class="w-1/4">
+          <p class="location-info reveal">{{ l.footer_description }}</p>
+          <div class="w-4/5 py-8 flex justify-between items-center delivery-logos">
+            {% if l.damejidlo %}
+            <a target="_blank" href="{{ l.jidlo_url }}" class="reveal">
+              <img class="img-center-mobile" src="/img/dj-logo.png" height="39" alt="dj delivery">
+            </a>
+            {% endif %}
+            {% if l.wolt %}
+            <a target="_blank" href="{{ l.wolt_url }}" class="reveal">
+              <img class="img-center-mobile" src="/img/wolt-logo.png" height="39" alt="wolt delivery">
+            </a>
+            {% endif %}
+            {% if l.boltfood %}
+            {{ l.boltfood_url }}
+            <a target="_blank" href="{{ l.boltfood_url }}" class="reveal">
+              <img class="img-center-mobile" src="/img/bolt-food-logo.png" height="39" alt="boltfood delivery">
+            </a>
+            {% endif %}
+          </div>
+          <div class="reveal">
+            <a href="tel:{{ l.contact_number }}" class="block black-btn btn-zoom-in-out">Kontaktujte nas</a>
+            <a href="{{ l.location_gmaps_url }}" target="_blank" class="block mt-10 rounded-outline-btn btn-zoom-in-out">jak se tam dostanu</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+
+{% include footer.html %}

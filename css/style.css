@@ -278,3 +278,119 @@ html .load-hidden {
   width: 25%;
   height: auto;
 }
+
+.black-btn {
+  max-width: 412px;
+  width: 100%;
+  background: #251C16;
+  font-family: 'AvenirNextLTPro-Bold', sans-serif;
+  font-size: 1rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  line-height: 40px;
+  text-align: center;
+  color: #fff;
+  border-radius: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid #251C16;
+  transition: all .5s cubic-bezier(0.19, 1, 0.22, 1);
+}
+
+.black-btn:hover {
+  color: #251C16;
+  background: transparent;
+}
+
+.rounded-outline-btn {
+  font-family: 'AvenirNextLTPro-Bold', sans-serif;
+  font-size: 1rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  line-height: 40px;
+  text-align: center;
+  color: #251C16;
+  border: 1px solid #251C16;
+  border-radius: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  transition: all .5s cubic-bezier(0.19, 1, 0.22, 1);
+}
+
+.rounded-outline-btn:hover {
+  background: #251C16;
+  border-color: #251C16;
+  color: #FFFDF5;
+}
+
+/* Locations */
+
+.change-location  {
+  color: #F8EABF;
+  letter-spacing: 0;
+}
+
+.change-location h2 {
+  opacity: 1;
+}
+
+.change-location img{
+  opacity: 0.3;
+  transition: all .3s ease-in-out;
+  max-height: 150px;
+  width: 235px ;
+  margin: 0 auto;
+}
+
+.change-location-active {
+  color: #251C16;
+}
+.change-location-active img{
+  opacity: 1;
+}
+
+.location-section {
+  display: none;
+}
+
+.location-section-active {
+ display: block;
+}
+
+.location-info h2{
+  font-family: 'Obcecada Sans';
+  text-align: left;
+  letter-spacing: 0.25px;
+}
+.location-info p{
+  line-height: 25px;
+}
+
+.location-left-portrait,
+.location-left-image,
+.location-right_portrait,
+.location-footer-image{
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.location-left-portrait{
+  aspect-ratio: 1/1;
+}
+.location-left-image{
+  width: 100%;
+  aspect-ratio: 3/2;
+}
+.location-right_portrait{
+  aspect-ratio: 3/4;
+}
+.location-footer-image{
+  aspect-ratio: 3/2;
+}
+.delivery-logos img{
+  max-height: 40px;
+}
+
+
