@@ -118,9 +118,9 @@ body {
 
 .h3 {
   font-family: 'AvenirNextLTPro-Bold', sans-serif;
-  font-size: 20px;
+  font-size: 1.5rem;
   font-weight: bold;
-  line-height: 50px;
+  line-height: 2rem;
   color: #251C16;
 }
 
@@ -864,6 +864,89 @@ header nav .menu-item.active {
 .black-btn:hover {
   color: #251C16;
   background-color: transparent;
+}
+
+/* Franchizing */
+.concept-title {
+  line-height: 3rem;
+  letter-spacing: 1px;
+}
+
+.concept-description {
+  color: #fff;
+  padding-right: 2rem;
+}
+
+.concept-3box {
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+}
+
+.store-description li {
+  list-style-type: circle;
+  font-size: 0.9rem;
+}
+
+#franchising {
+  padding-bottom: 0;
+}
+
+.franchising-line-height{
+  line-height: 1.3rem !important;
+}
+
+.job-description {
+  max-height: 0;
+  font-family: 'AvenirNext-Regular', sans-serif;
+  font-size: 18px;
+  line-height: 5px;
+  white-space: pre-wrap;
+  overflow: hidden;
+  transition: max-height 0.6s ease-in-out;
+}
+
+.accordion-opened .job-description {
+  max-height: 1500px;
+  transition: max-height 0.8s ease-in-out;
+}
+
+.open-accordion {
+  transition: all 0.5s ease-in-out;
+}
+
+.accordion-opened .open-accordion {
+  transform-origin: center !important;
+  transform: rotate(45deg)
+}
+
+.faq-carousel .swiper-button-prev {
+  left: -10px;
+  color: #000;
+  font-size: 1rem;
+}
+.faq-carousel .swiper-button-next {
+  right: 0;
+  color: #000;
+  font-size: 1rem;
+}
+
+.faq-carousel .swiper-button-prev:after,
+.faq-carousel .swiper-button-next:after {
+  font-size: 2rem;
+}
+
+.faq-title {
+  font-family: 'Obcecada Sans', sans-serif;
+  font-size: 3rem;
+  line-height: 4rem;
+}
+
+#franchising .faq-image {
+  width: 65px;
+  height: 60px;
+  position: absolute;
+  right: -30px;
+  top: 0
 }
 
 /* Instagram */
