@@ -19,12 +19,12 @@
     </div>
     <div  class="rubic-pattern bottom"></div>
   </div>
-  <h2 class="h2 px-8 my-20 text-pink reveal">{{ page.delivery_title }}</h2>
+  <h2 class="h2 px-6 lg:px-8 my-20 text-pink reveal">{{ page.delivery_title }}</h2>
   <div>
     <div class="rubic-pattern top"></div>
-    <div class="bg-pink py-12 px-16 flex flex-wrap justify-between items">
+    <div class="bg-pink py-12 px-16 flex flex-wrap justify-center lg:justify-between items">
       {% for location in page.locations %}
-        <div class="single-location py-12 pb-0 text-center reveal-delay-{{ forloop.index | plus:1 }}00">
+        <div class="single-location py-12 lg:pb-0 text-center reveal-delay-{{ forloop.index | plus:1 }}00">
           <img src="{{ location.location_image }}" alt="{{ location.location_title }}">
           <h3 class="h3 my-2">{{ location.location_title }}</h3>
           <div class="mt-6">
@@ -50,7 +50,7 @@
     <div class="rubic-pattern bottom"></div>
   </div>
 
-  <div class="my-20 mx-auto w-1/2">
+  <div class="my-20 mx-6 lg:mx-auto lg:w-1/2">
     {{ page.delivery_description }}
   </div>
 
