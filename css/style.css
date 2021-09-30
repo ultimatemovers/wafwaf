@@ -577,6 +577,7 @@ html .load-hidden {
   background: rgb(70, 62, 55);
   height: 120px;
   font-size: 1.2rem;
+  line-height: 1.5rem;
   font-weight: bold;
   padding: 0 10%;
   color: rgb(229,	213, 136);
