@@ -1310,16 +1310,6 @@ footer #newsletter input::placeholder {
     overflow: hidden;
   }
 
-  /* .latest-posts,
-  .latest-posts-wrapper {
-    width: 100%;
-  } */
-
-  /* .latest-posts .post-title {
-    font-size: 1.375rem;
-    line-height: 1.625rem;
-  } */
-
   .latest-posts .post-content {
     display: none;
   }
@@ -1335,7 +1325,7 @@ footer #newsletter input::placeholder {
 
   
   .showcase-group{
-    overflow:hidden;
+    overflow: hidden;
   }
 
   .showcase-item {
