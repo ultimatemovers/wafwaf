@@ -125,8 +125,8 @@ body {
 }
 
 #menu .h1 {
-  font-size: 80px;
-  line-height: 180px;
+  font-size: 5rem;
+  line-height: 6rem;
 }
 
 .container {
@@ -1132,10 +1132,9 @@ footer #newsletter input::placeholder {
     margin-left: 1.5rem;
   }
 
-  /* body .homepage-delivery-img img,
-  body .showcase-item.swiper-slide img {
-    height: auto;
-  } */
+  .concept-title {
+    text-align: left;
+  }
 
   .hamburger {
     width: 50px;
