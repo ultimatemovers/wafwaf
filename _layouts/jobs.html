@@ -24,9 +24,9 @@
   </div>
 
   {% for job in page.jobs %}
-    <div class="mt-10 reveal w-full">
+    <div class="mt-10 reveal w-full lg:w-5/6 mx-auto">
       <div class="rubic-pattern top"></div>
-      <div class="accordion accordion-{{ forloop.index }} flex flex-wrap justify-between items-center bg-yellow px-6 lg:px-16 py-4 cursor-pointer">
+      <div class="accordion accordion-{{ forloop.index }} flex flex-wrap justify-between items-center bg-yellow px-6 cursor-pointer">
         <div class="w-4/5 sm:flex items-center justify-between">
           <div class="job-title w-4/5 lg:w-2/3">{{ job.job_title }}</div>
           <div class="job-location lg:w-1/3">{{ job.job_location }}</div>

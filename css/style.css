@@ -676,9 +676,9 @@ html .load-hidden {
 /* Jobs */
 .job-title {
   font-family: 'Brandon Text', sans-serif;
-  font-size: 1.875rem;
+  font-size: 1.6rem;
   font-weight: bold;
-  line-height: 3rem;
+  line-height: 2.125rem;
 }
 
 .job-location {
