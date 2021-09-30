@@ -1183,8 +1183,7 @@ footer #newsletter input {
 
 footer #newsletter input[type="button"] {
   width: 62px;
-  height: 62px;
-  font-size: 40px;
+  font-size: 28px;
   padding: 0px;
   border-left: none;
   outline: none;
