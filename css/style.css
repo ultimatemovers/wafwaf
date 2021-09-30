@@ -1320,9 +1320,9 @@ footer #newsletter input::placeholder {
     line-height: 1.625rem;
   } */
 
-  /* .latest-posts .post-content {
+  .latest-posts .post-content {
     display: none;
-  } */
+  }
 
   .latest-posts-item.swiper-slide {
     opacity: 0.5 !important;
