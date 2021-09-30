@@ -21,7 +21,7 @@
     <div class="products-container flex flex-wrap justify-between mt-8">
       {% for item in page.categories %}
         {% for product in item.products %}
-          <div class="single-product w-full lg:w-1/2 py-16 px-12 slide-up reveal-delay-200" data-category={{ item.category_title | slugify }}>
+          <div class="single-product w-full lg:w-1/2 py-10 sm:py-16 px-12 slide-up reveal-delay-200" data-category={{ item.category_title | slugify }}>
             <div class="single-product-img" style="background-image: url('{{ product.product_image }}');"></div>
             <div class="flex flex-wrap items-start">
               <div class="md:w-3/4">
