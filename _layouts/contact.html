@@ -7,13 +7,13 @@
   <div class="container">
     {% include nav.html %}
   </div>
-  <div class="container pt-8 pb-12">
+  <div class="container pt-6 pb-12">
     <div class="mx-auto hero-custom-carousel flex items-center justify-center">
       <div class="overflow-hidden">
         <img src="{{ page.hero_image }}" alt="wafwaf hero" width="100%">
       </div>
     </div>
-    <h1 class="h1 mt-12 mb-16 text-white w-full reveal">{{ page.big_title }}</h1>
+    <h1 class="h1 text-white w-full reveal">{{ page.big_title }}</h1>
     <div class="flex flex-wrap justify-center lg:justify-between items-start">
       {% for information in page.contact_information %}
         <div class="single-information reveal-delay-{{ forloop.index | plus:1 }}00">
