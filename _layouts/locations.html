@@ -14,7 +14,7 @@
   <h1 class="h1 reveal text-green">{{ page.locations_title }}</h1>
   <div class="reveal">
     <div class="rubic-pattern top"></div>
-    <div class="bg-green relative z-0 flex items-center overflow-x-auto pt-16 pb-8">
+    <div class="bg-green relative z-0 flex items-center no-scrollbar overflow-x-auto pt-16 pb-8 px-4 lg:px-0">
       {% for location in page.locations %}
       {% if forloop.index == 1 %}
         <div class="change-location w-full cursor-pointer change-location-active" data-location="{{ forloop.index }}">
@@ -32,49 +32,51 @@
 
     {% for l in page.locations %}
       {% if forloop.index == 1 %}
-        <div class="location-section location-section-active mt-16" data-section="{{ forloop.index }}">
+        <div class="location-section location-section-active mt-16 px-6 lg:px-0" data-section="{{ forloop.index }}">
       {% else %}
-        <div class="location-section mt-16" data-section="{{ forloop.index }}">
+        <div class="location-section mt-16 px-6 lg:px-0" data-section="{{ forloop.index }}">
       {% endif %}
-      <div class="flex flex-wrap flex-col-reverse md:flex-row md:justify-between mb-40">
-        <div class="reveal rounded-50 location-left-portrait overflow-hidden w-1/2" style="background-image: url('{{ l.first_left_image }}');"></div>
-        <div class="location-info w-2/5">
+      <div class="flex flex-wrap flex-col-reverse md:flex-row md:justify-between mb-12 lg:mb-40">
+        <div class="w-full lg:w-1/2">
+          <div class="reveal rounded-50 location-left-portrait overflow-hidden mt-16 lg:mt-0" style="background-image: url('{{ l.first_left_image }}');"></div>
+        </div>
+        <div class="location-info w-full lg:w-2/5">
           <h2 class="h2 w-full reveal pb-4">{{ l.location_name }}</h2>
-          <p class="w-3/4 reveal pb-8">{{ l.location_address }}</p>
-          <p class="w-3/4 reveal pb-16">{{ l.location_contact }}</p>
-          <p class="w-3/4 reveal pb-16">{{ l.location_description }}</p>
-          <div class="w-3/4 reveal">
+          <p class="w-full lg:w-3/4 reveal pb-8">{{ l.location_address }}</p>
+          <p class="w-full lg:w-3/4 reveal pb-16">{{ l.location_description }}</p>
+          <p class="w-full lg:w-3/4 reveal pb-16">{{ l.location_contact }}</p>
+          <div class="w-4/5 lg:w-3/4 reveal mx-auto lg:mx-0">
             <a href="tel:{{ l.contact_number }}" class="mb-8 block black-btn btn-zoom-in-out">Kontaktujte nas</a>
             <a href="{{ l.location_gmaps_url }}" target="_blank" class="block rounded-outline-btn btn-zoom-in-out" style="max-width: 412px;">jak se tam dostanu</a>
           </div>
         </div>
       </div>
       <div class="flex flex-wrap justify-between items-start">
-        <div class="flex flex-wrap justify-between w-1/2">
-          <div class="reveal columng-above-image w-2/5">
+        <div class="flex flex-wrap justify-between w-full lg:w-1/2">
+          <div class="reveal order-1 lg:order-1 columng-above-image w-full lg:w-2/5 mb-0">
             {{ l.first_column_above_image}}
           </div>
-          <div class="reveal columng-above-image w-2/5">
+          <div class="reveal order-3 lg:order-2 columng-above-image w-full lg:w-2/5">
             {{ l.second_column_above_image}}
           </div>
-          <div class="reveal rounded-50 location-left-image my-16" style="background-image: url('{{l.image_left }}');">
+          <div class="reveal order-2 lg:order-3 rounded-50 location-left-image my-8 lg:my-16" style="background-image: url('{{l.image_left }}');">
           </div>
         </div>
-        <div class="reveal rounded-50 location-right_portrait overflow-hidden w-2/5" style="background-image: url('{{l.image_right_portrait}}');">
+        <div class="reveal rounded-50 location-right_portrait overflow-hidden w-full lg:w-2/5 my-8 lg:my-16" style="background-image: url('{{l.image_right_portrait}}');">
         </div>
       </div>
       <div class="reveal">
-        <div class="w-1/2 flex justify-end">
-          <div class="w-1/2">
+        <div class="w-full lg:w-1/2 flex justify-end">
+          <div class="w-full lg:w-1/2">
             {{ l.third_column_under_image}}
           </div>
         </div>
       </div>
-      <div class="flex flex-wrap flex-col-reverse justify-between md:flex-row mt-12 md:mt-32 mb-24">
-        <div class="reveal rounded-50 location-footer-image w-2/3" style="background-image: url('{{ l.footer_image }}');"></div>
-        <div class="w-1/4">
+      <div class="flex flex-wrap flex-col lg:flex-col-reverse justify-between md:flex-row mt-12 md:mt-32 mb-24">
+        <div class="reveal rounded-50 mb-12 lg:mb-0 location-footer-image w-full lg:w-2/3" style="background-image: url('{{ l.footer_image }}');"></div>
+        <div class="w-full lg:w-1/4">
           <p class="location-info reveal">{{ l.footer_description }}</p>
-          <div class="w-4/5 py-8 flex justify-between items-center delivery-logos">
+          <div class="w-4/5 mx-auto lg:mx-0 py-8 flex justify-between items-center delivery-logos">
             {% if l.damejidlo %}
             <a target="_blank" href="{{ l.jidlo_url }}" class="reveal">
               <img class="img-center-mobile" src="/img/dj-logo.png" height="39" alt="dj delivery">
@@ -92,7 +94,7 @@
             </a>
             {% endif %}
           </div>
-          <div class="reveal">
+          <div class="reveal w-4/5 lg:w-full mx-auto lg:mx-0">
             <a href="tel:{{ l.contact_number }}" class="block black-btn btn-zoom-in-out">Kontaktujte nas</a>
             <a href="{{ l.location_gmaps_url }}" target="_blank" class="block mt-10 rounded-outline-btn btn-zoom-in-out">jak se tam dostanu</a>
           </div>

@@ -263,9 +263,9 @@ html .load-hidden {
   /* transform-origin: left; */
 }
 
-.reveal.w-full {
+/* .reveal.w-full {
   width: 100%;
-}
+} */
 
 .reveal.sm\:w-1\/2 {
   width: 50%;
@@ -984,6 +984,7 @@ footer #newsletter input::placeholder {
 }
 
 
+
 @media (max-width: 460px) {
   body{
     padding-top: 90px;
@@ -1201,6 +1202,17 @@ footer #newsletter input::placeholder {
   /* Menu */
   #menu h1{
     margin: 0 1.5rem;
+  }
+
+  /* Locations */
+  .change-location{
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+  }
+  .location-info h2{
+    font-size: 3rem;
+    line-height: 3rem;
+    margin-bottom: 16px;
   }
 
   
