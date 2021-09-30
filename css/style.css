@@ -391,7 +391,7 @@ html .load-hidden {
   color: #251C16;
   margin-top: 22px;
 }
-/* 
+/*
 .single-product:nth-child(odd){
   padding-right: 4rem;
 }
@@ -421,7 +421,7 @@ html .load-hidden {
   margin: 0 auto;
 }
 
-/* About */ 
+/* About */
 .proccess-title{
   color: #fdfbf1;
   font-size: 3rem;
@@ -702,7 +702,7 @@ html .load-hidden {
 
 .main-nav .menu-item {
   font-family: 'AvenirNext', sans-serif;
-  font-size: 0.9rem;
+  font-size: 15px;
   font-weight: bold;
   padding: 10px 0;
   width: 115px;
@@ -1236,14 +1236,14 @@ footer #newsletter input::placeholder {
   footer .social-icons{
     max-height: 50px;
   }
-  
+
   /* Jobs */
   .positions-title{
     font-size: 1.5rem;
     line-height: 1.5rem;
     text-align: left;
   }
-  
+
   .job-title {
     font-size: 1.25rem;
     line-height: 1.5rem;
@@ -1266,5 +1266,25 @@ footer #newsletter input::placeholder {
   .instagram-item{
     width: 48%;
     margin-bottom: 16px;
+  }
+}
+@media (min-width: 1439px) {
+  html, body {
+    font-size: 14px;
+  }
+  .hero-custom-carousel {
+    max-width: 60%;
+  }
+}
+
+@media (min-width: 1536px) {
+  html, body {
+    font-size: 16px;
+  }
+  .hero-custom-carousel {
+    max-width: 70%;
+  }
+  .container {
+    max-width: 1280px;
   }
 }

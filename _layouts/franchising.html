@@ -19,7 +19,7 @@
       <h2 class="px-10 sm:px-6 w-full sm:w-4/5 mx-auto mt-8 sm:mt-32 mb-20 text-white subtitle h2">{{  page.subtitle }}</h2>
     </div>
 
-    <div class="w-full">
+    <div class="w-full reveal">
       <div class="rubic-pattern top"></div>
       <div class="flex flex-wrap justify-between py-20 px-8 md:p-24 md:pb-48 bg-brown concept-3box">
         {% for con in page.concept%}
@@ -35,7 +35,7 @@
 </div>
 
 <div class="container">
-  <div class="-mt-24 md:mx-24 md:-mt-48">
+  <div class="-mt-24 md:mx-24 md:-mt-48 reveal">
     <div class="rubic-pattern top"></div>
     <div class="bg-yellow-dark p-16">
       <h2 class="h2 w-full reveal">{{ page.second_subtitle }}</h2>
@@ -81,7 +81,7 @@
   <div class="mb-10 w-full reveal relative z-10">
     <div class="rubic-pattern top"></div>
     <div class="bg-yellow-dark lg:flex justify-between items-center py-8 md:px-16">
-      <div class="w-1/4 lg:w-1/5 px-8 md:0 relative">
+      <div class="w-1/4 lg:w-1/5 px-8 mb-10 md:0 relative">
         <div class="faq-title">{{ page.faq_title }}</div>
         <img class="faq-image" src="/img/faq.svg" alt="faq" width="29">
       </div>
