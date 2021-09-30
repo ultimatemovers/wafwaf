@@ -466,7 +466,7 @@ html .load-hidden {
 } */
 
 .proccess-item{
-  width: 23%!important;
+  width: 23%;
   padding: 10px;
   min-width: 180px !important;
   max-width: 280px !important;
@@ -1019,11 +1019,11 @@ footer #newsletter input::placeholder {
     padding: 32px 24px;
   }
 
-  body .rubic-pattern {
-    /* background-size: 200px;
-    height: 20px; */
+  /* body .rubic-pattern {
+    background-size: 200px;
+    height: 20px;
     border-radius: 0!important;
-  }
+  } */
 
   .navbar-pattern {
     display: none;
@@ -1184,4 +1184,20 @@ footer #newsletter input::placeholder {
     width: 48%;
     margin-bottom: 16px;
   }
+  h2.instagram-title{
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+    text-align: center;
+  }
+
+  /* About  */
+  .proccess-icon-image{
+    height: 150px !important;
+  }
+  .about-right-section-left-image{
+    margin-left: 0;
+  }
+
+  
+  
 }
