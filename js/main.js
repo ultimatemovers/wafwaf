@@ -180,7 +180,9 @@
 
       new Swiper('.latest-posts', {
         allowTouchMove: true,
-        slidesPerView: screen.width < 1028 ? '1' : '3'
+        slidesPerView: screen.width < 1028 ? '1.5' : '3',
+        centeredSlides: true,
+        loop: screen.width < 1028 
       })
     }
 

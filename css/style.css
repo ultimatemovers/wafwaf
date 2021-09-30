@@ -1268,7 +1268,6 @@ footer #newsletter input::placeholder {
     width: 48%;
     margin-bottom: 16px;
   }
-<<<<<<< HEAD
   h2.instagram-title{
     font-size: 1.875rem;
     line-height: 2.25rem;
@@ -1281,6 +1280,9 @@ footer #newsletter input::placeholder {
   }
   .about-right-section-left-image{
     margin-left: 0;
+  }
+  #about .reveal-left{
+    width: 100%;
   }
 
   /* Menu */
@@ -1299,10 +1301,56 @@ footer #newsletter input::placeholder {
     margin-bottom: 16px;
   }
 
+  /* H o m e */
+  .latest-posts{
+    overflow: hidden;
+  }
+
+  /* .latest-posts,
+  .latest-posts-wrapper {
+    width: 100%;
+  } */
+
+  /* .latest-posts .post-title {
+    font-size: 1.375rem;
+    line-height: 1.625rem;
+  } */
+
+  /* .latest-posts .post-content {
+    display: none;
+  } */
+
+  .latest-posts-item.swiper-slide {
+    opacity: 0.5 !important;
+    transition: all .4s ease-in-out;
+    transform: none !important;
+  }
+  .latest-posts-item.swiper-slide-active {
+    opacity: 1!important;
+  }
+
+  
+  .showcase-group{
+    overflow:hidden;
+  }
+
+  .showcase-item {
+    max-width: 296px;
+  }
+
+  .showcase-item.swiper-slide {
+    opacity: 0.5!important;
+    transition: all .4s ease-in-out;
+    transform: none!important;
+  }
+  .showcase-item.swiper-slide-active {
+    opacity: 1!important;
+  }
+
+
   
 }
-=======
-}
+
 @media (min-width: 1439px) {
   html, body {
     font-size: 14px;
@@ -1323,4 +1371,3 @@ footer #newsletter input::placeholder {
     max-width: 1280px;
   }
 }
->>>>>>> 3b8f3f34b17c48a819c101c0f335a3c3842cb969
