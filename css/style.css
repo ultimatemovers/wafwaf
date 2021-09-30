@@ -1176,6 +1176,7 @@ footer #newsletter input[type="button"] {
   -webkit-box-shadow: none;
           box-shadow: none;
   cursor: pointer;
+  font-weight: 700;
 }
 
 footer #newsletter input::-webkit-input-placeholder {
