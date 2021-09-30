@@ -1538,6 +1538,9 @@ footer #newsletter input::placeholder {
     opacity: 1!important;
   }
 
+  img.open-accordion{
+    width: 36px;
+  }
 
 
 }
