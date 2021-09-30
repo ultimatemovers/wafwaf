@@ -603,14 +603,14 @@ html .load-hidden {
 /* Contact */
 
 .single-information {
-  max-width: 250px;
+  max-width: 18%;
   width: 100%;
 }
 
 .info-title {
   font-family: 'AvenirNext', sans-serif;
   background: rgb(70, 62, 55);
-  height: 110px;
+  height: 90px;
   font-size: 1.2rem;
   line-height: 1.3rem;
   font-weight: bold;
