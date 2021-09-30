@@ -119,7 +119,7 @@ body {
   font-family: 'Brandon Text', sans-serif;
   font-size: 2.5rem;
   font-weight: bold;
-  line-height: 3.5rem;
+  line-height: 3rem;
   letter-spacing: -1.5px;
   text-align: center;
 }
@@ -343,6 +343,7 @@ html .load-hidden {
   font-family: 'Obcecada Sans';
   text-align: left;
   letter-spacing: 0.25px;
+  line-height: 2.4rem;
 }
 .location-info p{
   line-height: 25px;
@@ -1171,6 +1172,9 @@ footer #newsletter input {
 
 footer #newsletter input[type="button"] {
   width: 62px;
+  height: 62px;
+  font-size: 40px;
+  padding: 0px;
   border-left: none;
   outline: none;
   -webkit-box-shadow: none;
@@ -1203,7 +1207,12 @@ footer #newsletter input::placeholder {
   display: none;
 }
 
-
+#contact .single-information a {
+  color: #251C16;
+}
+#contact .single-information:nth-child(1) a{
+  color: #FFFDF5;
+}
 
 @media (max-width: 460px) {
   body{
@@ -1540,8 +1549,12 @@ footer #newsletter input::placeholder {
 }
 
 @media (min-width: 1920px) {
-  html, body {
+  html, body, * {
     font-size: 20px;
     font-size: 20px;
+  }
+  .rounded-outline-btn,
+  .black-btn{
+    font-size: 18px;
   }
 }
