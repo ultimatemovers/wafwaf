@@ -1260,6 +1260,19 @@ footer #newsletter input::placeholder {
     padding: 32px 24px;
   }
 
+  .faq-carousel .swiper-button-next {
+    right: 10px;
+  }
+  .faq-carousel .swiper-button-prev {
+    left: 0;
+  }
+
+  .faq-carousel .faq-question,
+  .faq-carousel .faq-answer {
+    padding-left: 8px;
+    padding-right: 8px;
+  }
+
   /* body .rubic-pattern {
     background-size: 200px;
     height: 20px;
