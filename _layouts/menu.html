@@ -11,7 +11,7 @@
     <div class="flex justify-center bg-light-green">
       <div class="w-auto flex justify-start content-center items-center overflow-x-auto no-scrollbar" style="margin: 0 auto;">
         {% for item in page.categories %}
-        <div class="category-title text-center mx-6 sm:mx-12 py-6 cursor-pointer" data-category-name="{{ item.category_title | slugify }}">
+        <div class="category-title text-center mx-6 sm:mx-12 lg:mx-6 py-6 cursor-pointer" data-category-name="{{ item.category_title | slugify }}">
           {{ item.category_title }}
         </div>
         {% endfor %}
