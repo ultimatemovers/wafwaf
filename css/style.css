@@ -1090,6 +1090,8 @@ footer #newsletter input::placeholder {
   .h1 {
     font-size: 5rem;
     line-height: 5rem;
+    padding: 1.625rem 1.5rem;
+
   }
 
   .h2 {
