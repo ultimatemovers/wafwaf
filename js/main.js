@@ -190,6 +190,11 @@
       document.querySelector('.showcase-group').classList.add('swiper-container')
       document.querySelector('.showcase-wrapper').classList.add('swiper-wrapper')
       document.querySelectorAll('.showcase-item').forEach((i) => { i.classList.add('swiper-slide') })
+
+      setTimeout( () => {
+        let scgWidth = document.querySelector('.showcase-item').children[0].offsetWidth
+        document.querySelector('.showcase-group').style.maxHeight = scgWidth + 'px'
+      }, 1500)
       
       if(screen.width > 640) { return }
       new Swiper('.showcase-group', {

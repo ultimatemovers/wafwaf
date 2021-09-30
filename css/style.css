@@ -1432,7 +1432,6 @@ footer #newsletter input::placeholder {
   .showcase-group{
     overflow-x: hidden;
     overflow-y: hidden;
-    max-height: 312px;
   }
 
   .showcase-item {
