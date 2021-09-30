@@ -1,0 +1,112 @@
+{% assign current_page = 'franchising' %}
+{% assign page_title = 'Franchise' %}
+
+{% include head.html %}
+
+<div class="franchising-page">
+  <div class="container">
+    {% include nav.html %}
+  </div>
+
+  <div class="container py-8 sm:pt-12 sm:py-16">
+    <div class="mx-auto hero-custom-carousel flex items-center justify-center">
+      <div class="overflow-hidden">
+        <img src="{{ page.hero_image | img_url: '1200x1200'}}" alt="wafwaf hero" width="100%">
+      </div>
+    </div>
+    <h1 class="h1 sm:mt-12 sm:mb-16 w-full reveal py-3">{{ page.big_title }}</h1>
+    <div class="reveal">
+      <h2 class="px-10 sm:px-6 w-full sm:w-4/5 mx-auto mt-8 sm:mt-32 mb-20 text-white subtitle h2">{{  page.subtitle }}</h2>
+    </div>
+
+    <div class="w-full reveal">
+      <div class="rubic-pattern top"></div>
+      <div class="flex flex-wrap justify-between py-20 px-8 md:p-24 md:pb-48 bg-brown concept-3box">
+        {% for con in page.concept%}
+          <div class="w-full sm:pt-24 lg:pt-0 lg:w-1/3 reveal-delay-{{ forloop.index | plus:1 }}00">
+            <img src="{{ con.icon }}" alt="concept-{{ forloop.index }}" style="height: 90px; width: auto;" class="img-center-mobile">
+            <h3 class="h3 mt-6 text-center lg:text-left text-green concept-title">{{ con.title }}</h3>
+            <p class="pb-24 mt-12 md:pb-0 concept-description">{{ con.description }}</p>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="-mt-24 md:mx-24 md:-mt-48 reveal">
+    <div class="rubic-pattern top"></div>
+    <div class="bg-yellow-dark p-16">
+      <h2 class="h2 w-full reveal">{{ page.second_subtitle }}</h2>
+    </div>
+    <div class="rubic-pattern bottom"></div>
+  </div>
+
+  <div class="mt-20 px-10 md:mt-48 mb-20">
+    <h2 class="h2 franchising-subtitle w-full reveal">{{ page.third_subtitle }}</h2>
+    <div class="flex flex-wrap justify-between mt-10 md:mt-32">
+      {% for store in page.stores %}
+        <div class="mt-24 lg:mt-0 w-full lg:w-1/4 reveal-delay-{{ forloop.index | plus: 1}}00">
+          <img src="{{ store.image }}" alt="{{ store.title }}" class="store-image img-center-mobile">
+          <h3 class="h3 store-title mt-10 text-center">{{ store.title }}</h3>
+          <div class="store-description md:mt-10">
+            {{ store.description | markdownify }}
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+
+  {% for accordion in page.accordions %}
+    <div class="mb-10 w-full reveal">
+      <div class="rubic-pattern top"></div>
+      <div class="accordion accordion-{{ forloop.index }} flex flex-wrap justify-between items-center bg-yellow px-16 py-4 cursor-pointer">
+        <div class="w-3/4 sm:w-2/3 flex items-center justify-between">
+          <h3 class="h3 job-title text-pink my-3">{{ accordion.title }}</h3>
+        </div>
+        <div class="w-1/4 sm:w-1/3 flex justify-end">
+          <img class="open-accordion" src="/img/plus.svg" width="50" data-accordion="accordion-{{ forloop.index }}">
+        </div>
+        <div class="w-full job-description franchising-line-height">
+          <div class="w-full md:w-1/2">
+            {{ accordion.description }}
+          </div>
+        </div>
+      </div>
+      <div class="rubic-pattern bottom"></div>
+    </div>
+  {% endfor %}
+
+  <div class="mb-10 w-full reveal relative z-10">
+    <div class="rubic-pattern top"></div>
+    <div class="bg-yellow-dark lg:flex justify-between items-center py-8 md:px-16">
+      <div class="w-1/4 lg:w-1/5 px-8 mb-10 md:0 relative">
+        <div class="faq-title">{{ page.faq_title }}</div>
+        <img class="faq-image" src="/img/faq.svg" alt="faq" width="29">
+      </div>
+      <div class="w-full lg:w-3/4 px-8 pb-40 md:pb-0 relative">
+        <div class="swiper-container faq-carousel">
+          <div class="swiper-wrapper">
+            {% for f in page.faq %}
+              <div class="swiper-slide">
+                <div class="faq-question">{{ f.question }}</div>
+                <div class="faq-answer">{{ f.answer }}</div>
+              </div>
+            {% endfor %}
+          </div>
+          <div class="swiper-button-next"></div>
+          <div class="swiper-button-prev"></div>
+          <div class="swiper-pagination"></div>
+        </div>
+      </div>
+    </div>
+    <div class="rubic-pattern bottom"></div>
+  </div>
+</div>
+
+
+
+<div class="relative bg-green pt-64 pb-24 -mt-48">
+  {% include footer.html %}
+</div>

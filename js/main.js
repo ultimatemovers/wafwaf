@@ -21,7 +21,7 @@
   })
 
   const mobileMenuItems = document.querySelectorAll('.nav-mobile-item')
-  mobileMenuItems.forEach((mi, idx) => {    
+  mobileMenuItems.forEach((mi, idx) => {
     const menuUrl = mi.parentElement.getAttribute('href').replaceAll('/', '');
     const url = location.pathname.replaceAll('/', '');
 
@@ -59,15 +59,8 @@
         else{
           a.classList.add('accordion-opened')
         }
-          // toggleAccordion(e.target)
       })
     })
-    // const buttons = document.querySelectorAll('.open-accordion')
-    // buttons.forEach((b) => {
-    //   b.addEventListener('click', (e) => {
-    //     toggleAccordion(e.target)
-    //   })
-    // })
   }
 
   if(document.body.id === 'locations') {
@@ -147,11 +140,11 @@
     mousewheel: true,
   })
 
-  
+
   if(document.body.id !== 'menu'){
     const containerWidth = document.querySelector('.container').offsetWidth
     const heroCustomCarousel = document.querySelector('.hero-custom-carousel')
-    
+
     window.addEventListener('resize', e => {
       heroCustomCarousel.style.height = 0.55 * heroCustomCarousel.offsetWidth + 'px'
       if(window.width >= 1280 && window.width < 1440){
