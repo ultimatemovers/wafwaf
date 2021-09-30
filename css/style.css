@@ -1300,6 +1300,10 @@ footer #newsletter input::placeholder {
   .main-nav .menu-item {
     font-size: 18px;
   }
+
+  .latest-posts .post-title {
+    min-height: 108px;
+  }
 }
 
 @media (min-width: 1920px) {
