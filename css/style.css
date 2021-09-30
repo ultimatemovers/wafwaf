@@ -626,6 +626,9 @@ html .load-hidden {
 
 .single-location h3{
   font-size: 1.125rem;
+  line-height: 1.4rem;
+  min-height: 56px;
+  margin-top: 20px;
 }
 
 .delivery-btn {
