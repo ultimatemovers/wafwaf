@@ -1364,10 +1364,30 @@ footer #newsletter input::placeholder {
   html, body {
     font-size: 16px;
   }
+  .main-nav .menu-item {
+    width: 10%;
+  }
   .hero-custom-carousel {
     max-width: 70%;
   }
   .container {
-    max-width: 1280px;
+    max-width: 80%;
+  }
+}
+
+@media (min-width: 1640px) {
+  html, body {
+    font-size: 18px;
+  }
+
+  .main-nav .menu-item {
+    font-size: 18px;
+  }
+}
+
+@media (min-width: 1920px) {
+  html, body {
+    font-size: 20px;
+    font-size: 20px;
   }
 }
