@@ -1198,6 +1198,10 @@ footer #newsletter input::placeholder {
     margin-left: 0;
   }
 
-  
+  /* Menu */
+  #menu h1{
+    margin: 0 1.5rem;
+  }
+
   
 }
