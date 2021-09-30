@@ -294,6 +294,15 @@ html .load-hidden {
   height: auto;
 }
 
+.homepage-delivery-img {
+  width: 100%;
+  aspect-ratio: 16/8;
+  border-radius: 30px;
+  overflow: hidden;
+  background-position: center;
+  background-size: cover;
+}
+
 
 /* Locations */
 
