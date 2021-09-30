@@ -4,9 +4,7 @@
 {% include head.html %}
 
 <div class="franchising-page">
-  <div class="container">
-    {% include nav.html %}
-  </div>
+  {% include nav.html %}
 
   <div class="container py-8 sm:pt-12 sm:py-16">
     <div class="mx-auto hero-custom-carousel flex items-center justify-center">
@@ -43,7 +41,7 @@
     <div class="rubic-pattern bottom"></div>
   </div>
 
-  <div class="mt-20 px-10 md:mt-48 mb-20">
+  <div class="mt-20 px-10 md:mt-28 mb-20">
     <h2 class="h2 franchising-subtitle w-full reveal">{{ page.third_subtitle }}</h2>
     <div class="flex flex-wrap justify-between mt-10 md:mt-32">
       {% for store in page.stores %}
@@ -61,7 +59,7 @@
   {% for accordion in page.accordions %}
     <div class="mb-10 w-full reveal">
       <div class="rubic-pattern top"></div>
-      <div class="accordion accordion-{{ forloop.index }} flex flex-wrap justify-between items-center bg-yellow px-16 py-4 cursor-pointer">
+      <div class="accordion accordion-{{ forloop.index }} flex flex-wrap justify-between items-center bg-yellow px-8 cursor-pointer">
         <div class="w-3/4 sm:w-2/3 flex items-center justify-between">
           <h3 class="h3 job-title text-pink my-3">{{ accordion.title }}</h3>
         </div>
@@ -103,7 +101,15 @@
     </div>
     <div class="rubic-pattern bottom"></div>
   </div>
+
+  <!-- <div class="z-11 relative">
+    <h2 class="h2 franchising-subtitle w-full reveal">
+      Chcete nás následovat? Stací vyplnit krátký dotazník:
+    </h2>
+    <a target="_blank" href="#" class="sm:w-1/2 lg:w-full rounded-outline-btn mt-6 block btn-zoom-in-out">MAM ZAJEM</a>
+  </div> -->
 </div>
+
 
 
 

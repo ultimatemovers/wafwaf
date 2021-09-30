@@ -11,7 +11,7 @@
       <img src="{{ page.hero_image }}" alt="wafwaf hero" width="100%">
     </div>
   </div>
-  <h1 class="h1 reveal pt-8 mb-16 text-green">{{ page.locations_title }}</h1>
+  <h1 class="h1 reveal text-green">{{ page.locations_title }}</h1>
   <div class="reveal">
     <div class="rubic-pattern top"></div>
     <div class="bg-green relative z-0 flex items-center no-scrollbar overflow-x-auto pt-16 pb-8 px-4 lg:px-0">
@@ -62,7 +62,7 @@
           <div class="reveal order-2 lg:order-3 rounded-50 location-left-image my-8 lg:my-16" style="background-image: url('{{l.image_left }}');">
           </div>
         </div>
-        <div class="reveal rounded-50 location-right_portrait overflow-hidden w-full lg:w-2/5 my-8 lg:my-16" style="background-image: url('{{l.image_right_portrait}}');">
+        <div class="reveal rounded-50 location-right_portrait overflow-hidden w-full lg:w-2/5 my-8 lg:my-16 lg:mt-0" style="background-image: url('{{l.image_right_portrait}}');">
         </div>
       </div>
       <div class="reveal">
@@ -78,7 +78,7 @@
           <p class="location-info reveal">{{ l.footer_description }}</p>
           <div class="w-4/5 mx-auto lg:mx-0 py-8 flex justify-between items-center delivery-logos">
             {% if l.damejidlo %}
-            <a target="_blank" href="{{ l.jidlo_url }}" class="reveal">
+            <a target="_blank" disabled href="{{ l.jidlo_url }}" class="reveal" style="pointer-events: none;">
               <img class="img-center-mobile" src="/img/dj-logo.png" height="39" alt="dj delivery">
             </a>
             {% endif %}

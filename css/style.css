@@ -110,8 +110,9 @@ body {
 .h1 {
   font-family: 'Obcecada Sans', sans-serif;
   font-size: 11rem;
-  line-height: 12rem;
+  line-height: 11.5rem;
   text-align: center;
+  padding: 2.5rem 0 3rem;
 }
 
 .h2 {
@@ -601,16 +602,16 @@ html .load-hidden {
 /* Contact */
 
 .single-information {
-  max-width: 205px;
+  max-width: 250px;
   width: 100%;
 }
 
 .info-title {
   font-family: 'AvenirNext', sans-serif;
   background: rgb(70, 62, 55);
-  height: 120px;
+  height: 110px;
   font-size: 1.2rem;
-  line-height: 1.5rem;
+  line-height: 1.3rem;
   font-weight: bold;
   padding: 0 10%;
   color: rgb(229,	213, 136);
@@ -843,6 +844,7 @@ header nav .menu-item.active {
   animation: zoom-out 1s ease-in-out forwards;
 }
 
+/* Animations */
 @keyframes zoom-out {
   0% {
     -webkit-transform: scale(1.5);
@@ -861,6 +863,15 @@ header nav .menu-item.active {
   100% {
     -webkit-transform: scale(1);
     transform: scale(1);
+  }
+}
+
+@keyframes animatedBackground {
+  from {
+    background-position: 0 0;
+  }
+  to {
+    background-position: 0 100%;
   }
 }
 
@@ -942,8 +953,20 @@ header nav .menu-item.active {
   padding-bottom: 0;
 }
 
+.franchising-subtitle{
+  font-family: 'Obcecada Sans';
+  font-size: 3.5rem;
+  line-height: 4rem;
+  font-weight: 700;
+  letter-spacing: 2.5px;
+}
+
 .franchising-line-height{
   line-height: 1.3rem !important;
+}
+
+.store-title{
+  min-height: 80px;
 }
 
 .job-description {
@@ -979,6 +1002,25 @@ header nav .menu-item.active {
       -ms-transform: rotate(45deg);
           transform: rotate(45deg)
 }
+
+.faq-question {
+  font-family: 'BrandonText-Bold', sans-serif;
+  font-size: 32px;
+  font-weight: bold;
+  line-height: 40px;
+  color: #251C16;
+  margin-bottom: 40px;
+}
+
+.faq-answer {
+  font-family: 'AvenirNext', sans-serif;
+  font-size: 18px;
+  line-height: 25px;
+  color: #483B33;
+}
+
+
+
 
 .faq-carousel .swiper-button-prev {
   left: -10px;
@@ -1018,6 +1060,10 @@ h2.instagram-title {
   line-height: 3.5rem;
   letter-spacing: -1px;
   color:#CF909B;
+}
+
+.instagram-feed{
+  margin-bottom: 32px;
 }
 
 .instagram-item {
@@ -1076,21 +1122,20 @@ footer .footer-body {
   font-family: 'AvenirNext', sans-serif;
   font-weight: normal;
   padding-right: 20px;
+  min-height: 84px;
 }
 
 footer .footer-body div {
   line-height: 2rem;
 }
 
+
 footer .footer-info {
   line-height: 50px;
 }
 
-footer .footer-social-place {
-  margin-top: 65px;
-}
-
 footer .social-icons {
+  margin-top: 4px;
   padding: 1px 0;
   max-height: 40px;
   -webkit-transform: scale(1);
