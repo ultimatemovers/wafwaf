@@ -1322,14 +1322,18 @@ footer #newsletter input::placeholder {
   .latest-posts-item.swiper-slide-active {
     opacity: 1!important;
   }
+  .latest-posts-item{
+    max-width: 100%;
+  }
 
   
   .showcase-group{
-    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
   }
 
   .showcase-item {
-    max-width: 296px;
+    max-width: 100%;
   }
 
   .showcase-item.swiper-slide {
