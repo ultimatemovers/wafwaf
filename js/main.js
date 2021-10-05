@@ -182,7 +182,7 @@
         allowTouchMove: true,
         slidesPerView: screen.width < 1028 ? '1.3' : '3',
         centeredSlides: true,
-        loop: screen.width < 1028 
+        loop: screen.width < 1028
       })
     }
 
@@ -195,7 +195,7 @@
         let scgWidth = document.querySelector('.showcase-item').children[0].offsetWidth
         document.querySelector('.showcase-group').style.maxHeight = scgWidth + 'px'
       }, 1500)
-      
+
       if(screen.width > 640) { return }
       new Swiper('.showcase-group', {
         centeredSlides: true,
@@ -240,7 +240,9 @@
   if(document.querySelector('.reveal-delay-700')) {
     ScrollReveal().reveal('.reveal-delay-700', { delay: 700, distance: '100px', duration: 1500, origin: 'bottom', easing: 'ease-in-out' });
   }
-
+  if(document.querySelector('.reveal-footer')) {
+    ScrollReveal().reveal('.reveal-footer', { delay: 100, distance: '20px', duration:2500, origin: 'bottom', easing: 'ease-in-out' });
+  }
   if(document.querySelector('.reveal-left')) {
     ScrollReveal().reveal('.reveal-left', { distance: '100px', origin: 'left', opacity: 0, delay: 275, duration: 2000, easing: 'ease-in-out'})
   }
