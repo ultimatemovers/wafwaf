@@ -235,7 +235,8 @@ html .load-hidden {
 }
 
 .contact-page,
-#about {
+#about,
+#jobs {
   background: #CF909B;
 }
 
@@ -780,10 +781,10 @@ html .load-hidden {
   margin: 0 10px;
 }
 
-#jobs header nav .menu-item,
 #about header nav .menu-item,
 #franchising header nav .menu-item,
-#contact header nav .menu-item {
+#contact header nav .menu-item,
+#jobs header nav .menu-item {
   background: #FFFDF5;
   color: #251C16;
 }
@@ -792,6 +793,7 @@ html .load-hidden {
 #jobs header nav .menu-item:hover,
 #franchising header nav .menu-item:hover,
 #contact header nav .menu-item:hover,
+#jobs header nav .menu-item:hover,
 header nav .menu-item:hover {
   color: #251C16;
   background: #ecd684;
@@ -801,6 +803,7 @@ header nav .menu-item:hover {
 #jobs header nav .menu-item.active,
 #franchising header nav .menu-item.active,
 #contact header nav .menu-item.active,
+#jobs header nav .menu-item.active,
 header nav .menu-item.active {
   color: #251C16;
   background: #ecd684;
@@ -1559,7 +1562,7 @@ footer #newsletter input::placeholder {
     font-size: 14px;
   }
   .hero-custom-carousel {
-    max-width: 70%;
+    max-width: 83.333333%;
   }
 }
 
@@ -1571,7 +1574,7 @@ footer #newsletter input::placeholder {
     width: 10%;
   }
   .hero-custom-carousel {
-    max-width: 70%;
+    max-width: 83.333333%;
   }
   .container {
     max-width: 80%;

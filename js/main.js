@@ -78,10 +78,7 @@
     })
   }
 
-  if(document.body.id === 'jobs'){
-    const header = document.getElementsByTagName('header')[0]
-    header.style.backgroundColor = '#76685E'
-  }
+
 
   if(document.body.id === 'franchising'){
     const header = document.getElementsByTagName('header')[0]
