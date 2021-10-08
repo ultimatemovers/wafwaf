@@ -1,0 +1,49 @@
+---
+label: homepage
+hide_body: true
+fields:
+- name: hero_images
+  type: image_gallery
+  config: {}
+  label: Hero images
+  description: At least 2 images
+- name: big_title
+  type: text
+  config:
+    required: true
+  label: Big Title
+  description: " "
+  default: Ty nejlepší vafle
+- name: subtitle
+  type: text
+  config:
+    required: true
+  label: Subtitle
+  default: Waf-Waf to jsou ty nejlepší vafle, palacinky a lívance, které jste meli
+    možnost ochutnat.
+- name: showcase_images
+  type: image_gallery
+  config: {}
+  label: Showcase images
+- name: breakfast
+  type: text
+  config:
+    required: true
+  default: Snídaňová nabídka Každý všední den od 08:00 – 11:00
+  label: Breakfast
+- name: breakfast_image
+  type: file
+  config:
+    maxSize: 64
+  label: Breakfast Image
+  default: "/uploads/2021/07/20/breakfast.png"
+- name: layout
+  type: text
+  config:
+    required: false
+  label: Layout
+  hidden: true
+  default: homepage
+pages:
+- homepage.md
+- index.md

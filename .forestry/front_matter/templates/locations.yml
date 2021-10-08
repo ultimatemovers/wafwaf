@@ -1,0 +1,177 @@
+---
+label: locations
+hide_body: true
+fields:
+- name: locations_title
+  type: text
+  config:
+    required: true
+  label: Locations title
+  default: Naše pobočky
+- name: hero_image
+  type: file
+  config:
+    maxSize: 64
+  label: Hero image
+  default: "/uploads/2021/08/16/20111231_230000000_ios-103.png"
+- name: locations
+  type: field_group_list
+  fields:
+  - name: local_image
+    type: file
+    config:
+      maxSize: 64
+    label: Local image
+    default: "/uploads/2021/08/16/img_6806.png"
+  - name: first_left_image
+    type: file
+    config:
+      maxSize: 64
+    label: First left image
+    default: "/uploads/2021/08/15/mask-group-34.png"
+  - name: location_name
+    type: text
+    config:
+      required: true
+    label: Location name
+    default: WAF-WAF LETNÁ
+  - name: location_address
+    type: text
+    config:
+      required: false
+    label: Location address
+    default: Milady Horákové 52, Praha 7
+  - name: location_contact
+    type: textarea
+    default: "Otevírací doba:   \n\LPondělí - Neděle: dočasně uzavřeno   \n\LKontaktní
+      telefonní číslo: +420602728121\L  \nKontaktní email: letna@waf-waf.cz"
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Location contact
+  - name: location_gmaps_url
+    type: text
+    config:
+      required: false
+    label: Location gmaps url
+    description: Add full google maps url here
+  - name: location_description
+    type: textarea
+    default: Na této pobočce si můžete vyzvednout jídlo s sebou. Slečny Vám zabalí
+      naše produkty do hezkého obalu a dají Vám papírovou tašku pro snazší odnos vaflí,
+      lívanců nebo palačinek.
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Location description
+  - name: contact_number
+    type: text
+    config:
+      required: false
+    label: Contact number
+    default: "+420602728121\L"
+  - name: first_column_above_image
+    type: textarea
+    default: Letenská pobočka se otevřela přesně 8.4.2017 a nabízí kompletní sortiment
+      konceptu Waf-Waf ať už se jedná o oblíbené vafle, palačinky, lívance nebo i
+      milkshakes, fresh-juices a dalčí originální produkty. Zajímavá je specifickým
+      interiérem, který zahrnuje i některé z retro prvků. Vhodná je také pro rodinny
+      s dětmi včetně kočárků a to
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: First column above image
+  - name: second_column_above_image
+    type: textarea
+    default: Právě díky dětskému koutku v zadní části provozovny a prostorné zahrádce
+      ve vnitronloku. Samozřejmostí je možnost take-away a to zcela zdarma. Do naší
+      provozovny Waf-Waf na Letné mají také povolený vstup pejsci. Na pobočce provádíme
+      rezervace pro více než jeden stůl.
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Second column above image
+  - name: image_left
+    type: file
+    config:
+      maxSize: 64
+    label: Image left
+    default: "/uploads/2021/08/15/faf4233d-f364-4045-a10f-47b83c6cf868.png"
+  - name: third_column_under_image
+    type: textarea
+    default: Pobočka se nám rozrostla o zimní zateplenou zahradu/venkovní zahradu
+      přes léto a tím se i zvýšila kapacita pobočky na 60 lidí.
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Third column under image
+  - name: image_right_portrait
+    type: file
+    config:
+      maxSize: 64
+    label: Image right portrait
+    default: "/uploads/2021/08/15/20200109_095725000_ios-1.png"
+  - name: footer_image
+    type: file
+    config:
+      maxSize: 64
+    label: Footer image
+    default: "/uploads/2021/08/15/img_1675.png"
+  - name: footer_description
+    type: textarea
+    default: 'Z této pobočky také probíhá rozvoz Waf-Waf produktů do různých koutů
+      Prahy. Objednávat můžete na těchto platformách:'
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Footer description
+  - name: wolt
+    type: boolean
+    label: Wolt
+  - name: wolt_url
+    type: text
+    config:
+      required: false
+    label: Wolt Url
+  - name: boltfood
+    type: boolean
+    label: Boltfood
+  - name: boltfood_url
+    type: text
+    config:
+      required: false
+    label: Boltfood url
+  - name: damejidlo
+    type: boolean
+    label: Damejidlo
+  - name: damejidlo_url
+    type: text
+    config:
+      required: false
+    label: Damejidlo_url
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Locations
+- name: layout
+  type: text
+  config:
+    required: false
+  label: layout
+  default: locations
+  hidden: true
+pages:
+- locations.md
