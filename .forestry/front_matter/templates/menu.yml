@@ -1,0 +1,71 @@
+---
+label: menu
+hide_body: true
+fields:
+- name: big_title
+  type: text
+  config:
+    required: true
+  label: Big Title
+  default: WAF-WAF NABÍDKA
+- name: categories
+  type: field_group_list
+  fields:
+  - name: category_title
+    type: text
+    config:
+      required: true
+    label: Category Title
+  - name: products
+    type: field_group_list
+    fields:
+    - name: product_image
+      type: file
+      config:
+        maxSize: 64
+      label: Product image
+      description: Image size must be 697x465px or 1394x9430!
+    - name: product_title
+      type: text
+      config:
+        required: false
+      label: Product title
+    - name: product_description
+      type: textarea
+      default: ''
+      config:
+        required: false
+        wysiwyg: false
+        schema:
+          format: markdown
+      label: Product description
+    - name: product_price
+      type: number
+      label: Product price
+      description: ''
+      default: 0
+      required: true
+      config:
+        min: 
+        max: 
+        step: 
+        required: true
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: Products
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Categories
+- name: layout
+  type: text
+  config:
+    required: false
+  label: layout
+  hidden: true
+  default: menu
+pages:
+- menu.md

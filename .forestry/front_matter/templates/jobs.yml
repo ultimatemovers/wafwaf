@@ -1,0 +1,64 @@
+---
+label: jobs
+hide_body: true
+fields:
+- name: hero_image
+  type: file
+  config:
+    maxSize: 64
+  label: Hero image
+  default: "/uploads/2021/07/25/jobs.png"
+- name: big_title
+  type: text
+  config:
+    required: true
+  label: Big title
+  default: Přidej se k nám
+- name: subtitle
+  type: text
+  config:
+    required: true
+  label: Subtitle
+  default: Staň se součástí našeho týmu!
+- name: positions_title
+  type: text
+  config:
+    required: true
+  label: Positions title
+  default: 'Nabízené pozice v rámci společnosti Waf-Waf s.r.o.:'
+- name: jobs
+  type: field_group_list
+  fields:
+  - name: job_title
+    type: text
+    config:
+      required: true
+    label: Job title
+  - name: job_location
+    type: text
+    config:
+      required: true
+    label: Job location
+  - name: job_description
+    type: textarea
+    default: ''
+    config:
+      required: true
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Job description
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: jobs
+- name: layout
+  type: text
+  config:
+    required: false
+  label: layout
+  hidden: true
+  default: jobs
+pages:
+- jobs.md

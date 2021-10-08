@@ -1,0 +1,151 @@
+---
+label: about
+hide_body: true
+fields:
+- name: hero_image
+  type: file
+  config:
+    maxSize: 64
+  label: Hero image
+  default: "/uploads/2021/07/26/about-waf-waf.png"
+- name: big_title
+  type: text
+  config:
+    required: true
+  default: Náš příběh
+  label: Big title
+- name: proccess
+  type: field_group_list
+  fields:
+  - name: image
+    type: file
+    config:
+      maxSize: 64
+    label: image
+  - name: name
+    type: text
+    config:
+      required: true
+    label: name
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Proccess
+- name: first_section
+  type: field_group
+  config: {}
+  fields:
+  - name: icon
+    type: file
+    config:
+      maxSize: 64
+    label: icon
+    default: "/uploads/2021/07/27/group-6357.svg"
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Title
+    default: Fast-casual
+  - name: content
+    type: textarea
+    default: V roce 2016 se v našich hlavách zrodila myšlenka, směřující k založení
+      unikátního franchisového konceptu fast-casual se zaměřením na vafle a palačinky
+      či lívance s rozšířením o milkshakes, fresh-juices, domácí čaj a ostatní doplňkový
+      sortiment. Celý koncept jsme následně po necelých 15 měsících tvrdé práce, proměnili
+      v realitu, když jsme otevřeli první provozovnu v ulici Milady Horákové 52 na
+      Praze 7.
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Content
+  - name: image
+    type: file
+    config:
+      maxSize: 64
+    label: Image
+    default: "/uploads/2021/07/27/originalniprodukty-2x.png"
+  label: First section
+- name: right_section
+  type: field_group
+  config: {}
+  fields:
+  - name: left_image
+    type: file
+    config:
+      maxSize: 64
+    label: Left image
+    default: "/uploads/2021/07/27/udelejsivlastni-2x.png"
+  - name: first_icon
+    type: file
+    config:
+      maxSize: 64
+    label: First icon
+    default: "/uploads/2021/07/27/group-8064.svg"
+  - name: first_title
+    type: text
+    config:
+      required: false
+    label: First title
+    default: Více než 50 prísad
+  - name: first_content
+    type: textarea
+    default: Waf-Waf a produkty samotné se pak i díky propracovanému marketingu staly
+      již po několika dnech hitem jak mezi veřejností, tak i na sociálních sítích.
+      Naše viralita a jedinečnost spočívá v kombinaci pojetí výběru daných palačinek
+      a vaflí či lívanců, kdy je možné tyto věci poskládat dle své vlastní volby z
+      více než 50 přísad a také zdobení, které se vymyká zaběhlým celosvětovým standardům.
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: First content
+  - name: first_image
+    type: file
+    config:
+      maxSize: 64
+    label: First image
+    default: "/uploads/2021/07/27/originalniprodukty.png"
+  - name: second_icon
+    type: file
+    config:
+      maxSize: 64
+    label: Second icon
+    default: "/uploads/2021/07/27/group-8065.svg"
+  - name: second_title
+    type: text
+    config:
+      required: false
+    label: Second title
+    default: Originální produkty
+  - name: second_content
+    type: textarea
+    default: Nabídka je rozšířena o naše originální produkty, které nelze nikde jinde
+      najít. Díky speciální nabídce, která se kvartálně obměňuje můžeme dopřát neustálý
+      a jedinečný nový zážitek našim zákazníkům.
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Second content
+  label: Right section
+- name: layout
+  type: text
+  config:
+    required: false
+  label: layout
+  hidden: true
+  default: about
+- name: subtitle
+  type: text
+  config:
+    required: false
+  label: Subtitle
+  default: Jak to u nás chodí
+pages:
+- about.md

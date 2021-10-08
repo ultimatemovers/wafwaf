@@ -1,0 +1,104 @@
+---
+label: delivery
+hide_body: true
+fields:
+- name: hero_image
+  type: file
+  config:
+    maxSize: 64
+  label: Hero image
+  default: "/uploads/2021/07/24/delivery.png"
+- name: big_title
+  type: text
+  config:
+    required: false
+  label: Big title
+  default: Rozvoz
+- name: subtitle
+  type: text
+  config:
+    required: true
+  label: Subtitle
+  default: Rozvoz jídla - Wolt, Bolt Food a Dáme jídlo! ❤️
+- name: locations
+  type: field_group_list
+  fields:
+  - name: location_image
+    type: file
+    config:
+      maxSize: 64
+    label: Location image
+  - name: location_title
+    type: text
+    config:
+      required: true
+    label: Location title
+    default: WAF-WAF LETNÁ
+  - name: wolt
+    type: boolean
+    label: Wolt
+    default: true
+  - name: wolt_url
+    type: text
+    config:
+      required: false
+    label: Wolt Url
+  - name: boltfood
+    type: boolean
+    label: BoltFood
+    default: true
+  - name: boltfood_url
+    type: text
+    config:
+      required: false
+    label: BoltFood Url
+  - name: damejidlo
+    type: boolean
+    label: Dáme jídlo
+    default: true
+  - name: jidlo_url
+    type: text
+    config:
+      required: false
+    label: DameJidlo Url
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Locations
+- name: delivery_title
+  type: text
+  config:
+    required: true
+  label: Delivery title
+  default: Rozvoz provádíme v rámci celych mest Praha a Brno
+- name: delivery_description
+  type: textarea
+  default: Rozvážíme každý den od 10:00 do 20:00. Na výběr budou jak sladké (Wafreo
+    či Waftella), tak slané varianty (Ironwaf, Crepedilla, nebo Maplewaf) z našeho
+    stálého menu. Součástí bude i “Udělej si vlastní”, kdy si budete moct sestavit
+    jídlo podle vaši chuti. Zvolíte základ, sladké či slané přísady a nakonec nějaký
+    toping. ❤️ Dále nabízíme i pár našich specialit jako je Waf&Cut a BigWaf. V naší
+    nabídce naleznete i pár nápojů na osvěžení. Nezapomeňte si stáhnout aplikaci Bolt
+    Food, Wolt a Dáme jídlo.
+  config:
+    required: true
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Delivery description
+- name: delivery_image
+  type: file
+  config:
+    maxSize: 64
+  label: Delivery image
+  default: "/uploads/2021/07/24/delivery-box.png"
+- name: layout
+  type: text
+  config:
+    required: false
+  label: layout
+  default: deliverylayout
+  hidden: true
+pages:
+- delivery.md

@@ -1,0 +1,152 @@
+---
+label: franchising
+hide_body: true
+fields:
+- name: hero_image
+  type: file
+  config:
+    maxSize: 64
+  label: Hero image
+  default: "/uploads/2021/07/26/franchising.png"
+- name: big_title
+  type: text
+  config:
+    required: true
+  default: Franchising
+  label: Big title
+- name: subtitle
+  type: text
+  config:
+    required: false
+  label: Subtitle
+  default: Pokud jste se dostali na tuto stránku, pravdepodobneto znamená, že jste
+    propadli kouzlu Waf-Waf stejne jako MY!
+- name: concept
+  type: field_group_list
+  fields:
+  - name: icon
+    type: file
+    config:
+      maxSize: 64
+    label: Icon
+  - name: title
+    type: text
+    config:
+      required: true
+    label: Title
+  - name: description
+    type: textarea
+    default: ''
+    config:
+      required: true
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Description
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Concept
+- name: second_subtitle
+  type: text
+  config:
+    required: false
+  label: Second subtitle
+  default: Chcete tedy originální znacku a stát se obchodním partnerem rychle rostoucí
+    spolecnosti?
+- name: third_subtitle
+  type: text
+  config:
+    required: false
+  label: Third subtitle
+  default: KONCEPTY – WAF-WAF FRANCHISE
+- name: stores
+  type: field_group_list
+  fields:
+  - name: image
+    type: file
+    config:
+      maxSize: 64
+    label: Image
+  - name: title
+    type: text
+    config:
+      required: true
+    label: Title
+  - name: description
+    type: textarea
+    default: ''
+    config:
+      required: true
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Description
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Stores
+- name: accordions
+  type: field_group_list
+  fields:
+  - name: title
+    type: text
+    config:
+      required: true
+    label: Title
+  - name: description
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Description
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Accordions
+- name: faq_title
+  type: text
+  config:
+    required: true
+  label: FAQ title
+  default: FAQ K FRANCHISE POBOCCE
+- name: faq
+  type: field_group_list
+  fields:
+  - name: question
+    type: text
+    config:
+      required: true
+    label: Question
+    default: Jaká je minimální velikost pobočky Waf-Waf?
+  - name: answer
+    type: textarea
+    default: Doporučujeme mít velikost větší než 80-180m2, musíme počítat s tím, že
+      zde bude zasazena fast-casual kuchyně a take zásobování či popřípadě sklad.
+      Nicméně nabízíme i koncepty jako stánkový prodej s velikostí 20-50m2.
+    config:
+      required: true
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Answer
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: FAQ
+- name: layout
+  type: text
+  config:
+    required: false
+  label: layout
+  hidden: true
+  default: franchising
+pages:
+- franchising.md
