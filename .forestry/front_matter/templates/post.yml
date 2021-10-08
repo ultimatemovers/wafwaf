@@ -40,3 +40,5 @@ fields:
     display_utc: false
   hidden: true
   default: now
+pages:
+- _posts/2021-07-30-otevreni-nove-pobocky-v-oc-palladium-praha.md
