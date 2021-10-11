@@ -31,7 +31,7 @@ categories:
     product_title: BEEFWAF
     product_description: trhané hovězí maso,  cheddarová omáčka, grilovaná rajčata,
       cibule, salát, brusinky
-    product_price: 139
+    product_price: 159
   - product_image: "/assets/images/ironwaf-small.jpg"
     product_title: IRONWAF
     product_description: vajíčko, slanina, cheddar, rukola
