@@ -29,8 +29,9 @@ categories:
     product_price: 129
   - product_image: "/uploads/2021/09/15/beefwaf-small.jpg"
     product_title: BEEFWAF
-    product_description: nutella, oreo, jahody, maliny, mascarpone
-    product_price: 150
+    product_description: trhané hovězí maso,  cheddarová omáčka, grilovaná rajčata,
+      cibule, salát, brusinky
+    product_price: 139
   - product_image: "/uploads/2021/07/20/mask-group-133.png"
     product_title: IRONWAF
     product_description: egg, bacon, asparagus, souce
