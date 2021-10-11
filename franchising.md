@@ -47,7 +47,7 @@ stores:
 third_subtitle: KONCEPTY – WAF-WAF FRANCHISE
 accordions: []
 layout: franchising
-faq_title: FAQ K FRANCHISE POBOCCE
+faq_title: FAQ K FRANCHISE POBOČCE
 faq:
 - question: Je zapotřebí zaplatit kauci?
   answer: Ano, kauce je splatná při podpisu SOSB a platí pro zúčtování při vážném
