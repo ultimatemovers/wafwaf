@@ -35,7 +35,7 @@ locations:
   damejidlo: true
   damejidlo_url: https://www.damejidlo.cz/restaurant/f6zc/waf-waf-m-horakove
   location_gmaps_url: https://goo.gl/maps/XbPeVgcsR95ms4qx8
-- local_image: "/uploads/2021/08/16/img_6806.png"
+- local_image: "/assets/images/screen-shot-2021-09-28-at-20-49-40.png"
   first_left_image: "/uploads/2021/08/15/mask-group-34.png"
   location_name: WAF-WAF OC PALLADIUM
   location_address: Náměstí Republiky 1, 110 00 Nové Město
