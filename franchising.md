@@ -87,7 +87,12 @@ faq:
 mam_zajem: ''
 after_faq:
 - title: VLASTNÍ PROVOZOVNY
-  content: "Praha 7 - Letná \nPraha 2 - I.P. Pavlova \nPraha 1 - OC Palladium"
+  content: |-
+    Praha 7 - Letná
+
+    Praha 2 - I.P. Pavlova
+
+    Praha 1 - OC Palladium
 - title: FRANŠÍZOVÉ PROVOZOVNY
   content: Brno - OC Špalíček
 - title: 'Aktuálně hledáme franchisanty pro lokality:'
