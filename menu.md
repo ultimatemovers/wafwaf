@@ -50,8 +50,9 @@ categories:
     product_price: 139
   - product_image: "/uploads/2021/09/15/waf-wood-small.jpg"
     product_title: WAF&FOOD
-    product_description: nutella, oreo, jahody, maliny, mascarpone
-    product_price: 160
+    product_description: plněné kousky čokolády, lesní ovoce, javorový sirup, domácí
+      šlehačka
+    product_price: 134
   - product_image: "/uploads/2021/09/15/cream-waf-small.jpg"
     product_title: CREAM&WAF
     product_description: nutella, oreo, jahody, maliny, mascarpone
