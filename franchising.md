@@ -28,13 +28,13 @@ concept:
     „lovebrand“, kdy se její zákazníci stávají součástí celého konceptu.
 - icon: "/uploads/2021/07/26/group-2186.svg"
   title: Rustový potenciál
-  description: Waf-Waf se podařilo z inovativního konceptu vybudovat v krátkém čase
-    úspěšnou značku. Celý koncept je přitom velice jednoduchý a může se snadno přizpůsobit
-    dané lokalitě a zázemí. Restaurace tedy můžou bez problému fungovat v menších
-    či větších prostorách bez ohledu na to, jestli se jedná o obchodní centrum nebo
-    jinou kamennou prodejnu. Tato jednoduchá koncepce spolu se silnou značkou a know-how
-    Waf-Waf tak nabízí ideální kombinaci pro úspěšnou franšízovou expanzi, kterou
-    Společnost plánuje v budoucnu započít.
+  description: Waf-Waf se podařilo z inovativního konceptu vybudovat v krátkém
+    čase úspěšnou značku. Celý koncept je přitom velice jednoduchý a může
+    se snadno přizpůsobit dané lokalitě a zázemí. Restaurace tedy můžou bez
+    problému fungovat v menších či větších prostorách bez ohledu na to, jestli
+    se jedná o obchodní centrum nebo jinou kamennou prodejnu. Tato jednoduchá koncepce
+    spolu se silnou značkou a know-how Waf-Waf tak nabízí ideální kombinaci pro
+    úspěšnou franšízovou expanzi, kterou Společnost plánuje v budoucnu započít.
 stores:
 - image: "/uploads/2021/07/26/mask-group-35.png"
   description: "* Výměra: min. 20 m2 + sklad max. 60m2 (včetně sezení) \n* Umístění
