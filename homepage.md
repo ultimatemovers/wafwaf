@@ -1,6 +1,6 @@
 ---
 big_title: Ty nejlepší vafle
-subtitle: Waf-Waf to jsou ty nejlepší vafle,  palacinky a lívance, které jste meli
+subtitle: Waf-Waf to jsou ty nejlepší vafle,  palačiinky a lívance, které jste meli
   možnost ochutnat.
 breakfast: Snídaňová nabídka Každý všední den od <br> 08:00 – 11:00
 breakfast_image: "/uploads/2021/07/20/breakfast.png"
