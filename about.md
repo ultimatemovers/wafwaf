@@ -30,7 +30,7 @@ proccess:
 - image: "/uploads/2021/07/27/group-55760.svg"
   name: Vyberte si z naši nabidky na MenuBoard x Sestavte si Udelej vlastni dle letaku
 - image: "/uploads/2021/07/27/group-45860.svg"
-  name: Dokoncete objednavku s obsluhou a obdrzite pager
+  name: Dokončete objednávku s obsluhou a obdržíte pager
 - image: "/uploads/2021/07/27/group-45862.svg"
   name: Pockejte, nez Vam pager zazvoni
 - image: "/uploads/2021/07/27/group-45866.svg"
