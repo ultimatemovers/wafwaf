@@ -21,36 +21,24 @@ categories:
     product_title: PEARWAF
     product_description: glazované hrušky, cini minis, čokoládové kousky, javorový
       sirup, domácí šlehačka
-  - product_image: "/uploads/2021/09/15/sushiwaf-small.jpg"
-    product_title: SUSHIWAF
-    product_description: nutella, oreo, jahody, maliny, mascarpone
-    product_price: 124
-  - product_image: "/uploads/2021/09/15/waf-cut-small.jpg"
-    product_title: WAF&CUT
-    product_description: nutella, oreo, jahody, maliny, mascarpone
-    product_price: 124
 - category_title: SLANÉ
   products:
+  - product_image: "/uploads/2021/09/15/maplewaf-small.jpg"
+    product_title: MAPLEWAF
+    product_description: vajíčko, slanina, cheddar, rukola, rajče, javorovým sirup
+    product_price: 129
   - product_image: "/uploads/2021/09/15/beefwaf-small.jpg"
     product_title: BEEFWAF
     product_description: nutella, oreo, jahody, maliny, mascarpone
     product_price: 150
-  - product_image: "/uploads/2021/09/15/maplewaf-small.jpg"
-    product_title: MAPLEWAF
-    product_description: nutella, oreo, jahody, maliny, mascarpone
-    product_price: 150
-  - product_image: "/uploads/2021/09/15/crepedilla-small.jpg"
-    product_title: CREPEDILLA
-    product_description: nutella, oreo, jahody, maliny, mascarpone
-    product_price: 151
   - product_image: "/uploads/2021/07/20/mask-group-133.png"
     product_title: IRONWAF
     product_description: egg, bacon, asparagus, souce
     product_price: 160
-  - product_image: "/uploads/2021/09/15/bigwaf-small.jpg"
-    product_title: BIGWAF
-    product_description: egg, bacon, asparagus, souce
-    product_price: 160
+  - product_image: "/uploads/2021/09/15/crepedilla-small.jpg"
+    product_title: CREPEDILLA
+    product_description: nutella, oreo, jahody, maliny, mascarpone
+    product_price: 151
 - category_title: SNÍDANĚ
   products:
   - product_image: "/uploads/2021/09/15/waf-wood-small.jpg"
