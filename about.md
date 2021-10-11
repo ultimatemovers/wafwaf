@@ -32,7 +32,7 @@ proccess:
 - image: "/uploads/2021/07/27/group-45860.svg"
   name: Dokončete objednávku s obsluhou a obdržíte pager
 - image: "/uploads/2021/07/27/group-45862.svg"
-  name: Pockejte, nez Vam pager zazvoni
+  name: Počkejte, než Vám pager zazvoní
 - image: "/uploads/2021/07/27/group-45866.svg"
   name: Přijďte s pagerem pro objednávku a vychutnejte si jídlo
 layout: about
