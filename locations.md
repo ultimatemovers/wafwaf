@@ -2,6 +2,105 @@
 locations_title: Naše pobočky
 hero_image: "/uploads/2021/08/16/20111231_230000000_ios-103.png"
 locations:
+- local_image: "/uploads/2021/08/16/img_6806.png"
+  first_left_image: "/uploads/2021/08/15/mask-group-34.png"
+  location_name: WAF-WAF LETNÁ
+  location_address: Milady Horákové 52, Praha 7
+  location_contact: "Otevírací doba: \n\nPondělí - Neděle: dočasně uzavřeno \n\nKontaktní
+    telefonní číslo: +420602728121 \n\nKontaktní email: letna@waf-waf.cz"
+  location_description: Na této pobočce si můžete vyzvednout jídlo s sebou. Slečny
+    Vám zabalí naše produkty do hezkého obalu a dají Vám papírovou tašku pro snazší
+    odnos vaflí, lívanců nebo palačinek.
+  contact_number: "+420602728121\L"
+  first_column_above_image: Letenská pobočka se otevřela přesně 8.4.2017 a nabízí
+    kompletní sortiment konceptu Waf-Waf ať už se jedná o oblíbené vafle, palačinky,
+    lívance nebo i milkshakes, fresh-juices a dalčí originální produkty. Zajímavá
+    je specifickým interiérem, který zahrnuje i některé z retro prvků. Vhodná je také
+    pro rodinny s dětmi včetně kočárků a to
+  second_column_above_image: Právě díky dětskému koutku v zadní části provozovny a
+    prostorné zahrádce ve vnitronloku. Samozřejmostí je možnost take-away a to zcela
+    zdarma. Do naší provozovny Waf-Waf na Letné mají také povolený vstup pejsci. Na
+    pobočce provádíme rezervace pro více než jeden stůl.
+  image_left: "/uploads/2021/08/15/faf4233d-f364-4045-a10f-47b83c6cf868.png"
+  third_column_under_image: Pobočka se nám rozrostla o zimní zateplenou zahradu/venkovní
+    zahradu přes léto a tím se i zvýšila kapacita pobočky na 60 lidí.
+  image_right_portrait: "/uploads/2021/08/15/20200109_095725000_ios-1.png"
+  footer_image: "/uploads/2021/08/15/img_1675.png"
+  footer_description: 'Z této pobočky také probíhá rozvoz Waf-Waf produktů do různých
+    koutů Prahy. Objednávat můžete na těchto platformách:'
+  wolt: true
+  wolt_url: https://wolt.com/cs/cze/prague/restaurant/waf-waf-letna
+  boltfood: true
+  boltfood_url: ''
+  damejidlo: true
+  damejidlo_url: https://www.damejidlo.cz/restaurant/f6zc/waf-waf-m-horakove
+  location_gmaps_url: https://goo.gl/maps/XbPeVgcsR95ms4qx8
+- local_image: "/uploads/2021/08/16/img_6806.png"
+  first_left_image: "/uploads/2021/08/15/mask-group-34.png"
+  location_name: WAF-WAF OC PALLADIUM
+  location_address: Náměstí Republiky 1, 110 00 Nové Město
+  location_contact: "Otevírací doba:   \n\LPondělí - Neděle: dočasně uzavřeno   \n\LKontaktní
+    telefonní číslo: +420602728121\L  \nKontaktní email: letna@waf-waf.cz"
+  location_description: Na této pobočce si můžete vyzvednout jídlo s sebou. Slečny
+    Vám zabalí naše produkty do hezkého obalu a dají Vám papírovou tašku pro snazší
+    odnos vaflí, lívanců nebo palačinek.
+  contact_number: "+420602728121\L"
+  first_column_above_image: Letenská pobočka se otevřela přesně 8.4.2017 a nabízí
+    kompletní sortiment konceptu Waf-Waf ať už se jedná o oblíbené vafle, palačinky,
+    lívance nebo i milkshakes, fresh-juices a dalčí originální produkty. Zajímavá
+    je specifickým interiérem, který zahrnuje i některé z retro prvků. Vhodná je také
+    pro rodinny s dětmi včetně kočárků a to
+  second_column_above_image: Právě díky dětskému koutku v zadní části provozovny a
+    prostorné zahrádce ve vnitronloku. Samozřejmostí je možnost take-away a to zcela
+    zdarma. Do naší provozovny Waf-Waf na Letné mají také povolený vstup pejsci. Na
+    pobočce provádíme rezervace pro více než jeden stůl.
+  image_left: "/uploads/2021/08/15/faf4233d-f364-4045-a10f-47b83c6cf868.png"
+  third_column_under_image: Pobočka se nám rozrostla o zimní zateplenou zahradu/venkovní
+    zahradu přes léto a tím se i zvýšila kapacita pobočky na 60 lidí.
+  image_right_portrait: "/uploads/2021/08/15/20200109_095725000_ios-1.png"
+  footer_image: "/uploads/2021/08/15/img_1675.png"
+  footer_description: 'Z této pobočky také probíhá rozvoz Waf-Waf produktů do různých
+    koutů Prahy. Objednávat můžete na těchto platformách:'
+  wolt: true
+  wolt_url: https://wolt.com/cs/cze/prague/restaurant/waf-waf-palladium
+  boltfood: true
+  boltfood_url: ''
+  damejidlo: true
+  damejidlo_url: https://www.damejidlo.cz/restaurant/p3ug/waf-waf-paladium
+  location_gmaps_url: https://g.page/wafwafpalladium
+- local_image: "/uploads/2021/09/15/20190628_112623280_ios.jpg"
+  first_left_image: "/uploads/2021/09/15/20190628_115452000_ios.jpg"
+  location_name: WAF-WAF IPÁK
+  location_address: Bělehradská 67, 120 00 Nové Město
+  location_contact: "Otevírací doba: \n\nPondělí - Neděle: dočasně uzavřeno \n\nKontaktní
+    telefonní číslo: +420602728121 \n\nKontaktní email: letna@waf-waf.cz"
+  location_description: Na této pobočce si můžete vyzvednout jídlo s sebou. Slečny
+    Vám zabalí naše produkty do hezkého obalu a dají Vám papírovou tašku pro snazší
+    odnos vaflí, lívanců nebo palačinek.
+  contact_number: "+420602728121\L"
+  first_column_above_image: Letenská pobočka se otevřela přesně 8.4.2017 a nabízí
+    kompletní sortiment konceptu Waf-Waf ať už se jedná o oblíbené vafle, palačinky,
+    lívance nebo i milkshakes, fresh-juices a dalčí originální produkty. Zajímavá
+    je specifickým interiérem, který zahrnuje i některé z retro prvků. Vhodná je také
+    pro rodinny s dětmi včetně kočárků a to
+  second_column_above_image: Právě díky dětskému koutku v zadní části provozovny a
+    prostorné zahrádce ve vnitronloku. Samozřejmostí je možnost take-away a to zcela
+    zdarma. Do naší provozovny Waf-Waf na Letné mají také povolený vstup pejsci. Na
+    pobočce provádíme rezervace pro více než jeden stůl.
+  image_left: "/uploads/2021/09/15/20190704_112943000_ios.jpg"
+  third_column_under_image: Pobočka se nám rozrostla o zimní zateplenou zahradu/venkovní
+    zahradu přes léto a tím se i zvýšila kapacita pobočky na 60 lidí.
+  image_right_portrait: "/uploads/2021/09/15/20190628_112525254_ios.jpg"
+  footer_image: "/uploads/2021/09/15/20190603_090334000_ios.jpg"
+  footer_description: 'Z této pobočky také probíhá rozvoz Waf-Waf produktů do různých
+    koutů Prahy. Objednávat můžete na těchto platformách:'
+  wolt: true
+  wolt_url: https://wolt.com/cs/cze/prague/restaurant/waf-waf-ipak
+  boltfood: true
+  boltfood_url: ''
+  damejidlo: true
+  damejidlo_url: " https://www.damejidlo.cz/restaurant/s0ma/waf-waf-belehradska"
+  location_gmaps_url: https://g.page/wafwafipak
 - local_image: "/uploads/2021/09/28/brno1.jpg"
   first_left_image: "/uploads/2021/09/28/brno2.jpg"
   location_name: WAF-WAF VELKÝ ŠPALÍČEK
@@ -39,105 +138,6 @@ locations:
   damejidlo: true
   damejidlo_url: https://www.damejidlo.cz/restaurant/b5cn/waf-waf-3
   location_gmaps_url: https://g.page/wafwafbrnospalicek?share
-- local_image: "/uploads/2021/08/16/img_6806.png"
-  first_left_image: "/uploads/2021/08/15/mask-group-34.png"
-  location_name: WAF-WAF OC PALLADIUM
-  location_address: Náměstí Republiky 1, 110 00 Nové Město
-  location_contact: "Otevírací doba:   \n\LPondělí - Neděle: dočasně uzavřeno   \n\LKontaktní
-    telefonní číslo: +420602728121\L  \nKontaktní email: letna@waf-waf.cz"
-  location_description: Na této pobočce si můžete vyzvednout jídlo s sebou. Slečny
-    Vám zabalí naše produkty do hezkého obalu a dají Vám papírovou tašku pro snazší
-    odnos vaflí, lívanců nebo palačinek.
-  contact_number: "+420602728121\L"
-  first_column_above_image: Letenská pobočka se otevřela přesně 8.4.2017 a nabízí
-    kompletní sortiment konceptu Waf-Waf ať už se jedná o oblíbené vafle, palačinky,
-    lívance nebo i milkshakes, fresh-juices a dalčí originální produkty. Zajímavá
-    je specifickým interiérem, který zahrnuje i některé z retro prvků. Vhodná je také
-    pro rodinny s dětmi včetně kočárků a to
-  second_column_above_image: Právě díky dětskému koutku v zadní části provozovny a
-    prostorné zahrádce ve vnitronloku. Samozřejmostí je možnost take-away a to zcela
-    zdarma. Do naší provozovny Waf-Waf na Letné mají také povolený vstup pejsci. Na
-    pobočce provádíme rezervace pro více než jeden stůl.
-  image_left: "/uploads/2021/08/15/faf4233d-f364-4045-a10f-47b83c6cf868.png"
-  third_column_under_image: Pobočka se nám rozrostla o zimní zateplenou zahradu/venkovní
-    zahradu přes léto a tím se i zvýšila kapacita pobočky na 60 lidí.
-  image_right_portrait: "/uploads/2021/08/15/20200109_095725000_ios-1.png"
-  footer_image: "/uploads/2021/08/15/img_1675.png"
-  footer_description: 'Z této pobočky také probíhá rozvoz Waf-Waf produktů do různých
-    koutů Prahy. Objednávat můžete na těchto platformách:'
-  wolt: true
-  wolt_url: https://wolt.com/cs/cze/prague/restaurant/waf-waf-palladium
-  boltfood: true
-  boltfood_url: ''
-  damejidlo: true
-  damejidlo_url: https://www.damejidlo.cz/restaurant/p3ug/waf-waf-paladium
-  location_gmaps_url: https://g.page/wafwafpalladium
-- local_image: "/uploads/2021/08/16/img_6806.png"
-  first_left_image: "/uploads/2021/08/15/mask-group-34.png"
-  location_name: WAF-WAF LETNÁ
-  location_address: Milady Horákové 52, Praha 7
-  location_contact: "Otevírací doba: \n\nPondělí - Neděle: dočasně uzavřeno \n\nKontaktní
-    telefonní číslo: +420602728121 \n\nKontaktní email: letna@waf-waf.cz"
-  location_description: Na této pobočce si můžete vyzvednout jídlo s sebou. Slečny
-    Vám zabalí naše produkty do hezkého obalu a dají Vám papírovou tašku pro snazší
-    odnos vaflí, lívanců nebo palačinek.
-  contact_number: "+420602728121\L"
-  first_column_above_image: Letenská pobočka se otevřela přesně 8.4.2017 a nabízí
-    kompletní sortiment konceptu Waf-Waf ať už se jedná o oblíbené vafle, palačinky,
-    lívance nebo i milkshakes, fresh-juices a dalčí originální produkty. Zajímavá
-    je specifickým interiérem, který zahrnuje i některé z retro prvků. Vhodná je také
-    pro rodinny s dětmi včetně kočárků a to
-  second_column_above_image: Právě díky dětskému koutku v zadní části provozovny a
-    prostorné zahrádce ve vnitronloku. Samozřejmostí je možnost take-away a to zcela
-    zdarma. Do naší provozovny Waf-Waf na Letné mají také povolený vstup pejsci. Na
-    pobočce provádíme rezervace pro více než jeden stůl.
-  image_left: "/uploads/2021/08/15/faf4233d-f364-4045-a10f-47b83c6cf868.png"
-  third_column_under_image: Pobočka se nám rozrostla o zimní zateplenou zahradu/venkovní
-    zahradu přes léto a tím se i zvýšila kapacita pobočky na 60 lidí.
-  image_right_portrait: "/uploads/2021/08/15/20200109_095725000_ios-1.png"
-  footer_image: "/uploads/2021/08/15/img_1675.png"
-  footer_description: 'Z této pobočky také probíhá rozvoz Waf-Waf produktů do různých
-    koutů Prahy. Objednávat můžete na těchto platformách:'
-  wolt: true
-  wolt_url: https://wolt.com/cs/cze/prague/restaurant/waf-waf-letna
-  boltfood: true
-  boltfood_url: ''
-  damejidlo: true
-  damejidlo_url: https://www.damejidlo.cz/restaurant/f6zc/waf-waf-m-horakove
-  location_gmaps_url: https://goo.gl/maps/XbPeVgcsR95ms4qx8
-- local_image: "/uploads/2021/09/15/20190628_112623280_ios.jpg"
-  first_left_image: "/uploads/2021/09/15/20190628_115452000_ios.jpg"
-  location_name: WAF-WAF IPÁK
-  location_address: Bělehradská 67, 120 00 Nové Město
-  location_contact: "Otevírací doba: \n\nPondělí - Neděle: dočasně uzavřeno \n\nKontaktní
-    telefonní číslo: +420602728121 \n\nKontaktní email: letna@waf-waf.cz"
-  location_description: Na této pobočce si můžete vyzvednout jídlo s sebou. Slečny
-    Vám zabalí naše produkty do hezkého obalu a dají Vám papírovou tašku pro snazší
-    odnos vaflí, lívanců nebo palačinek.
-  contact_number: "+420602728121\L"
-  first_column_above_image: Letenská pobočka se otevřela přesně 8.4.2017 a nabízí
-    kompletní sortiment konceptu Waf-Waf ať už se jedná o oblíbené vafle, palačinky,
-    lívance nebo i milkshakes, fresh-juices a dalčí originální produkty. Zajímavá
-    je specifickým interiérem, který zahrnuje i některé z retro prvků. Vhodná je také
-    pro rodinny s dětmi včetně kočárků a to
-  second_column_above_image: Právě díky dětskému koutku v zadní části provozovny a
-    prostorné zahrádce ve vnitronloku. Samozřejmostí je možnost take-away a to zcela
-    zdarma. Do naší provozovny Waf-Waf na Letné mají také povolený vstup pejsci. Na
-    pobočce provádíme rezervace pro více než jeden stůl.
-  image_left: "/uploads/2021/09/15/20190704_112943000_ios.jpg"
-  third_column_under_image: Pobočka se nám rozrostla o zimní zateplenou zahradu/venkovní
-    zahradu přes léto a tím se i zvýšila kapacita pobočky na 60 lidí.
-  image_right_portrait: "/uploads/2021/09/15/20190628_112525254_ios.jpg"
-  footer_image: "/uploads/2021/09/15/20190603_090334000_ios.jpg"
-  footer_description: 'Z této pobočky také probíhá rozvoz Waf-Waf produktů do různých
-    koutů Prahy. Objednávat můžete na těchto platformách:'
-  wolt: true
-  wolt_url: https://wolt.com/cs/cze/prague/restaurant/waf-waf-ipak
-  boltfood: true
-  boltfood_url: ''
-  damejidlo: true
-  damejidlo_url: " https://www.damejidlo.cz/restaurant/s0ma/waf-waf-belehradska"
-  location_gmaps_url: https://g.page/wafwafipak
 layout: locations
 
 ---
