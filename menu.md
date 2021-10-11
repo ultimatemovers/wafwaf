@@ -120,8 +120,8 @@ categories:
     product_price: 169
   - product_image: "/uploads/2021/09/15/friedwaf-small.jpg"
     product_title: FRIED WAF
-    product_description: Fried
-    product_price: 123
+    product_description: smažená palačinka, kuřecí maso, gouda, špenát, kukuřice
+    product_price: 164
   - product_image: "/uploads/2021/09/15/dalgonwaf-small.jpg"
     product_title: DALGON WAF
     product_description: DALGON
