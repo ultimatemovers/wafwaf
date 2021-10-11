@@ -37,17 +37,11 @@ concept:
     úspěšnou franšízovou expanzi, kterou Společnost plánuje v budoucnu započít.
 stores:
 - image: "/uploads/2021/07/26/mask-group-35.png"
-  description: "* Výměra: min. 20 m2 + sklad max. 60m2 (včetně sezení) \n* Umístění
-    a styl: typizovaná jednotka nacházející se v obchodním centru v rámci food courtu
-    nebo ve frekventované části OC \n* Průchodnost centra: min. 20 000 lidí denně
-    Dostatečná kapacita médií: voda, elektro, kanalizace, vzduchotechnika"
-  title: STÁNEK V OC
+  description: " "
+  title: Pobočka v OC (80 – 180m2)
 - image: "/uploads/2021/07/26/mask-group-3.png"
-  description: "* Výměra: min. 80 m2, max 140m2 \n* Umístění a styl: v rámci rušných
-    části obchodního centra, umístění jako samostatná jednotka s možnost vlastního
-    sezení a designu či hudby \n* Průchodnost: min. 20 000 lidí denně. \n* Dostatečná
-    kapacita médií – voda, elektro, kanalizace, vzduchotechnika"
-  title: HIGH STREET
+  description: " "
+  title: High street koncept – (60m2 – 150m2)
 - image: "/uploads/2021/07/26/mask-group-7.png"
   description: "* Výměra: min. 80 m2, max 140m2 \n* Umístění a styl: v rámci rušných
     části obchodního centra, umístění jako samostatná jednotka s možnost vlastního
