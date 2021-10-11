@@ -101,9 +101,9 @@ categories:
     product_description: avokádová pomazánka, haloumi sýr, rukola, rajče
     product_price: 159
   - product_image: "/uploads/2021/09/15/skywaf-small.jpg"
-    product_title: SKY WAF
-    product_description: jahody....
-    product_price: 124
+    product_title: SKYWAF
+    product_description: vafle, salko toping, jahody, lotus posyp a sušenka
+    product_price: 149
   - product_image: "/uploads/2021/09/15/greensmoothie-small.jpg"
     product_description: avokádo, špenát, banán, sojové mléko
     product_price: 123
