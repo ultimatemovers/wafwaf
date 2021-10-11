@@ -47,7 +47,7 @@ locations:
     Kontaktní telefonní číslo: + 420 725 745 898
 
     Kontaktní email: palladium@waf-waf.cz
-  location_description: Na této pobočce si můžete vyzvednout **jídlo s sebou.** Slečny
+  location_description: Na této pobočce si můžete vyzvednout jídlo s sebou**.** Slečny
     Vám zabalí naše produkty do hezkého obalu a dají Vám papírovou tašku pro snazší
     odnos vaflí, lívanců nebo palačinek.
   contact_number: "+ 420 725 745 898"
