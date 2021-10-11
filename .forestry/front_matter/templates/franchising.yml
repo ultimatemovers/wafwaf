@@ -141,18 +141,6 @@ fields:
     max: 
     labelField: 
   label: FAQ
-- name: layout
-  type: text
-  config:
-    required: false
-  label: layout
-  hidden: true
-  default: franchising
-- name: mam_zajem
-  type: text
-  config:
-    required: false
-  label: Mam Zajem URL
 - name: after_faq
   type: field_group_list
   fields:
@@ -175,5 +163,17 @@ fields:
     max: 3
     labelField: 
   label: After FAQ
+- name: mam_zajem
+  type: text
+  config:
+    required: false
+  label: Mam Zajem URL
+- name: layout
+  type: text
+  config:
+    required: false
+  label: layout
+  hidden: true
+  default: franchising
 pages:
 - franchising.md
