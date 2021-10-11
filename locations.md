@@ -65,7 +65,7 @@ locations:
   third_column_under_image: Doporučujeme ochutnat i některé z našich novinek, které
     jsme aktuálně přidali do našeho sortimentu. Věříme, že jsme Vás navnadili k návštěvě,
     těšíme se na Vás.
-  image_right_portrait: "/uploads/2021/08/15/20200109_095725000_ios-1.png"
+  image_right_portrait: "/assets/images/ocpalladium2.jpg"
   footer_image: "/assets/images/kancelar1.jpg"
   footer_description: 'Z této pobočky také probíhá rozvoz Waf-Waf produktů do různých
     koutů Prahy. Objednávat můžete na těchto platformách:'
