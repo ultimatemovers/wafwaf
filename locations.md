@@ -39,24 +39,32 @@ locations:
   first_left_image: "/assets/images/20200119_085517000_ios.jpg"
   location_name: WAF-WAF OC PALLADIUM
   location_address: Náměstí Republiky 1, 110 00 Nové Město
-  location_contact: "Otevírací doba:   \n\LPondělí - Neděle: dočasně uzavřeno   \n\LKontaktní
-    telefonní číslo: +420602728121\L  \nKontaktní email: letna@waf-waf.cz"
-  location_description: Na této pobočce si můžete vyzvednout jídlo s sebou. Slečny
+  location_contact: |-
+    Otevírací doba:
+
+    Pondělí - Neděle: 08:00 – 20:00
+
+    Kontaktní telefonní číslo: + 420 725 745 898
+
+    Kontaktní email: palladium@waf-waf.cz
+  location_description: Na této pobočce si můžete vyzvednout **jídlo s sebou.** Slečny
     Vám zabalí naše produkty do hezkého obalu a dají Vám papírovou tašku pro snazší
     odnos vaflí, lívanců nebo palačinek.
-  contact_number: "+420602728121\L"
-  first_column_above_image: Letenská pobočka se otevřela přesně 8.4.2017 a nabízí
-    kompletní sortiment konceptu Waf-Waf ať už se jedná o oblíbené vafle, palačinky,
-    lívance nebo i milkshakes, fresh-juices a dalčí originální produkty. Zajímavá
-    je specifickým interiérem, který zahrnuje i některé z retro prvků. Vhodná je také
-    pro rodinny s dětmi včetně kočárků a to
-  second_column_above_image: Právě díky dětskému koutku v zadní části provozovny a
-    prostorné zahrádce ve vnitronloku. Samozřejmostí je možnost take-away a to zcela
-    zdarma. Do naší provozovny Waf-Waf na Letné mají také povolený vstup pejsci. Na
-    pobočce provádíme rezervace pro více než jeden stůl.
+  contact_number: "+ 420 725 745 898"
+  first_column_above_image: Další pražská pobočka (v pořadí již třetí) se otevřela
+    19. ledna 2020 a nabízí kompletní sortiment konceptu Waf-Waf, ať už se jedná o
+    oblíbené vafle, palačinky, lívance nebo i milkshakes, fresh-juices a další originální
+    produkty. Zajímavá je specifickým interiérem, který zahrnuje i některé z retro
+    prvků.
+  second_column_above_image: Pobočka se nachází v OC Palladium (Praha 1, Náměstí Republiky
+    1, 110 00) v - 2. patře vedle Sportisimo a Sparkys.  Kapacita je 20 zákazníků.
+    Samozřejmostí je možnost take-away či rozvoz jídla. Radost uděláme i veganům,
+    protože už i vegani si můžou sestavit vafli podle sebe! Stačí zaškrtnout políčko
+    veganská vafle.
   image_left: "/assets/images/20200119_085523000_ios.jpg"
-  third_column_under_image: Pobočka se nám rozrostla o zimní zateplenou zahradu/venkovní
-    zahradu přes léto a tím se i zvýšila kapacita pobočky na 60 lidí.
+  third_column_under_image: Doporučujeme ochutnat i některé z našich novinek, které
+    jsme aktuálně přidali do našeho sortimentu. Věříme, že jsme Vás navnadili k návštěvě,
+    těšíme se na Vás.
   image_right_portrait: "/uploads/2021/08/15/20200109_095725000_ios-1.png"
   footer_image: "/assets/images/kancelar1.jpg"
   footer_description: 'Z této pobočky také probíhá rozvoz Waf-Waf produktů do různých
