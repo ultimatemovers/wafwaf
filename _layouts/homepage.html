@@ -37,7 +37,9 @@
           <img src="{{ post.feature_image }}" alt="post.title">
           <h4 class="post-title mt-8 mb-6 sm:mb-12 sm:w-3/4 sm:mx-auto lg:w-full">{{ post.title }}</h4>
           <div class="post-content sm:w-3/4 sm:mx-auto lg:w-full">{{ post.content }}</div>
-          <!-- <a target="_blank" href="{{ post.url }}" class="sm:w-1/2 lg:w-full rounded-outline-btn mt-6 block btn-zoom-in-out">ZJISTIT VIC</a> -->
+          {% if post.post_url %}
+          <a target="_blank" href="{{ post.post_url }}" class="sm:w-1/2 lg:w-full rounded-outline-btn mt-6 block btn-zoom-in-out">ZJISTIT VIC</a>
+          {% endif %}
         </div>
     {% endfor %}
     </div>
