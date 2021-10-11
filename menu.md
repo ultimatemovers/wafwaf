@@ -4,18 +4,18 @@ layout: menu
 categories:
 - category_title: SLADKÉ
   products:
-  - product_image: "/assets/images/wafreo-small2.jpg"
-    product_title: WAFREO
-    product_description: jahody, nutella, oreo, domácí šlehačka
-    product_price: 134
-  - product_price: 134
-    product_image: "/uploads/2021/09/15/waftella-small.jpg"
-    product_title: WAFTELLA
-    product_description: nutella, oreo, jahody, maliny, mascarpone
   - product_image: "/uploads/2021/09/15/chocowaf-small.jpg"
     product_title: CHOCOWAF
     product_description: vanilková poleva, karamelový, maliny, oříšky
     product_price: 129
+  - product_price: 134
+    product_image: "/uploads/2021/09/15/waftella-small.jpg"
+    product_title: WAFTELLA
+    product_description: nutella, oreo, jahody, maliny, mascarpone
+  - product_image: "/assets/images/wafreo-small2.jpg"
+    product_title: WAFREO
+    product_description: jahody, nutella, oreo, domácí šlehačka
+    product_price: 134
   - product_price: 134
     product_image: "/uploads/2021/09/15/pearwaf-small.jpg"
     product_title: PEARWAF
