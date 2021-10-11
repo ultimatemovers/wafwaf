@@ -65,11 +65,6 @@ categories:
     product_title: AVOWAF
 - category_title: NÁPOJE & MILKSHAKES
   products:
-  - product_image: ''
-    product_title: Banánový Wafshake
-    product_description: mléko, banán, vanilková zmrzlina, karamelový toping, barevné
-      posypky, šlehačka, vafle
-    product_price: 179
   - product_image: "/uploads/2021/09/15/jahodovy-cokoladovy-a-bananovy-shake-small.jpg"
     product_title: Čokoládový Milkshake
     product_description: mléko, kakao, granko, čokoládová poleva, čokoládová zmrzlina,
@@ -94,18 +89,29 @@ categories:
     product_description: mléko, jahody, vanilková zmrzlina, jahodový toping, šlehačka,
       vafle
     product_price: 189
-  - product_image: "/uploads/2021/09/15/wafrappe-small.jpg"
-    product_title: Wafrape
-    product_description: wafrape....
+  - product_image: ''
+    product_title: Banánový Wafshake
+    product_description: mléko, banán, vanilková zmrzlina, karamelový toping, barevné
+      posypky, šlehačka, vafle
+    product_price: 179
+- category_title: SPECIÁLNÍ NABÍDKA by HONZA VOREL
+  products:
+  - product_image: "/uploads/2021/09/15/halloumiwaf-small.jpg"
+    product_title: HALOUMI WAF
+    product_description: Haloumi
     product_price: 123
-  - product_image: "/uploads/2021/09/15/pomerancovy-freshjuice-small.jpg"
-    product_title: Pomerančový freshjuice
-    product_description: Pomerančový freshjuice
+  - product_image: "/uploads/2021/09/15/skywaf-small.jpg"
+    product_title: SKY WAF
+    product_description: jahody....
+    product_price: 124
+  - product_image: "/uploads/2021/09/15/greensmoothie-small.jpg"
+    product_description: avokádo, špenát, banán, sojové mléko
     product_price: 123
-  - product_image: "/uploads/2021/09/15/freshjuice-small.jpg"
-    product_title: FRESH JUICE
-    product_description: nutella, oreo, jahody, maliny, mascarpone
-    product_price: 123
+    product_title: WAF&SMOOTHIE GREEN
+  - product_image: "/uploads/2021/09/15/purplesmoothie-small.jpg"
+    product_title: WAF&SMOOTHIE PURPLE
+    product_description: borůvky, banán, kiwi, med
+    product_price: 139
 - category_title: WAF GIRLS MENU
   products:
   - product_image: "/uploads/2021/09/15/wafchick-small.jpg"
@@ -120,23 +126,5 @@ categories:
     product_title: DALGON WAF
     product_description: DALGON
     product_price: 138
-- category_title: CHEF MENU BY HONZA VOREL
-  products:
-  - product_image: "/uploads/2021/09/15/skywaf-small.jpg"
-    product_title: SKY WAF
-    product_description: jahody....
-    product_price: 124
-  - product_image: "/uploads/2021/09/15/purplesmoothie-small.jpg"
-    product_title: PURPLE SMOOTHIE
-    product_description: Purple
-    product_price: 123
-  - product_image: "/uploads/2021/09/15/halloumiwaf-small.jpg"
-    product_title: HALOUMI WAF
-    product_description: Haloumi
-    product_price: 123
-  - product_image: "/uploads/2021/09/15/greensmoothie-small.jpg"
-    product_description: Green
-    product_price: 123
-    product_title: GREEN SMOTHIE
 
 ---
