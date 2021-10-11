@@ -43,11 +43,8 @@ stores:
   description: " "
   title: High street koncept – (60m2 – 150m2)
 - image: "/uploads/2021/07/26/mask-group-7.png"
-  description: "* Výměra: min. 80 m2, max 140m2 \n* Umístění a styl: v rámci rušných
-    části obchodního centra, umístění jako samostatná jednotka s možnost vlastního
-    sezení a designu či hudby \n* Průchodnost: min. 20 000 lidí denně. \n* Dostatečná
-    kapacita médií – voda, elektro, kanalizace, vzduchotechnika"
-  title: KAMENNÁ PROVOZOVNA V OC
+  description: " "
+  title: Stand koncept – (20 – 50m2)
 third_subtitle: KONCEPTY – WAF-WAF FRANCHISE
 accordions:
 - title: PODPORA PRO FRANCHISANTY
