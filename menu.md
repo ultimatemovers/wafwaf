@@ -97,9 +97,9 @@ categories:
 - category_title: SPECIÁLNÍ NABÍDKA by HONZA VOREL
   products:
   - product_image: "/uploads/2021/09/15/halloumiwaf-small.jpg"
-    product_title: HALOUMI WAF
-    product_description: Haloumi
-    product_price: 123
+    product_title: HALOUMIWAF
+    product_description: avokádová pomazánka, haloumi sýr, rukola, rajče
+    product_price: 159
   - product_image: "/uploads/2021/09/15/skywaf-small.jpg"
     product_title: SKY WAF
     product_description: jahody....
