@@ -71,7 +71,7 @@ categories:
       šlehačka, oreo
     product_price: 119
   - product_image: ''
-    product_title: Jahodový
+    product_title: Jahodový Milkshake
     product_description: mléko, jahody, vanilková zmrzlina, jahodový toping, šlehačka
     product_price: 119
   - product_image: ''
