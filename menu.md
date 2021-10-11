@@ -19,7 +19,8 @@ categories:
   - product_price: 134
     product_image: "/uploads/2021/09/15/pearwaf-small.jpg"
     product_title: PEARWAF
-    product_description: nutella, oreo, jahody, maliny, mascarpone
+    product_description: glazované hrušky, cini minis, čokoládové kousky, javorový
+      sirup, domácí šlehačka
   - product_image: "/uploads/2021/09/15/sushiwaf-small.jpg"
     product_title: SUSHIWAF
     product_description: nutella, oreo, jahody, maliny, mascarpone
