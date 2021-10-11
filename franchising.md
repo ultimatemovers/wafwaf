@@ -62,5 +62,12 @@ faq:
   answer: Opět záleží na velikosti pobočky a kapacitě pobočky či její doporučené
     lokalitě. Každopádně u menšího obchodu předpokládáme kolem 1 rok a u větších
     se můžeme bavit o 15-30 měsících v závislosti na několika faktorech.
+- question: Jakou doporučujete lokalitu k umístění pobočky Waf-Waf?
+  answer: Doporučujeme jakoukoliv pobočku, kde je možné prodat 300 porcí denně
+    a vice. Respektive ve městech nad 100.000 obyvatel a na jeho hlavních místech.
+- question: Musím kupovat zásoby přímo od Vás?
+  answer: Jaké konkrétní zásoby je zapotřebí nakupovat od naší společnosti je obsaženo
+    ve franchisové smlouvě. Některé jsou zapotřebí nakupovat napřímo a některé
+    přes naše obchodní partnery.
 
 ---
