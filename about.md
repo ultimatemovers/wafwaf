@@ -28,7 +28,7 @@ right_section:
     neustálý a jedinečný nový zážitek našim zákazníkům.
 proccess:
 - image: "/uploads/2021/07/27/group-55760.svg"
-  name: Vyberte si z naši nabidky na MenuBoard x Sestavte si Udelej vlastni dle letaku
+  name: Vyberte si z naší nabídky na MenuBoard x Sestavte si Udělej vlastní dle letáku
 - image: "/uploads/2021/07/27/group-45860.svg"
   name: Dokončete objednávku s obsluhou a obdržíte pager
 - image: "/uploads/2021/07/27/group-45862.svg"
