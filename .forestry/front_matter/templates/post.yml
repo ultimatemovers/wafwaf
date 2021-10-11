@@ -16,6 +16,11 @@ fields:
     schema:
       format: markdown
   label: Excerpt
+- name: post_url
+  type: text
+  config:
+    required: false
+  label: Post URL
 - name: feature_image
   type: file
   config:
