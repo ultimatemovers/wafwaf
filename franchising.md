@@ -2,8 +2,8 @@
 hero_image: "/uploads/2021/07/26/franchising.png"
 big_title: Franchising
 subtitle: Strategické pilíře společnosti
-second_subtitle: Chcete tedy originální znacku a stát se obchodním partnerem rychle
-  rostoucí spolecnosti?
+second_subtitle: Chcete tedy originální značku a stát se obchodním partnerem rychle
+  rostoucí společnosti?
 concept:
 - icon: "/uploads/2021/07/26/group-2184.svg"
   title: Inovativní koncept
