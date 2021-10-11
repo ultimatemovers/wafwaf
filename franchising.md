@@ -1,20 +1,19 @@
 ---
 hero_image: "/uploads/2021/07/26/franchising.png"
 big_title: Franchising
-subtitle: Pokud jste se dostali na tuto stránku, pravdepodobneto znamená, že jste
-  propadli kouzlu Waf-Waf stejne jako MY!
+subtitle: Strategické poliře společnosti
 second_subtitle: Chcete tedy originální znacku a stát se obchodním partnerem rychle
   rostoucí spolecnosti?
 concept:
 - icon: "/uploads/2021/07/26/group-2184.svg"
   title: Inovativní koncept
-  description: Unikátnost Waf-Waf spočívá především v inovativním konceptu přípravy
-    vaflí, palačinek a lívanců. Koncept zákazníkům umožňuje sestavit si svůj vlastní
-    produkt za pomocí desítek slaných a sladkých přísad, který pak školený personál
-    čerstvě připravuje přímo před nimi. Po pár minutách je nazdobená vafle či palačinka
-    hotova a zákazník si jí může sníst buď přímo v restauraci nebo vzít s sebou. Díky
-    tomuto konceptu pak zákazníci mají téměř neomezené množství kombinací, a Společnost
-    tak dokáže zaujmout široké spektrum konzumentů.
+  description: Unikátnost Waf-Waf spočívá především v inovativním konceptu přípravy
+    vaflí, palačinek a lívanců. Koncept zákazníkům umožňuje sestavit si svůj
+    vlastní produkt za pomocí desítek slaných a sladkých přísad, který pak školený
+    personál čerstvě připravuje přímo před nimi. Po pár minutách je nazdobená
+    vafle či palačinka hotova a zákazník si jí může sníst buď přímo v restauraci
+    nebo vzít s sebou. Díky tomuto konceptu pak zákazníci mají téměř neomezené množství
+    kombinací, a Společnost tak dokáže zaujmout široké spektrum konzumentů.
 - icon: "/uploads/2021/07/26/path-1125.svg"
   title: Waf-Waf jako lovebrand
   description: Waf-Waf je díky svému zaměření na kvalitu provedení a jedinečnému zdobení
