@@ -108,7 +108,7 @@ categories:
     product_description: avokádo, špenát, banán, sojové mléko
     product_price: 123
     product_title: WAF&SMOOTHIE GREEN
-  - product_image: "/uploads/2021/09/15/purplesmoothie-small.jpg"
+  - product_image: "/assets/images/purplesmoothie-small.jpg"
     product_title: WAF&SMOOTHIE PURPLE
     product_description: borůvky, banán, kiwi, med
     product_price: 139
