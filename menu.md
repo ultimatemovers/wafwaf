@@ -122,7 +122,7 @@ categories:
     product_title: FRIEDWAF
     product_description: smažená palačinka, kuřecí maso, gouda, špenát, kukuřice
     product_price: 164
-  - product_image: "/uploads/2021/09/15/dalgonwaf-small.jpg"
+  - product_image: "/assets/images/dalgonwaf-small.jpg"
     product_title: DALGONWAF
     product_description: kávový krém, mléko, led
     product_price: 89
