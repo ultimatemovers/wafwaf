@@ -65,17 +65,18 @@ categories:
     product_title: AVOWAF
 - category_title: NÁPOJE & MILKSHAKES
   products:
-  - product_image: "/uploads/2021/09/15/wafrappe-small.jpg"
-    product_title: Wafrape
-    product_description: wafrape....
-    product_price: 123
   - product_image: "/uploads/2021/09/15/jahodovy-cokoladovy-a-bananovy-wafshake-small.jpg"
     product_title: Jahodový, Čokoládový a Banánový Wafshake
     product_description: Jahodový, Čokoládový a Banánový
     product_price: 124
   - product_image: "/uploads/2021/09/15/jahodovy-cokoladovy-a-bananovy-shake-small.jpg"
-    product_title: Jahodový, Čokoládový a Banánový Shake
-    product_description: Jahodový,-Čokoládový-a-Banánový-Shake-SMALL
+    product_title: Čokoládový
+    product_description: mléko, kakao, granko, čokoládová poleva, čokoládová zmrzlina,
+      šlehačka, oreo
+    product_price: 119
+  - product_image: "/uploads/2021/09/15/wafrappe-small.jpg"
+    product_title: Wafrape
+    product_description: wafrape....
     product_price: 123
   - product_image: "/uploads/2021/09/15/pomerancovy-freshjuice-small.jpg"
     product_title: Pomerančový freshjuice
