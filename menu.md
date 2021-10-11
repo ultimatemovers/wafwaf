@@ -23,7 +23,7 @@ categories:
       sirup, domácí šlehačka
 - category_title: SLANÉ
   products:
-  - product_image: "/uploads/2021/09/15/maplewaf-small.jpg"
+  - product_image: "/assets/images/maplewaf-small.jpg"
     product_title: MAPLEWAF
     product_description: vajíčko, slanina, cheddar, rukola, rajče, javorovým sirup
     product_price: 129
