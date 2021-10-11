@@ -8,14 +8,14 @@ categories:
     product_title: CHOCOWAF
     product_description: vanilková poleva, karamelový toping, maliny, oříšky
     product_price: 139
-  - product_price: 134
+  - product_price: 149
     product_image: "/assets/images/waftella-small.jpg"
     product_title: WAFTELLA
     product_description: nutella, oreo, jahody, maliny, mascarpone
   - product_image: "/assets/images/wafreo-small.jpg"
     product_title: WAFREO
     product_description: jahody, nutella, oreo, domácí šlehačka
-    product_price: 134
+    product_price: 149
   - product_price: 134
     product_image: "/assets/images/pearwaf-small.jpg"
     product_title: PEARWAF
