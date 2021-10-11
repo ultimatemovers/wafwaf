@@ -6,13 +6,13 @@
 <div class="franchising-page">
   {% include nav.html %}
 
-  <div class="container py-8 sm:pt-6">
+  <div class="container py-8 sm:pt-6 reveal-delay-2200">
     <div class="mx-auto hero-custom-carousel flex items-center justify-center">
       <div class="overflow-hidden">
         <img src="{{ page.hero_image | img_url: '1200x1200'}}" alt="wafwaf hero" width="100%">
       </div>
     </div>
-    <h1 class="h1 w-full reveal py-3">{{ page.big_title }}</h1>
+    <h1 class="h1 w-full reveal-delay-2200 py-3">{{ page.big_title }}</h1>
     <div class="reveal">
       <h2 class="px-10 sm:px-6 w-full sm:w-4/5 mx-auto mt-8 sm:mt-0 mb-20 text-white subtitle h2">{{  page.subtitle }}</h2>
     </div>
@@ -36,7 +36,7 @@
   <div class="-mt-24 md:mx-24 md:-mt-28 reveal">
     <div class="rubic-pattern top"></div>
     <div class="bg-yellow-dark p-8">
-      <h2 class="h2 w-full reveal">{{ page.second_subtitle }}</h2>
+      <h2 class="h2 w-full">{{ page.second_subtitle }}</h2>
     </div>
     <div class="rubic-pattern bottom"></div>
   </div>

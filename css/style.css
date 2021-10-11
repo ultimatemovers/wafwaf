@@ -106,7 +106,7 @@ html, body, div, p {
 body {
   padding-bottom: 2rem;
   opacity: 0;
-  animation: 4s bodyLoad forwards;
+  animation: 3s bodyLoad forwards;
 }
 
 @keyframes bodyLoad {

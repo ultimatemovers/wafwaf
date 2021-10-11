@@ -118,7 +118,6 @@
   const swiper = new Swiper(".custom-carousel", {
     cssMode: true,
     loop: true,
-
     responsive: true,
     autoplay: {
       delay: 3000,
@@ -236,6 +235,12 @@
   }
   if(document.querySelector('.reveal-delay-700')) {
     ScrollReveal().reveal('.reveal-delay-700', { delay: 700, distance: '100px', duration: 2000, origin: 'bottom', easing: 'linear' });
+  }
+  if(document.querySelector('.reveal-delay-4000')) {
+    ScrollReveal().reveal('.reveal-delay-4000', { delay: 200, distance: '100px', duration: 2000, origin: 'bottom', easing: 'cubic-bezier(.83,.03,.07,.37)' });
+  }
+  if(document.querySelector('.reveal-delay-2200')) {
+    ScrollReveal().reveal('.reveal-delay-2200', { delay: 2200, distance: '100px', duration: 2000, origin: 'bottom', easing: 'cubic-bezier(.83,.03,.07,.37)' });
   }
   if(document.querySelector('.reveal-footer')) {
     ScrollReveal().reveal('.reveal-footer', { delay: 100, distance: '20px', duration:2500, origin: 'bottom', easing: 'linear' });
