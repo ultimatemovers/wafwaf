@@ -105,6 +105,32 @@ html, body, div, p {
 
 body {
   padding-bottom: 2rem;
+  opacity: 0;
+  animation: 4s bodyLoad forwards;
+}
+
+@keyframes bodyLoad {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes bodyLoad {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 .h1 {
