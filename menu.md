@@ -70,7 +70,7 @@ categories:
     product_description: mléko, kakao, granko, čokoládová poleva, čokoládová zmrzlina,
       šlehačka, oreo
     product_price: 119
-  - product_image: ''
+  - product_image: "/assets/images/jahodovy-cokoladovy-a-bananovy-shake-small.jpg"
     product_title: Jahodový Milkshake
     product_description: mléko, jahody, vanilková zmrzlina, jahodový toping, šlehačka
     product_price: 119
