@@ -154,8 +154,10 @@ locations:
     sítě Waf-Waf. Samozřejmostí je možnost odnést si jídlo s sebou. '
   image_right_portrait: "/uploads/2021/09/28/brno4.jpg"
   footer_image: "/uploads/2021/09/28/brno-6.jpg"
-  footer_description: Radost uděláme i veganům, protože už i vegani si můžou sestavit
-    vafli podle sebe! Stačí zaškrtnout políčko veganská vafle. Na pobočku smí i pejsci.
+  footer_description: |-
+    Radost uděláme i veganům, protože už i vegani si můžou sestavit vafli podle sebe! Stačí zaškrtnout políčko veganská vafle. Na pobočku smí i pejsci.
+
+    Z této pobočky také probíhá rozvoz Waf-Waf produktů do různých koutů Brna. Objednávat můžete na těchto platformách:
   wolt: true
   wolt_url: https://wolt.com/cs/cze/brno/restaurant/waf-waf-brno
   boltfood: true
