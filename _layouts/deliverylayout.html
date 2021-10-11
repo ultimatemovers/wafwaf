@@ -29,19 +29,19 @@
           <h3 class="h3 my-2">{{ location.location_title }}</h3>
           <div class="mt-6">
             {% if location.wolt %}
-              <a target="_blank" href="{{ location.wolt_url }}" class="delivery-btn flex items-center justify-center">
+              <a target="_blank" href="{{ location.wolt_url }}" class="delivery-btn flex items-center justify-center btn-zoom-in-out">
                 <!-- <img src="/img/wolt.png" alt="wolt" height="28" style="height: 28px;"> -->
                 WOLT
               </a>
             {% endif %}
             {% if location.boltfood %}
-              <a target="_blank" href="{{ location.boltfood_url }}" class="delivery-btn flex items-center justify-center mt-6">
+              <a target="_blank" href="{{ location.boltfood_url }}" class="delivery-btn flex items-center justify-center mt-6 btn-zoom-in-out">
                 <!-- <img src="/img/boltfood.png" alt="wolt" height="43" style="height: 43px;"> -->
                 BOLT FOOD
               </a>
             {% endif %}
             {% if location.damejidlo %}
-              <a target="_blank" href="{{ location.jidlo_url }}" class="delivery-btn flex items-center justify-center mt-6">
+              <a target="_blank" href="{{ location.jidlo_url }}" class="delivery-btn flex items-center justify-center mt-6 btn-zoom-in-out">
                 <!-- <img src="/img/damejidlo.png" alt="wolt" height="37" style="height: 37px;"> -->
                 DAME JIDLO
               </a>
