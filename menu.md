@@ -48,8 +48,8 @@ categories:
     product_description: sázená vajíčka, slanina, cheddar, baby špenát, cherry rajčátka,
       pažitka a kousky vaflí polité cheddarem
     product_price: 139
-  - product_image: "/uploads/2021/09/15/waf-wood-small.jpg"
-    product_title: WAF&FOOD
+  - product_image: "/assets/images/waf-wood-small.jpg"
+    product_title: WAF&WOOD
     product_description: plněné kousky čokolády, lesní ovoce, javorový sirup, domácí
       šlehačka
     product_price: 134
