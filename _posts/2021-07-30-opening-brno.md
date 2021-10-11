@@ -15,4 +15,4 @@ Při práci na HPP Vám můžeme nabídnout zajímavý výdělek a bonusy za pln
 
 Dále také nabízíme: pracovní oblečení, finanční odměny za zaměstnance měsíce, možnosti MultiSport Card, stravování z naší nabídky
 
-Vypsané pozice, které jsou aktuálně k dispozici naleznete [zde](https://wafwaf.vercel.app/jobs)
+Vypsané pozice, které jsou aktuálně k dispozici:
