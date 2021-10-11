@@ -50,10 +50,9 @@ accordions: []
 layout: franchising
 faq_title: FAQ K FRANCHISE POBOCCE
 faq:
-- question: Potřebuji zkušenosti proto, abych mohl začít s Waf-Waf franchise?
-  answer: Není zapotřebí zkušeností, pokud je odhodlání, motivace. Každopádně zkušenosti,
-    zcela jistě vítáme a takový uchyzeči u nás budou mít určitou výhodu rychlejšího
-    začlenění v rámci samotného byznysu.
+- question: Je zapotřebí zaplatit kauci?
+  answer: Ano, kauce je splatná při podpisu SOSB a platí pro zúčtování při vážném
+    porušení smlouvy a také jako garance kontraktu ve výši 500.000Kč
 - question: Jaká je minimální velikost pobočky Waf-Waf?
   answer: Doporučujeme mít velikost větší než 80-180m2, musíme počítat s tím, že
     zde bude zasazena fast-casual kuchyně a take zásobování či popřípadě sklad.
@@ -73,5 +72,18 @@ faq:
   answer: Jaké konkrétní zásoby je zapotřebí nakupovat od naší společnosti je obsaženo
     ve franchisové smlouvě. Některé jsou zapotřebí nakupovat napřímo a některé
     přes naše obchodní partnery.
+- question: Potřebuji zkušenosti proto, abych mohl začít s Waf-Waf franchise?
+  answer: Není zapotřebí zkušeností, pokud je odhodlání, motivace. Každopádně zkušenosti,
+    zcela jistě vítáme a takový uchyzeči u nás budou mít určitou výhodu rychlejšího
+    začlenění v rámci samotného byznysu.
+- question: Jak se můžu postarat o marketing v rámci otevření pobočky Waf-Waf?
+  answer: V rámci jednoduchých marketingových činnosti budete zaškoleni, například
+    ke správě vlastních sociálních médií či stránek hodnotících vaši provozovnu.
+- question: 'Jaký je Váš měsíční poplatek, který musím hradit? '
+  answer: V závislosti na několika faktorech, které jsou obsahem franchisové smlouvy
+    se měsíční poplatek může měnit od 10-12%.
+- question: 'Je zapotřebí zaplatit licenční poplatek? '
+  answer: Ano, licenční poplatek, který zahranuje práva na úžívání kompletního brandu
+    Waf- Waf a práva na jeho používání je 750.000Kč.
 
 ---
