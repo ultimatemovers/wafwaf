@@ -32,7 +32,7 @@ categories:
     product_description: trhané hovězí maso,  cheddarová omáčka, grilovaná rajčata,
       cibule, salát, brusinky
     product_price: 139
-  - product_image: "/uploads/2021/07/20/mask-group-133.png"
+  - product_image: "/assets/images/ironwaf-small.jpg"
     product_title: IRONWAF
     product_description: vajíčko, slanina, cheddar, rukola
     product_price: 134
