@@ -96,7 +96,7 @@ categories:
     product_price: 179
 - category_title: SPECIÁLNÍ NABÍDKA by HONZA VOREL
   products:
-  - product_image: "/uploads/2021/09/15/halloumiwaf-small.jpg"
+  - product_image: "/assets/images/halloumiwaf-small.jpg"
     product_title: HALOUMIWAF
     product_description: avokádová pomazánka, haloumi sýr, rukola, rajče
     product_price: 159
