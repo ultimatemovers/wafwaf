@@ -65,6 +65,11 @@ categories:
     product_title: AVOWAF
 - category_title: NÁPOJE & MILKSHAKES
   products:
+  - product_image: ''
+    product_title: Jahodový Wafshake
+    product_description: mléko, jahody, vanilková zmrzlina, jahodový toping, šlehačka,
+      vafle
+    product_price: 189
   - product_image: "/uploads/2021/09/15/jahodovy-cokoladovy-a-bananovy-shake-small.jpg"
     product_title: Čokoládový Milkshake
     product_description: mléko, kakao, granko, čokoládová poleva, čokoládová zmrzlina,
