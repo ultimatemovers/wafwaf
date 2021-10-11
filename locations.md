@@ -54,11 +54,11 @@ locations:
     prostorné zahrádce ve vnitronloku. Samozřejmostí je možnost take-away a to zcela
     zdarma. Do naší provozovny Waf-Waf na Letné mají také povolený vstup pejsci. Na
     pobočce provádíme rezervace pro více než jeden stůl.
-  image_left: "/uploads/2021/08/15/faf4233d-f364-4045-a10f-47b83c6cf868.png"
+  image_left: "/assets/images/20200119_085523000_ios.jpg"
   third_column_under_image: Pobočka se nám rozrostla o zimní zateplenou zahradu/venkovní
     zahradu přes léto a tím se i zvýšila kapacita pobočky na 60 lidí.
   image_right_portrait: "/uploads/2021/08/15/20200109_095725000_ios-1.png"
-  footer_image: "/uploads/2021/08/15/img_1675.png"
+  footer_image: "/assets/images/kancelar1.jpg"
   footer_description: 'Z této pobočky také probíhá rozvoz Waf-Waf produktů do různých
     koutů Prahy. Objednávat můžete na těchto platformách:'
   wolt: true
