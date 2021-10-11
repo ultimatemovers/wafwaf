@@ -80,9 +80,10 @@ categories:
       posypky, šlehačka
     product_price: 109
   - product_image: "/uploads/2021/09/15/jahodovy-cokoladovy-a-bananovy-wafshake-small.jpg"
-    product_title: Jahodový, Čokoládový a Banánový Wafshake
-    product_description: Jahodový, Čokoládový a Banánový
-    product_price: 124
+    product_title: Čokoládový Wafshake
+    product_description: mléko, kakao, granko, čokoládová poleva, čokoládová zmrzlina,
+      šlehačka, oreo, vafle
+    product_price: 189
   - product_image: "/uploads/2021/09/15/wafrappe-small.jpg"
     product_title: Wafrape
     product_description: wafrape....
