@@ -6,8 +6,8 @@ categories:
   products:
   - product_image: "/assets/images/chocowaf-small.jpg"
     product_title: CHOCOWAF
-    product_description: vanilková poleva, karamelový, maliny, oříšky
-    product_price: 129
+    product_description: vanilková poleva, karamelový toping, maliny, oříšky
+    product_price: 139
   - product_price: 134
     product_image: "/assets/images/waftella-small.jpg"
     product_title: WAFTELLA
