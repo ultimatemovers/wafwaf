@@ -12,12 +12,12 @@ categories:
     product_image: "/assets/images/waftella-small.jpg"
     product_title: WAFTELLA
     product_description: nutella, oreo, jahody, maliny, mascarpone
-  - product_image: "/assets/images/wafreo-small2.jpg"
+  - product_image: "/assets/images/wafreo-small.jpg"
     product_title: WAFREO
     product_description: jahody, nutella, oreo, domácí šlehačka
     product_price: 134
   - product_price: 134
-    product_image: "/uploads/2021/09/15/pearwaf-small.jpg"
+    product_image: "/assets/images/pearwaf-small.jpg"
     product_title: PEARWAF
     product_description: glazované hrušky, cini minis, čokoládové kousky, javorový
       sirup, domácí šlehačka
