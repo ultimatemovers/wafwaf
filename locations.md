@@ -124,12 +124,18 @@ locations:
   first_left_image: "/uploads/2021/09/28/brno2.jpg"
   location_name: WAF-WAF VELKÝ ŠPALÍČEK
   location_address: Mečová 695/2, 602 00 Brno-střed
-  location_contact: "Otevírací doba: \n\nPondělí - Neděle: dočasně uzavřeno \n\nKontaktní
-    telefonní číslo: +420602728121 \n\nKontaktní email: letna@waf-waf.cz"
+  location_contact: |-
+    Otevírací doba:
+
+    Pondělí - Neděle: 09:00 – 20:00
+
+    Kontaktní telefonní číslo: +420 608 918 243
+
+    Kontaktní email: brno.spalicek@waf-waf.cz
   location_description: Na této pobočce si můžete vyzvednout jídlo s sebou. Slečny
     Vám zabalí naše produkty do hezkého obalu a dají Vám papírovou tašku pro snazší
     odnos vaflí, lívanců nebo palačinek.
-  contact_number: "+420602728121\L"
+  contact_number: "++420 608 918 243\L"
   first_column_above_image: Brněnská pobočka se otevřela 17.11. 2019 a nabízí kompletní
     sortiment konceptu Waf-Waf, ať už se jedná o oblíbené vafle, palačinky, lívance
     nebo i milkshakes, fresh-juices a další originální produkty jako SushiWaf, BigWaf,
