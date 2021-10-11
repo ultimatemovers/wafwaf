@@ -53,7 +53,7 @@ categories:
     product_description: plněné kousky čokolády, lesní ovoce, javorový sirup, domácí
       šlehačka
     product_price: 134
-  - product_image: "/uploads/2021/09/15/cream-waf-small.jpg"
+  - product_image: "/assets/images/cream-waf-small.jpg"
     product_title: CREAM&WAF
     product_description: plněné zakysanou smetanou, jahodama a cukrem, polité jahodovým
       topingem
