@@ -43,7 +43,7 @@ categories:
     product_price: 129
 - category_title: SNÍDANĚ
   products:
-  - product_image: "/uploads/2021/09/15/eggwaf-small.jpg"
+  - product_image: "/assets/images/eggwaf-small.jpg"
     product_title: EGGWAF
     product_description: sázená vajíčka, slanina, cheddar, baby špenát, cherry rajčátka,
       pažitka a kousky vaflí polité cheddarem
