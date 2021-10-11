@@ -114,7 +114,7 @@ categories:
     product_price: 139
 - category_title: WAF-WAF GIRLS
   products:
-  - product_image: "/uploads/2021/09/15/wafchick-small.jpg"
+  - product_image: "/assets/images/wafchick-small.jpg"
     product_title: WAFCHICK
     product_description: vafle, maxi kuřecí strips, salát, okurka, majonéza
     product_price: 169
