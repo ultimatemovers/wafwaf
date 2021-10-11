@@ -112,12 +112,12 @@ categories:
     product_title: WAF&SMOOTHIE PURPLE
     product_description: borůvky, banán, kiwi, med
     product_price: 139
-- category_title: WAF GIRLS MENU
+- category_title: WAF-WAF GIRLS
   products:
   - product_image: "/uploads/2021/09/15/wafchick-small.jpg"
-    product_title: WAF CHICK
-    product_description: Chicken...
-    product_price: 125
+    product_title: WAFCHICK
+    product_description: vafle, maxi kuřecí strips, salát, okurka, majonéza
+    product_price: 169
   - product_image: "/uploads/2021/09/15/friedwaf-small.jpg"
     product_title: FRIED WAF
     product_description: Fried
