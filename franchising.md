@@ -50,6 +50,10 @@ accordions: []
 layout: franchising
 faq_title: FAQ K FRANCHISE POBOCCE
 faq:
+- question: Potřebuji zkušenosti proto, abych mohl začít s Waf-Waf franchise?
+  answer: Není zapotřebí zkušeností, pokud je odhodlání, motivace. Každopádně zkušenosti,
+    zcela jistě vítáme a takový uchyzeči u nás budou mít určitou výhodu rychlejšího
+    začlenění v rámci samotného byznysu.
 - question: Jaká je minimální velikost pobočky Waf-Waf?
   answer: Doporučujeme mít velikost větší než 80-180m2, musíme počítat s tím, že
     zde bude zasazena fast-casual kuchyně a take zásobování či popřípadě sklad.
