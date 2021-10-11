@@ -34,7 +34,7 @@ proccess:
 - image: "/uploads/2021/07/27/group-45862.svg"
   name: Pockejte, nez Vam pager zazvoni
 - image: "/uploads/2021/07/27/group-45866.svg"
-  name: Prijdte s pagerem pro objednavku a vychutnejte si jidlo
+  name: Přijďte s pagerem pro objednávku a vychutnejte si jídlo
 layout: about
 subtitle: ''
 
