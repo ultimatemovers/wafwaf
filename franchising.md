@@ -1,7 +1,7 @@
 ---
 hero_image: "/uploads/2021/07/26/franchising.png"
 big_title: Franchising
-subtitle: Strategické poliře společnosti
+subtitle: Strategické pilíře společnosti
 second_subtitle: Chcete tedy originální znacku a stát se obchodním partnerem rychle
   rostoucí spolecnosti?
 concept:
