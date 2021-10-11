@@ -106,12 +106,12 @@ categories:
     product_price: 149
   - product_image: "/assets/images/greensmoothie-small.jpg"
     product_description: avokádo, špenát, banán, sojové mléko
-    product_price: 123
+    product_price: 99
     product_title: WAF&SMOOTHIE GREEN
   - product_image: "/assets/images/purplesmoothie-small.jpg"
     product_title: WAF&SMOOTHIE PURPLE
     product_description: borůvky, banán, kiwi, med
-    product_price: 139
+    product_price: 99
 - category_title: WAF-WAF GIRLS
   products:
   - product_image: "/assets/images/wafchick-small.jpg"
