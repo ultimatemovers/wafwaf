@@ -93,7 +93,7 @@ categories:
     product_title: Banánový Wafshake
     product_description: mléko, banán, vanilková zmrzlina, karamelový toping, barevné
       posypky, šlehačka, vafle
-    product_price: 179
+    product_price: 189
 - category_title: SPECIÁLNÍ NABÍDKA by HONZA VOREL
   products:
   - product_image: "/assets/images/halloumiwaf-small.jpg"
