@@ -55,8 +55,9 @@ categories:
     product_price: 134
   - product_image: "/uploads/2021/09/15/cream-waf-small.jpg"
     product_title: CREAM&WAF
-    product_description: nutella, oreo, jahody, maliny, mascarpone
-    product_price: 150
+    product_description: plněné zakysanou smetanou, jahodama a cukrem, polité jahodovým
+      topingem
+    product_price: 129
   - product_image: "/uploads/2021/09/15/avowaf-small.jpg"
     product_description: nutella, oreo, jahody, maliny, mascarpone
     product_price: 150
