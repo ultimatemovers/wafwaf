@@ -1015,6 +1015,20 @@ header nav .menu-item.active {
   line-height: 1.3rem !important;
 }
 
+.field_title {
+  min-height: 100px;
+}
+
+.field_title,
+.field_content,
+
+.field_content p {
+  font-family: 'BrandonText-Bold', sans-serif;
+  font-size: 1.5rem;
+  font-weight: bold;
+  line-height: 42px;
+}
+
 .store-title{
   min-height: 80px;
 }
@@ -1099,7 +1113,7 @@ header nav .menu-item.active {
   height: 60px;
   position: absolute;
   right: -30px;
-  top: 0
+  top: -30px
 }
 
 /* Instagram */
@@ -1294,6 +1308,10 @@ footer #newsletter input::placeholder {
     font-size: 30px;
     line-height: 35px;
     text-align: left;
+  }
+
+  .h2.text-center {
+    text-align: center;
   }
 
   .homepage-delivery-img {
