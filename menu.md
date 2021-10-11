@@ -27,7 +27,7 @@ categories:
     product_title: MAPLEWAF
     product_description: vajíčko, slanina, cheddar, rukola, rajče, javorovým sirup
     product_price: 129
-  - product_image: "/uploads/2021/09/15/beefwaf-small.jpg"
+  - product_image: "/assets/images/beefwaf-small.jpg"
     product_title: BEEFWAF
     product_description: trhané hovězí maso,  cheddarová omáčka, grilovaná rajčata,
       cibule, salát, brusinky
