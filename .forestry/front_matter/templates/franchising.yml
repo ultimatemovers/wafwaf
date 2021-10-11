@@ -153,5 +153,27 @@ fields:
   config:
     required: false
   label: Mam Zajem URL
+- name: after_faq
+  type: field_group_list
+  fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Title
+  - name: content
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Content
+  config:
+    min: 
+    max: 3
+    labelField: 
+  label: After FAQ
 pages:
 - franchising.md
