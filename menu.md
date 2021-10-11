@@ -4,7 +4,7 @@ layout: menu
 categories:
 - category_title: SLADKÉ
   products:
-  - product_image: "/uploads/2021/09/15/chocowaf-small.jpg"
+  - product_image: "/assets/images/chocowaf-small.jpg"
     product_title: CHOCOWAF
     product_description: vanilková poleva, karamelový, maliny, oříšky
     product_price: 129
