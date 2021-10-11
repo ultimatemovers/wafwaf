@@ -7,7 +7,7 @@ categories:
   - product_image: "/assets/images/wafreo-small2.jpg"
     product_title: WAFREO
     product_description: jahody, nutella, oreo, domácí šlehačka
-    product_price: 112
+    product_price: 134
   - product_price: 134
     product_image: "/uploads/2021/09/15/waftella-small.jpg"
     product_title: WAFTELLA
