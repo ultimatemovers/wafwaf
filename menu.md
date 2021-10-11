@@ -100,7 +100,7 @@ categories:
     product_title: HALOUMIWAF
     product_description: avokádová pomazánka, haloumi sýr, rukola, rajče
     product_price: 159
-  - product_image: "/uploads/2021/09/15/skywaf-small.jpg"
+  - product_image: "/assets/images/skywaf-small.jpg"
     product_title: SKYWAF
     product_description: vafle, salko toping, jahody, lotus posyp a sušenka
     product_price: 149
