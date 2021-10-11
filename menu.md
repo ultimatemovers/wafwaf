@@ -74,12 +74,12 @@ categories:
     product_title: Jahodový Milkshake
     product_description: mléko, jahody, vanilková zmrzlina, jahodový toping, šlehačka
     product_price: 119
-  - product_image: ''
+  - product_image: "/assets/images/jahodovy-cokoladovy-a-bananovy-shake-small.jpg"
     product_title: Banánový Milkshake
     product_description: mléko, banán, vanilková zmrzlina, karamelový toping, barevné
       posypky, šlehačka
     product_price: 109
-  - product_image: "/uploads/2021/09/15/jahodovy-cokoladovy-a-bananovy-wafshake-small.jpg"
+  - product_image: "/assets/images/jahodovy-cokoladovy-a-bananovy-wafshake-small.jpg"
     product_title: Čokoládový Wafshake
     product_description: mléko, kakao, granko, čokoládová poleva, čokoládová zmrzlina,
       šlehačka, oreo, vafle
