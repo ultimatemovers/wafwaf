@@ -3,7 +3,7 @@ locations_title: Naše pobočky
 hero_image: "/uploads/2021/08/16/20111231_230000000_ios-103.png"
 locations:
 - local_image: "/uploads/2021/08/16/img_6806.png"
-  first_left_image: "/uploads/2021/08/15/mask-group-34.png"
+  first_left_image: "/assets/images/letna-prvni-foto-vlevo-misto-te-rozmazane.jpg"
   location_name: WAF-WAF LETNÁ
   location_address: Milady Horákové 52, Praha 7
   location_contact: "Otevírací doba: \n\nPondělí - Neděle: dočasně uzavřeno \n\nKontaktní
