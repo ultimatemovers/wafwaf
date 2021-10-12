@@ -137,7 +137,7 @@
   })
 
 
-  if(document.body.id !== 'menu'){
+  if(document.body.id !== 'menu' && !isMobile){
     const containerWidth = document.querySelector('.container').offsetWidth
     const heroCustomCarousel = document.querySelector('.hero-custom-carousel')
 
