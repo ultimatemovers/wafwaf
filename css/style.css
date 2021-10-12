@@ -1152,6 +1152,15 @@ h2.instagram-title {
   cursor: pointer;
 }
 
+.latest-posts-item-image,
+.page-store-item-image {
+  width: 100%;
+  aspect-ratio: 1/1;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  border-radius: 50%;
+}
 
 /* Footer */
 footer.site-footer {

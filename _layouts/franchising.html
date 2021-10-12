@@ -46,7 +46,7 @@
     <div class="flex flex-wrap justify-between mt-10 md:mt-32">
       {% for store in page.stores %}
         <div class="mt-24 lg:mt-0 w-full lg:w-1/4 reveal-delay-{{ forloop.index | plus: 1}}00">
-          <img src="{{ store.image }}" alt="{{ store.title }}" class="store-image img-center-mobile">
+          <div class="page-store-item-image" style="background-image: url('{{ store.image }}');"></div>
           <h3 class="h3 store-title mt-10 text-center">{{ store.title }}</h3>
           <div class="store-description md:mt-10">
             {{ store.description | markdownify }}
