@@ -8,8 +8,8 @@ delivery: Rozvážíme každý den od 08:00 do 21:00
 layout: homepage
 hero_images:
 - "/uploads/2021/07/20/heroimage-2.png"
+- "/assets/images/treti-uvodni-fotka-na-homepage-misto-te-usekle-palacinky.jpg"
 - "/uploads/2021/07/20/breakfast-1.png"
-- "/uploads/2021/07/20/mask-group-135.png"
 showcase_images:
 - "/uploads/2021/07/20/mask-group-132.png"
 - "/uploads/2021/07/20/mask-group-133.png"

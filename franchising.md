@@ -1,5 +1,5 @@
 ---
-hero_image: "/uploads/2021/07/26/franchising.png"
+hero_image: "/assets/images/franchising-uvodni-fotka-nerozmazana.jpg"
 big_title: Franchising
 subtitle: Strategické pilíře společnosti
 second_subtitle: Chcete tedy originální značku a stát se obchodním partnerem rychle
@@ -35,13 +35,13 @@ concept:
     Waf-Waf tak nabízí ideální kombinaci pro úspěšnou franšízovou expanzi, kterou
     Společnost plánuje v budoucnu započít.
 stores:
-- image: "/assets/images/20111231_230000000_ios-103.jpg"
+- image: "/assets/images/20111231_230000000_ios-103-modified.png"
   description: " "
   title: Pobočka v OC (80 – 180m2)
-- image: "/uploads/2021/07/26/mask-group-3.png"
+- image: "/assets/images/waf-waf-ipak-misto-te-fotky-s-ruzovou-kytkou-mala-fotka-v-uvodnim-ramecku.jpg"
   description: " "
   title: High street koncept – (60m2 – 150m2)
-- image: "/uploads/2021/07/26/mask-group-7.png"
+- image: "/assets/images/stand-concept.jpg"
   description: " "
   title: Stand koncept – (20 – 50m2)
 third_subtitle: KONCEPTY – WAF-WAF FRANCHISE
