@@ -35,7 +35,7 @@ concept:
     Waf-Waf tak nabízí ideální kombinaci pro úspěšnou franšízovou expanzi, kterou
     Společnost plánuje v budoucnu započít.
 stores:
-- image: "/assets/images/20111231_230000000_ios-103.jpg"
+- image: "/assets/images/20111231_230000000_ios-103-modified.png"
   description: " "
   title: Pobočka v OC (80 – 180m2)
 - image: "/uploads/2021/07/26/mask-group-3.png"
