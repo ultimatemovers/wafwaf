@@ -1,5 +1,5 @@
 ---
-hero_image: "/uploads/2021/07/27/fastcasualsystem.png"
+hero_image: "/assets/images/nas-pribeh-uvodni-fotka.jpg"
 big_title: Náš příběh
 first_section:
   icon: "/uploads/2021/07/27/group-6357.svg"
