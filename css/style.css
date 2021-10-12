@@ -893,7 +893,6 @@ header nav .menu-item.active {
   animation: zoom-out 1s ease-in-out forwards;
   border-radius: 20px;
   overflow: hidden;
-  aspect-ratio: 16/10;
 }
 
 /* Animations */
@@ -1315,6 +1314,11 @@ footer #newsletter input::placeholder {
 
   #jobs header {
     background: #CF909B;
+  }
+
+  .hero-custom-carousel img,
+  .swiper-slide img {
+    aspect-ratio: 16/9;
   }
 
   .h1 {
