@@ -41,7 +41,7 @@ stores:
 - image: "/uploads/2021/07/26/mask-group-3.png"
   description: " "
   title: High street koncept – (60m2 – 150m2)
-- image: "/uploads/2021/07/26/mask-group-7.png"
+- image: "/assets/images/stand-concept.jpg"
   description: " "
   title: Stand koncept – (20 – 50m2)
 third_subtitle: KONCEPTY – WAF-WAF FRANCHISE
