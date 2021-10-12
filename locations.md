@@ -82,7 +82,7 @@ locations:
   damejidlo: true
   damejidlo_url: https://www.damejidlo.cz/restaurant/p3ug/waf-waf-paladium
   location_gmaps_url: https://g.page/wafwafpalladium
-- local_image: "/uploads/2021/09/15/20190628_112623280_ios.jpg"
+- local_image: "/assets/images/highstreetconcept.jpg"
   first_left_image: "/uploads/2021/09/15/20190628_115452000_ios.jpg"
   location_name: WAF-WAF IPÁK
   location_address: Bělehradská 67, 120 00 Nové Město
