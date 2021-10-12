@@ -1612,6 +1612,10 @@ footer #newsletter input::placeholder {
     -webkit-transform: none!important;
         -ms-transform: none!important;
             transform: none!important;
+    border-radius: 20px;
+    overflow: hidden;
+    aspect-ratio: 1/1!important;
+    max-height: 246px;
   }
   .showcase-item.swiper-slide-active {
     opacity: 1!important;
