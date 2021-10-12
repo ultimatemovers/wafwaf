@@ -877,6 +877,10 @@ header nav .menu-item.active {
   overflow: hidden;
 }
 
+.hero-custom-carousel img {
+  border-radius: 20px;
+}
+
 .hero-custom-carousel img,
 .swiper-slide img {
   -webkit-transition: all 0.7s ease;
@@ -887,6 +891,9 @@ header nav .menu-item.active {
       transform: scale(1.5);
   -webkit-animation: -webkit-zoom-out 1s ease-in-out forwards;
   animation: zoom-out 1s ease-in-out forwards;
+  border-radius: 20px;
+  overflow: hidden;
+  aspect-ratio: 16/10;
 }
 
 /* Animations */
@@ -1292,7 +1299,7 @@ footer #newsletter input::placeholder {
 }
 
 @media (max-width: 460px) {
-  body{
+  body {
     padding-top: 90px;
   }
 
@@ -1304,6 +1311,10 @@ footer #newsletter input::placeholder {
     top: 0;
     left: 0;
     right: 0;
+  }
+
+  #jobs header {
+    background: transparent;
   }
 
   .h1 {
@@ -1610,7 +1621,9 @@ footer #newsletter input::placeholder {
     width: 36px;
   }
 
-
+  .single-location h3 {
+    min-height: auto;
+  }
 }
 
 @media (min-width: 1439px) {

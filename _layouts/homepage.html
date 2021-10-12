@@ -37,7 +37,7 @@
           <div class="latest-posts-item-image" style="background-image: url('{{ post.feature_image }}');"></div>
           <h4 class="post-title mt-8 mb-6 sm:mb-12 sm:w-3/4 sm:mx-auto lg:w-full">{{ post.title }}</h4>
           <div class="post-content sm:w-3/4 sm:mx-auto lg:w-full">{{ post.content }}</div>
-          {% if post.post_url == '' %}
+          {% if post.post_url != '' %}
           <a target="_blank" href="{{ post.post_url }}" class="sm:w-1/2 lg:w-full rounded-outline-btn mt-6 block btn-zoom-in-out">ZJISTIT VIC</a>
           {% endif %}
         </div>
@@ -67,7 +67,7 @@
   </div>
 </div>
 <div class="container px-0 reveal">
-  <h2 class="h2 w-full mx-auto text-center mt-10 sm:mb-16 px-6 sm:px-0">{{ page.breakfast }}</h2>
+  <h2 class="h2 w-full mx-auto text-center mt-10 sm:mb-16 px-12 sm:px-0">{{ page.breakfast }}</h2>
   <!-- <div class="w-4/5 sm:w-1/5 mx-auto mb-12 my-8 sm:mb-24">
     <a href="/delivery" class="black-btn block reveal btn-zoom-in-out">OBJEDNAT</a>
   </div> -->
