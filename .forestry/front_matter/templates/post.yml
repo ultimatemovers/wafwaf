@@ -27,6 +27,7 @@ fields:
     maxSize: 64
   label: Feature image
   default: "/uploads/2021/07/30/featured.png"
+  description: Image must be in 1:1 aspect ratio (eg. 600x600, 1000x1000)
 - name: layout
   type: text
   config:
