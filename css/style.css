@@ -1661,6 +1661,12 @@ footer #newsletter input::placeholder {
     max-height: 180px;
   }
 
+  .single-product-img{
+    /* aspect-ratio: 1/1; */
+    aspect-ratio: unset;
+    padding-top: 100%;
+  }
+
   .single-location h3 {
     min-height: auto;
   }
