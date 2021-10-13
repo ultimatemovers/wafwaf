@@ -49,9 +49,6 @@ accordions: []
 layout: franchising
 faq_title: FAQ K FRANCHISE POBOČCE
 faq:
-- question: Je zapotřebí zaplatit kauci?
-  answer: Ano, kauce je splatná při podpisu SOSB a platí pro zúčtování při vážném
-    porušení smlouvy a také jako garance kontraktu ve výši 500.000Kč
 - question: Jaká je minimální velikost pobočky Waf-Waf?
   answer: |-
     Doporučujeme mít velikost větší než 20m2, když je stánek v obchodním centru.
@@ -67,10 +64,6 @@ faq:
   answer: Minimální kapitál se bude pohybovat kolem 1 500 000 Kč – 6 000 000 Kč v
     závislosti na velikost pobočky a její stavební připravenosti. Investice tak může
     být výrazně menší a nebo take vyšší.
-- question: Jak rychlá je návratnost investice?
-  answer: Opět záleží na velikosti pobočky a kapacitě pobočky či její doporučené lokalitě.
-    Každopádně u menšího obchodu předpokládáme kolem 1 rok a u větších se můžeme bavit
-    o 15-30 měsících v závislosti na několika faktorech.
 - question: Jakou doporučujete lokalitu k umístění pobočky Waf-Waf?
   answer: Ve městech nad 50 000 obyvatel a na jeho hlavních místech.
 - question: Musím kupovat zásoby přímo od Vás?
@@ -84,8 +77,14 @@ faq:
 - question: Jak se můžu postarat o marketing v rámci otevření pobočky Waf-Waf?
   answer: V rámci jednoduchých marketingových činnosti budete zaškoleni, například
     ke správě vlastních sociálních médií či stránek hodnotících vaši provozovnu.
+- question: Jak rychlá je návratnost investice?
+  answer: Opět záleží na velikosti pobočky a kapacitě pobočky či její doporučené lokalitě.
+    Každopádně u menšího obchodu předpokládáme kolem 1 rok a u větších se můžeme bavit
+    o 15-30 měsících v závislosti na několika faktorech.
 - question: 'Jaký je Váš měsíční poplatek, který musím hradit? '
   answer: Měsíční poplatek činí 12%.
+- question: Je zapotřebí zaplatit kauci?
+  answer: Ano, kauce činí 500.000kč a je vratná po ukončení franchisingové smlouvy.
 - question: 'Je zapotřebí zaplatit licenční poplatek? '
   answer: Ano, licenční poplatek, který zahrnuje práva na užívání kompletního brandu
     Waf-Waf a práva na jeho používání je 750.000Kč + DPH.
