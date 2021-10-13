@@ -697,7 +697,8 @@ html .load-hidden {
 
 .single-location img{
   border-radius: 20px;
-  aspect-ratio: 11∶7;
+  height: 140px;
+  width: 220px;
 }
 
 .single-location h3{
