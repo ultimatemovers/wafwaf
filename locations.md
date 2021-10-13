@@ -48,7 +48,7 @@ locations:
   location_contact: |-
     Otevírací doba:
 
-    Pondělí - Neděle: 08:00 – 20:00
+    Pondělí - Neděle: 09:00 – 20:00
 
     Kontaktní telefonní číslo: + 420 725 745 898
 
