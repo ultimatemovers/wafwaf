@@ -19,12 +19,12 @@ concept:
   description: Waf-Waf je díky svému zaměření na kvalitu provedení a jedinečnému zdobení
     velmi oblíbený především u mladé generace, která si jídlo ráda fotí a sdílí na
     sociálních sítích, což Společnosti pomáhá vytvářet efektivní virální kampaně.
-    Aby Společnost toto zapojení zákazníku do marketingu ještě více podpořila, začala
+    Aby Společnost toto zapojení zákazníků do marketingu ještě více podpořila, začala
     spolupracovat se známými českými influencery, kteří propagují značku Waf-Waf mezi
     svou širokou základnu fanoušků. Úspěch této strategie je již dnes vidět na velkém
-    počtu fanoušků Společnosti na sociálních sítí, kdy má za rok působení na Facebooku
-    přes 23 tis. fanoušků, a na Instagramu dokonce přes 27 tis. Z Waf-Waf se tak postupně
-    stává tzv. „lovebrand“, kdy se její zákazníci stávají součástí celého konceptu.
+    počtu fanoušků Společnosti na sociálních sítí, kdy má za své působení na sociálních
+    sítích přes 32 tis. fanoušků. Z Waf-Waf se tak stal tzv. „lovebrand“, kdy se její
+    zákazníci stávají součástí celého konceptu.
 - icon: "/uploads/2021/07/26/group-2186.svg"
   title: Rustový potenciál
   description: Waf-Waf se podařilo z inovativního konceptu vybudovat v krátkém čase
