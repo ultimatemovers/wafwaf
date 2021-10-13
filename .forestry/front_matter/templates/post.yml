@@ -16,12 +16,18 @@ fields:
     schema:
       format: markdown
   label: Excerpt
+- name: post_url
+  type: text
+  config:
+    required: false
+  label: Post URL
 - name: feature_image
   type: file
   config:
     maxSize: 64
   label: Feature image
   default: "/uploads/2021/07/30/featured.png"
+  description: Image must be in 1:1 aspect ratio (eg. 600x600, 1000x1000)
 - name: layout
   type: text
   config:

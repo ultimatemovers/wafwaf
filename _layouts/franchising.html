@@ -6,15 +6,15 @@
 <div class="franchising-page">
   {% include nav.html %}
 
-  <div class="container py-8 sm:pt-6">
+  <div class="container py-8 sm:pt-6 reveal-delay-2200">
     <div class="mx-auto hero-custom-carousel flex items-center justify-center">
       <div class="overflow-hidden">
         <img src="{{ page.hero_image | img_url: '1200x1200'}}" alt="wafwaf hero" width="100%">
       </div>
     </div>
-    <h1 class="h1 w-full reveal py-3">{{ page.big_title }}</h1>
+    <h1 class="h1 w-full reveal-delay-2200 py-3">{{ page.big_title }}</h1>
     <div class="reveal">
-      <h2 class="px-10 sm:px-6 w-full sm:w-4/5 mx-auto mt-8 sm:mt-0 mb-20 text-white subtitle h2">{{  page.subtitle }}</h2>
+      <h2 class="px-10 sm:px-6 w-full sm:w-4/5 mx-auto mt-8 sm:mt-0 mb-20 text-white subtitle h2 text-center sm:text-left">{{  page.subtitle }}</h2>
     </div>
 
     <div class="w-full reveal">
@@ -36,17 +36,17 @@
   <div class="-mt-24 md:mx-24 md:-mt-28 reveal">
     <div class="rubic-pattern top"></div>
     <div class="bg-yellow-dark p-8">
-      <h2 class="h2 w-full reveal">{{ page.second_subtitle }}</h2>
+      <h2 class="h2 w-full">{{ page.second_subtitle }}</h2>
     </div>
     <div class="rubic-pattern bottom"></div>
   </div>
 
   <div class="mt-20 px-10 md:mt-28 mb-20">
-    <h2 class="h2 franchising-subtitle w-full reveal">{{ page.third_subtitle }}</h2>
+    <h2 class="h2 franchising-subtitle w-full text-center sm:text-left reveal">{{ page.third_subtitle }}</h2>
     <div class="flex flex-wrap justify-between mt-10 md:mt-32">
       {% for store in page.stores %}
         <div class="mt-24 lg:mt-0 w-full lg:w-1/4 reveal-delay-{{ forloop.index | plus: 1}}00">
-          <img src="{{ store.image }}" alt="{{ store.title }}" class="store-image img-center-mobile">
+          <div class="page-store-item-image" style="background-image: url('{{ store.image }}');"></div>
           <h3 class="h3 store-title mt-10 text-center">{{ store.title }}</h3>
           <div class="store-description md:mt-10">
             {{ store.description | markdownify }}
@@ -79,11 +79,11 @@
   <div class="mb-10 w-full reveal relative z-10">
     <div class="rubic-pattern top"></div>
     <div class="bg-yellow-dark lg:flex justify-between items-center py-8 md:px-16">
-      <div class="w-1/4 lg:w-1/5 px-8 mb-10 md:0 relative">
+      <div class="w-1/4 lg:w-1/5 px-8 md:pl-0 mb-10 md:0 relative">
         <div class="faq-title">{{ page.faq_title }}</div>
-        <img class="faq-image" src="/img/faq.svg" alt="faq" width="29">
+        <img class="faq-image hidden md:block" src="/img/faq.svg" alt="faq" width="29">
       </div>
-      <div class="w-full lg:w-3/4 px-8 pb-40 md:pb-0 relative">
+      <div class="w-full lg:w-3/4 px-8 sm:pb-40 md:pb-0 relative">
         <div class="swiper-container faq-carousel">
           <div class="swiper-wrapper">
             {% for f in page.faq %}
@@ -100,18 +100,29 @@
       </div>
     </div>
     <div class="rubic-pattern bottom"></div>
-    <div class="py-32 px-4">
-      <h2 class="h2 franchising-subtitle text-center w-full reveal">
-        Chcete nás následovat? Stací vyplnit krátký dotazník:
-      </h2>
-      <div class="w-4/5 lg:w-1/5 mx-auto mt-12 mb-16 ">
-        <a target="_blank" href="#" class="black-btn block reveal btn-zoom-in-out">MAM ZAJEM</a>
-      </div>
+</div>
+</div>
+<div class="bg-green" style="padding-top: 100px;margin-top: -13%;">
+  <div class="container">
+    <div class="flex flex-wrap items-start justify-between px-16">
+      {% for field in page.after_faq %}
+        <div class="w-full md:w-1/3 py-8 md:py-32 reveal">
+          <div class="field_title">{{ field.title }}</div>
+          <div class="field_content">{{ field.content | markdownify }}</div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+  <div class="pt-32 pb-20 sm:pb-16 px-4">
+    <h2 class="h2 franchising-subtitle text-center w-full reveal">
+      Chcete nás následovat? Stací vyplnit krátký dotazník:
+    </h2>
+    <div class="w-4/5 lg:w-1/5 mx-auto mt-12 mb-16 ">
+      <a target="_blank" href="{{ page.mam_zajem }}" class="black-btn block reveal btn-zoom-in-out">MAM ZAJEM</a>
     </div>
   </div>
 </div>
 
-
-<div class="relative bg-green pt-64 pb-24" style="margin-top: -42%; padding-top: 710px;">
+<div class="relative bg-green pb-24">
   {% include footer.html %}
 </div>

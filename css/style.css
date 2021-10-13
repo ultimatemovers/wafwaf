@@ -105,6 +105,32 @@ html, body, div, p {
 
 body {
   padding-bottom: 2rem;
+  opacity: 0;
+  animation: 3s bodyLoad forwards;
+}
+
+@keyframes bodyLoad {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes bodyLoad {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 .h1 {
@@ -853,6 +879,10 @@ header nav .menu-item.active {
   overflow: hidden;
 }
 
+.hero-custom-carousel img {
+  border-radius: 20px;
+}
+
 .hero-custom-carousel img,
 .swiper-slide img {
   -webkit-transition: all 0.7s ease;
@@ -863,6 +893,9 @@ header nav .menu-item.active {
       transform: scale(1.5);
   -webkit-animation: -webkit-zoom-out 1s ease-in-out forwards;
   animation: zoom-out 1s ease-in-out forwards;
+  border-radius: 20px;
+  overflow: hidden;
+  aspect-ratio: 16/9;
 }
 
 /* Animations */
@@ -991,6 +1024,20 @@ header nav .menu-item.active {
   line-height: 1.3rem !important;
 }
 
+.field_title {
+  min-height: 100px;
+}
+
+.field_title,
+.field_content,
+
+.field_content p {
+  font-family: 'BrandonText-Bold', sans-serif;
+  font-size: 1.5rem;
+  font-weight: bold;
+  line-height: 42px;
+}
+
 .store-title{
   min-height: 80px;
 }
@@ -1075,7 +1122,7 @@ header nav .menu-item.active {
   height: 60px;
   position: absolute;
   right: -30px;
-  top: 0
+  top: -30px
 }
 
 /* Instagram */
@@ -1114,6 +1161,15 @@ h2.instagram-title {
   cursor: pointer;
 }
 
+.latest-posts-item-image,
+.page-store-item-image {
+  width: 100%;
+  aspect-ratio: 1/1;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  border-radius: 50%;
+}
 
 /* Footer */
 footer.site-footer {
@@ -1245,7 +1301,7 @@ footer #newsletter input::placeholder {
 }
 
 @media (max-width: 460px) {
-  body{
+  body {
     padding-top: 90px;
   }
 
@@ -1259,17 +1315,24 @@ footer #newsletter input::placeholder {
     right: 0;
   }
 
+  #jobs header {
+    background: #CF909B;
+  }
+
   .h1 {
     font-size: 5rem;
     line-height: 5rem;
     padding: 1.625rem 1.5rem;
-
   }
 
   .h2 {
     font-size: 30px;
     line-height: 35px;
     text-align: left;
+  }
+
+  .h2.text-center {
+    text-align: center;
   }
 
   .homepage-delivery-img {
@@ -1550,6 +1613,10 @@ footer #newsletter input::placeholder {
     -webkit-transform: none!important;
         -ms-transform: none!important;
             transform: none!important;
+    border-radius: 20px;
+    overflow: hidden;
+    aspect-ratio: 1/1!important;
+    max-height: 246px;
   }
   .showcase-item.swiper-slide-active {
     opacity: 1!important;
@@ -1582,6 +1649,9 @@ footer #newsletter input::placeholder {
   }
 
 
+  .single-location h3 {
+    min-height: auto;
+  }
 }
 
 @media (min-width: 1439px) {

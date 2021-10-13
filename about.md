@@ -1,5 +1,5 @@
 ---
-hero_image: "/uploads/2021/07/27/fastcasualsystem.png"
+hero_image: "/assets/images/nas-pribeh-uvodni-fotka.jpg"
 big_title: Náš příběh
 first_section:
   icon: "/uploads/2021/07/27/group-6357.svg"
@@ -28,13 +28,13 @@ right_section:
     neustálý a jedinečný nový zážitek našim zákazníkům.
 proccess:
 - image: "/uploads/2021/07/27/group-55760.svg"
-  name: Vyberte si z naši nabidky na MenuBoard x Sestavte si Udelej vlastni dle letaku
+  name: Vyberte si z naší nabídky na MenuBoard x Sestavte si Udělej vlastní dle letáku
 - image: "/uploads/2021/07/27/group-45860.svg"
-  name: Dokoncete objednavku s obsluhou a obdrzite pager
+  name: Dokončete objednávku s obsluhou a obdržíte pager
 - image: "/uploads/2021/07/27/group-45862.svg"
-  name: Pockejte, nez Vam pager zazvoni
+  name: Počkejte, než Vám pager zazvoní
 - image: "/uploads/2021/07/27/group-45866.svg"
-  name: Prijdte s pagerem pro objednavku a vychutnejte si jidlo
+  name: Přijďte s pagerem pro objednávku a vychutnejte si jídlo
 layout: about
 subtitle: ''
 

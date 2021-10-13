@@ -69,6 +69,7 @@ fields:
     config:
       maxSize: 64
     label: Image
+    description: Image must be in 1:1 aspect ratio (eg. 600x600, 1000x1000)
   - name: title
     type: text
     config:
@@ -141,6 +142,33 @@ fields:
     max: 
     labelField: 
   label: FAQ
+- name: after_faq
+  type: field_group_list
+  fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Title
+  - name: content
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Content
+  config:
+    min: 
+    max: 3
+    labelField: 
+  label: After FAQ
+- name: mam_zajem
+  type: text
+  config:
+    required: false
+  label: Mam Zajem URL
 - name: layout
   type: text
   config:
