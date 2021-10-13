@@ -64,9 +64,9 @@ faq:
 
     Každopádně doporučujeme mít k dispozici nějaký další sklad mimo provozovnu.
 - question: Jaký je nejmenší kapitál pro otevření franchisy Waf-Waf?
-  answer: Minimální kapitál se bude pohybovat kolem 3.750.000Kč v závislosti na velikost
-    pobočky a její stavební připravenosti. Investice tak může být výrazně menší a
-    nebo take vyšší a lišit se také dle zvoleného konceptu samotné pobočky.
+  answer: Minimální kapitál se bude pohybovat kolem 1 500 000 Kč – 6 000 000 Kč v
+    závislosti na velikost pobočky a její stavební připravenosti. Investice tak může
+    být výrazně menší a nebo take vyšší.
 - question: Jak rychlá je návratnost investice?
   answer: Opět záleží na velikosti pobočky a kapacitě pobočky či její doporučené lokalitě.
     Každopádně u menšího obchodu předpokládáme kolem 1 rok a u větších se můžeme bavit
