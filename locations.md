@@ -7,13 +7,19 @@ locations:
   location_name: WAF-WAF LETNÁ
   location_address: Milady Horákové 52, Praha 7
   location_contact: |-
-    * Otevírací doba:
-    * Pondělí - Neděle:
-    * 08:00 - 21:00
-    * Kontaktní telefonní číslo:
-    * +420602728121
-    * Kontaktní email:
-    * letna@waf-waf.cz
+    Otevírací doba:
+
+    Pondělí - Neděle:
+
+    08:00 - 21:00
+
+    Kontaktní telefonní číslo:
+
+    \+420602728121
+
+    Kontaktní email:
+
+    letna@waf-waf.cz
   location_description: Na této pobočce si můžete vyzvednout jídlo s sebou. Slečny
     Vám zabalí naše produkty do hezkého obalu a dají Vám papírovou tašku pro snazší
     odnos vaflí, lívanců nebo palačinek.
