@@ -1648,6 +1648,18 @@ footer #newsletter input::placeholder {
     /* aspect-ratio: 3/2; */
   }
 
+  .latest-posts-item-image, .page-store-item-image{
+    /* aspect-ratio: 1/1; */
+    aspect-ratio: unset;
+    padding-top: 100%;
+  }
+  .hero-custom-carousel img, .swiper-slide img{
+    /* aspect-ratio: 16/9; */
+    aspect-ratio: unset;
+    width: 100%;
+    padding-top: 0;
+    max-height: 180px;
+  }
 
   .single-location h3 {
     min-height: auto;
