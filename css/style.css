@@ -700,6 +700,11 @@ html .load-hidden {
   max-width: 220px;
 }
 
+.single-location img{
+  border-radius: 20px;
+  aspect-ratio: 11∶7;
+}
+
 .single-location h3{
   font-size: 1.125rem;
   line-height: 1.4rem;
