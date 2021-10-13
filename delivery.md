@@ -43,7 +43,7 @@ locations:
 - location_image: "/uploads/2021/07/24/20111231_230000000_ios-103.png"
   location_title: Waf-Waf OC Velký Špalíček
   wolt: true
-  boltfood: false
+  boltfood: true
   damejidlo: true
   wolt_url: 'https://wolt.com/cs/cze/brno/restaurant/waf-waf-brno '
   boltfood_url: ''
