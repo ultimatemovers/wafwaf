@@ -61,4 +61,4 @@ fields:
   hidden: true
   default: jobs
 pages:
-- jobs.md
+- pridej-se.md

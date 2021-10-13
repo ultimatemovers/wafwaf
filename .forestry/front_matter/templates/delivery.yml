@@ -101,4 +101,4 @@ fields:
   default: deliverylayout
   hidden: true
 pages:
-- delivery.md
+- rozvoz.md
