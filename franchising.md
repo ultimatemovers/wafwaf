@@ -72,8 +72,7 @@ faq:
     Každopádně u menšího obchodu předpokládáme kolem 1 rok a u větších se můžeme bavit
     o 15-30 měsících v závislosti na několika faktorech.
 - question: Jakou doporučujete lokalitu k umístění pobočky Waf-Waf?
-  answer: Doporučujeme jakoukoliv pobočku, kde je možné prodat 300 porcí denně a vice.
-    Respektive ve městech nad 100.000 obyvatel a na jeho hlavních místech.
+  answer: Ve městech nad 50 000 obyvatel a na jeho hlavních místech.
 - question: Musím kupovat zásoby přímo od Vás?
   answer: Jaké konkrétní zásoby je zapotřebí nakupovat od naší společnosti je obsaženo
     ve franchisové smlouvě. Některé jsou zapotřebí nakupovat napřímo a některé přes
@@ -86,8 +85,7 @@ faq:
   answer: V rámci jednoduchých marketingových činnosti budete zaškoleni, například
     ke správě vlastních sociálních médií či stránek hodnotících vaši provozovnu.
 - question: 'Jaký je Váš měsíční poplatek, který musím hradit? '
-  answer: V závislosti na několika faktorech, které jsou obsahem franchisové smlouvy
-    se měsíční poplatek může měnit od 10-12%.
+  answer: Měsíční poplatek činí 12%.
 - question: 'Je zapotřebí zaplatit licenční poplatek? '
   answer: Ano, licenční poplatek, který zahranuje práva na úžívání kompletního brandu
     Waf- Waf a práva na jeho používání je 750.000Kč.
