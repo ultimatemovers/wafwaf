@@ -19,7 +19,7 @@ locations:
 - location_image: "/uploads/2021/07/24/img_6806.png"
   location_title: WAF-WAF LETNÁ
   wolt: true
-  boltfood: false
+  boltfood: true
   damejidlo: true
   wolt_url: https://wolt.com/cs/cze/prague/restaurant/waf-waf-letna
   jidlo_url: https://www.damejidlo.cz/restaurant/f6zc/waf-waf-m-horakove
@@ -27,7 +27,7 @@ locations:
 - location_image: "/uploads/2021/07/24/20190628_112623280_ios.png"
   location_title: WAF-WAF IP PAVLOVA
   wolt: true
-  boltfood: false
+  boltfood: true
   damejidlo: true
   wolt_url: https://wolt.com/cs/cze/prague/restaurant/waf-waf-ipak
   jidlo_url: " https://www.damejidlo.cz/restaurant/s0ma/waf-waf-belehradska"
