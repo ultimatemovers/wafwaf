@@ -1664,6 +1664,9 @@ footer #newsletter input::placeholder {
   .single-location h3 {
     min-height: auto;
   }
+  .change-location h2 {
+    font-size: 1rem;
+}
 }
 
 @media (min-width: 1439px) {
