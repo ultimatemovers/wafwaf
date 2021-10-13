@@ -53,9 +53,16 @@ faq:
   answer: Ano, kauce je splatná při podpisu SOSB a platí pro zúčtování při vážném
     porušení smlouvy a také jako garance kontraktu ve výši 500.000Kč
 - question: Jaká je minimální velikost pobočky Waf-Waf?
-  answer: Doporučujeme mít velikost větší než 80-180m2, musíme počítat s tím, že zde
-    bude zasazena fast-casual kuchyně a take zásobování či popřípadě sklad. Nicméně
-    nabízíme i koncepty jako stánkový prodej s velikostí 20-50m2.
+  answer: |-
+    Doporučujeme mít velikost větší než 20m2, když je stánek v obchodním centru.
+
+    Pokud se jedná o kamennou pobočku tak minimální velikost požadujeme mít 80m2.
+
+    Musíme počítat s tím, že zde bude zasazena fast-casual kuchyně a take zásobování či případně sklad.
+
+    Zapotřebí je mít dostatek míst k sezení v závislosti na lokalitě a typu provozu.
+
+    Každopádně doporučujeme mít k dispozici nějaký další sklad mimo provozovnu.
 - question: Jaký je nejmenší kapitál pro otevření franchisy Waf-Waf?
   answer: Minimální kapitál se bude pohybovat kolem 3.750.000Kč v závislosti na velikost
     pobočky a její stavební připravenosti. Investice tak může být výrazně menší a
