@@ -134,12 +134,12 @@ locations:
   location_gmaps_url: https://g.page/wafwafipak
 - local_image: "/uploads/2021/09/28/brno1.jpg"
   first_left_image: "/uploads/2021/09/28/brno2.jpg"
-  location_name: WAF-WAF VELKÝ ŠPALÍČEK
+  location_name: WAF-WAF OC VELKÝ ŠPALÍČEK
   location_address: Mečová 695/2, 602 00 Brno-střed
   location_contact: |-
     Otevírací doba:
 
-    Pondělí - Neděle: 09:00 – 20:00
+    Pondělí - Neděle: 09:00 – 21:00
 
     Kontaktní telefonní číslo: +420 608 918 243
 
@@ -154,9 +154,9 @@ locations:
     WafShakes aj.
   second_column_above_image: Pobočka je zajímavá specifickým interiérem, který zahrnuje
     i některé z retro prvků. Provozovna je zasazena do obchodní centra Velký Špalíček,
-    který je dominantou centra v Brně a naleznete nás v 1.patře přímo vedle Sparkys.
-    Z této pobočky navíc budete mít krásný výhled do ulic pod Velkým Špalíčkem a je
-    to ideální prostředí na sraz s kamarády, romantickou návštěvu a nebo i obchodní
+    který je dominantou centra v Brně a naleznete nás v 1.patře přímo vedle prodejny
+    Dráčik. Z této pobočky navíc budete mít krásný výhled do ulic pod Velkým Špalíčkem
+    a je to ideální prostředí na sraz s kamarády, romantickou návštěvu a nebo i obchodní
     schůzku. Pobočka Waf-Waf v Brně je také oblíbená u rodin s dětmi, díky svému dětskému
     koutku a radostí, kterou dětem vykouzlí naše produkty.
   image_left: "/uploads/2021/09/28/brno3.jpg"
