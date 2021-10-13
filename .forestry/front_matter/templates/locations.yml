@@ -174,4 +174,4 @@ fields:
   default: locations
   hidden: true
 pages:
-- locations.md
+- nase-pobocky.md
