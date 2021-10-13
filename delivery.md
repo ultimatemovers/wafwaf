@@ -24,7 +24,7 @@ locations:
   wolt_url: https://wolt.com/cs/cze/prague/restaurant/waf-waf-letna
   jidlo_url: https://www.damejidlo.cz/restaurant/f6zc/waf-waf-m-horakove
   boltfood_url: ''
-- location_image: "/uploads/2021/07/24/20190628_112623280_ios.png"
+- location_image: "/assets/images/highstreetconcept.jpg"
   location_title: WAF-WAF IP PAVLOVA
   wolt: true
   boltfood: true
@@ -35,7 +35,7 @@ locations:
 - location_image: "/uploads/2021/07/24/39cf683c-f6fa-4dad-82a3-5a46f81afdf8.png"
   location_title: WAF-WAF OC PALLADIUM
   wolt: true
-  boltfood: false
+  boltfood: true
   damejidlo: true
   wolt_url: https://wolt.com/cs/cze/prague/restaurant/waf-waf-palladium
   jidlo_url: https://www.damejidlo.cz/restaurant/p3ug/waf-waf-paladium
