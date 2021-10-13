@@ -5,7 +5,7 @@ subtitle: Staň se součástí našeho týmu!
 layout: jobs
 positions_title: 'Nabízené pozice v rámci společnosti Waf-Waf s.r.o.:'
 jobs:
-- job_title: Obsluha ve WAF-WAF až 27.000 Kč
+- job_title: Obsluha ve WAF-WAF až 25.500 Kč
   job_location: Praha
   job_description: |-
     Co Vás ve Waf-Waf čeká:
@@ -20,7 +20,7 @@ jobs:
 
     Co vám můžeme nabídnout
 
-    Při práci na HPP Vám můžeme nabídnout 23 000kč – 27 000Kč + bonusy za plnění. Máme zájem o dlouhodobou spolupráci a také o to, že Vaše mzda bude růst, stejně jako naše rozšiřující se společnost.
+    Při práci na HPP Vám můžeme nabídnout 23 000kč – 25 500Kč + bonusy za plnění. Máme zájem o dlouhodobou spolupráci a také o to, že Vaše mzda bude růst, stejně jako naše rozšiřující se společnost.
 
     **Dále také nabízíme:**
 
