@@ -375,9 +375,11 @@ html .load-hidden {
 }
 .location-left-portrait{
   aspect-ratio: 1/1;
+  /* padding-top: 100%; */
 }
 .location-left-image{
   width: 100%;
+  /* padding-top: 66%; */
   aspect-ratio: 3/2;
 }
 .location-right_portrait{
@@ -1555,6 +1557,28 @@ footer #newsletter input::placeholder {
 
   img.open-accordion{
     width: 36px;
+  }
+
+  .location-left-portrait{
+    /* aspect-ratio: 1/1; */
+    aspect-ratio: unset;
+    padding-top: 100%;
+  }
+  .location-left-image{
+    aspect-ratio: unset;
+    width: 100%;
+    padding-top: 66%;
+    /* aspect-ratio: 3/2; */
+  }
+  .location-right_portrait{
+    aspect-ratio: unset;
+    padding-top: 133%;
+    /* aspect-ratio: 3/4; */
+  }
+  .location-footer-image{
+    aspect-ratio: unset;
+    padding-top: 66%;
+    /* aspect-ratio: 3/2; */
   }
 
 
