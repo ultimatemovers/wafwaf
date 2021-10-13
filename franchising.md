@@ -79,7 +79,7 @@ faq:
     naše obchodní partnery.
 - question: Potřebuji zkušenosti proto, abych mohl začít s Waf-Waf franchise?
   answer: Není zapotřebí zkušeností, pokud je odhodlání, motivace. Každopádně zkušenosti,
-    zcela jistě vítáme a takový uchyzeči u nás budou mít určitou výhodu rychlejšího
+    zcela jistě vítáme a takový uchazeči u nás budou mít určitou výhodu rychlejšího
     začlenění v rámci samotného byznysu.
 - question: Jak se můžu postarat o marketing v rámci otevření pobočky Waf-Waf?
   answer: V rámci jednoduchých marketingových činnosti budete zaškoleni, například
@@ -87,8 +87,8 @@ faq:
 - question: 'Jaký je Váš měsíční poplatek, který musím hradit? '
   answer: Měsíční poplatek činí 12%.
 - question: 'Je zapotřebí zaplatit licenční poplatek? '
-  answer: Ano, licenční poplatek, který zahranuje práva na úžívání kompletního brandu
-    Waf- Waf a práva na jeho používání je 750.000Kč.
+  answer: Ano, licenční poplatek, který zahrnuje práva na užívání kompletního brandu
+    Waf-Waf a práva na jeho používání je 750.000Kč + DPH.
 mam_zajem: ''
 after_faq:
 - title: VLASTNÍ PROVOZOVNY
