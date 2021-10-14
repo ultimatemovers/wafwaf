@@ -177,4 +177,4 @@ fields:
   hidden: true
   default: franchising
 pages:
-- franchising.md
+- franchise.md
