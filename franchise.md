@@ -99,7 +99,7 @@ after_faq:
     Praha 1 - OC Palladium
 - title: FRANŠÍZOVÉ PROVOZOVNY
   content: Brno - OC Špalíček
-- title: 'Aktuálně hledáme franchisanty pro lokality:'
+- title: 'AKTUÁLNĚ HLEDÁME FRANCHISANTY PRO LOKALITY:'
   content: "Ostrava, Plzeň, Liberec, Hradec Králové, Brno, Ústí nad Labem, České Budějovice
     aj. \n\nNěmecko, Polsko, Slovensko, Rakousko, Maďarsko, Itálie, Chorvatsko, Srbsko,
     Slovinsko a další státy v EU či mimo EU. "
