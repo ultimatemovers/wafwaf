@@ -52,7 +52,7 @@ jobs:
     kariérního růstu.\n\nDále také po zapracování nabízíme:  \n služební oblečení
     \ \n možnosti MultiSport Card  \n možnost stravování z naší nabídky v hodnotě
     3150 Kč / (měs.)\n\nVaše životopisy můžete zasílat na email: [jonas@waf-waf.cz](mailto:jonas@waf-waf.cz)"
-- job_title: Obsluha ve WAF-WAF až 120 Kč / hod
+- job_title: Obsluha ve WAF-WAF až 120 Kč / hod - (Brigáda)
   job_location: Praha
   job_description: "**Co Vás ve Waf-Waf čeká:**\n\nNáš koncept se zaměřuje na výrobu
     a přípravu vaflí, palčinek a lívanců či milkshake ve velmi originálním pojetí.
