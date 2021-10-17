@@ -5,7 +5,7 @@ subtitle: Staň se součástí našeho týmu!
 layout: jobs
 positions_title: 'Nabízené pozice v rámci společnosti Waf-Waf s.r.o.:'
 jobs:
-- job_title: Obsluha ve WAF-WAF až 25.500 Kč
+- job_title: Obsluha ve WAF-WAF až 25.500 Kč - Hlavní pracovní poměr
   job_location: Praha
   job_description: |-
     Co Vás ve Waf-Waf čeká:
@@ -33,7 +33,7 @@ jobs:
     možnost stravování z naší nabídky
 
     Vaše životopisy můžete zasílat na email: [jonas@waf-waf.cz]()
-- job_title: Vedoucí pobočky Waf-Waf až 28.500 Kč
+- job_title: Vedoucí pobočky Waf-Waf až 28.500 Kč - (Hlavní pracovní poměr)
   job_location: Praha
   job_description: "**Co Vás ve Waf-Waf čeká:**\n\nNáš koncept se zaměřuje na výrobu
     vaflí, palačinek a lívanců či milkshake ve velmi originálním pojetí. Našim hlavním
