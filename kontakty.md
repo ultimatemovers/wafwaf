@@ -10,9 +10,10 @@ contact_information:
     [+420 725 745 898](https://wa.me/420725745898)  \nkaždý den od 09:00 - 20:00\n\nIP
     Pavlova: [+420 725 344 097](https://wa.me/420725344097)  \nkaždý den od 08:00
     - 21:00"
-- title: Rezervace
+- title: 'Rezervace míst '
   content: 'Rezervace provádíme od pondělí do pátku pro více jak 2 osoby, které u
-    nás místo vždy najdou :) '
+    nás místo vždy najdou :) Pokud byste chtěli provést rezervaci, kontaktujte danou
+    pobočku. Děkujeme '
 - title: Pro média
   content: 'Otázky na management společnosti využijte prosím email: [jonas@waf-waf.cz](mailto:jonas@waf-waf.cz)'
 - title: Chtěli byste ve Waf-Waf udělat oslavu či teambuilding?
