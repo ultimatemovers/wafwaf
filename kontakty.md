@@ -14,7 +14,7 @@ contact_information:
   content: 'Rezervace provádíme od pondělí do pátku pro více jak 2 osoby, které u
     nás místo vždy najdou :) Pokud byste chtěli provést rezervaci, kontaktujte danou
     pobočku. Děkujeme '
-- title: Pro média
+- title: 'Kontakt pro média a obchodní záležitosti '
   content: 'Otázky na management společnosti využijte prosím email: [jonas@waf-waf.cz](mailto:jonas@waf-waf.cz)'
 - title: Chtěli byste ve Waf-Waf udělat oslavu či teambuilding?
   content: 'Rádi byste udělali v rámci našich poboček například oslavu narozenin,
