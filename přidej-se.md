@@ -60,12 +60,12 @@ jobs:
     připravujete naše produkty a nebo pracujete na pokladně a komunikujete se zákazníky.\n\n**Koho
     hledáme do Waf-Waf?**\n\nMladé ambiciózní kolegyně na brigádu a výpomoc. Budeme
     očekávat pracovitou a milou osobu, která bude přínosem pro celý náš tým.\n\n**Výhodou
-    bude, pokud budete mít zkušenosti z gastro provozu.**\n\n**  \n Co vám můžeme
-    nabídnout:**\n\nZa brigádu Vám můžeme nabídnout nástupní mzdu 90-120Kč/hod. Máme
-    zájem o dlouhodobou spolupráci a také o to, že Vaše mzda bude růst, stejně jako
-    naše rozšiřující se společnost a proto Vaše mzda i jako u brigádníka se může posunout.\n\n**Dále
-    také nabízíme nad rámec uvedené mzdy:**  \n - pracovní oblečení  \n - bonusy za
-    denní plnění  \n - bonusy za zaměstnance měsíce  \n - pravidelné TeamBuilding
-    aktivity\n\nVaše životopisy můžete zasílat na email: [jonas@waf-waf.cz](mailto:jonas@waf-waf.cz)"
+    bude, pokud budete mít zkušenosti z gastro provozu.**  \nCo vám můžeme nabídnout:\n\nZa
+    brigádu Vám můžeme nabídnout nástupní mzdu 90-120Kč/hod. Máme zájem o dlouhodobou
+    spolupráci a také o to, že Vaše mzda bude růst, stejně jako naše rozšiřující se
+    společnost a proto Vaše mzda i jako u brigádníka se může posunout.\n\n**Dále také
+    nabízíme nad rámec uvedené mzdy:**\n\n* pracovní oblečení\n* bonusy za denní plnění\n*
+    bonusy za zaměstnance měsíce\n* pravidelné TeamBuilding aktivity\n\nVaše životopisy
+    můžete zasílat na email: [jonas@waf-waf.cz](mailto:jonas@waf-waf.cz)"
 
 ---
