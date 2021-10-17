@@ -52,7 +52,7 @@ jobs:
     kariérního růstu.\n\n**Dále také po zapracování nabízíme:**  \nslužební oblečení
     \ \nmožnosti MultiSport Card  \nmožnost stravování z naší nabídky v hodnotě 3150
     Kč / (měs.)\n\nVaše životopisy můžete zasílat na email: [jonas@waf-waf.cz](mailto:jonas@waf-waf.cz)"
-- job_title: Obsluha ve WAF-WAF až 120 Kč / hod - (Brigáda)
+- job_title: Obsluha ve WAF-WAF až 120 Kč / hod (Brigáda)
   job_location: Praha
   job_description: "**Co Vás ve Waf-Waf čeká:**\n\nNáš koncept se zaměřuje na výrobu
     a přípravu vaflí, palčinek a lívanců či milkshake ve velmi originálním pojetí.
@@ -67,7 +67,7 @@ jobs:
     nabízíme nad rámec uvedené mzdy:**\n\n* pracovní oblečení\n* bonusy za denní plnění\n*
     bonusy za zaměstnance měsíce\n* pravidelné TeamBuilding aktivity\n\nVaše životopisy
     můžete zasílat na email: [jonas@waf-waf.cz](mailto:jonas@waf-waf.cz)"
-- job_title: Obsluha ve Waf-Waf Brno s možností kariérního rozvoje - (HPP)
+- job_title: Obsluha ve Waf-Waf Brno s možností kariérního rozvoje (HPP)
   job_location: Brno
   job_description: "**Koho ve Waf-Waf Brno hledáme:**   \nNové mladé ambiciózní kolegy/ně,
     kteří by měli mít chuť podílet se na velmi úspěšném gastro konceptu, který má
