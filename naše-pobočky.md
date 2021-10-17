@@ -62,9 +62,10 @@ locations:
     Kontaktní telefonní číslo: + 420 725 745 898
 
     Kontaktní email: palladium@waf-waf.cz
-  location_description: Na této pobočce si můžete vyzvednout jídlo s sebou**.** Slečny
-    Vám zabalí naše produkty do hezkého obalu a dají Vám papírovou tašku pro snazší
-    odnos vaflí, lívanců nebo palačinek.
+  location_description: Aktuální umístění pobočky je na patře -2 v OC Palladium. Na
+    této pobočce si můžete vychutnat jídlo přímo na místě a nebo si nechat produkty
+    zabalit s sebou. Slečny Vám zabalí naše produkty do hezkého obalu a dají Vám papírovou
+    tašku pro snazší odnos vaflí, lívanců nebo palačinek.
   contact_number: "+ 420 725 745 898"
   first_column_above_image: Další pražská pobočka (v pořadí již třetí) se otevřela
     19. ledna 2020 a nabízí kompletní sortiment konceptu Waf-Waf, ať už se jedná o
