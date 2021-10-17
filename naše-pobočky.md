@@ -40,7 +40,7 @@ locations:
   third_column_under_image: Pobočka se nám rozrostla o zimní zateplenou zahradu/venkovní
     zahradu přes léto a tím se i zvýšila kapacita pobočky na 75 lidí.
   image_right_portrait: "/uploads/2021/08/15/20200109_095725000_ios-1.png"
-  footer_image: "/uploads/2021/08/15/img_1675.png"
+  footer_image: "/assets/images/20210608_103429000_ios.jpg"
   footer_description: 'Z této pobočky také probíhá rozvoz Waf-Waf produktů do různých
     koutů Prahy. Objednávat můžete na těchto platformách:'
   wolt: true
