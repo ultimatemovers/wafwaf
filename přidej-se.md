@@ -5,6 +5,25 @@ subtitle: Staň se součástí našeho týmu!
 layout: jobs
 positions_title: 'Nabízené pozice v rámci společnosti Waf-Waf s.r.o.:'
 jobs:
+- job_title: Obsluha ve Waf-Waf Brno s možností kariérního rozvoje - (HPP)
+  job_location: Brno
+  job_description: "**Koho ve Waf-Waf Brno hledáme:**   \nNové mladé ambiciózní kolegy/ně,
+    kteří by měli mít chuť podílet se na velmi úspěšném gastro konceptu, který má
+    za cíl rozšíření do celé ČR a EU. Budeme očekávat pracovitou a milou osobu, která
+    bude přínosem pro celý náš tým.\n\n**Co na Vás čeká?**   \nNáš koncept se zaměřuje
+    na výrobu vaflí, palačinek a lívanců, či milkshakes ve velmi originálním pojetí.
+    Našim hlavním mottem je #radostprovsechny a to budeme očekávat i od Vás. Ať už
+    připravujete naše produkty a nebo pracujete na pokladně a komunikujete se zákazníky.\n\n**Co
+    budeme požadovat?**   \nvěk min. 18 let  \nzákladní zkušenosti z gastronomie  \nschopnost
+    učit se novým věcem  \nusměvavá, pracovitá a pozitivní osoba  \npotravinářský
+    průkaz  \nnástup ihned  \n  \n**Co můžeme nabídnout:**   \nmotivující nástupní
+    mzda, po zapracování zvýšení mzdy a bonusy  \nsměny na bázi „krátký/dlouhý týden“
+    \ \npráci v silně se rozvíjející společnosti  \nkariérní růst s možností podílení
+    se na vedení provozovny Waf-Waf  \npravidelné teambuildingové aktivity  \nkompletní
+    zaškolení do našeho systému a produktů  \npráce v případě opětovného uzavření
+    garantovaná!  \n  \nPokud byste měli zájem o nabízenou pozici, kontaktujte nás
+    prosím na e-mailové: [kristyna.brno@waf-waf.cz ](kristyna.brno@waf-waf.cz)  \n
+    \ \nDěkujeme!  "
 - job_title: Obsluha ve WAF-WAF až 25.500 Kč - (Hlavní pracovní poměr)
   job_location: Praha
   job_description: |-
