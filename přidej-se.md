@@ -5,7 +5,7 @@ subtitle: Staň se součástí našeho týmu!
 layout: jobs
 positions_title: 'Nabízené pozice v rámci společnosti Waf-Waf s.r.o.:'
 jobs:
-- job_title: Obsluha ve WAF-WAF až 25.500 Kč - Hlavní pracovní poměr
+- job_title: Obsluha ve WAF-WAF až 25.500 Kč - (Hlavní pracovní poměr)
   job_location: Praha
   job_description: |-
     Co Vás ve Waf-Waf čeká:
