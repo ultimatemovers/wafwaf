@@ -11,13 +11,14 @@ contact_information:
     Pavlova: [+420 725 344 097](https://wa.me/420725344097)  \nkaždý den od 08:00
     - 21:00"
 - title: Rezervace
-  content: Rezervace provádíme od pondělí do pátku pro více jak 2 osoby, které u nás
-    místo vždy najdou :)
+  content: 'Rezervace provádíme od pondělí do pátku pro více jak 2 osoby, které u
+    nás místo vždy najdou :) '
 - title: Pro média
   content: 'Otázky na management společnosti využijte prosím email: [jonas@waf-waf.cz](mailto:jonas@waf-waf.cz)'
-- title: 'Chtěli byste ve Waf-Waf udělat oslavu? '
-  content: 'Rozlučku se svobodou a nebo si rovnou pronajmout celý prostor? Kontaktujte
-    nás na emailu: [provoz@waf-waf.cz](mailto:provoz@waf-waf.cz)'
+- title: Chtěli byste ve Waf-Waf udělat oslavu či teambuilding?
+  content: 'Rádi byste udělali v rámci našich poboček například oslavu narozenin,
+    rozlučku se svobodou, firemní akci a nebo prezentaci či si rovnou pronajmout celý
+    prostor? Kontaktujte nás na e-mailu: [provoz@waf-waf.cz](mailto:provoz@waf-waf.cz)'
 - title: Otevírací doba
   content: "Pokud by Vás zajímala otevírací doba jednotlivých poboček, tak navštivte
     záložku:  \n [Naše pobočky](# \"nzm\") naopak pokud by Vás zajímala práce ve Waf-Waf
