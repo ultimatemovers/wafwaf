@@ -45,7 +45,34 @@ stores:
   description: " "
   title: Stand koncept – (20 – 50m2)
 third_subtitle: KONCEPTY – WAF-WAF FRANCHISE
-accordions: []
+accordions:
+- title: PODPORA PRO FRANCHISANTY
+  description: |-
+    **Před otevřením provozovny:**
+
+    Vyhledání vhodné lokality, nabídka z lokalit, které jsou k dispozici
+
+    Architektonická studie a projekt provozovny
+
+    Výstavba a vybavení provozovny na klíč
+
+    Nábor a vyškolení kompletního personálu včetně Vás, kde Vás zasvětíme do jednotlivých procesů  (provoz, kvalita, marketing, finance, personalistika, kontrola restaurací, věrnostní systém, software aj.)
+
+    **Po otevření provozovny:**
+
+    Zajištění dodávky surovin, obalů a ostatních materiálů (zejména marketingových) včetně technologie a logistiky
+
+    Podpora centrály Waf-Waf
+
+    Nastavení marketingové strategie a pomoc při lokálním marketingu
+
+    Kontrolní systémy provozovny
+
+    Kompletní softwarové vybavení – pokladní systém, sklady
+
+    Hodnocení Vaší výkonnosti a hledání optimálního řešení
+
+    Vývoj a dodržování standardů značky
 layout: franchising
 faq_title: FAQ K FRANCHISE POBOČCE
 faq:
