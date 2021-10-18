@@ -73,6 +73,27 @@ accordions:
     Hodnocení Vaší výkonnosti a hledání optimálního řešení
 
     Vývoj a dodržování standardů značky
+- title: ZÁKLADNÍ POŽADAVKY
+  description: |-
+    FRANCHISANT:
+
+    Finanční zajištění (možno úvěrem)
+
+    Osobní angažovanost
+
+    Ochota trénovat se, ochota ke změnám
+
+    Zkušenosti s restauračním provozem (není podmínkou)
+- title: POTŘEBNÁ POČÁTEČNÍ INVESTICE
+  description: "**PRVOTNÍ INVESTICE**\n\nVstupní poplatek: 750 000 Kč \n\nKauce: 500
+    tis. Kč\n\nInvestice: Kupní cena cca. 1,5 mil. – 4,5mil. V závislosti na výběru
+    typu provozu\n\nŠkolení zaměstnanců\n\nPrvotní náklady + Rezerva \L\n\nPro rok
+    2021/2022 nabízíme možnost jednání v rámci nabízených vstupních podmínek tzv.
+    CovidSleva. \L\L\n\n**MĚSÍČNÍ POPLATKY**\n\nFranšízový poplatek: 12 % z tržby\n\n**PROVOZNÍ
+    NÁKLADY**\n\nNájemné a energie\n\nMzdové a personální náklady\n\nSuroviny, obaly
+    a logistika\n\nMarketing v rámci a okolí provozovny\n\nIT a Systémy\n\nKontrolní
+    mechanismy provozovny\n\nOstatní provozní, režijní a finanční náklady\n\nSmlouva
+    se uzavírá na dobu 5 let. Návratnosti investic lze dosáhnout během 12-24 měsíců."
 layout: franchising
 faq_title: FAQ K FRANCHISE POBOČCE
 faq:
