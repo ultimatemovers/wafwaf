@@ -75,8 +75,6 @@ accordions:
     Vývoj a dodržování standardů značky
 - title: ZÁKLADNÍ POŽADAVKY
   description: |-
-    FRANCHISANT:
-
     Finanční zajištění (možno úvěrem)
 
     Osobní angažovanost
