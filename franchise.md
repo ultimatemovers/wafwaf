@@ -83,15 +83,42 @@ accordions:
 
     Zkušenosti s restauračním provozem (není podmínkou)
 - title: POTŘEBNÁ POČÁTEČNÍ INVESTICE
-  description: "**PRVOTNÍ INVESTICE**\n\nVstupní poplatek: 750 000 Kč \n\nKauce: 500
-    tis. Kč\n\nInvestice: Kupní cena cca. 1,5 mil. – 4,5mil. V závislosti na výběru
-    typu provozu\n\nŠkolení zaměstnanců\n\nPrvotní náklady + Rezerva \L\n\nPro rok
-    2021/2022 nabízíme možnost jednání v rámci nabízených vstupních podmínek tzv.
-    CovidSleva. \L\L\n\n**MĚSÍČNÍ POPLATKY**\n\nFranšízový poplatek: 12 % z tržby\n\n**PROVOZNÍ
-    NÁKLADY**\n\nNájemné a energie\n\nMzdové a personální náklady\n\nSuroviny, obaly
-    a logistika\n\nMarketing v rámci a okolí provozovny\n\nIT a Systémy\n\nKontrolní
-    mechanismy provozovny\n\nOstatní provozní, režijní a finanční náklady\n\nSmlouva
-    se uzavírá na dobu 5 let. Návratnosti investic lze dosáhnout během 12-24 měsíců."
+  description: |-
+    **PRVOTNÍ INVESTICE**
+
+    Vstupní poplatek: 750 000 Kč
+
+    Kauce: 500 tis. Kč
+
+    Investice: Kupní cena cca. 1,5 mil. – 6,5mil. V závislosti na výběru typu provozu
+
+    Školení zaměstnanců
+
+    Prvotní náklady + Rezerva
+
+    Pro rok 2021/2022 nabízíme možnost jednání v rámci nabízených vstupních podmínek tzv. CovidSleva.
+
+    **MĚSÍČNÍ POPLATKY**
+
+    Franšízový poplatek: 12 % z tržby
+
+    **PROVOZNÍ NÁKLADY**
+
+    Nájemné a energie
+
+    Mzdové a personální náklady
+
+    Suroviny, obaly a logistika
+
+    Marketing v rámci a okolí provozovny
+
+    IT a Systémy
+
+    Kontrolní mechanismy provozovny
+
+    Ostatní provozní, režijní a finanční náklady
+
+    Smlouva se uzavírá na dobu 5 let. Návratnosti investic lze dosáhnout během 12-24 měsíců.
 layout: franchising
 faq_title: FAQ K FRANCHISE POBOČCE
 faq:
