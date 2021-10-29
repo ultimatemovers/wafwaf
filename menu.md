@@ -27,11 +27,6 @@ categories:
     product_price: 119
 - category_title: SLANÉ
   products:
-  - product_image: ''
-    product_title: BIGWAF
-    product_description: dvě vafle, slanina, šunka, cheddar, baby špenát, rukola,
-      rajčata, majonéza, kečup
-    product_price: 189
   - product_image: "/assets/images/maplewaf-small.jpg"
     product_title: MAPLEWAF
     product_description: vajíčko, slanina, cheddar, rukola, rajče, javorový sirup
@@ -50,6 +45,11 @@ categories:
     product_description: kuřecí maso, cheddar, baby špenát, rajčatový dip, zakysaná
       smetana
     product_price: 144
+  - product_image: "/assets/images/3.png"
+    product_title: BIGWAF
+    product_description: dvě vafle, slanina, šunka, cheddar, baby špenát, rukola,
+      rajčata, majonéza, kečup
+    product_price: 189
 - category_title: SNÍDANĚ
   products:
   - product_image: "/assets/images/eggwaf-small.jpg"
@@ -79,7 +79,7 @@ categories:
     product_description: mléko, kakao, granko, čokoládová poleva, čokoládová zmrzlina,
       šlehačka, oreo
     product_price: 119
-  - product_image: "/assets/images/jahodovy-cokoladovy-a-bananovy-shake-small.jpg"
+  - product_image: "/assets/images/s1.png"
     product_title: Jahodový Milkshake
     product_description: mléko, jahody, vanilková zmrzlina, jahodový toping, šlehačka
     product_price: 119
