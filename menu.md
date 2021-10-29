@@ -9,7 +9,7 @@ categories:
     product_description: vanilková poleva, karamelový toping, maliny, oříšky
     product_price: 139
   - product_price: 149
-    product_image: "/assets/images/4.png"
+    product_image: "/assets/images/4.jpg"
     product_title: WAFTELLA
     product_description: nutella, oreo, jahody, maliny, mascarpone
   - product_image: "/assets/images/wafreo-small.jpg"
