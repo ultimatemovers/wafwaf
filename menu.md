@@ -27,6 +27,11 @@ categories:
     product_price: 119
 - category_title: SLANÉ
   products:
+  - product_image: ''
+    product_title: BIGWAF
+    product_description: dvě vafle, slanina, šunka, cheddar, baby špenát, rukola,
+      rajčata, majonéza, kečup
+    product_price: 189
   - product_image: "/assets/images/maplewaf-small.jpg"
     product_title: MAPLEWAF
     product_description: vajíčko, slanina, cheddar, rukola, rajče, javorový sirup
