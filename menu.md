@@ -21,6 +21,10 @@ categories:
     product_title: PEARWAF
     product_description: glazované hrušky, cini minis, čokoládové kousky, javorový
       sirup, domácí šlehačka
+  - product_image: "/assets/images/2.png"
+    product_title: WAF&CUT
+    product_description: 'vafle nakrájena na kousky, posypané skořicovým cukrem, nutella '
+    product_price: 79
   - product_image: "/assets/images/1.png"
     product_title: SUSHIWAF
     product_description: čokoládová palačinka, banán, jahody, karamelový toping, kokos
