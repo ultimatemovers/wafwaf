@@ -92,7 +92,7 @@ categories:
     product_description: mléko, banán, vanilková zmrzlina, karamelový toping, barevné
       posypky, šlehačka
     product_price: 119
-  - product_image: "/assets/images/jahodovy-cokoladovy-a-bananovy-wafshake-small.jpg"
+  - product_image: "/assets/images/ss2.jpg"
     product_title: Čokoládový Wafshake
     product_description: mléko, kakao, granko, čokoládová poleva, čokoládová zmrzlina,
       šlehačka, oreo, vafle
