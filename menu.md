@@ -21,6 +21,10 @@ categories:
     product_title: PEARWAF
     product_description: glazované hrušky, cini minis, čokoládové kousky, javorový
       sirup, domácí šlehačka
+  - product_image: "/assets/images/1.png"
+    product_title: SUSHIWAF
+    product_description: čokoládová palačinka, banán, jahody, karamelový toping, kokos
+    product_price: 119
 - category_title: SLANÉ
   products:
   - product_image: "/assets/images/maplewaf-small.jpg"
