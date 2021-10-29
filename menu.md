@@ -78,7 +78,7 @@ categories:
     product_title: AVOWAF
 - category_title: NÁPOJE & MILKSHAKES
   products:
-  - product_image: "/assets/images/s2.png"
+  - product_image: "/assets/images/s3.jpg"
     product_title: Čokoládový Milkshake
     product_description: mléko, kakao, granko, čokoládová poleva, čokoládová zmrzlina,
       šlehačka, oreo
