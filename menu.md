@@ -24,11 +24,11 @@ categories:
   - product_image: "/assets/images/2.png"
     product_title: WAF&CUT
     product_description: 'vafle nakrájena na kousky, posypané skořicovým cukrem, nutella '
-    product_price: 79
+    product_price: 69
   - product_image: "/assets/images/1.png"
     product_title: SUSHIWAF
     product_description: čokoládová palačinka, banán, jahody, karamelový toping, kokos
-    product_price: 119
+    product_price: 129
 - category_title: SLANÉ
   products:
   - product_image: "/assets/images/maplewaf-small.jpg"
