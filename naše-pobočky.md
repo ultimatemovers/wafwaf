@@ -100,8 +100,8 @@ locations:
     - Sobota - 08:00 - 22:00 + rozvoz & take-away - 22:00 - 02:00   \nNeděle: 08:00
     - 21:00\n\nKontaktní telefonní číslo: +420 725 344 097\n\nKontaktní email: ipak@waf-waf.cz"
   location_description: Pobočka Waf-Waf IP Pavlova se nachází přímo na tramvajové
-    zastávce Bruselská. Na této pobočce si můžete vychutnat jídlo přímo na místě a
-    nebo si vyzvednout **jídlo s sebou.** Slečny Vám zabalí naše produkty do hezkého
+    zastávce Bruselská. Na této pobočce si můžete vychutnat jídlo **přímo na místě**
+    a nebo si vyzvednout **jídlo s sebou.** Slečny Vám zabalí naše produkty do hezkého
     obalu a dají Vám papírovou tašku pro snazší odnos vaflí, lívanců nebo palačinek.
   contact_number: "+420 725 344 097"
   first_column_above_image: Vinohradská pobočka se otevřela přesně 27.6.2018 a nabízí
