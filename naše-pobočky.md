@@ -96,14 +96,9 @@ locations:
   first_left_image: "/assets/images/highstreetconcept.jpg"
   location_name: WAF-WAF IPÁK
   location_address: Bělehradská 67, 120 00 Nové Město
-  location_contact: |-
-    Otevírací doba:
-
-    Pondělí - Neděle: 08:00 - 21:00
-
-    Kontaktní telefonní číslo: +420 725 344 097
-
-    Kontaktní email: ipak@waf-waf.cz
+  location_contact: "Otevírací doba:\n\nPondělí - Čtvrtek: 08:00 - 21:00  \nPátek
+    - Sobota - 08:00 - 22:00 + rozvoz & take-away - 22:00 - 02:00   \nNeděle: 08:00
+    - 21:00\n\nKontaktní telefonní číslo: +420 725 344 097\n\nKontaktní email: ipak@waf-waf.cz"
   location_description: Pobočka Waf-Waf IP Pavlova se nachází přímo na tramvajové
     zastávce Bruselská. Na této pobočce si můžete vychutnat jídlo přímo na místě a
     nebo si vyzvednout **jídlo s sebou.** Slečny Vám zabalí naše produkty do hezkého
