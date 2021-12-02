@@ -1,19 +1,11 @@
 ---
-feature_image: "/assets/images/31277485_1641256869321481_6525562211899801600_o.jpg"
-title: Staň se součástí týmu Waf-Waf!-(copy)
-excerpt: 'Náš koncept se zaměřuje na výrobu vaflí, palčinek a lívanců či milkshake
-  ve velmi originálním pojetí. Našim hlavním mottem je #radostprovsechny a to budeme
-  očekávat i od Vás. Ať už připravujete naše produkty anebo pracujete na pokladně
-  a komunikujete se zákazníky.'
+feature_image: "/assets/images/20200324_113947000_ios.jpg"
+title: 'Zahajíme noční rozvoz '
+excerpt: 'V rámci novinek, které jsme si pro Vás na závěr letošního roku přichystali
+  je noční rozvoz z pobočky IP Pavlova na Praze 2. '
 layout: post
 published_at: 2021-10-08T12:25:52.000+00:00
 post_url: ''
 
 ---
-Aktuálně hledáme nové mladé ambiciózní kolegyně, které by měli mít chuť podílet se na velmi úspěšném gastro konceptu, který má za cíl rozšíření do celé ČR a EU. Budeme očekávat pracovitou a milou osobu, která bude přínosem pro celý náš tým. Výhodou bude, pokud budete mít zkušenosti z gastro provozu.
-
-Při práci na HPP Vám můžeme nabídnout zajímavý výdělek a bonusy za plnění. Máme zájem o dlouhodobou spolupráci a také o to, že Vaše mzda bude růst, stejně jako naše rozšiřující se společnost.
-
-Dále také nabízíme: pracovní oblečení, finanční odměny za zaměstnance měsíce, možnosti MultiSport Card, stravování z naší nabídky
-
-Vypsané pozice, které jsou aktuálně k dispozici:
+Novinka, kterou budete chtít zažít! V pátek 3.12. zahájíme noční rozvoz našich sladkých a slaných dobrot do celé Prahy. V pilotní verzi bude možné objednat až do 02:00 a od dalšího týdne již po celou noc. Prodlužujeme tak i otevírací dobu pro naše zákazníky na pobočce Waf-Waf IP Pavlova, která tak nově bude do 22:00. Využijte tak možnosti si s přáteli, rodinou či známými vychutnat Vaše oblíbené produkty z Waf-Waf i v noci. Noční rozvoz je prozatím připraven vždy z pátku na sobotu a ze soboty na neděli. Využít můžete naše rozvozové partnery DameJidlo, Wolt či BoltFood, kteří Vám doručí jídlo až k Vám domů. Těšíme se na první noční objednávky! 
