@@ -48,12 +48,12 @@ categories:
     product_title: CREPEDILLA
     product_description: kuřecí maso, cheddar, baby špenát, rajčatový dip, zakysaná
       smetana
-    product_price: 144
+    product_price: 169
   - product_image: "/assets/images/3.jpg"
     product_title: BIGWAF
     product_description: dvě vafle, slanina, šunka, cheddar, baby špenát, rukola,
       rajčata, majonéza, kečup
-    product_price: 189
+    product_price: 219
 - category_title: SNÍDANĚ
   products:
   - product_image: "/assets/images/eggwaf-small.jpg"
