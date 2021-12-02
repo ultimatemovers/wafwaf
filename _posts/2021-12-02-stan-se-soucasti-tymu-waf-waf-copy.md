@@ -1,6 +1,6 @@
 ---
 feature_image: "/assets/images/20200324_113947000_ios.jpg"
-title: 'Zahajíme noční rozvoz '
+title: Zahájíme noční rozvoz z pobočky IP Pavlova!
 excerpt: 'V rámci novinek, které jsme si pro Vás na závěr letošního roku přichystali
   je noční rozvoz z pobočky IP Pavlova na Praze 2. '
 layout: post
