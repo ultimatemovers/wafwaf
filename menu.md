@@ -91,22 +91,22 @@ categories:
     product_title: Banánový Milkshake
     product_description: mléko, banán, vanilková zmrzlina, karamelový toping, barevné
       posypky, šlehačka
-    product_price: 119
+    product_price: 129
   - product_image: "/assets/images/ss2.jpg"
     product_title: Čokoládový Wafshake
     product_description: mléko, kakao, granko, čokoládová poleva, čokoládová zmrzlina,
       šlehačka, oreo, vafle
-    product_price: 189
+    product_price: 199
   - product_image: "/assets/images/ss1.jpg"
     product_title: Jahodový Wafshake
     product_description: mléko, jahody, vanilková zmrzlina, jahodový toping, šlehačka,
       vafle
-    product_price: 189
+    product_price: 199
   - product_image: "/assets/images/ss3.jpg"
     product_title: Banánový Wafshake
     product_description: mléko, banán, vanilková zmrzlina, karamelový toping, barevné
       posypky, šlehačka, vafle
-    product_price: 189
+    product_price: 199
 - category_title: SPECIÁLNÍ NABÍDKA by HONZA VOREL
   products:
   - product_image: "/assets/images/halloumiwaf-small.jpg"
