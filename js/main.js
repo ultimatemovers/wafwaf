@@ -284,31 +284,30 @@
   }
 
   if(document.querySelector('.reveal')) {
-    ScrollReveal().reveal('.reveal', { distance: '100px', duration: 2400, origin: 'bottom', easing: 'cubic-bezier(0.25,1.05,1,1)' });
+    ScrollReveal().reveal('.reveal', { distance: '80px', duration: 2400, origin: 'bottom', easing: 'cubic-bezier(0.25,1.05,1,1)' });
   }
   if(document.querySelector('.reveal-delay-200')) {
-    ScrollReveal().reveal('.reveal-delay-200', { delay: 200, distance: '150px', duration: 2400, origin: 'bottom', easing: 'cubic-bezier(0.3,1.05,1,1)' });
+    ScrollReveal().reveal('.reveal-delay-200', { delay: 200, distance: '120px', duration: 2400, origin: 'bottom', easing: 'cubic-bezier(0.3,1.05,1,1)' });
   }
   if(document.querySelector('.reveal-delay-300')) {
-    ScrollReveal().reveal('.reveal-delay-300', { delay: 300, distance: '100px', duration: 2500, origin: 'bottom', easing: 'cubic-bezier(0.25,1.05,1,1)' });
+    ScrollReveal().reveal('.reveal-delay-300', { delay: 300, distance: '80px', duration: 2500, origin: 'bottom', easing: 'cubic-bezier(0.25,1.05,1,1)' });
   }
   if(document.querySelector('.reveal-delay-400')) {
-    ScrollReveal().reveal('.reveal-delay-400', { delay: 400, distance: '150px', duration: 2600, origin: 'bottom', easing: 'cubic-bezier(0.3,.62,1,1)' });
+    ScrollReveal().reveal('.reveal-delay-400', { delay: 400, distance: '120px', duration: 2600, origin: 'bottom', easing: 'cubic-bezier(0.25,1.05,1,1)' });
   }
   if(document.querySelector('.reveal-delay-500')) {
-    ScrollReveal().reveal('.reveal-delay-500', { delay: 500, distance: '100px', duration: 2700, origin: 'bottom', easing: 'cubic-bezier(0.25,1.05,1,1)' });
+    ScrollReveal().reveal('.reveal-delay-500', { delay: 500, distance: '80px', duration: 2700, origin: 'bottom', easing: 'cubic-bezier(0.25,1.05,1,1)' });
   }
   if(document.querySelector('.reveal-delay-600')) {
-    ScrollReveal().reveal('.reveal-delay-600', { delay: 600, distance: '100px', duration: 2400, origin: 'bottom', easing: 'cubic-bezier(0.25,1.05,1,1)' });
+    ScrollReveal().reveal('.reveal-delay-600', { delay: 600, distance: '80px', duration: 2400, origin: 'bottom', easing: 'cubic-bezier(0.25,1.05,1,1)' });
   }
   if(document.querySelector('.reveal-delay-700')) {
-    ScrollReveal().reveal('.reveal-delay-700', { delay: 700, distance: '100px', duration: 2400, origin: 'bottom', easing: 'cubic-bezier(0.25,1.05,1,1)' });
+    ScrollReveal().reveal('.reveal-delay-700', { delay: 700, distance: '80px', duration: 2400, origin: 'bottom', easing: 'cubic-bezier(0.25,1.05,1,1)' });
   }
   if(document.querySelector('.reveal-delay-4000')) {
-    ScrollReveal().reveal('.reveal-delay-4000', { delay: 200, distance: '100px', duration: 2400, origin: 'bottom', easing: 'cubic-bezier(0.25,1.05,1,1)' });
+    ScrollReveal().reveal('.reveal-delay-4000', { delay: 200, distance: '80px', duration: 2400, origin: 'bottom', easing: 'cubic-bezier(0.25,1.05,1,1)' });
   }
   if(document.querySelector('.reveal-delay-2200')) {
-    console.log(ScrollReveal())
     ScrollReveal().reveal('.reveal-delay-2200', { delay: 2200, distance: '100px', duration: 2400, origin: 'bottom', easing: 'cubic-bezier(0.25,1.05,1,1)' });
   }
   if(document.querySelector('.reveal-footer')) {
@@ -400,4 +399,8 @@
   }
   
   document.body.addEventListener('onload', init())
+
+  window.onbeforeunload = () => {
+    window.scrollTo(0, 0);
+  }
 })()
