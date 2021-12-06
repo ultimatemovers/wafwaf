@@ -623,6 +623,7 @@ html .load-hidden {
   aspect-ratio: 2/3;
 }
 .about-second-section-middle-image{
+  border-radius: 30px;
   width: 100%;
   aspect-ratio: 9/5;
 }
