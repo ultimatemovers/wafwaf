@@ -308,6 +308,7 @@
     ScrollReveal().reveal('.reveal-delay-4000', { delay: 200, distance: '100px', duration: 2400, origin: 'bottom', easing: 'cubic-bezier(0.25,1.05,1,1)' });
   }
   if(document.querySelector('.reveal-delay-2200')) {
+    console.log(ScrollReveal())
     ScrollReveal().reveal('.reveal-delay-2200', { delay: 2200, distance: '100px', duration: 2400, origin: 'bottom', easing: 'cubic-bezier(0.25,1.05,1,1)' });
   }
   if(document.querySelector('.reveal-footer')) {
@@ -397,4 +398,6 @@
         c.classList.add('active')
     })
   }
+  
+  document.body.addEventListener('onload', init())
 })()
