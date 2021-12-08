@@ -16,7 +16,7 @@ delivery_image: "/assets/images/20210315_131644000_ios.jpeg"
 layout: deliverylayout
 hero_image: "/uploads/2021/07/24/delivery.png"
 locations:
-- location_image: "/uploads/2021/07/24/img_6806.png"
+- location_image: "/assets/images/20210608_103429000_ios-1.jpg"
   location_title: WAF-WAF LETNÁ
   wolt: true
   boltfood: true
