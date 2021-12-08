@@ -14,4 +14,4 @@ Aktuálně hledáme nové mladé ambiciózní kolegyně, které by měli mít ch
 
 Při práci na HPP Vám můžeme nabídnout zajímavý výdělek a bonusy za plnění. Máme zájem o dlouhodobou spolupráci a také o to, že Vaše mzda bude růst, stejně jako naše rozšiřující se společnost.
 
-Dále také nabízíme: pracovní oblečení, finanční odměny za zaměstnance měsíce, možnosti MultiSport Card, stravování z naší nabídky
+Dále také nabízíme: pracovní oblečení, finanční odměny za zaměstnance měsíce, možnosti MultiSport Card, stravování z naší nabídky.
