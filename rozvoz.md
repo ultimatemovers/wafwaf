@@ -5,12 +5,13 @@ delivery_title: Rozvoz provádíme v rámci celých měst Praha a Brno
 wolt: true
 boltfood: true
 damejidlo: true
-delivery_description: Rozvážíme každý den. Na výběr budou jak sladké (Wafreo či Waftella),
+delivery_description: 'Rozvážíme každý den. Na výběr budou jak sladké (Wafreo či Waftella),
   tak slané varianty (Ironwaf, Crepedilla, nebo Maplewaf) z našeho stálého menu. Součástí
   bude i “Udělej si vlastní”, kdy si budete moct sestavit jídlo podle vaši chuti.
   Zvolíte základ, sladké či slané přísady a nakonec nějaký toping. Dále nabízíme i
   pár našich specialit jako je Waf&Cut a BigWaf. V naší nabídce naleznete i pár nápojů
-  na osvěžení. Nezapomeňte si stáhnout aplikaci Bolt Food, Wolt a Dáme jídlo.
+  na osvěžení. Nezapomeňte si stáhnout aplikaci Bolt Food, Wolt a Dáme jídlo. Novinkou
+  je také noční rozvoz každý pátek a sobotu z pobočky IP Pavlova. '
 delivery_image: "/assets/images/20210315_131644000_ios.jpeg"
 layout: deliverylayout
 hero_image: "/uploads/2021/07/24/delivery.png"
