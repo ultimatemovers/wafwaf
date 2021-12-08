@@ -12,7 +12,7 @@ delivery_description: 'Rozvážíme každý den. Na výběr budou jak sladké (W
   pár našich specialit jako je Waf&Cut a BigWaf. V naší nabídce naleznete i pár nápojů
   na osvěžení. Nezapomeňte si stáhnout aplikaci Bolt Food, Wolt a Dáme jídlo. Novinkou
   je také noční rozvoz každý pátek a sobotu z pobočky IP Pavlova. '
-delivery_image: "/assets/images/20210119_115824000_ios.jpeg"
+delivery_image: "/assets/images/20210305_150014000_ios.jpg"
 layout: deliverylayout
 hero_image: "/uploads/2021/07/24/delivery.png"
 locations:
