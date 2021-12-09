@@ -1,5 +1,5 @@
 ---
-big_title: Ty nejlepší vafle
+big_title: Ty nejlepší vafle!
 subtitle: Waf-Waf to jsou ty nejlepší vafle, palačinky a lívance, které jste měli
   možnost ochutnat.
 breakfast: 'Už jste ochutnali naše slané produkty? '
