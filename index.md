@@ -8,7 +8,6 @@ delivery: Rozvážíme každý den od 08:00 do 21:00
 layout: homepage
 hero_images:
 - "/assets/images/dsc_5358.jpeg"
-- "/assets/images/img_1783.jpg"
 - "/assets/images/dscf0489.jpg"
 - "/assets/images/img_1783.jpeg"
 showcase_images:
