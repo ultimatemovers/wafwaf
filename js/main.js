@@ -339,7 +339,7 @@
     ScrollReveal().reveal('.reveal-delay-4000', { delay: 200, distance: '80px', duration: 1300, origin: 'bottom', easing: 'cubic-bezier(.17,1.05,.88,1)' });
   }
   if(document.querySelector('.reveal-delay-2200')) {
-    ScrollReveal().reveal('.reveal-delay-2200', { delay: 2200, distance: '100px', duration: 1300, origin: 'bottom', easing: 'cubic-bezier(.17,1.05,.88,1)' });
+    ScrollReveal().reveal('.reveal-delay-2200', { delay: 2200, distance: '120px', duration: 1400, origin: 'bottom', easing: 'cubic-bezier(.17,1.05,.88,1)' });
   }
   if(document.querySelector('.reveal-footer')) {
     ScrollReveal().reveal('.reveal-footer', { delay: 100, distance: '20px', duration:1300, origin: 'bottom', easing: 'cubic-bezier(.17,1.05,.88,1)' });
