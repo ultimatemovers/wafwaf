@@ -93,6 +93,15 @@ body {
   animation: loadBody 4s forwards; */
 }
 
+html {
+  overflow: scroll;
+  overflow-x: hidden;
+}
+::-webkit-scrollbar {
+  width: 0;  /* Remove scrollbar space */
+  background: transparent;  /* Optional: just make scrollbar invisible */
+}
+
 html, body, div, p {
   color: #251C16;
 }
