@@ -90,15 +90,15 @@
 
     if(document.body.id === 'jobs' && idx === 14)
       m.classList.add('active')
-    
+
     if(document.body.id === 'about' && idx === 12)
       m.classList.add('active')
-    
+
     if(document.body.id === 'locations' && idx === 9){
       // console.log(m)
       m.classList.add('active')
     }
-    
+
   })
 
   const mobileMenuItems = document.querySelectorAll('.nav-mobile-item')
@@ -106,20 +106,20 @@
     const menuUrl = mi.parentElement.getAttribute('href').replaceAll('/', '');
     const url = location.pathname.replaceAll('/', '');
 
-    
+
     mi.classList.remove('nav-mobile-item-active');
     if(menuUrl === url)
       mi.classList.add('nav-mobile-item-active');
-    
+
     if(document.body.id === 'jobs' && idx === 6)
       mi.classList.add('nav-mobile-item-active')
-    
+
     if(document.body.id === 'about' && idx === 4)
       mi.classList.add('nav-mobile-item-active')
-    
+
     if(document.body.id === 'locations' && idx === 1)
       mi.classList.add('nav-mobile-item-active')
-    
+
   })
 
   if(document.body.id === 'menu') {
@@ -452,7 +452,7 @@
         c.classList.add('active')
     })
   }
-  
+
   document.body.addEventListener('onload', init())
 
   window.onbeforeunload = () => {
