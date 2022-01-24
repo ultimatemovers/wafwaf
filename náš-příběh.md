@@ -12,7 +12,7 @@ first_section:
   title: Fast-casual
   image: "/assets/images/20181023_095624000_ios.jpg"
 right_section:
-  left_image: "/assets/images/20181023_101858203_ios.jpg"
+  left_image: "/assets/images/20200109_095611000_ios.jpg"
   first_icon: "/uploads/2021/07/27/group-8064.svg"
   first_title: Více než 50 prísad
   first_content: Waf-Waf a produkty samotné se pak i díky propracovanému marketingu
