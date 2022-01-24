@@ -1,5 +1,5 @@
 ---
-hero_image: "/assets/images/187a0633.jpg"
+hero_image: "/assets/images/pridejseknam.jpg"
 big_title: Náš příběh
 first_section:
   icon: "/uploads/2021/07/27/group-6357.svg"
