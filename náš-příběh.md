@@ -12,7 +12,7 @@ first_section:
   title: Fast-casual
   image: "/uploads/2021/07/27/originalniprodukty-2x.png"
 right_section:
-  left_image: "/uploads/2021/07/27/udelejsivlastni-2x.png"
+  left_image: "/assets/images/20181023_101858203_ios.jpg"
   first_icon: "/uploads/2021/07/27/group-8064.svg"
   first_title: Více než 50 prísad
   first_content: Waf-Waf a produkty samotné se pak i díky propracovanému marketingu
@@ -20,7 +20,7 @@ right_section:
     Naše viralita a jedinečnost spočívá v kombinaci pojetí výběru daných palačinek
     a vaflí či lívanců, kdy je možné tyto věci poskládat dle své vlastní volby z více
     než 50 přísad a také zdobení, které se vymyká zaběhlým celosvětovým standardům.
-  first_image: "/uploads/2021/07/27/originalniprodukty.png"
+  first_image: "/assets/images/20190730_093653032_ios.jpg"
   second_icon: "/uploads/2021/07/27/group-8065.svg"
   second_title: Originální produkty
   second_content: Nabídka je rozšířena o naše originální produkty, které nelze nikde
