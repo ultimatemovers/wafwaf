@@ -10,7 +10,7 @@ first_section:
     v realitu, když jsme otevřeli první provozovnu v ulici Milady Horákové 52 na Praze
     7.
   title: Fast-casual
-  image: "/uploads/2021/07/27/originalniprodukty-2x.png"
+  image: "/assets/images/20181023_095624000_ios.jpg"
 right_section:
   left_image: "/assets/images/20181023_101858203_ios.jpg"
   first_icon: "/uploads/2021/07/27/group-8064.svg"
