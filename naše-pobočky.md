@@ -2,7 +2,7 @@
 locations_title: Naše pobočky
 hero_image: "/uploads/2021/08/16/20111231_230000000_ios-103.png"
 locations:
-- local_image: "/uploads/2021/08/16/img_6806.png"
+- local_image: "/assets/images/deniel-65_1.jpg"
   first_left_image: "/assets/images/letna-prvni-foto-vlevo-misto-te-rozmazane.jpg"
   location_name: WAF-WAF LETNÁ
   location_address: Milady Horákové 52, Praha 7
@@ -36,7 +36,7 @@ locations:
     prostorné zahrádce ve vnitronloku. Samozřejmostí je možnost take-away a to zcela
     zdarma. Do naší provozovny Waf-Waf na Letné mají také povolený vstup pejsci. Na
     pobočce provádíme rezervace pro více než jeden stůl.
-  image_left: "/uploads/2021/08/15/faf4233d-f364-4045-a10f-47b83c6cf868.png"
+  image_left: "/assets/images/deniel-65_1.jpg"
   third_column_under_image: Pobočka se nám rozrostla o zimní zateplenou zahradu/venkovní
     zahradu přes léto a tím se i zvýšila kapacita pobočky na 75 lidí.
   image_right_portrait: "/uploads/2021/08/15/20200109_095725000_ios-1.png"
