@@ -36,7 +36,7 @@
         <div data-post-id="{{ post.id }}" class="latest-posts-item w-full px-8 lg:px-0 sm:w-1/4 reveal-delay-{{ forloop.index | plus: 1 }}00">
           <div class="latest-posts-item-image" style="background-image: url('{{ post.feature_image }}');"></div>
           <h4 class="post-title mt-8 mb-6 sm:mb-12 sm:w-3/4 sm:mx-auto lg:w-full">{{ post.title }}</h4>
-          <div class="post-content sm:w-3/4 sm:mx-auto lg:w-full">{{ post.content }}</div>
+          <div class="post-content sm:w-3/4 sm:mx-auto lg:w-full" style="max-height: 430px;">{{ post.content }}</div>
           {% capture contentSize %}{{ page.content | size }}{% endcapture %}
           {% if contentSize > 612 %}
             <div data-post="{{ post.id }}" class="show-more-btn sm:w-1/2 lg:w-full rounded-outline-btn mt-6 block btn-zoom-in-out">ZJISTIT VIC</div>
