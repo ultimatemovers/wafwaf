@@ -621,6 +621,7 @@ html .load-hidden {
 
 .about-first-section-image{
   aspect-ratio: 5/4;
+  border-radius: 30px;
 }
 .about-right-section{
   overflow: visible;
