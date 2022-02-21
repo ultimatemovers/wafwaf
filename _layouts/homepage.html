@@ -39,7 +39,9 @@
           <div class="post-content sm:w-3/4 sm:mx-auto lg:w-full" style="max-height: 430px;">{{ post.content }}</div>
           {% capture contentSize %}{{ page.content | size }}{% endcapture %}
           {% if contentSize > 700 %}
-            <div data-post="{{ post.id }}" class="show-more-btn sm:w-1/2 lg:w-full rounded-outline-btn mt-6 block btn-zoom-in-out">ZJISTIT VIC</div>
+            <div data-post="{{ post.id }}" class="show-more-btn sm:w-1/2 lg:w-full rounded-outline-btn mt-6 block btn-zoom-in-out">
+              ZJISTIT VIC
+            </div>
           {% endif %}
           {% if post.post_url != '' %}
           <a target="_blank" href="{{ post.post_url }}" class="sm:w-1/2 lg:w-full rounded-outline-btn mt-6 block btn-zoom-in-out">ZJISTIT VIC</a>
