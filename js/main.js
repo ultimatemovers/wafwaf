@@ -399,6 +399,19 @@
 
     TOGGLE_MENU = !TOGGLE_MENU;
   })
+  
+  if(document.querySelector('.show-more-btn'))
+  {
+    document.querySelectorAll('.show-more-btn').forEach((b) => {
+       b.addEventListener('click', (e) => {
+        const id = e.target.dataset.post
+        const post = "[data-post-id='" + id + "'] .post-content'" 
+        document.querySelector(post).style.maxHeight = 'auto'
+        e.target.remove()
+       })
+    })
+  }
+  
 
   function toggleAccordion(el) {
 
