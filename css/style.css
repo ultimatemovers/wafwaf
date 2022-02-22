@@ -1602,7 +1602,8 @@ footer #newsletter input::placeholder {
     overflow: hidden;
   }
 
-  .latest-posts .post-content {
+  .latest-posts .post-content,
+  .latest-posts .show-more-btn {
     display: none;
   }
 
@@ -1757,5 +1758,11 @@ footer #newsletter input::placeholder {
   .hero-custom-carousel {
     width: 60%;
     margin-top: 0;
+  }
+}
+
+@media(min-width: 500px) {
+  .fool-class {
+    max-height: 450px; display: -webkit-box; -webkit-line-clamp: 19; -webkit-box-orient: vertical; overflow: hidden;
   }
 }

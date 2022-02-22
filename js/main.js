@@ -405,8 +405,9 @@
     document.querySelectorAll('.show-more-btn').forEach((b) => {
        b.addEventListener('click', (e) => {
         const id = e.target.dataset.post
-        document.querySelector(`[data-post-id='${id}'] .post-content`).style = 'max-height: 2000px;'
-        console.log(document.querySelector(`[data-post-id='${id}'] .post-content`))
+        const postContent = document.querySelector(`[data-post-id='${id}'] .post-content`)
+        postContent.style = 'max-height: 2000px;'
+        postContent.classList.remove('fool-class')
         e.target.remove()
        })
     })
