@@ -52,7 +52,7 @@ locations:
   location_gmaps_url: https://goo.gl/maps/XbPeVgcsR95ms4qx8
 - local_image: "/assets/images/screen-shot-2021-09-28-at-20-49-40.png"
   first_left_image: "/assets/images/20200119_085517000_ios.jpg"
-  location_name: WAF-WAF OC PALLADIUM
+  location_name: WAF-WAF OC PALLADIUM (+2 patro)
   location_address: Náměstí Republiky 1, 110 00 Nové Město
   location_contact: |-
     Otevírací doba:
@@ -62,8 +62,8 @@ locations:
     Kontaktní telefonní číslo: + 420 725 745 898
 
     Kontaktní email: palladium@waf-waf.cz
-  location_description: Aktuální umístění pobočky je na patře -2 v OC Palladium. Na
-    této pobočce si můžete vychutnat jídlo přímo na místě a nebo si nechat produkty
+  location_description: Umístění pobočky je na patře +2 v OC Palladium v rámci food-court.
+    Na této pobočce si můžete vychutnat jídlo přímo na místě a nebo si nechat produkty
     zabalit s sebou. Slečny Vám zabalí naše produkty do hezkého obalu a dají Vám papírovou
     tašku pro snazší odnos vaflí, lívanců nebo palačinek.
   contact_number: "+ 420 725 745 898"
@@ -73,10 +73,9 @@ locations:
     produkty. Zajímavá je specifickým interiérem, který zahrnuje i některé z retro
     prvků.
   second_column_above_image: Pobočka se nachází v OC Palladium (Praha 1, Náměstí Republiky
-    1, 110 00) v - 2. patře vedle Sportisimo a Sparkys.  Kapacita je 20 zákazníků.
-    Samozřejmostí je možnost take-away či rozvoz jídla. Radost uděláme i veganům,
-    protože už i vegani si můžou sestavit vafli podle sebe! Stačí zaškrtnout políčko
-    veganská vafle.
+    1, 110 00) v + 2. patře v rámci food-court.  Kapacita je 20 zákazníků. Samozřejmostí
+    je možnost take-away či rozvoz jídla. Radost uděláme i veganům, protože už i vegani
+    si můžou sestavit vafli podle sebe! Stačí zaškrtnout políčko veganská vafle.
   image_left: "/assets/images/20200119_085523000_ios.jpg"
   third_column_under_image: Doporučujeme ochutnat i některé z našich novinek, které
     jsme aktuálně přidali do našeho sortimentu. Věříme, že jsme Vás navnadili k návštěvě,
