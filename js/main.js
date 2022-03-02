@@ -181,6 +181,12 @@
       }
     })
 
+    const locationName = document.querySelectorAll('.location-name')
+    locationName.forEach(b => {
+      if(b.innerHTML.includes('('))
+        b.innerHTML = b.innerHTML.split('(')[0] + ' <br /> (' + b.innerHTML.split('(')[1]
+    })
+
     const locationInfo = document.querySelectorAll('div.location-info')
     locationInfo.forEach(linfo => {
       let linfoChildrens = Array.from(linfo.children)
