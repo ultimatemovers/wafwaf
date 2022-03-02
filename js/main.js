@@ -95,7 +95,6 @@
       m.classList.add('active')
 
     if(document.body.id === 'locations' && idx === 9){
-      // console.log(m)
       m.classList.add('active')
     }
 
@@ -152,6 +151,12 @@
         }
       })
     })
+
+    const storeTitles = document.querySelectorAll('.store-title')
+    storeTitles.forEach(sT => {
+      let b = sT.innerHTML.split('(')
+      sT.innerHTML = b[0] + '<br /> (' + b[1]
+    })
   }
 
   if(document.body.id === 'locations') {
@@ -166,6 +171,14 @@
         });
         changeLocations(e.target)
       })
+    })
+
+    const locationInfoTitles = document.querySelectorAll('.location-info-title')
+    locationInfoTitles.forEach(lit => {
+      if(lit.innerHTML.includes('(')){
+        b = lit.innerHTML.split('(')
+        lit.innerHTML = b[0] + '<p class="font-normal mt-2 mb-4">(' + b[1] + '</p>'
+      }
     })
   }
 
