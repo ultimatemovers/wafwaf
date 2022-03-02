@@ -180,6 +180,29 @@
         lit.innerHTML = b[0] + '<p class="font-normal mt-2 mb-4">(' + b[1] + '</p>'
       }
     })
+
+    const locationInfo = document.querySelectorAll('div.location-info')
+    locationInfo.forEach(linfo => {
+      let linfoChildrens = Array.from(linfo.children)
+      linfoChildrens.forEach(b => {
+        if(b.innerText.includes('420')){
+          const numElemBefore = b.innerHTML.split('+')[0]
+          const numElemAfter = b.innerHTML.split('+')[1]
+          b.innerHTML = numElemBefore + `<a href="tel:+${numElemAfter.split(' ').join('').replace(/\D/g, "")}"> +` + numElemAfter + '</a>'
+        }
+
+        if(b.innerText.includes('@')){
+          if(b.innerHTML.split(':')[1]){
+            const emailElemBefore = b.innerHTML.split(':')[0]
+            const emailElemAfter = b.innerHTML.split(':')[1]
+            b.innerHTML = emailElemBefore + `: <a href="mailto:${emailElemAfter.split(';')[1] ? emailElemAfter.split(';')[1] : emailElemAfter.split(';')[0] }">` + emailElemAfter + '</a>'
+          }
+          else{
+            b.innerHTML = `<a href="mailto:${b.innerHTML}">` + b.innerHTML + '</a>'
+          }
+        }
+      })
+    })
   }
 
 
