@@ -41,11 +41,11 @@
           </div>
           {% if post.content.size > 700 %}
             <div data-post="{{ post.id }}" class="show-more-btn cursor-pointer sm:w-1/2 lg:w-full rounded-outline-btn mt-10 block btn-zoom-in-out">
-              ZJISTIT VIC
+              ZOBRAZIT VÍCE
             </div>
           {% endif %}
           {% if post.post_url != '' %}
-          <a target="_blank" href="{{ post.post_url }}" class="sm:w-1/2 lg:w-full rounded-outline-btn mt-6 block btn-zoom-in-out">ZJISTIT VIC</a>
+          <a target="_blank" href="{{ post.post_url }}" class="sm:w-1/2 lg:w-full rounded-outline-btn mt-6 block btn-zoom-in-out">ZOBRAZIT VÍCE</a>
           {% endif %}
         </div>
     {% endfor %}
