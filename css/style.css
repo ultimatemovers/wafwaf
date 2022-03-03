@@ -907,7 +907,7 @@ header nav .menu-item.active {
       transform: scale(1.5);
   -webkit-animation: -webkit-zoom-out 1s ease-in-out forwards;
   animation: zoom-out 1s ease-in-out forwards;
-  border-radius: 20px;
+  border-radius: 30px;
   overflow: hidden;
   aspect-ratio: 16/9;
 }
@@ -1758,6 +1758,10 @@ footer #newsletter input::placeholder {
 
   .hero-custom-carousel {
     width: 60%;
+    margin-top: 30px;
+  }
+  
+  #homepage .hero-custom-carousel{
     margin-top: 0;
   }
 }
