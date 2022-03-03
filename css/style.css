@@ -890,9 +890,9 @@ header nav .menu-item.active {
   margin-top: 30px;
 }
 
-#homepage .hero-custom-carousel{
+/* #homepage .hero-custom-carousel{
   margin-top: 0;
-}
+} */
 
 .swiper-css-mode>.swiper-wrapper>.swiper-slide {
   overflow: hidden;

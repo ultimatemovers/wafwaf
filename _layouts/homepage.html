@@ -6,9 +6,9 @@
 
 {% include nav.html %}
 
-<div class="container pt-0 sm:pt-6 pb-4 sm:pb-0">
+<div class="container pb-4 sm:pb-0">
   <div class="w-full mt-4 mx-auto swiper-container custom-carousel hero-custom-carousel flex items-center justify-center reveal-delay-2200">
-    <div class="swiper-wrapper overflow-hidden">
+    <div class="swiper-wrapper overflow-hidden w-full">
       {% for image in page.hero_images %}
         <div class="swiper-slide">
           <img src="{{ image }}" alt="wafwaf hero {{ forloop.index }}" width="100%">
