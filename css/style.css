@@ -890,6 +890,10 @@ header nav .menu-item.active {
   margin-top: 30px;
 }
 
+#homepage .hero-custom-carousel{
+  margin-top: 0;
+}
+
 .swiper-css-mode>.swiper-wrapper>.swiper-slide {
   overflow: hidden;
 }
@@ -1759,10 +1763,6 @@ footer #newsletter input::placeholder {
 
   .hero-custom-carousel {
     width: 60%;
-  }
-  
-  #homepage .hero-custom-carousel{
-    margin-top: 0;
   }
 }
 
