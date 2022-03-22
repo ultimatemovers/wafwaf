@@ -82,22 +82,79 @@
 
   if(location.pathname.split('/')[1] === 'en'){
     menuItems.forEach((m,idx) => {      
-      if(idx === 0 || idx === 8) 
+      if(idx === 0 || idx === 8) {
         m.setAttribute('href', '/en')
-      if(idx === 1 || idx === 9) 
+        if(m.classList.contains('btn-zoom-in-out')){
+          m.innerHTML = 'Home'
+        }
+        if(m.children[0] && m.children[0].classList.contains('nav-mobile-item')){
+          m.children[0].innerHTML = 'Home'
+        }
+      }
+      if(idx === 1 || idx === 9) {
         m.setAttribute('href', '/en/locations')
-      if(idx === 2 || idx === 10) 
+        if(m.classList.contains('btn-zoom-in-out')){
+          m.innerHTML = 'Locations'
+        }
+        if(m.children[0] && m.children[0].classList.contains('nav-mobile-item')){
+          m.children[0].innerHTML = 'Locations'
+        }
+      }
+      if(idx === 2 || idx === 10) {
         m.setAttribute('href', '/en/menu')
-      if(idx === 3 || idx === 11)
+        if(m.classList.contains('btn-zoom-in-out')){
+          m.innerHTML = 'Menu'
+        }
+        if(m.children[0] && m.children[0].classList.contains('nav-mobile-item')){
+          m.children[0].innerHTML = 'Menu'
+        }
+      }
+      if(idx === 3 || idx === 11){
         m.setAttribute('href', '/en/franchising')
-      if(idx === 4 || idx === 12)
+        if(m.classList.contains('btn-zoom-in-out')){
+          m.innerHTML = 'Franchising'
+        }
+        if(m.children[0] && m.children[0].classList.contains('nav-mobile-item')){
+          m.children[0].innerHTML = 'Franchising'
+        }
+      }
+      if(idx === 4 || idx === 12){
         m.setAttribute('href', '/en/about')
-      if(idx === 5 || idx === 13)
+        if(m.classList.contains('btn-zoom-in-out')){
+          m.innerHTML = 'About'
+        }
+        if(m.children[0] && m.children[0].classList.contains('nav-mobile-item')){
+          m.children[0].innerHTML = 'About'
+        }
+      }
+      if(idx === 5 || idx === 13){
         m.setAttribute('href', '/en/contact')
-      if(idx === 6 || idx === 14)
+        if(m.classList.contains('btn-zoom-in-out')){
+          m.innerHTML = 'Contact'
+        }
+        if(m.children[0] && m.children[0].classList.contains('nav-mobile-item')){
+          m.children[0].innerHTML = 'Contact'
+        }
+      }
+      if(idx === 6 || idx === 14){
         m.setAttribute('href', '/en/jobs')
-      if(idx === 7 || idx === 15)
+        if(m.classList.contains('btn-zoom-in-out')){
+          m.innerHTML = 'Jobs'
+        }
+        if(m.children[0] && m.children[0].classList.contains('nav-mobile-item')){
+          m.children[0].innerHTML = 'Jobs'
+        }
+      }
+      if(idx === 7 || idx === 15){
         m.setAttribute('href', '/en/delivery')
+        if(m.classList.contains('btn-zoom-in-out')){
+          m.innerHTML = 'Delivery'
+        }
+        if(m.children[0] && m.children[0].classList.contains('nav-mobile-item')){
+          m.children[0].innerHTML = 'Delivery'
+        }
+        
+      }
     })  
   }
 
