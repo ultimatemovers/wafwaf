@@ -45,6 +45,7 @@ fields:
   hidden: true
   default: homepage
 pages:
+- en/homepage-en.md
 - homepage-en.md
 - homepage.md
 - index.md
