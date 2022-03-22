@@ -78,8 +78,29 @@
       );
     }()
   }
-
   const menuItems = document.querySelectorAll('.menu-item')
+
+  if(location.pathname.split('/')[1] === 'en'){
+    menuItems.forEach((m,idx) => {      
+      if(idx === 0 || idx === 8) 
+        m.setAttribute('href', '/en')
+      if(idx === 1 || idx === 9) 
+        m.setAttribute('href', '/en/locations')
+      if(idx === 2 || idx === 10) 
+        m.setAttribute('href', '/en/menu')
+      if(idx === 3 || idx === 11)
+        m.setAttribute('href', '/en/franchising')
+      if(idx === 4 || idx === 12)
+        m.setAttribute('href', '/en/about')
+      if(idx === 5 || idx === 13)
+        m.setAttribute('href', '/en/contact')
+      if(idx === 6 || idx === 14)
+        m.setAttribute('href', '/en/jobs')
+      if(idx === 7 || idx === 15)
+        m.setAttribute('href', '/en/delivery')
+    })  
+  }
+
   menuItems.forEach((m, idx) => {
     const menuUrl = m.getAttribute('href').replaceAll('/', '')
     const url = location.pathname.replaceAll('/', '')
