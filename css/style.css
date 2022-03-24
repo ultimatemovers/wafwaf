@@ -229,7 +229,7 @@ body {
 .rubic-pattern.navbar-pattern {
   background-position: 30px;
   border-radius: 0 0 30px 30px;
-  margin-bottom: 18px;
+  margin-bottom: 50px;
 }
 
 .rubic-pattern.top {
@@ -887,7 +887,7 @@ header nav .menu-item.active {
   aspect-ratio: 16/9;
   overflow: hidden;
   border-radius: 30px;
-  margin-top: 30px;
+  margin-top: 20px;
 }
 
 /* #homepage .hero-custom-carousel{

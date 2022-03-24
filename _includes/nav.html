@@ -6,20 +6,6 @@
       <div div class="container">
     {% endif %}
       <div class="rubic-pattern navbar-pattern"></div>
-      <div class="hidden lg:flex items-center justify-end leading-5 mb-1 ">
-        <div id="en" class="changeLang cursor-pointer">
-          <div class="h-6 mr-4 w-auto flex items-center cursor-pointer opacity-70 hover:opacity-100">
-            <img src="/img/en.png" alt="en" class="h-full mr-1">
-            <span>en</span>
-          </div>
-        </div>
-        <div id="cz" class="changeLang cursor-pointer">
-          <div class="h-6 mr-4 w-auto flex items-center cursor-pointer opacity-70 hover:opacity-100">
-            <img src="/img/cz.png" alt="cz" class="h-full mr-1">
-            <span>cz</span>
-          </div>
-        </div>
-      </div>
       <div class="mobile-nav xl:hidden flex justify-between items-center">
         <a  href="/" class="menu-logo">
           {% if current_page == 'contact' or current_page == 'jobs' or current_page == 'franchising' or current_page == 'about' %}
@@ -41,17 +27,18 @@
             <img src="/img/Waf-Waf-logo.svg" alt="Waf Waf - crepes & waffles" width="92">
           </a>
         </div>
-        <div class="flex items-center justify-start leading-5 mb-4 pl-7">
-          <div id="en" class="changeLang cursor-pointer">
-            <div class="h-6 mr-4 w-auto flex items-center cursor-pointer">
-              <img src="/img/en.png" alt="en" class="h-full mr-1">
-              <span>en</span>
+        <div class="flex items-center justify-start leading-5 mb-1 pl-3">
+          <div id="cz" class="changeLang cursor-pointer mx-1">
+            <div class="h-8 py-2 px-3 w-auto flex items-center cursor-pointer opacity-70 hover:opacity-100">
+              <!-- <img src="/img/cz.png" alt="cz" class="h-full mr-1"> -->
+              <span class="font-semibold uppercase" style="font-size: 18px;">cz</span>
             </div>
           </div>
-          <div id="cz" class="changeLang cursor-pointer">
-            <div class="h-6 mr-4 w-auto flex items-center cursor-pointer">
-              <img src="/img/cz.png" alt="cz" class="h-full mr-1">
-              <span>cz</span>
+          <div>/</div>
+          <div id="en" class="changeLang cursor-pointer mx-1">
+            <div class="h-8 py-2 px-3 w-auto flex items-center cursor-pointer opacity-70 hover:opacity-100">
+              <!-- <img src="/img/en.png" alt="en" class="h-full mr-1"> -->
+              <span class="font-semibold uppercase" style="font-size: 18px;">en</span>
             </div>
           </div>
         </div>
@@ -146,5 +133,21 @@
           Rozvoz
         </a>
       </nav>
+
+      <div class="hidden lg:flex items-center justify-center leading-5 mt-4 mb-2">
+        <div id="cz" class="changeLang cursor-pointer mx-1">
+          <div class="h-6 px-1 w-auto flex items-center cursor-pointer opacity-70 hover:opacity-100">
+            <!-- <img src="/img/cz.png" alt="cz" class="h-full mr-1"> -->
+            <span class="font-semibold uppercase" style="font-size: 18px;">cz</span>
+          </div>
+        </div>
+        <div>/</div>
+        <div id="en" class="changeLang cursor-pointer mx-1">
+          <div class="h-6 px-1 w-auto flex items-center cursor-pointer opacity-70 hover:opacity-100">
+            <!-- <img src="/img/en.png" alt="en" class="h-full mr-1"> -->
+            <span class="font-semibold uppercase" style="font-size: 18px;">en</span>
+          </div>
+        </div>
+      </div>
   </div>
 </header>
