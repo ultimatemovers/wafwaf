@@ -35,6 +35,7 @@ proccess:
   name: Počkejte, než Vám pager zazvoní
 - image: "/uploads/2021/07/27/group-45866.svg"
   name: Přijďte s pagerem pro objednávku a vychutnejte si jídlo
+bud_u_toho: "/en/franchising"
 layout: about
 subtitle: ''
 
