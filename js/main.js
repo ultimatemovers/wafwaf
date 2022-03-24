@@ -178,6 +178,55 @@
 
   })
 
+  if(document.querySelector('.changeLang')){
+    const changeLang = document.querySelectorAll('.changeLang')
+    changeLang.forEach(cl => {
+      cl.addEventListener('click', () => {
+        if(cl.id === 'cz'){
+          const currentPath = location.pathname.replaceAll('/', '')
+
+          if(currentPath === 'en')
+            location.href = location.origin + "/"
+          if(currentPath === 'enlocations')
+            location.href = location.origin + "/na%C5%A1e-pobo%C4%8Dky" 
+          if(currentPath === 'enmenu')
+            location.href = location.origin + "/menu" 
+            if(currentPath === 'enfranchising')
+            location.href = location.origin + "/franchise" 
+          if(currentPath === 'enabout')
+            location.href = location.origin + "/n%C3%A1%C5%A1-p%C5%99%C3%ADb%C4%9Bh" 
+          if(currentPath === 'encontact')
+            location.href = location.origin + "/kontakty" 
+          if(currentPath === 'enjobs')
+            location.href = location.origin + "/p%C5%99idej-se" 
+          if(currentPath === 'endelivery')
+            location.href = location.origin + "/rozvoz" 
+        }
+        if(cl.id === 'en'){
+          const currentPath = location.pathname.replaceAll('/', '')
+          
+          if(currentPath === '')
+            location.href = location.origin + "/en/" 
+          if(currentPath === 'na%C5%A1e-pobo%C4%8Dky')
+            location.href = location.origin + "/en/locations" 
+          if(currentPath === 'menu')
+            location.href = location.origin + "/en/menu" 
+          if(currentPath === 'franchise')
+            location.href = location.origin + "/en/franchising" 
+          if(currentPath === 'n%C3%A1%C5%A1-p%C5%99%C3%ADb%C4%9Bh')
+            location.href = location.origin + "/en/about" 
+          if(currentPath === 'kontakty')
+            location.href = location.origin + "/en/contact" 
+          if(currentPath === 'p%C5%99idej-se')
+            location.href = location.origin + "/en/jobs" 
+          if(currentPath === 'rozvoz')
+            location.href = location.origin + "/en/delivery" 
+        }
+      })
+    })
+
+  }
+
   const mobileMenuItems = document.querySelectorAll('.nav-mobile-item')
   mobileMenuItems.forEach((mi, idx) => {
     const menuUrl = mi.parentElement.getAttribute('href').replaceAll('/', '');
@@ -378,10 +427,8 @@
     }
 
     if(window.innerWidth > 450 && window.innerWidth < 1440){
-      console.log('uslo if')
       document.getElementById('about-four-boxes').classList.add('reveal-delay-2200')
     } else{
-      console.log('uslo else');
       document.getElementById('about-four-boxes').classList.add('reveal-delay-200')
     }
   }

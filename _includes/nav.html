@@ -6,6 +6,20 @@
       <div div class="container">
     {% endif %}
       <div class="rubic-pattern navbar-pattern"></div>
+      <div class="hidden lg:flex items-center justify-end leading-5 mb-1 ">
+        <div id="en" class="changeLang cursor-pointer">
+          <div class="h-6 mr-4 w-auto flex items-center cursor-pointer opacity-70 hover:opacity-100">
+            <img src="/img/en.png" alt="en" class="h-full mr-1">
+            <span>en</span>
+          </div>
+        </div>
+        <div id="cz" class="changeLang cursor-pointer">
+          <div class="h-6 mr-4 w-auto flex items-center cursor-pointer opacity-70 hover:opacity-100">
+            <img src="/img/cz.png" alt="cz" class="h-full mr-1">
+            <span>cz</span>
+          </div>
+        </div>
+      </div>
       <div class="mobile-nav xl:hidden flex justify-between items-center">
         <a  href="/" class="menu-logo">
           {% if current_page == 'contact' or current_page == 'jobs' or current_page == 'franchising' or current_page == 'about' %}
@@ -22,10 +36,24 @@
       </div>
 
       <nav class="nav-mobile " id="nav-mobile">
-        <div class="mb-12">
+        <div class="mb-6">
           <a  href="/" class="menu-logo">
             <img src="/img/Waf-Waf-logo.svg" alt="Waf Waf - crepes & waffles" width="92">
           </a>
+        </div>
+        <div class="flex items-center justify-start leading-5 mb-4 pl-7">
+          <div id="en" class="changeLang cursor-pointer">
+            <div class="h-6 mr-4 w-auto flex items-center cursor-pointer">
+              <img src="/img/en.png" alt="en" class="h-full mr-1">
+              <span>en</span>
+            </div>
+          </div>
+          <div id="cz" class="changeLang cursor-pointer">
+            <div class="h-6 mr-4 w-auto flex items-center cursor-pointer">
+              <img src="/img/cz.png" alt="cz" class="h-full mr-1">
+              <span>cz</span>
+            </div>
+          </div>
         </div>
         <a  href="/" class="menu-item">
           <div class="nav-mobile-item">
