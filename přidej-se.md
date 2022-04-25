@@ -5,7 +5,7 @@ subtitle: Staň se součástí našeho týmu!
 layout: jobs
 positions_title: 'Nabízené pozice v rámci společnosti Waf-Waf s.r.o.:'
 jobs:
-- job_title: Obsluha ve WAF-WAF až 25.500 Kč (HPP)
+- job_title: Obsluha ve WAF-WAF až 30.000 Kč (HPP)
   job_location: Praha
   job_description: |-
     **Co Vás ve Waf-Waf čeká:**
@@ -20,7 +20,7 @@ jobs:
 
     **Co vám můžeme nabídnout**
 
-    Při práci na HPP Vám můžeme nabídnout 23 000kč – 25 500Kč + bonusy za plnění. Máme zájem o dlouhodobou spolupráci a také o to, že Vaše mzda bude růst, stejně jako naše rozšiřující se společnost.
+    Při práci na HPP Vám můžeme nabídnout 25 000 kč – 30 000Kč + bonusy za plnění. Máme zájem o dlouhodobou spolupráci a také o to, že Vaše mzda bude růst, stejně jako naše rozšiřující se společnost.
 
     **Dále také nabízíme:**
 
@@ -33,7 +33,7 @@ jobs:
     možnost stravování z naší nabídky
 
     Vaše životopisy můžete zasílat na email: [jonas@waf-waf.cz]()
-- job_title: Vedoucí pobočky Waf-Waf až 28.500 Kč (HPP)
+- job_title: Vedoucí pobočky Waf-Waf až 32.000 Kč (HPP)
   job_location: Praha
   job_description: "**Co Vás ve Waf-Waf čeká:**\n\nNáš koncept se zaměřuje na výrobu
     vaflí, palačinek a lívanců či milkshake ve velmi originálním pojetí. Našim hlavním
@@ -45,14 +45,14 @@ jobs:
     starosti budete mít:**\n\n* kontrola zaměstnaneckých činností\n* podílení se na
     přípravě produktů\n* vedení vlastního týmu\n* řešení objednávek s dodavateli\n*
     motivaci svých kolegů\n* kompletní správu jedné z našich poboček\n\n**Co vám můžeme
-    nabídnout**\n\nPři práci na HPP Vám můžeme nabídnout platové podmínky až 28 500
+    nabídnout**\n\nPři práci na HPP Vám můžeme nabídnout platové podmínky až 32 000
     Kč a další motivační ohodnocení včetně bonusů.. Předpoklad je pracovitost a zápal
     pro náš brand. Máme zájem o dlouhodobou spolupráci a také o to, že Vaše mzda bude
     růst, stejně jako naše rozšiřující se společnost i pro je zde možnost dalšího
     kariérního růstu.\n\n**Dále také po zapracování nabízíme:**  \nslužební oblečení
     \ \nmožnosti MultiSport Card  \nmožnost stravování z naší nabídky v hodnotě 3150
     Kč / (měs.)\n\nVaše životopisy můžete zasílat na email: [jonas@waf-waf.cz](mailto:jonas@waf-waf.cz)"
-- job_title: Obsluha ve WAF-WAF až 120 Kč / hod (Brigáda)
+- job_title: Obsluha ve WAF-WAF až 130 Kč / hod (Brigáda)
   job_location: Praha
   job_description: "**Co Vás ve Waf-Waf čeká:**\n\nNáš koncept se zaměřuje na výrobu
     a přípravu vaflí, palčinek a lívanců či milkshake ve velmi originálním pojetí.
@@ -61,7 +61,7 @@ jobs:
     hledáme do Waf-Waf?**\n\nMladé ambiciózní kolegyně na brigádu a výpomoc. Budeme
     očekávat pracovitou a milou osobu, která bude přínosem pro celý náš tým.\n\n**Výhodou
     bude, pokud budete mít zkušenosti z gastro provozu.**  \nCo vám můžeme nabídnout:\n\nZa
-    brigádu Vám můžeme nabídnout nástupní mzdu 90-120Kč/hod. Máme zájem o dlouhodobou
+    brigádu Vám můžeme nabídnout nástupní mzdu 100-130Kč/hod. Máme zájem o dlouhodobou
     spolupráci a také o to, že Vaše mzda bude růst, stejně jako naše rozšiřující se
     společnost a proto Vaše mzda i jako u brigádníka se může posunout.\n\n**Dále také
     nabízíme nad rámec uvedené mzdy:**\n\n* pracovní oblečení\n* bonusy za denní plnění\n*
