@@ -135,7 +135,7 @@ faq:
 
     In any case, we recommend having another warehouse available outside the premises.
 - question: What is the minimum / maximum investment for opening a Waf-Waf franchise?
-  answer: The minimum investment will be around CZK 1,750,000, the maximum CZK 6,000,000
+  answer: The minimum investment will be around EUR 70.000,00 the maximum EUR 240.000,00
     depending on the size of the branch and its construction readiness. The investment
     can be significantly smaller or even higher.
 - question: What location do you recommend for the Waf-Waf branch?
