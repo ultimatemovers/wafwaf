@@ -87,24 +87,24 @@ jobs:
     * Regular TeamBuilding activities
 
     You can send your CVs to email: [jonas@waf-waf.cz] (mailto: jonas@waf-waf.cz)
-- job_title: Obsluha ve Waf-Waf Brno s možností kariérního rozvoje (HPP)
+- job_title: Service at Waf-Waf Brno with the possibility of career development (HPP)
   job_location: Brno
-  job_description: "**Koho ve Waf-Waf Brno hledáme:**   \nNové mladé ambiciózní kolegy/ně,
-    kteří by měli mít chuť podílet se na velmi úspěšném gastro konceptu, který má
-    za cíl rozšíření do celé ČR a EU. Budeme očekávat pracovitou a milou osobu, která
-    bude přínosem pro celý náš tým.\n\n**Co na Vás čeká?**   \nNáš koncept se zaměřuje
-    na výrobu vaflí, palačinek a lívanců, či milkshakes ve velmi originálním pojetí.
-    Našim hlavním mottem je #radostprovsechny a to budeme očekávat i od Vás. Ať už
-    připravujete naše produkty a nebo pracujete na pokladně a komunikujete se zákazníky.\n\n**Co
-    budeme požadovat?**   \nvěk min. 18 let  \nzákladní zkušenosti z gastronomie  \nschopnost
-    učit se novým věcem  \nusměvavá, pracovitá a pozitivní osoba  \npotravinářský
-    průkaz  \nnástup ihned  \n  \n**Co můžeme nabídnout:**   \nmotivující nástupní
-    mzda, po zapracování zvýšení mzdy a bonusy  \nsměny na bázi „krátký/dlouhý týden“
-    \ \npráci v silně se rozvíjející společnosti  \nkariérní růst s možností podílení
-    se na vedení provozovny Waf-Waf  \npravidelné teambuildingové aktivity  \nkompletní
-    zaškolení do našeho systému a produktů  \npráce v případě opětovného uzavření
-    garantovaná!  \n  \nPokud byste měli zájem o nabízenou pozici, kontaktujte nás
-    prosím na e-mailové: [kristyna.brno@waf-waf.cz ](kristyna.brno@waf-waf.cz)  \n
-    \ \nDěkujeme!  "
+  job_description: "** Who we are looking for in Waf-Waf Brno: **\nNew young ambitious
+    colleagues who should have the desire to participate in a very successful gastronomic
+    concept, which aims to expand throughout the Czech Republic and the EU. We will
+    expect a hard-working and kind person who will benefit our entire team.\n\n**
+    What awaits you? **\nOur concept focuses on the production of waffles, pancakes
+    and american pancakes, or milkshakes in a very original concept. Our main motto
+    is #joyforall and we will expect that from you as well. Whether you are preparing
+    our products or working at the cash register and communicating with customers.\n\n**
+    What will we require? **\nage min. 18 years\nbasic experience in gastronomy\nthe
+    ability to learn new things\nsmiling, hardworking and positive person\nfood license\nonset
+    immediately\n  \n** What we can offer: **\nmotivating starting salary, after incorporation
+    of salary increases and bonuses\nshifts on a \"short / long week\" basis\nwork
+    in a fast-growing society\ncareer growth with the possibility of participating
+    in the management of the Waf-Waf plant\nregular teambuilding activities\ncomplete
+    training in our system and products\nwork in case of re-closing guaranteed!\n
+    \ \nIf you are interested in the offered position, please contact us by e-mail:
+    [kristyna.brno@waf-waf.cz] (kristyna.brno@waf-waf.cz)\n  \nThank you!"
 
 ---
