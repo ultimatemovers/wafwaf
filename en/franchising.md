@@ -83,57 +83,57 @@ accordions:
     Willingness to train, willingness to change
 
     Restaurant experience (not a requirement)
-- title: POTŘEBNÁ POČÁTEČNÍ INVESTICE
+- title: INITIAL INVESTMENT REQUIRED
   description: |-
-    **PRVOTNÍ INVESTICE**
+    ** INITIAL INVESTMENT **
 
-    Vstupní poplatek: 750 000 Kč
+    Entrance fee: 750,000 CZK
 
-    Kauce: 500 tis. Kč
+    Deposit: 500 000 USD CZK
 
-    Investice: Kupní cena cca. 1,5 mil. – 6,5mil. V závislosti na výběru typu provozu
+    Investment: Purchase price approx. 1.5 million - 6.5 million Depending on the type of operation selected
 
-    Školení zaměstnanců
+    Staff training
 
-    Prvotní náklady + Rezerva
+    Initial costs + Reserve
 
-    Pro rok 2021/2022 nabízíme možnost jednání v rámci nabízených vstupních podmínek tzv. CovidSleva.
+    For the year 2021/2022, we offer the possibility of negotiating within the offered entry conditions, the so-called CovidDiscount.
 
-    **MĚSÍČNÍ POPLATKY**
+    **MONTHLY FEES**
 
-    Franšízový poplatek: 12 % z tržby
+    Franchise fee: 12% of sales
 
-    **PROVOZNÍ NÁKLADY**
+    **OPERATING COSTS**
 
-    Nájemné a energie
+    Rent and energy
 
-    Mzdové a personální náklady
+    Salary and personnel costs
 
-    Suroviny, obaly a logistika
+    Raw materials, packaging and logistics
 
-    Marketing v rámci a okolí provozovny
+    Marketing within and around the establishment
 
-    IT a Systémy
+    IT and Systems
 
-    Kontrolní mechanismy provozovny
+    Establishment control mechanisms
 
-    Ostatní provozní, režijní a finanční náklady
+    Other operating, overhead and financial expenses
 
-    Smlouva se uzavírá na dobu 5 let. Návratnosti investic lze dosáhnout během 12-24 měsíců.
+    The contract is concluded for a period of 5 years. Return on investment can be achieved within 12-24 months.
 layout: franchising
-faq_title: FAQ K FRANCHISE POBOČCE
+faq_title: FAQ FOR FRANCHISE BRANCH
 faq:
-- question: Jaká je minimální velikost pobočky Waf-Waf?
+- question: What is the minimum size of a Waf-Waf branch?
   answer: |-
-    Doporučujeme mít velikost větší než 20m2, když je stánek v obchodním centru.
+    We recommend having a size larger than 20 square meters when the stand is in the mall.
 
-    Pokud se jedná o kamennou pobočku tak minimální velikost požadujeme mít 80m2.
+    If it is a stone branch, we require a minimum size of 80 square meters.
 
-    Musíme počítat s tím, že zde bude zasazena fast-casual kuchyně a take zásobování či případně sklad.
+    We have to reckon with the fact that fast-casual cuisine will be installed here, as well as supplies or possibly a warehouse.
 
-    Zapotřebí je mít dostatek míst k sezení v závislosti na lokalitě a typu provozu.
+    It is necessary to have enough seats depending on the location and type of operation.
 
-    Každopádně doporučujeme mít k dispozici nějaký další sklad mimo provozovnu.
+    In any case, we recommend having another warehouse available outside the premises.
 - question: Jaká je minimální/maximální investice pro otevření franchisy Waf-Waf?
   answer: Minimální investice se bude pohybovat kolem 1 750 000 Kč, maximální pak
     6 000 000 Kč v závislosti na velikost pobočky a její stavební připravenosti. Investice
