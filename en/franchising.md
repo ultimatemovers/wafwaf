@@ -38,13 +38,13 @@ concept:
 stores:
 - image: "/assets/images/20111231_230000000_ios-103-modified.png"
   description: " "
-  title: Pobočka v OC (80 – 180m2)
+  title: Branch in Shopping Mall (80 – 180m2)
 - image: "/assets/images/waf-waf-ipak-misto-te-fotky-s-ruzovou-kytkou-mala-fotka-v-uvodnim-ramecku.jpg"
   description: " "
-  title: High street koncept – (60m2 – 150m2)
+  title: High street concept – (60m2 – 150m2)
 - image: "/assets/images/stand-concept.jpg"
   description: " "
-  title: Stand koncept – (20 – 50m2)
+  title: Pop Up concept – (20 – 50m2)
 third_subtitle: KONCEPTY – WAF-WAF FRANCHISE
 accordions:
 - title: PODPORA PRO FRANCHISANTY
