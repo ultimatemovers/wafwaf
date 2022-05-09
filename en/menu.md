@@ -33,7 +33,7 @@ categories:
   products:
   - product_image: "/assets/images/maplewaf-small.jpg"
     product_title: MAPLEWAF
-    product_description: vajíčko, slanina, cheddar, rukola, rajče, javorový sirup
+    product_description: egg, bacon, cheddar, rocket salad, tomato, maple syrup
     product_price: "164"
   - product_image: "/assets/images/beefwaf-small.jpg"
     product_title: BEEFWAF
