@@ -171,8 +171,8 @@ after_faq:
 - title: FRANCHISE ESTABLISHMENTS
   content: Brno - OC Špalíček
 - title: LOCATIONS
-  content: "Ostrava, Plzeň, Liberec, Hradec Králové, Brno, Ústí nad Labem, České Budějovice
-    aj. \n\nNěmecko, Polsko, Slovensko, Rakousko, Maďarsko, Itálie, Chorvatsko, Srbsko,
-    Slovinsko a další státy v EU či mimo EU. "
+  content: 'Ostrava, Plzeň, Liberec, Hradec Králové, Brno, Ústí nad Labem, České Budějovice
+    aj. Germany, Poland, Slovakia, Austria, Hungary, Italy, Croatia, Srbia, Slovenia
+    and more states in EU or out EU,world. '
 
 ---
