@@ -87,11 +87,11 @@ accordions:
   description: |-
     ** INITIAL INVESTMENT **
 
-    Entrance fee: 750,000 CZK
+    Entrance fee: 30.000,00 EUR
 
-    Deposit: 500 000 USD CZK
+    Deposit: 20.000,00 EUR
 
-    Investment: Purchase price approx. 1.5 million - 6.5 million Depending on the type of operation selected
+    Investment: Purchase price approx. 70.000,00 EUR - 240.000,00 EUR Depending on the type of operation selected
 
     Staff training
 
