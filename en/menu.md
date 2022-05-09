@@ -27,7 +27,7 @@ categories:
     product_price: "99"
   - product_image: "/assets/images/1.png"
     product_title: SUSHIWAF
-    product_description: čokoládová palačinka, banán, jahody, karamelový toping, kokos
+    product_description: chocolate pancake, banana, strawberry, caramel topping, coconut
     product_price: "129"
 - category_title: SLANÉ
   products:
