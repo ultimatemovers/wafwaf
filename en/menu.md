@@ -37,12 +37,12 @@ categories:
     product_price: "164"
   - product_image: "/assets/images/beefwaf-small.jpg"
     product_title: BEEFWAF
-    product_description: trhané hovězí maso,  cheddarová omáčka, grilovaná rajčata,
-      cibule, salát, brusinky
+    product_description: shredded beef, cheddar sauce, grilled tomatoes, onions, salad,
+      cranberries
     product_price: "174"
   - product_image: "/assets/images/ironwaf-small.jpg"
     product_title: IRONWAF
-    product_description: vajíčko, slanina, cheddar, rukola
+    product_description: egg, bacon, cheddar, rocket salad
     product_price: "164"
   - product_image: "/assets/images/crepedilla-small.jpg"
     product_title: CREPEDILLA
