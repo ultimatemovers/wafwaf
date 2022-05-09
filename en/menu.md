@@ -72,7 +72,7 @@ categories:
     product_price: "129"
   - product_image: "/assets/images/avowaf-small.jpg"
     product_description: avocado spread, fried egg, baby spinach,rocket salad, cherry
-      tomatoes, pomegranate, seeds
+      tomatoes, pomegranate seeds
     product_price: "134"
     product_title: AVOWAF
 - category_title: NÁPOJE & MILKSHAKES
@@ -88,8 +88,8 @@ categories:
     product_price: "129"
   - product_image: "/assets/images/s1.jpg"
     product_title: Banánový Milkshake
-    product_description: mléko, banán, vanilková zmrzlina, karamelový toping, barevné
-      posypky, šlehačka
+    product_description: milk, banana, vanilla ice cream, caramel topping, colored
+      sprinkles, whipped cream
     product_price: "129"
   - product_image: "/assets/images/ss2.jpg"
     product_title: Čokoládový Wafshake
