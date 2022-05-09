@@ -1,5 +1,5 @@
 ---
-big_title: WAF-WAF NABÍDKA
+big_title: WAF-WAF OFFER
 layout: menu
 categories:
 - category_title: SLADKÉ
