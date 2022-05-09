@@ -161,18 +161,13 @@ faq:
 - question: Is it necessary to pay a deposit?
   answer: Yes, the deposit is EUR 20.000,00 and is refundable upon termination of
     the franchise agreement.
-- question: 'Je zapotřebí zaplatit licenční poplatek? '
-  answer: Ano, licenční poplatek, který zahrnuje práva na užívání kompletního brandu
-    Waf-Waf a práva na jeho používání je 750.000Kč + DPH.
+- question: Do I need to pay a license fee?
+  answer: Yes, the license fee, which includes the rights to use the complete Waf-Waf
+    brand and the rights to use it, is EUR 30.000,00 + VAT.
 mam_zajem: https://docs.google.com/forms/d/1iMidmc9xHbVnVLZVh6d6yE7hliv2U6I_DqN5lSW_3vI/prefill
 after_faq:
-- title: VLASTNÍ PROVOZOVNY
-  content: |-
-    Praha 7 - Letná
-
-    Praha 2 - I.P. Pavlova
-
-    Praha 1 - OC Palladium
+- title: OWN ESTABLISHMENTS
+  content: Prague 7 - LetnáPrague 2 - I.P. PavlovaPrague 1 - OC Palladium
 - title: FRANŠÍZOVÉ PROVOZOVNY
   content: Brno - OC Špalíček
 - title: 'AKTUÁLNĚ HLEDÁME FRANCHISANTY PRO LOKALITY:'
