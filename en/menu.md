@@ -99,8 +99,8 @@ categories:
     product_price: "199"
   - product_image: "/assets/images/ss1.jpg"
     product_title: Jahodový Wafshake
-    product_description: mléko, jahody, vanilková zmrzlina, jahodový toping, šlehačka,
-      vafle
+    product_description: milk, strawberries, vanilla ice cream, strawberry topping,
+      whipped cream, waffles
     product_price: "199"
   - product_image: "/assets/images/ss3.jpg"
     product_title: Banánový Wafshake
