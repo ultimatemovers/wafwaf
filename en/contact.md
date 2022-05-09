@@ -1,15 +1,24 @@
 ---
 hero_image: "/uploads/2021/07/22/kontakty.png"
-big_title: Kontakty
+big_title: Contact
 layout: contact
 contact_information:
-- title: Rádi byste nějaké informace?
-  content: "[info@waf-waf.cz](mailto:info@waf-waf.cz)  \n[+420 725 344 097](https://wa.me/420725344097)\n\nLetná:
-    [+420 602 728 121](https://wa.me/420602728121)  \nkaždý den od 08:00 - 21:00\n\nBrno:
-    [+420 608 918 243 ](https://wa.me/420608918243)  \nkaždý den od 09:00 - 21:00\n\nPalladium:
-    [+420 725 745 898](https://wa.me/420725745898)  \nkaždý den od 09:00 - 20:00\n\nIP
-    Pavlova: [+420 725 344 097](https://wa.me/420725344097)  \nkaždý den od 08:00
-    - 21:00"
+- title: Would you like some information?
+  content: |-
+    [info@waf-waf.cz] (mailto: info@waf-waf.cz)
+    [+420 725 344 097] (https://wa.me/420725344097)
+
+    Summer: [+420 602 728 121] (https://wa.me/420602728121)
+    every day from 08:00 to 21:00
+
+    Brno: [+420 608 918 243] (https://wa.me/420608918243)
+    every day from 09:00 to 21:00
+
+    Palladium: [+420 725 745 898] (https://wa.me/420725745898)
+    every day from 09:00 to 20:00
+
+    IP Pavlova: [+420 725 344 097] (https://wa.me/420725344097)
+    every day from 08:00 to 21:00
 - title: 'Rezervace míst '
   content: 'Rezervace provádíme od pondělí do pátku pro více jak 2 osoby, které u
     nás místo vždy najdou :) Pokud byste chtěli provést rezervaci, kontaktujte danou
