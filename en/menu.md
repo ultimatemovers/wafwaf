@@ -130,7 +130,7 @@ categories:
   products:
   - product_image: "/assets/images/wafchick-small.jpg"
     product_title: WAFCHICK
-    product_description: vafle, maxi kuřecí strips, salát, okurka, majonéza
+    product_description: waffles, maxi chicken strips, lettuce, cucumber, mayonnaise
     product_price: "159"
   - product_image: "/assets/images/friedwaf-small.jpg"
     product_title: FRIEDWAF
