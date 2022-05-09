@@ -140,10 +140,10 @@ faq:
     can be significantly smaller or even higher.
 - question: What location do you recommend for the Waf-Waf branch?
   answer: In cities with more than 50,000 inhabitants and in its main places.
-- question: Musím kupovat zásoby přímo od Vás?
-  answer: Jaké konkrétní zásoby je zapotřebí nakupovat od naší společnosti je obsaženo
-    ve franchisové smlouvě. Některé jsou zapotřebí nakupovat napřímo a některé přes
-    naše obchodní partnery.
+- question: Do I have to buy supplies directly from you?
+  answer: What specific inventory you need to buy from our company is included in
+    the franchise agreement. Some are needed to shop directly and some through our
+    business partners.
 - question: Potřebuji zkušenosti proto, abych mohl začít s Waf-Waf franchise?
   answer: Není zapotřebí zkušeností, pokud je odhodlání, motivace. Každopádně zkušenosti,
     zcela jistě vítáme a takový uchazeči u nás budou mít určitou výhodu rychlejšího
