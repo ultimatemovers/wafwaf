@@ -7,42 +7,43 @@ locations:
   location_name: WAF-WAF LETNÁ
   location_address: Milady Horákové 52, Praha 7
   location_contact: |-
-    Otevírací doba:
+    Opening hours:
 
-    Pondělí - Neděle:
+    Monday - Sunday:
 
     08:00 - 21:00
 
-    Kontaktní telefonní číslo:
+    Contact phone number:
 
-    \+420602728121
+    +420602728121
 
-    Kontaktní email:
+    Contact e-mail:
 
     letna@waf-waf.cz
-  location_description: 'Zrekonstruovaná pobočka Waf-Waf Letná disponuje také zimní/letní
-    zahrádkou ve vnitrobloku, čímž se kapacita pobočky zvýšila až na 75 osob. Na této
-    pobočce si můžete vychutnat komplexní #novyzazitek, jídlo Vám připravíme přímo
-    na místě a nebo si jej můžete vyzvednout s sebou. Slečny Vám zabalí naše produkty
-    do hezkého obalu a dají Vám papírovou tašku pro snazší odnos vaflí, lívanců nebo
-    palačinek.'
+  location_description: 'The renovated Waf-Waf Letná branch also has a winter / summer
+    garden in the courtyard, which has increased the branch''s capacity to 75 people.
+    At this branch you can enjoy a comprehensive #news, we will prepare food for you
+    on the spot or you can pick it up with you. The girls will pack our products in
+    a nice package and give you a paper bag for easier removal of waffles, pancakes
+    or american pancakes.'
   contact_number: "+420602728121\L"
-  first_column_above_image: Letenská pobočka se otevřela přesně 8.4.2017 a nabízí
-    kompletní sortiment konceptu Waf-Waf ať už se jedná o oblíbené vafle, palačinky,
-    lívance nebo i milkshakes, fresh-juices a dalčí originální produkty. Zajímavá
-    je specifickým interiérem, který zahrnuje i některé z retro prvků. Vhodná je také
-    pro rodinny s dětmi včetně kočárků a to
-  second_column_above_image: Právě díky dětskému koutku v zadní části provozovny a
-    prostorné zahrádce ve vnitronloku. Samozřejmostí je možnost take-away a to zcela
-    zdarma. Do naší provozovny Waf-Waf na Letné mají také povolený vstup pejsci. Na
-    pobočce provádíme rezervace pro více než jeden stůl.
+  first_column_above_image: The Letná branch opened on April 8, 2017 and offers a
+    complete range of the Waf-Waf concept, whether it is popular waffles, pancakes,american
+    pancakes or even milkshakes, fresh juices and other original products. It is interesting
+    for its specific interior, which also includes some of the retro elements. It
+    is also suitable for families with children, including strollers.
+  second_column_above_image: Thanks to the children's corner in the back of the establishment
+    and the spacious courtyard garden. Of course, there is a take-away option and
+    it's completely free. Dogs are also allowed to enter our Waf-Waf facility in Letná.
+    We make reservations for more than one table at the branch.
   image_left: "/assets/images/deniel-65_1.jpg"
-  third_column_under_image: Pobočka se nám rozrostla o zimní zateplenou zahradu/venkovní
-    zahradu přes léto a tím se i zvýšila kapacita pobočky na 75 lidí.
+  third_column_under_image: The branch has grown to include an insulated winter garden
+    / outdoor garden during the summer, thus increasing the branch's capacity to 75
+    people.
   image_right_portrait: "/uploads/2021/08/15/20200109_095725000_ios-1.png"
   footer_image: "/assets/images/20210608_103429000_ios.jpg"
-  footer_description: 'Z této pobočky také probíhá rozvoz Waf-Waf produktů do různých
-    koutů Prahy. Objednávat můžete na těchto platformách:'
+  footer_description: 'From this branch, Waf-Waf products are also delivered to various
+    parts of Prague. You can order on the following platforms:'
   wolt: true
   wolt_url: https://wolt.com/cs/cze/prague/restaurant/waf-waf-letna
   boltfood: true
