@@ -93,8 +93,8 @@ categories:
     product_price: "129"
   - product_image: "/assets/images/ss2.jpg"
     product_title: Čokoládový Wafshake
-    product_description: mléko, kakao, granko, čokoládová poleva, čokoládová zmrzlina,
-      šlehačka, oreo, vafle
+    product_description: milk, cocoa, chocolate icing, chocolate ice cream, whipped
+      cream, oreo, waffles
     product_price: "199"
   - product_image: "/assets/images/ss1.jpg"
     product_title: Jahodový Wafshake
