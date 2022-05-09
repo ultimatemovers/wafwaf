@@ -134,7 +134,7 @@ categories:
     product_price: "159"
   - product_image: "/assets/images/friedwaf-small.jpg"
     product_title: FRIEDWAF
-    product_description: smažená palačinka, kuřecí maso, gouda, špenát, kukuřice
+    product_description: fried pancake, chicken, gouda, spinach, corn
     product_price: "154"
   - product_image: "/assets/images/dalgonwaf-small.jpg"
     product_title: DALGONWAF
