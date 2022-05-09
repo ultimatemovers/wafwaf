@@ -28,11 +28,11 @@ right_section:
     treat our customers to a constant and unique new experience.
 proccess:
 - image: "/uploads/2021/07/27/group-55760.svg"
-  name: Vyberte si z naší nabídky na MenuBoard x Sestavte si Udělej vlastní dle letáku
+  name: Choose from our menu at MenuBoard x Make your own according to the flyer
 - image: "/uploads/2021/07/27/group-45860.svg"
-  name: Dokončete objednávku s obsluhou a obdržíte pager
+  name: Complete the order with the staff and you will receive a pager
 - image: "/uploads/2021/07/27/group-45862.svg"
-  name: Počkejte, než Vám pager zazvoní
+  name: Wait for the pager to ring
 - image: "/uploads/2021/07/27/group-45866.svg"
   name: Přijďte s pagerem pro objednávku a vychutnejte si jídlo
 bud_u_toho: "/en/franchising"
