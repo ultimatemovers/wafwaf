@@ -144,10 +144,10 @@ faq:
   answer: What specific inventory you need to buy from our company is included in
     the franchise agreement. Some are needed to shop directly and some through our
     business partners.
-- question: Potřebuji zkušenosti proto, abych mohl začít s Waf-Waf franchise?
-  answer: Není zapotřebí zkušeností, pokud je odhodlání, motivace. Každopádně zkušenosti,
-    zcela jistě vítáme a takový uchazeči u nás budou mít určitou výhodu rychlejšího
-    začlenění v rámci samotného byznysu.
+- question: Do I need experience to start a Waf-Waf franchise?
+  answer: There is no need for experience if there is determination, motivation. In
+    any case, experience is certainly welcome, and such candidates will have a certain
+    advantage of faster integration within the business itself.
 - question: Jak se můžu postarat o marketing v rámci otevření pobočky Waf-Waf?
   answer: V rámci jednoduchých marketingových činnosti budete zaškoleni, například
     ke správě vlastních sociálních médií či stránek hodnotících vaši provozovnu.
