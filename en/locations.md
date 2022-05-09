@@ -1,5 +1,5 @@
 ---
-locations_title: Naše pobočky
+locations_title: Our branches
 hero_image: "/uploads/2021/08/16/20111231_230000000_ios-103.png"
 locations:
 - local_image: "/assets/images/deniel-65_1.jpg"
