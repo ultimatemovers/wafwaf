@@ -151,10 +151,11 @@ faq:
 - question: How can I take care of marketing during the opening of a Waf-Waf branch?
   answer: As part of simple marketing activities, you will be trained, for example,
     to manage your own social media or sites that evaluate your business.
-- question: Jak rychlá je návratnost investice?
-  answer: Opět záleží na velikosti pobočky a kapacitě pobočky či její doporučené lokalitě.
-    Každopádně u menšího obchodu předpokládáme kolem 1 rok a u větších se můžeme bavit
-    o 15-30 měsících v závislosti na několika faktorech.
+- question: How fast is the return on investment(ROI)?
+  answer: Again, it depends on the size of the branch and the capacity of the branch
+    or its recommended location. In any case, we expect about 1 year for a smaller
+    store and we can talk about 15-30 months for larger ones, depending on several
+    factors.
 - question: 'Jaký je Váš měsíční poplatek, který musím hradit? '
   answer: Měsíční poplatek činí 12%.
 - question: Je zapotřebí zaplatit kauci?
