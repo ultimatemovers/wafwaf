@@ -13,18 +13,19 @@ first_section:
 right_section:
   left_image: "/assets/images/20200109_095611000_ios.jpg"
   first_icon: "/uploads/2021/07/27/group-8064.svg"
-  first_title: Více než 50 prísad
-  first_content: Waf-Waf a produkty samotné se pak i díky propracovanému marketingu
-    staly již po několika dnech hitem jak mezi veřejností, tak i na sociálních sítích.
-    Naše viralita a jedinečnost spočívá v kombinaci pojetí výběru daných palačinek
-    a vaflí či lívanců, kdy je možné tyto věci poskládat dle své vlastní volby z více
-    než 50 přísad a také zdobení, které se vymyká zaběhlým celosvětovým standardům.
+  first_title: More than 50 ingredients
+  first_content: Thanks to sophisticated marketing, Waf-Waf and the products themselves
+    became a hit both within the public and on social networks after only a few days.
+    Our virality and uniqueness lies in the combination of the concept of choosing
+    the pancakes and waffles or pancakes, where it is possible to assemble these things
+    of your choice from more than 50 ingredients, as well as decorating that goes
+    beyond established global standards.
   first_image: "/assets/images/20190730_093653032_ios.jpg"
   second_icon: "/uploads/2021/07/27/group-8065.svg"
-  second_title: Originální produkty
-  second_content: Nabídka je rozšířena o naše originální produkty, které nelze nikde
-    jinde najít. Díky speciální nabídce, která se kvartálně obměňuje můžeme dopřát
-    neustálý a jedinečný nový zážitek našim zákazníkům.
+  second_title: Original products
+  second_content: The offer is extended by our original products, which cannot be
+    found anywhere else. Thanks to a special offer that changes quarterly, we can
+    treat our customers to a constant and unique new experience.
 proccess:
 - image: "/uploads/2021/07/27/group-55760.svg"
   name: Vyberte si z naší nabídky na MenuBoard x Sestavte si Udělej vlastní dle letáku
