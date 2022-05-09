@@ -33,25 +33,36 @@ jobs:
     possibility of boarding from our offer
 
     You can send your CVs to email: [jonas@waf-waf.cz] ()
-- job_title: Vedoucí pobočky Waf-Waf až 28.500 Kč (HPP)
-  job_location: Praha
-  job_description: "**Co Vás ve Waf-Waf čeká:**\n\nNáš koncept se zaměřuje na výrobu
-    vaflí, palačinek a lívanců či milkshake ve velmi originálním pojetí. Našim hlavním
-    mottem je #radostprovsechny a to budeme očekávat i od Vás.\n\n**Koho do Waf-Waf
-    hledáme:**\n\nSilnou posilu našeho týmu, která bude mít díky rozšíření konceptu
-    Waf-Waf na starosti správu naší pražské pobočky. Budeme očekávat zodpovědnou a
-    milou osobu, která bude přínosem pro celou společnost a bude mít chuť na osobní
-    i profesní růst. Zkušenosti z podobného gastro provozu jsou velkou výhodou.\n\n**Na
-    starosti budete mít:**\n\n* kontrola zaměstnaneckých činností\n* podílení se na
-    přípravě produktů\n* vedení vlastního týmu\n* řešení objednávek s dodavateli\n*
-    motivaci svých kolegů\n* kompletní správu jedné z našich poboček\n\n**Co vám můžeme
-    nabídnout**\n\nPři práci na HPP Vám můžeme nabídnout platové podmínky až 28 500
-    Kč a další motivační ohodnocení včetně bonusů.. Předpoklad je pracovitost a zápal
-    pro náš brand. Máme zájem o dlouhodobou spolupráci a také o to, že Vaše mzda bude
-    růst, stejně jako naše rozšiřující se společnost i pro je zde možnost dalšího
-    kariérního růstu.\n\n**Dále také po zapracování nabízíme:**  \nslužební oblečení
-    \ \nmožnosti MultiSport Card  \nmožnost stravování z naší nabídky v hodnotě 3150
-    Kč / (měs.)\n\nVaše životopisy můžete zasílat na email: [jonas@waf-waf.cz](mailto:jonas@waf-waf.cz)"
+- job_title: Waf-Waf branch manager up to CZK 28,500 (HPP)
+  job_location: Prague
+  job_description: |-
+    ** What awaits you at Waf-Waf: **
+
+    Our concept focuses on the production of waffles, pancakes and pancakes or a milkshake in a very original concept. Our main motto is #radostprovsechny and we will expect that from you as well.
+
+    ** Who we are looking for in Waf-Waf: **
+
+    A strong reinforcement of our team, which will be in charge of the management of our Prague branch thanks to the expansion of the Waf-Waf concept. We will expect a responsible and kind person who will benefit the whole society and will have a desire for personal and professional growth. Experience from a similar gastronomic operation is a great advantage.
+
+    ** You will be in charge of: **
+
+    * control of employee activities
+    * participation in product preparation
+    * leading your own team
+    * order settlement with suppliers
+    * motivation of your colleagues
+    * complete management of one of our branches
+
+    ** What we can offer you **
+
+    When working at HPP, we can offer you salary conditions of up to CZK 28,500 and other motivational evaluations, including bonuses. The prerequisite is hard work and enthusiasm for our brand. We are interested in long-term cooperation and also in the fact that your salary will grow, as well as our expanding company, there is also the possibility of further career growth.
+
+    ** Furthermore, after incorporation we offer: **
+    business clothes
+    MultiSport Card options
+    possibility of boarding from our offer in the value of 3150 CZK / (month)
+
+    You can send your CVs to email: [jonas@waf-waf.cz] (mailto: jonas@waf-waf.cz)
 - job_title: Obsluha ve WAF-WAF až 120 Kč / hod (Brigáda)
   job_location: Praha
   job_description: "**Co Vás ve Waf-Waf čeká:**\n\nNáš koncept se zaměřuje na výrobu
@@ -88,29 +99,3 @@ jobs:
     \ \nDěkujeme!  "
 
 ---
-
-\** What awaits you at **Waf-Waf__: **
-
-Our concept focuses on the production of waffles, pancakes and pancakes or a milkshake in a very original concept. Our main motto is **#joyforeveryone** and we will expect that from you as well. Whether you are preparing our products or working at the cash register and communicating with customers.
-
-\** Who we are looking for in **Waf-Waf__: **
-
-New young ambitious colleagues who should have the desire to participate in a very successful gastronomic concept, which aims to expand throughout the Czech Republic and the EU. We will expect a hard-working and kind person who will benefit our entire team.
-
-It will be an advantage if you have experience in gastronomy.
-
-\** What we can offer you **
-
-When working at HPP, we can offer you CZK 23,000 - CZK 25,500 + performance bonuses. We are interested in long-term cooperation and also in the fact that your salary will grow, as well as our expanding company.
-
-\** We also offer: **
-
-work outfit
-
-financial rewards for employees of the month
-
-MultiSport Card options
-
-possibility of boarding from our offer
-
-You can send your CVs to email: \[jonas@waf-waf.cz\] ()
