@@ -23,8 +23,9 @@ contact_information:
   content: We make reservations from Monday to Friday for more than 2 people who will
     always find a place with us :) If you would like to make a reservation, contact
     the branch. Thank you
-- title: 'Kontakt pro média a obchodní záležitosti '
-  content: 'Otázky na management společnosti využijte prosím email: [jonas@waf-waf.cz](mailto:jonas@waf-waf.cz)'
+- title: Media and business contact
+  content: 'Questions on company management please use email: [jonas@waf-waf.cz] (mailto:
+    jonas@waf-waf.cz)'
 - title: Chtěli byste ve Waf-Waf udělat oslavu či teambuilding?
   content: 'Rádi byste udělali v rámci našich poboček například oslavu narozenin,
     rozlučku se svobodou, firemní akci a nebo prezentaci či si rovnou pronajmout celý
