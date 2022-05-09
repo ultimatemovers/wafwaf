@@ -14,7 +14,7 @@ categories:
     product_description: nutella, oreo, strawberries, raspberries, mascarpone
   - product_image: "/assets/images/wafreo-small.jpg"
     product_title: WAFREO
-    product_description: jahody, nutella, oreo, domácí šlehačka
+    product_description: strawberries, nutella, oreo, homemade whipped cream
     product_price: "164"
   - product_price: "159"
     product_image: "/assets/images/pearwaf-small.jpg"
