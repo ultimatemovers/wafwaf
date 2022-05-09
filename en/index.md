@@ -1,8 +1,8 @@
 ---
-big_title: Ty nejlepší vafle
-subtitle: Waf-Waf to jsou ty nejlepší vafle, palačinky a lívance, které jste měli
-  možnost ochutnat.
-breakfast: 'Již jste ochutnali naše slané produkty? '
+big_title: The best waffles!
+subtitle: Waf-Waf These are the best waffles, pancakes and american pancakes you have
+  had the opportunity to taste.
+breakfast: Have you already tasted our salty products?
 breakfast_image: "/assets/images/img_1760-aerial.jpeg"
 delivery: Rozvážíme každý den od 08:00 do 21:00
 layout: homepage
