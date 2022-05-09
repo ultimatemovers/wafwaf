@@ -19,10 +19,10 @@ contact_information:
 
     IP Pavlova: [+420 725 344 097] (https://wa.me/420725344097)
     every day from 08:00 to 21:00
-- title: 'Rezervace míst '
-  content: 'Rezervace provádíme od pondělí do pátku pro více jak 2 osoby, které u
-    nás místo vždy najdou :) Pokud byste chtěli provést rezervaci, kontaktujte danou
-    pobočku. Děkujeme '
+- title: Seat reservations
+  content: We make reservations from Monday to Friday for more than 2 people who will
+    always find a place with us :) If you would like to make a reservation, contact
+    the branch. Thank you
 - title: 'Kontakt pro média a obchodní záležitosti '
   content: 'Otázky na management společnosti využijte prosím email: [jonas@waf-waf.cz](mailto:jonas@waf-waf.cz)'
 - title: Chtěli byste ve Waf-Waf udělat oslavu či teambuilding?
