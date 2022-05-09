@@ -53,38 +53,39 @@ locations:
   location_gmaps_url: https://goo.gl/maps/XbPeVgcsR95ms4qx8
 - local_image: "/assets/images/screen-shot-2021-09-28-at-20-49-40.png"
   first_left_image: "/assets/images/20200119_085517000_ios.jpg"
-  location_name: WAF-WAF OC PALLADIUM (+2 patro)
+  location_name: WAF-WAF OC PALLADIUM (+2 floor)
   location_address: Náměstí Republiky 1, 110 00 Nové Město
   location_contact: |-
-    Otevírací doba:
+    Opening hours:
 
-    Pondělí - Neděle: 09:00 – 21:00
+    Monday - Sunday: 09:00 - 21:00
 
-    Kontaktní telefonní číslo: + 420 725 745 898
+    Contact telephone number: + 420 725 745 898
 
-    Kontaktní email: palladium@waf-waf.cz
-  location_description: Umístění pobočky je na patře +2 v OC Palladium v rámci food-court.
-    Na této pobočce si můžete vychutnat jídlo přímo na místě a nebo si nechat produkty
-    zabalit s sebou. Slečny Vám zabalí naše produkty do hezkého obalu a dají Vám papírovou
-    tašku pro snazší odnos vaflí, lívanců nebo palačinek.
+    Contact email: palladium@waf-waf.cz
+  location_description: The location of the branch is on the +2 floor in OC Palladium
+    within the food court. At this branch you can enjoy food on site or have the products
+    packed with you. The girls will pack our products in a nice package and give you
+    a paper bag for easier removal of waffles, pancakes or american pancakes.
   contact_number: "+ 420 725 745 898"
-  first_column_above_image: Další pražská pobočka (v pořadí již třetí) se otevřela
-    19. ledna 2020 a nabízí kompletní sortiment konceptu Waf-Waf, ať už se jedná o
-    oblíbené vafle, palačinky, lívance nebo i milkshakes, fresh-juices a další originální
-    produkty. Zajímavá je specifickým interiérem, který zahrnuje i některé z retro
-    prvků.
-  second_column_above_image: Pobočka se nachází v OC Palladium (Praha 1, Náměstí Republiky
-    1, 110 00) v + 2. patře v rámci food-court.  Kapacita je 20 zákazníků. Samozřejmostí
-    je možnost take-away či rozvoz jídla. Radost uděláme i veganům, protože už i vegani
-    si můžou sestavit vafli podle sebe! Stačí zaškrtnout políčko veganská vafle.
+  first_column_above_image: Another Prague branch (the third in a row) opened on 19
+    January 2020 and offers a complete range of the Waf-Waf concept, whether it is
+    popular waffles, pancakes,american pancakes or milkshakes, fresh-juices and other
+    original products. It is interesting for its specific interior, which also includes
+    some of the retro elements.
+  second_column_above_image: The branch is located in OC Palladium (Prague 1, Náměstí
+    Republiky 1, 110 00) on the + 2nd floor within the food court. Capacity is 20
+    customers. Of course there is the possibility of take-away or food delivery. We
+    will also make vegans happy, because even vegans can make waffles to their liking!
+    Just check the vegan waffles box.
   image_left: "/assets/images/20200119_085523000_ios.jpg"
-  third_column_under_image: Doporučujeme ochutnat i některé z našich novinek, které
-    jsme aktuálně přidali do našeho sortimentu. Věříme, že jsme Vás navnadili k návštěvě,
-    těšíme se na Vás.
+  third_column_under_image: We also recommend tasting some of our novelties that we
+    have currently added to our range. We believe that we have enticed you to visit,
+    we look forward to seeing you.
   image_right_portrait: "/assets/images/ocpalladium2.jpg"
   footer_image: "/assets/images/kancelar1.jpg"
-  footer_description: 'Z této pobočky také probíhá rozvoz Waf-Waf produktů do různých
-    koutů Prahy. Objednávat můžete na těchto platformách:'
+  footer_description: 'From this branch, Waf-Waf products are also delivered to various
+    parts of Prague. You can order on the following platforms:'
   wolt: true
   wolt_url: https://wolt.com/cs/cze/prague/restaurant/waf-waf-palladium
   boltfood: true
