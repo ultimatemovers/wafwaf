@@ -63,21 +63,30 @@ jobs:
     possibility of boarding from our offer in the value of 3150 CZK / (month)
 
     You can send your CVs to email: [jonas@waf-waf.cz] (mailto: jonas@waf-waf.cz)
-- job_title: Obsluha ve WAF-WAF až 120 Kč / hod (Brigáda)
-  job_location: Praha
-  job_description: "**Co Vás ve Waf-Waf čeká:**\n\nNáš koncept se zaměřuje na výrobu
-    a přípravu vaflí, palčinek a lívanců či milkshake ve velmi originálním pojetí.
-    Našim hlavním mottem je #radostprovsechny a to budeme očekávat i od Vás. Ať už
-    připravujete naše produkty a nebo pracujete na pokladně a komunikujete se zákazníky.\n\n**Koho
-    hledáme do Waf-Waf?**\n\nMladé ambiciózní kolegyně na brigádu a výpomoc. Budeme
-    očekávat pracovitou a milou osobu, která bude přínosem pro celý náš tým.\n\n**Výhodou
-    bude, pokud budete mít zkušenosti z gastro provozu.**  \nCo vám můžeme nabídnout:\n\nZa
-    brigádu Vám můžeme nabídnout nástupní mzdu 90-120Kč/hod. Máme zájem o dlouhodobou
-    spolupráci a také o to, že Vaše mzda bude růst, stejně jako naše rozšiřující se
-    společnost a proto Vaše mzda i jako u brigádníka se může posunout.\n\n**Dále také
-    nabízíme nad rámec uvedené mzdy:**\n\n* pracovní oblečení\n* bonusy za denní plnění\n*
-    bonusy za zaměstnance měsíce\n* pravidelné TeamBuilding aktivity\n\nVaše životopisy
-    můžete zasílat na email: [jonas@waf-waf.cz](mailto:jonas@waf-waf.cz)"
+- job_title: WAF-WAF service up to 120 CZK / hour (Brigade)
+  job_location: Prague
+  job_description: |-
+    ** What awaits you at Waf-Waf: **
+
+    Our concept focuses on the production and preparation of waffles, pancakes and pancakes or milkshake in a very original concept. Our main motto is #radostprovsechny and we will expect that from you as well. Whether you are preparing our products or working at the cash register and communicating with customers.
+
+    ** Who are we looking for in Waf-Waf? **
+
+    Young ambitious colleagues for brigade and help. We will expect a hard-working and kind person who will benefit our entire team.
+
+    ** It will be an advantage if you have experience in gastronomy. **
+    What we can offer you:
+
+    We can offer you a starting salary of 90-120 CZK / hour for a part-time job. We are interested in long-term cooperation and also in the fact that your salary will grow, as well as our expanding company, and therefore your salary, even as a part-time worker, may shift.
+
+    ** We also offer in addition to the above salary: **
+
+    * work outfit
+    * bonuses for daily performance
+    * bonuses for employees of the month
+    * Regular TeamBuilding activities
+
+    You can send your CVs to email: [jonas@waf-waf.cz] (mailto: jonas@waf-waf.cz)
 - job_title: Obsluha ve Waf-Waf Brno s možností kariérního rozvoje (HPP)
   job_location: Brno
   job_description: "**Koho ve Waf-Waf Brno hledáme:**   \nNové mladé ambiciózní kolegy/ně,
