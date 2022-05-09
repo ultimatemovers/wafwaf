@@ -45,44 +45,44 @@ stores:
 - image: "/assets/images/stand-concept.jpg"
   description: " "
   title: Pop Up concept – (20 – 50m2)
-third_subtitle: KONCEPTY – WAF-WAF FRANCHISE
+third_subtitle: CONCEPT – WAF-WAF FRANCHISE
 accordions:
-- title: PODPORA PRO FRANCHISANTY
+- title: SUPPORT FOR FRANCHISANTS
   description: |-
-    **Před otevřením provozovny:**
+    ** Before opening the establishment: **
 
-    Vyhledání vhodné lokality, nabídka z lokalit, které jsou k dispozici
+    Finding a suitable site, offer from the sites that are available
 
-    Architektonická studie a projekt provozovny
+    Architectural study and design of the establishment
 
-    Výstavba a vybavení provozovny na klíč
+    Construction and equipment of turnkey facilities
 
-    Nábor a vyškolení kompletního personálu včetně Vás, kde Vás zasvětíme do jednotlivých procesů  (provoz, kvalita, marketing, finance, personalistika, kontrola restaurací, věrnostní systém, software aj.)
+    Recruitment and training of complete staff, including you, where we will introduce you to individual processes (operation, quality, marketing, finance, human resources, restaurant control, loyalty system, software, etc.)
 
-    **Po otevření provozovny:**
+    ** After opening the establishment: **
 
-    Zajištění dodávky surovin, obalů a ostatních materiálů (zejména marketingových) včetně technologie a logistiky
+    Ensuring the supply of raw materials, packaging and other materials (especially marketing), including technology and logistics
 
-    Podpora centrály Waf-Waf
+    Waf-Waf headquarters support
 
-    Nastavení marketingové strategie a pomoc při lokálním marketingu
+    Setting up a marketing strategy and assistance with local marketing
 
-    Kontrolní systémy provozovny
+    Establishment control systems
 
-    Kompletní softwarové vybavení – pokladní systém, sklady
+    Complete software equipment - cash register system, warehouses
 
-    Hodnocení Vaší výkonnosti a hledání optimálního řešení
+    Evaluating your performance and finding the optimal solution
 
-    Vývoj a dodržování standardů značky
-- title: ZÁKLADNÍ POŽADAVKY
+    Development and adherence to brand standards
+- title: ESSENTIAL REQUIREMENTS
   description: |-
-    Finanční zajištění (možno úvěrem)
+    Financial security (possibly by loan)
 
-    Osobní angažovanost
+    Personal commitment
 
-    Ochota trénovat se, ochota ke změnám
+    Willingness to train, willingness to change
 
-    Zkušenosti s restauračním provozem (není podmínkou)
+    Restaurant experience (not a requirement)
 - title: POTŘEBNÁ POČÁTEČNÍ INVESTICE
   description: |-
     **PRVOTNÍ INVESTICE**
