@@ -158,8 +158,9 @@ faq:
     factors.
 - question: What is your monthly fee that I have to pay?
   answer: The monthly fee is 12%.
-- question: Je zapotřebí zaplatit kauci?
-  answer: Ano, kauce činí 500.000kč a je vratná po ukončení franchisingové smlouvy.
+- question: Is it necessary to pay a deposit?
+  answer: Yes, the deposit is EUR 20.000,00 and is refundable upon termination of
+    the franchise agreement.
 - question: 'Je zapotřebí zaplatit licenční poplatek? '
   answer: Ano, licenční poplatek, který zahrnuje práva na užívání kompletního brandu
     Waf-Waf a práva na jeho používání je 750.000Kč + DPH.
