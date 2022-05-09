@@ -11,7 +11,7 @@ categories:
   - product_price: "164"
     product_image: "/assets/images/4.jpg"
     product_title: WAFTELLA
-    product_description: nutella, oreo, jahody, maliny, mascarpone
+    product_description: nutella, oreo, strawberries, raspberries, mascarpone
   - product_image: "/assets/images/wafreo-small.jpg"
     product_title: WAFREO
     product_description: jahody, nutella, oreo, domácí šlehačka
