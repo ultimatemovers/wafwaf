@@ -79,8 +79,8 @@ categories:
   products:
   - product_image: "/assets/images/s3.jpg"
     product_title: Čokoládový Milkshake
-    product_description: milk, cocoa, granko, chocolate topping, chocolate ice cream,
-      whipped cream, oreo
+    product_description: milk, cocoa, chocolate topping, chocolate ice cream, whipped
+      cream, oreo
     product_price: "129"
   - product_image: "/assets/images/s2.jpg"
     product_title: Jahodový Milkshake
