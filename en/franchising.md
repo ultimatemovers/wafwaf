@@ -168,7 +168,7 @@ mam_zajem: https://docs.google.com/forms/d/1iMidmc9xHbVnVLZVh6d6yE7hliv2U6I_DqN5
 after_faq:
 - title: OWN ESTABLISHMENTS
   content: Prague 7 - LetnáPrague 2 - I.P. PavlovaPrague 1 - OC Palladium
-- title: FRANŠÍZOVÉ PROVOZOVNY
+- title: FRANCHISE ESTABLISHMENTS
   content: Brno - OC Špalíček
 - title: 'AKTUÁLNĚ HLEDÁME FRANCHISANTY PRO LOKALITY:'
   content: "Ostrava, Plzeň, Liberec, Hradec Králové, Brno, Ústí nad Labem, České Budějovice
