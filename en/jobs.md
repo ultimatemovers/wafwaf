@@ -10,7 +10,7 @@ jobs:
   job_description: |-
     ** What awaits you at Waf-Waf: **
 
-    Our concept focuses on the production of waffles, pancakes and pancakes or a milkshake in a very original concept. Our main motto is #joyforeveryone and we will expect that from you as well. Whether you are preparing our products or working at the cash register and communicating with customers.
+    Our concept focuses on the production of waffles, pancakes and american pancakes or a milkshake in a very original concept. Our main motto is #joyforeveryone and we will expect that from you as well. Whether you are preparing our products or working at the cash register and communicating with customers.
 
     ** Who we are looking for in Waf-Waf: **
 
@@ -38,7 +38,7 @@ jobs:
   job_description: |-
     ** What awaits you at Waf-Waf: **
 
-    Our concept focuses on the production of waffles, pancakes and pancakes or a milkshake in a very original concept. Our main motto is #radostprovsechny and we will expect that from you as well.
+    Our concept focuses on the production of waffles, pancakes and american pancakes or a milkshake in a very original concept. Our main motto is #joyforall and we will expect that from you as well.
 
     ** Who we are looking for in Waf-Waf: **
 
