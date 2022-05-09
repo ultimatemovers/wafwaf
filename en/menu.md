@@ -46,8 +46,7 @@ categories:
     product_price: "164"
   - product_image: "/assets/images/crepedilla-small.jpg"
     product_title: CREPEDILLA
-    product_description: kuřecí maso, cheddar, baby špenát, rajčatový dip, zakysaná
-      smetana
+    product_description: chicken, cheddar, baby spinach, tomato dip, sour cream
     product_price: "169"
   - product_image: "/assets/images/3.jpg"
     product_title: BIGWAF
