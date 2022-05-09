@@ -167,7 +167,8 @@ faq:
 mam_zajem: https://docs.google.com/forms/d/1iMidmc9xHbVnVLZVh6d6yE7hliv2U6I_DqN5lSW_3vI/prefill
 after_faq:
 - title: OWN ESTABLISHMENTS
-  content: Prague 7-Letná          Prague 2-I.P.Pavlova             Prague 1-OC Palladium
+  content: Prague 7-Letná                        Prague 2-I.P.Pavlova         Prague
+    1-OC Palladium
 - title: FRANCHISE ESTABLISHMENTS
   content: Brno - OC Špalíček
 - title: LOCATIONS
