@@ -119,12 +119,12 @@ categories:
       biscuit
     product_price: "159"
   - product_image: "/assets/images/greensmoothie-small.jpg"
-    product_description: avokádo, špenát, banán, sojové mléko
+    product_description: avocado, spinach, banana, soy milk
     product_price: "99"
     product_title: WAF&SMOOTHIE GREEN
   - product_image: "/assets/images/purplesmoothie-small.jpg"
     product_title: WAF&SMOOTHIE PURPLE
-    product_description: borůvky, banán, kiwi, med
+    product_description: blueberries, banana, kiwi, honey
     product_price: "99"
 - category_title: WAF-WAF GIRLS
   products:
