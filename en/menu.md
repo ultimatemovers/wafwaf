@@ -115,7 +115,8 @@ categories:
     product_price: "164"
   - product_image: "/assets/images/skywaf-small.jpg"
     product_title: SKYWAF
-    product_description: vafle, salko toping, jahody, lotus posyp a sušenka
+    product_description: waffles, salco topping, strawberries, lotus sprinkles and
+      biscuit
     product_price: "159"
   - product_image: "/assets/images/greensmoothie-small.jpg"
     product_description: avokádo, špenát, banán, sojové mléko
