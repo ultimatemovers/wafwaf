@@ -93,12 +93,12 @@ categories:
       sprinkles, whipped cream
     product_price: "129"
   - product_image: "/assets/images/ss2.jpg"
-    product_title: Čokoládový Wafshake
+    product_title: Chocolate Wafshake
     product_description: milk, cocoa, chocolate topping, chocolate ice cream, whipped
       cream, oreo, waffles
     product_price: "199"
   - product_image: "/assets/images/ss1.jpg"
-    product_title: Jahodový Wafshake
+    product_title: Strawberry Wafshake
     product_description: milk, strawberries, vanilla ice cream, strawberry topping,
       whipped cream, waffles
     product_price: "199"
