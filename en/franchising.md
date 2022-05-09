@@ -170,7 +170,7 @@ after_faq:
   content: Prague 7 - LetnáPrague 2 - I.P. PavlovaPrague 1 - OC Palladium
 - title: FRANCHISE ESTABLISHMENTS
   content: Brno - OC Špalíček
-- title: 'AKTUÁLNĚ HLEDÁME FRANCHISANTY PRO LOKALITY:'
+- title: LOCATIONS
   content: "Ostrava, Plzeň, Liberec, Hradec Králové, Brno, Ústí nad Labem, České Budějovice
     aj. \n\nNěmecko, Polsko, Slovensko, Rakousko, Maďarsko, Itálie, Chorvatsko, Srbsko,
     Slovinsko a další státy v EU či mimo EU. "
