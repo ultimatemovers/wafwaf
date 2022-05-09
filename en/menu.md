@@ -111,7 +111,7 @@ categories:
   products:
   - product_image: "/assets/images/halloumiwaf-small.jpg"
     product_title: HALOUMIWAF
-    product_description: avokádová pomazánka, haloumi sýr, rukola, rajče
+    product_description: avocado spread, haloumi cheese, rocked salad, tomato
     product_price: "164"
   - product_image: "/assets/images/skywaf-small.jpg"
     product_title: SKYWAF
