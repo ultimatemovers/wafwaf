@@ -34,7 +34,7 @@ proccess:
 - image: "/uploads/2021/07/27/group-45862.svg"
   name: Wait for the pager to ring
 - image: "/uploads/2021/07/27/group-45866.svg"
-  name: Přijďte s pagerem pro objednávku a vychutnejte si jídlo
+  name: Come with a pager for order and enjoy your meal
 bud_u_toho: "/en/franchising"
 layout: about
 subtitle: ''
