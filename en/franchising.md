@@ -148,9 +148,9 @@ faq:
   answer: There is no need for experience if there is determination, motivation. In
     any case, experience is certainly welcome, and such candidates will have a certain
     advantage of faster integration within the business itself.
-- question: Jak se můžu postarat o marketing v rámci otevření pobočky Waf-Waf?
-  answer: V rámci jednoduchých marketingových činnosti budete zaškoleni, například
-    ke správě vlastních sociálních médií či stránek hodnotících vaši provozovnu.
+- question: How can I take care of marketing during the opening of a Waf-Waf branch?
+  answer: As part of simple marketing activities, you will be trained, for example,
+    to manage your own social media or sites that evaluate your business.
 - question: Jak rychlá je návratnost investice?
   answer: Opět záleží na velikosti pobočky a kapacitě pobočky či její doporučené lokalitě.
     Každopádně u menšího obchodu předpokládáme kolem 1 rok a u větších se můžeme bavit
