@@ -97,35 +97,43 @@ locations:
   first_left_image: "/assets/images/highstreetconcept.jpg"
   location_name: WAF-WAF IPÁK
   location_address: Bělehradská 67, 120 00 Nové Město
-  location_contact: "Otevírací doba:\n\nPondělí - Čtvrtek: 08:00 - 21:00  \nPátek
-    - Sobota - 08:00 - 22:00 + rozvoz & take-away - 22:00 - 02:00   \nNeděle: 08:00
-    - 21:00\n\nKontaktní telefonní číslo: +420 725 344 097\n\nKontaktní email: ipak@waf-waf.cz"
-  location_description: Pobočka Waf-Waf IP Pavlova se nachází přímo na tramvajové
-    zastávce Bruselská. Na této pobočce si můžete vychutnat jídlo **přímo na místě**
-    a nebo si vyzvednout **jídlo s sebou.** Slečny Vám zabalí naše produkty do hezkého
-    obalu a dají Vám papírovou tašku pro snazší odnos vaflí, lívanců nebo palačinek.
+  location_contact: |-
+    Opening hours:
+
+    Monday - Thursday: 08:00 - 21:00
+    Friday - Saturday - 08:00 - 22:00 + delivery & take-away - 22:00 - 02:00
+    Sunday: 08:00 - 21:00
+
+    Contact telephone number: +420 725 344 097
+
+    Contact email: ipak@waf-waf.cz
+  location_description: The Waf-Waf IP Pavlova branch is located directly at the Bruselská
+    tram stop. At this branch you can enjoy food ** on the spot ** or pick up ** food
+    with you. ** The girls will pack our products in a nice package and give you a
+    paper bag for easier carrying of waffles, pancakes or american pancakes.
   contact_number: "+420 725 344 097"
-  first_column_above_image: Vinohradská pobočka se otevřela přesně 27.6.2018 a nabízí
-    kompletní sortiment konceptu Waf-Waf ať už se jedná o oblíbené vafle, palačinky,
-    lívance nebo i milkshakes, fresh-juices a další originální produkty. Zajímavá
-    je specifickým interiérem, který zahrnuje nízké sezení i barové židle se sezením
-    v rámci okenního výklenku, kde se Vám nabídne výhled do ulice.
-  second_column_above_image: Kapacita je 30 lidí, nicméně přes letní měsíce se kapacita
-    pobočky navýší díky předzahrádce, která má k dispozici dalších 6 stolků a je tak
-    zkrášlením pobočky pro teplejší měsíce. Na této předzahrádce také prodáváme vlastní
-    kopečkovou zmrzlinu a sorbety, které jsme přidali do naší nabídky. Zmrzlinu si
-    tak můžete dopřát i během chůze po ulici Bělehradská a v přilehlých parcích. Samozřejmostí
-    je možnost take-away.
+  first_column_above_image: The Vinohrady branch opened on June 27, 2018 and offers
+    a complete range of the Waf-Waf concept, whether it is popular waffles, pancakes,
+    pancakes or even milkshakes, fresh juices and other original products. It is interesting
+    for its specific interior, which includes low seating and bar stools with seating
+    in a window niche, where you will be offered a view of the street.
+  second_column_above_image: The capacity is 30 people, however, during the summer
+    months, the capacity of the branch will increase thanks to the front garden, which
+    has another 6 tables and is thus beautifying the branch for the warmer months.
+    We also sell our own scoop of ice cream and sorbets in this front garden, which
+    we have added to our offer. You can also treat yourself to ice cream while walking
+    along Bělehradská Street and in the adjacent parks. The possibility of take-away
+    is a matter of course.
   image_left: "/uploads/2021/09/15/20190704_112943000_ios.jpg"
-  third_column_under_image: Do naší provozovny Waf-Waf na IP Pavlova mají také povolený
-    vstup pejsci. Do této pobočky také provádíme rezervace, a to od pondělí do pátku
-    pro více než jeden stůl, můžete nás kontaktovat na zde uvedeném telefonním čísle.
-    Doporučujeme ochutnat i některé z našich novinek, které jsme aktuálně přidali
-    do našeho sortimentu. Věříme, že jsme Vás navnadili k návštěvě, těšíme se na Vás.
+  third_column_under_image: Dogs are also allowed to enter our Waf-Waf facility on
+    IP Pavlova. We also make reservations for this branch, from Monday to Friday for
+    more than one table, you can contact us at the phone number listed here. We also
+    recommend tasting some of our novelties that we have currently added to our range.
+    We believe that we have enticed you to visit, we look forward to seeing you.
   image_right_portrait: "/uploads/2021/09/15/20190628_112525254_ios.jpg"
   footer_image: "/assets/images/20190809_083838295_ios.jpg"
-  footer_description: 'Z této pobočky také probíhá rozvoz Waf-Waf produktů do různých
-    koutů Prahy. Objednávat můžete na těchto platformách:'
+  footer_description: 'From this branch, Waf-Waf products are also delivered to various
+    parts of Prague. You can order on the following platforms:'
   wolt: true
   wolt_url: https://wolt.com/cs/cze/prague/restaurant/waf-waf-ipak
   boltfood: true
