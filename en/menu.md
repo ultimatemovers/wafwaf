@@ -67,8 +67,8 @@ categories:
     product_price: "134"
   - product_image: "/assets/images/cream-waf-small.jpg"
     product_title: CREAM&WAF
-    product_description: plněné zakysanou smetanou, jahodama a cukrem, polité jahodovým
-      topingem
+    product_description: stuffed with sour cream, strawberries and sugar, topped with
+      strawberry topping
     product_price: "129"
   - product_image: "/assets/images/avowaf-small.jpg"
     product_description: avokádová pomazánka, sázené vajíčko, baby špenát, rukola,
