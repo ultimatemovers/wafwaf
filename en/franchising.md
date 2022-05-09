@@ -16,25 +16,25 @@ concept:
     have an almost unlimited number of combinations, and the Company is able to attract
     a wide range of consumers.
 - icon: "/uploads/2021/07/26/path-1125.svg"
-  title: Waf-Waf jako lovebrand
-  description: Waf-Waf je díky svému zaměření na kvalitu provedení a jedinečnému zdobení
-    velmi oblíbený především u mladé generace, která si jídlo ráda fotí a sdílí na
-    sociálních sítích, což Společnosti pomáhá vytvářet efektivní virální kampaně.
-    Aby Společnost toto zapojení zákazníků do marketingu ještě více podpořila, začala
-    spolupracovat se známými českými influencery, kteří propagují značku Waf-Waf mezi
-    svou širokou základnu fanoušků. Úspěch této strategie je již dnes vidět na velkém
-    počtu fanoušků Společnosti na sociálních sítí, kdy má za své působení na sociálních
-    sítích přes 32 tis. fanoušků. Z Waf-Waf se tak stal tzv. „lovebrand“, kdy se její
-    zákazníci stávají součástí celého konceptu.
+  title: Waf-Waf as a lovebrand
+  description: Thanks to its focus on quality workmanship and unique decoration, Waf-Waf
+    is very popular, especially with the young generation, who like to take pictures
+    of food and share it on social networks, which helps the Company to create effective
+    viral campaigns. In order to further support this customer involvement in marketing,
+    the Company began cooperating with well-known Czech influencers, who promote the
+    Waf-Waf brand among their wide fan base. The success of this strategy can already
+    be seen today in the large number of the Company's fans on social networks, when
+    it has over 57,000 +  on its social networks. fans. Waf-Waf has thus become a
+    so-called "lovebrand", where its customers become part of the whole concept.
 - icon: "/uploads/2021/07/26/group-2186.svg"
-  title: Rustový potenciál
-  description: Waf-Waf se podařilo z inovativního konceptu vybudovat v krátkém čase
-    úspěšnou značku. Celý koncept je přitom velice jednoduchý a může se snadno přizpůsobit
-    dané lokalitě a zázemí. Restaurace tedy můžou bez problému fungovat v menších
-    či větších prostorách bez ohledu na to, jestli se jedná o obchodní centrum nebo
-    jinou kamennou prodejnu. Tato jednoduchá koncepce spolu se silnou značkou a know-how
-    Waf-Waf tak nabízí ideální kombinaci pro úspěšnou franšízovou expanzi, kterou
-    Společnost plánuje v budoucnu započít.
+  title: Growth potential
+  description: Waf-Waf has managed to build a successful brand out of an innovative
+    concept in a short time. The whole concept is very simple and can be easily adapted
+    to the location and background. Thus, restaurants(FAST-CASUAL CONCEPT) can easily
+    operate in smaller or larger premises, regardless of whether it is a shopping
+    center or another stone shop. This simple concept, together with Waf-Waf's strong
+    brand and know-how, thus offers the ideal combination for the successful franchise
+    expansion that the Company plans to start in the future.
 stores:
 - image: "/assets/images/20111231_230000000_ios-103-modified.png"
   description: " "
