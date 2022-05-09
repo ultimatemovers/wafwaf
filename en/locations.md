@@ -146,40 +146,43 @@ locations:
   location_name: WAF-WAF OC VELKÝ ŠPALÍČEK
   location_address: Mečová 695/2, 602 00 Brno-střed
   location_contact: |-
-    Otevírací doba:
+    Opening hours:
 
-    Pondělí - Neděle: 09:00 – 21:00
+    Monday - Sunday: 09:00 - 21:00
 
-    Kontaktní telefonní číslo: +420 608 918 243
+    Contact telephone number: +420 608 918 243
 
-    Kontaktní email: brno.spalicek@waf-waf.cz
-  location_description: Na této pobočce si můžete vychutnat jídlo na místě, jenž disponuje
-    kapacitou až 75 míst a nebo si vyzvednout jídlo s sebou. Slečny Vám připraví naše
-    produkty na talíř Waf-Waf a nebo do hezkého obalu a dají Vám papírovou tašku pro
-    snazší odnos vaflí, lívanců nebo palačinek.
+    Contact email: brno.spalicek@waf-waf.cz
+  location_description: At this branch you can enjoy food on site, which has a capacity
+    of up to 75 seats, or pick up food with you. The girls will prepare our products
+    for you on a Waf-Waf plate or in a nice package and give you a paper bag for easier
+    removal of waffles, pancakes or american pancakes.
   contact_number: "+420 608 918 243\L"
-  first_column_above_image: Brněnská pobočka se otevřela 17.11. 2019 a nabízí kompletní
-    sortiment konceptu Waf-Waf, ať už se jedná o oblíbené vafle, palačinky, lívance
-    nebo i milkshakes, fresh-juices a další originální produkty jako SushiWaf, BigWaf,
-    WafShakes aj.
-  second_column_above_image: Pobočka je zajímavá specifickým interiérem, který zahrnuje
-    i některé z retro prvků. Provozovna je zasazena do obchodní centra Velký Špalíček,
-    který je dominantou centra v Brně a naleznete nás v 1.patře přímo vedle prodejny
-    Dráčik. Z této pobočky navíc budete mít krásný výhled do ulic pod Velkým Špalíčkem
-    a je to ideální prostředí na sraz s kamarády, romantickou návštěvu a nebo i obchodní
-    schůzku. Pobočka Waf-Waf v Brně je také oblíbená u rodin s dětmi, díky svému dětskému
-    koutku a radostí, kterou dětem vykouzlí naše produkty.
+  first_column_above_image: The Brno branch opened on November 17. 2019 and offers
+    a complete range of Waf-Waf concepts, whether they are popular waffles, pancakes,american
+    pancakes or even milkshakes, fresh-juices and other original products such as
+    SushiWaf, BigWaf, WafShakes, etc.
+  second_column_above_image: The branch is interesting for its specific interior,
+    which also includes some of the retro elements. The establishment is located in
+    the Velký Špalíček shopping center, which dominates the center in Brno and you
+    will find us on the 1st floor right next to the Dráčik store. In addition, from
+    this branch you will have a beautiful view of the streets below Velký Špalíček
+    and it is an ideal environment for a meeting with friends, a romantic visit or
+    even a business meeting. The Waf-Waf branch in Brno is also popular with families
+    with children, thanks to its children's corner and the joy that our products conjure
+    up for children.
   image_left: "/uploads/2021/09/28/brno3.jpg"
-  third_column_under_image: 'Waf-Waf Brno je otevřený každý den až do večerních hodin
-    a pokud chcete udělat rezervaci, neváhejte nás kontaktovat na uvedeném telefonním
-    čísle. Kapacitou 74 zákazníků se Waf-Waf Brno také stává zatím největší pobočkou
-    sítě Waf-Waf. Samozřejmostí je možnost odnést si jídlo s sebou. '
+  third_column_under_image: Waf-Waf Brno is open every day until the evening and if
+    you want to make a reservation, do not hesitate to contact us at the telephone
+    number provided. With a capacity of 75 customers, Waf-Waf Brno is also becoming
+    the largest branch of the Waf-Waf network so far. Of course, it is possible to
+    take food with you.
   image_right_portrait: "/uploads/2021/09/28/brno4.jpg"
   footer_image: "/uploads/2021/09/28/brno-6.jpg"
   footer_description: |-
-    Radost uděláme i veganům, protože už i vegani si můžou sestavit vafli podle sebe! Stačí zaškrtnout políčko veganská vafle. Na pobočku smí i pejsci.
+    We will also make vegans happy, because even vegans can make waffles to their liking! Just check the vegan waffles box. Dogs are also allowed on the branch.
 
-    Z této pobočky také probíhá rozvoz Waf-Waf produktů do různých koutů Brna. Objednávat můžete na těchto platformách:
+    From this branch, Waf-Waf products are also delivered to various parts of Brno. You can order on the following platforms:
   wolt: true
   wolt_url: https://wolt.com/cs/cze/brno/restaurant/waf-waf-brno
   boltfood: true
