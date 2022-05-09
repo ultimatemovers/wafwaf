@@ -84,7 +84,8 @@ categories:
     product_price: "129"
   - product_image: "/assets/images/s2.jpg"
     product_title: Jahodový Milkshake
-    product_description: mléko, jahody, vanilková zmrzlina, jahodový toping, šlehačka
+    product_description: milk, strawberries, vanilla ice cream, strawberry topping,
+      whipped cream
     product_price: "129"
   - product_image: "/assets/images/s1.jpg"
     product_title: Banánový Milkshake
