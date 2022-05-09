@@ -103,7 +103,7 @@ categories:
       whipped cream, waffles
     product_price: "199"
   - product_image: "/assets/images/ss3.jpg"
-    product_title: Banánový Wafshake
+    product_title: Banana Wafshake
     product_description: milk, banana, vanilla ice cream, caramel topping, colored
       sprinkles, whipped cream, waffles
     product_price: "199"
