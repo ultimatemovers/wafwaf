@@ -30,9 +30,9 @@ contact_information:
   content: 'Would you like to have a birthday party, a bachelor party, a corporate
     event or a presentation or rent the whole space straight away within our branches?
     Contact us by e-mail: [provoz@waf-waf.cz] (mailto: provoz@waf-waf.cz)'
-- title: 'Otevírací doba a kontakt pro nabídku práce '
-  content: "Pokud by Vás zajímala otevírací doba jednotlivých poboček, tak navštivte
-    záložku:  \n [Naše pobočky](# \"nzm\") naopak pokud by Vás zajímala práce ve Waf-Waf
-    můžete navštívit kolonku: [volné pozice](#)."
+- title: Opening hours and contact for the job offer
+  content: |-
+    If you are interested in the opening hours of individual branches, then visit the tab:
+      [Our branches] (# "nzm") on the other hand, if you are interested in working at Waf-Waf, you can visit the box: [vacancies] (#).
 
 ---
