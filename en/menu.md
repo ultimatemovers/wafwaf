@@ -19,8 +19,8 @@ categories:
   - product_price: "159"
     product_image: "/assets/images/pearwaf-small.jpg"
     product_title: PEARWAF
-    product_description: glazované hrušky, cini minis, čokoládové kousky, javorový
-      sirup, domácí šlehačka
+    product_description: glazed pears, cini minis, chocolate pieces, maple syrup,
+      homemade whipped cream
   - product_image: "/assets/images/2.png"
     product_title: WAF&CUT
     product_description: 'vafle nakrájena na kousky, posypané skořicovým cukrem, nutella '
