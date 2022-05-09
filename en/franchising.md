@@ -156,8 +156,8 @@ faq:
     or its recommended location. In any case, we expect about 1 year for a smaller
     store and we can talk about 15-30 months for larger ones, depending on several
     factors.
-- question: 'Jaký je Váš měsíční poplatek, který musím hradit? '
-  answer: Měsíční poplatek činí 12%.
+- question: What is your monthly fee that I have to pay?
+  answer: The monthly fee is 12%.
 - question: Je zapotřebí zaplatit kauci?
   answer: Ano, kauce činí 500.000kč a je vratná po ukončení franchisingové smlouvy.
 - question: 'Je zapotřebí zaplatit licenční poplatek? '
