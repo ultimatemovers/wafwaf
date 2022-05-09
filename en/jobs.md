@@ -1,38 +1,38 @@
 ---
 hero_image: "/uploads/2021/07/25/jobs.png"
-big_title: Přidej se k nám
-subtitle: Staň se součástí našeho týmu!
+big_title: Join us
+subtitle: Become part of our team!
 layout: jobs
-positions_title: 'Nabízené pozice v rámci společnosti Waf-Waf s.r.o.:'
+positions_title: 'Positions offered within Waf-Waf :'
 jobs:
-- job_title: Obsluha ve WAF-WAF až 25.500 Kč (HPP)
-  job_location: Praha
+- job_title: WAF-WAF service up to CZK 25,500 (HPP)
+  job_location: Prague
   job_description: |-
-    **Co Vás ve Waf-Waf čeká:**
+    ** What awaits you at Waf-Waf: **
 
-    Náš koncept se zaměřuje na výrobu vaflí, palčinek a lívanců či milkshake ve velmi originálním pojetí. Našim hlavním mottem je #radostprovsechny a to budeme očekávat i od Vás. Ať už připravujete naše produkty a nebo pracujete na pokladně a komunikujete se zákazníky.
+    Our concept focuses on the production of waffles, pancakes and pancakes or a milkshake in a very original concept. Our main motto is #joyforeveryone and we will expect that from you as well. Whether you are preparing our products or working at the cash register and communicating with customers.
 
-    **Koho do Waf-Waf hledáme:**
+    ** Who we are looking for in Waf-Waf: **
 
-    Nové mladé ambiciózní kolegyně, které by měli mít chuť podílet se na velmi úspěšném gastro konceptu, který má za cíl rozšíření do celé ČR a EU. Budeme očekávat pracovitou a milou osobu, která bude přínosem pro celý náš tým.
+    New young ambitious colleagues who should have the desire to participate in a very successful gastronomic concept, which aims to expand throughout the Czech Republic and the EU. We will expect a hard-working and kind person who will benefit our entire team.
 
-    Výhodou bude, pokud budete mít zkušenosti z gastro provozu.
+    It will be an advantage if you have experience in gastronomy.
 
-    **Co vám můžeme nabídnout**
+    ** What we can offer you **
 
-    Při práci na HPP Vám můžeme nabídnout 23 000kč – 25 500Kč + bonusy za plnění. Máme zájem o dlouhodobou spolupráci a také o to, že Vaše mzda bude růst, stejně jako naše rozšiřující se společnost.
+    When working at HPP, we can offer you CZK 23,000 - CZK 25,500 + performance bonuses. We are interested in long-term cooperation and also in the fact that your salary will grow, as well as our expanding company.
 
-    **Dále také nabízíme:**
+    ** We also offer: **
 
-    pracovní oblečení
+    work outfit
 
-    finanční odměny za zaměstnance měsíce
+    financial rewards for employees of the month
 
-    možnosti MultiSport Card
+    MultiSport Card options
 
-    možnost stravování z naší nabídky
+    possibility of boarding from our offer
 
-    Vaše životopisy můžete zasílat na email: [jonas@waf-waf.cz]()
+    You can send your CVs to email: [jonas@waf-waf.cz] ()
 - job_title: Vedoucí pobočky Waf-Waf až 28.500 Kč (HPP)
   job_location: Praha
   job_description: "**Co Vás ve Waf-Waf čeká:**\n\nNáš koncept se zaměřuje na výrobu
@@ -88,3 +88,29 @@ jobs:
     \ \nDěkujeme!  "
 
 ---
+
+\** What awaits you at **Waf-Waf__: **
+
+Our concept focuses on the production of waffles, pancakes and pancakes or a milkshake in a very original concept. Our main motto is **#joyforeveryone** and we will expect that from you as well. Whether you are preparing our products or working at the cash register and communicating with customers.
+
+\** Who we are looking for in **Waf-Waf__: **
+
+New young ambitious colleagues who should have the desire to participate in a very successful gastronomic concept, which aims to expand throughout the Czech Republic and the EU. We will expect a hard-working and kind person who will benefit our entire team.
+
+It will be an advantage if you have experience in gastronomy.
+
+\** What we can offer you **
+
+When working at HPP, we can offer you CZK 23,000 - CZK 25,500 + performance bonuses. We are interested in long-term cooperation and also in the fact that your salary will grow, as well as our expanding company.
+
+\** We also offer: **
+
+work outfit
+
+financial rewards for employees of the month
+
+MultiSport Card options
+
+possibility of boarding from our offer
+
+You can send your CVs to email: \[jonas@waf-waf.cz\] ()
