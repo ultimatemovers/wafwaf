@@ -24,5 +24,9 @@ contact_information:
   content: "Pokud by Vás zajímala otevírací doba jednotlivých poboček, tak navštivte
     záložku:  \n [Naše pobočky](# \"nzm\") naopak pokud by Vás zajímala práce ve Waf-Waf
     můžete navštívit kolonku: [volné pozice](#)."
+delivery_text: Rozvážíme každý den
+delivery_button: Objednat
+instagram_title: Sledujte nás na Instagramu
+delivery_time: '08:00 - 21:00'
 
 ---
