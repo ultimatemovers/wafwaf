@@ -61,5 +61,11 @@ fields:
     required: false
   label: Instagram_title
   default: Sledujte nás na Instagramu
+- name: delivery_time
+  type: text
+  config:
+    required: false
+  label: Delivery time
+  default: '08:00 - 21:00'
 pages:
 - kontakty.md
