@@ -27,5 +27,6 @@ contact_information:
 delivery_text: Rozvážíme každý den
 delivery_button: Objednat
 instagram_title: Sledujte nás na Instagramu
+delivery_time: '08:00 - 21:00'
 
 ---
