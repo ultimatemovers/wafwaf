@@ -8,6 +8,7 @@ feature_image: "/assets/images/20210525_123201000_ios.jpg"
 layout: post
 published_at: 2021-10-08T12:26:06.000+00:00
 post_url: ''
+button_text: ZOBRAZIT VÍCE
 
 ---
 V rámci letošního roku jsme si pro Vás nachystali velkou novinku. Přes covidové období jsme nelenili a pracovali na dalším rozvoji. Chtěli jsme přinést opět něco zajímavého, při čemž si užijete ještě větší #novyzazitek.   
