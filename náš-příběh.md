@@ -38,5 +38,7 @@ proccess:
 bud_u_toho: "/franchise"
 layout: about
 subtitle: ''
+title_before_proccess: Jak to u nás chodí
+bud_u_toho_button: BUĎ U TOHO
 
 ---
