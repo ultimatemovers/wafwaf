@@ -161,6 +161,18 @@ fields:
     config:
       required: false
     label: Damejidlo_url
+  - name: contact_us_button
+    type: text
+    config:
+      required: false
+    label: Contact us button
+    default: Kontaktujte nas
+  - name: delivery_button
+    type: text
+    config:
+      required: false
+    label: Delivery button
+    default: jak se tam dostanu
   config:
     min: 
     max: 

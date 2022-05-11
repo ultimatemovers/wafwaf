@@ -16,6 +16,12 @@ fields:
     schema:
       format: markdown
   label: Excerpt
+- name: button_text
+  type: text
+  config:
+    required: false
+  label: Button text
+  default: ZOBRAZIT VÍCE
 - name: post_url
   type: text
   config:

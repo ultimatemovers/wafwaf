@@ -164,11 +164,23 @@ fields:
     max: 3
     labelField: 
   label: After FAQ
+- name: mam_zajem_title
+  type: text
+  config:
+    required: false
+  label: Mam Zajem Title
+  default: 'Chcete nás následovat? Stací vyplnit krátký dotazník:'
 - name: mam_zajem
   type: text
   config:
     required: false
   label: Mam Zajem URL
+- name: mam_zajem_button
+  type: text
+  config:
+    required: false
+  label: Mam zajem button
+  default: MAM ZAJEM
 - name: layout
   type: text
   config:

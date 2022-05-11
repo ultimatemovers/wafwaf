@@ -37,6 +37,24 @@ fields:
     maxSize: 64
   label: Breakfast Image
   default: "/uploads/2021/07/20/breakfast.png"
+- name: delivery_text
+  type: text
+  config:
+    required: false
+  label: Delivery text
+  default: Rozvážíme každý den
+- name: delivery_button
+  type: text
+  config:
+    required: false
+  label: Delivery Button
+  default: Objednat
+- name: instagram_title
+  type: text
+  config:
+    required: false
+  label: Instagram title
+  default: Sledujte nás na Instagramu
 - name: layout
   type: text
   config:

@@ -43,5 +43,23 @@ fields:
     max: 
     labelField: 
   label: Contact Information
+- name: delivery_text
+  type: text
+  config:
+    required: false
+  label: Delivery text
+  default: Rozvážíme každý den
+- name: delivery_button
+  type: text
+  config:
+    required: false
+  label: Delivery button
+  default: Objednat
+- name: instagram_title
+  type: text
+  config:
+    required: false
+  label: Instagram_title
+  default: Sledujte nás na Instagramu
 pages:
 - kontakty.md
