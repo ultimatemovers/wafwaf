@@ -67,7 +67,7 @@
           <img class="open-accordion" src="/img/plus.svg" width="50" data-accordion="accordion-{{ forloop.index }}">
         </div>
         <div class="w-full job-description franchising-line-height">
-          <div class="w-full md:w-1/2">
+          <div class="w-full">
             {{ accordion.description }}
           </div>
         </div>
@@ -83,7 +83,7 @@
         <div class="faq-title">{{ page.faq_title }}</div>
         <img class="faq-image hidden md:block" src="/img/faq.svg" alt="faq" width="29">
       </div>
-      <div class="w-full lg:w-3/4 px-8 sm:pb-40 md:pb-0 relative">
+      <div class="w-full lg:w-2/3 px-8 sm:pb-40 md:pb-0 relative">
         <div class="swiper-container faq-carousel">
           <div class="swiper-wrapper">
             {% for f in page.faq %}
