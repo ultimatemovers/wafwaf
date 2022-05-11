@@ -15,7 +15,7 @@
   <div id="about-four-boxes">
     <div class="rubic-pattern top"></div>
     <div class="bg-brown p-8 sm:py-10 xl:px-24 overflow-x-hidden proccess-container">
-      <h2 class="text-center class proccess-title">Jak to u nás chodí</h2>
+      <h2 class="text-center class proccess-title">{{ page.title_before_process }}</h2>
       <div class="flex justify-between proccess-wrapper">
         {% for p in page.proccess %}
           <div class="w-1/5 relative proccess-item proccess-item-{{ forloop.index }} md:reveal-delay-{{ forloop.index | plus:1 }}00">
@@ -80,7 +80,7 @@
       </p>
 
       <div class="w-4/5 lg:w-1/2 reveal mx-auto lg:mx-0">
-        <a href="{{page.bud_u_toho}}" class="black-btn reveal mt-12 block ml-0 btn-zoom-in-out">BUĎ U TOHO</a>
+        <a href="{{page.bud_u_toho}}" class="black-btn reveal mt-12 block ml-0 btn-zoom-in-out">{{ page.bud_u_toho_button }}</a>
       </div>
     </div>
   </div>

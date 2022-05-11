@@ -35,8 +35,29 @@
   </div>
 </div>
 
-{% include delivery.html %}
+<!-- {% include delivery.html %} -->
+<div class="mt-12 sm:mt-24 px-6 sm:px-0 pb-4 w-full reveal-delay-400">
+  <h2 class="h2 text-center sm:text-left">{{ page.delivery_text }} <br> 08:00 - 21:0</h2>
+  <div class="w-4/5 sm:w-1/5 mx-auto mb-8 my-8 sm:mb-24">
+    <a href="/rozvoz" class="black-btn mt-12 block btn-zoom-in-out">
+      {{ post.delivery_button }}
+    </a>
+  </div>
+</div>
 
-{% include instagram.html %}
+
+<!-- {% include instagram.html %} -->
+
+<div class="container instagram-feed px-6 sm:px-0">
+  <h2 class="h2 text-center instagram-title w-full reveal">{{ post.instagram_title }}</h2>
+  <div class="relative flex flex-wrap justify-between mt-16 w-5/6 mx-auto">
+      <div
+        id="insta"
+        class="w-full"
+        loading="lazy"
+        data-mc-src="6059f325-055c-4c25-ae01-88bf048083d7#instagram"></div>
+      <div style="position: absolute; left: 0; bottom: 0; height: 20px; background: #fffdf5; z-index: 10; width: 100%;"></div>
+  </div>
+</div>
 
 {% include footer.html %}
