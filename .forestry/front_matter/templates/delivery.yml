@@ -106,5 +106,11 @@ fields:
     required: false
   label: Dame Jildo button
   default: DAME JIDLO
+- name: delivery_time
+  type: text
+  config:
+    required: false
+  label: Delivery time
+  default: '08:00 - 21:00'
 pages:
 - rozvoz.md
