@@ -100,5 +100,11 @@ fields:
   label: layout
   default: deliverylayout
   hidden: true
+- name: dame_jildo_button
+  type: text
+  config:
+    required: false
+  label: Dame Jildo button
+  default: DAME JIDLO
 pages:
 - rozvoz.md
