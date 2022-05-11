@@ -178,5 +178,7 @@ locations:
   damejidlo_url: https://www.damejidlo.cz/restaurant/b5cn/waf-waf-3
   location_gmaps_url: https://g.page/wafwafbrnospalicek?share
 layout: locations
+contact_us_button: Kontaktujte nas
+delivery_button: " jak se tam dostanu"
 
 ---
