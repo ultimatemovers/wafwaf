@@ -14,5 +14,9 @@ showcase_images:
 - "/uploads/2021/07/20/mask-group-133.png"
 - "/uploads/2021/07/20/mask-group-135.png"
 - "/uploads/2021/07/20/mask-group-134.png"
+delivery_text: Rozvážíme každý den
+delivery_button: Objednat
+instagram_title: Sledujte nás na Instagramu
+delivery_time: '08:00 - 21:00'
 
 ---

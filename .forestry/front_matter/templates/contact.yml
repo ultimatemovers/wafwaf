@@ -68,4 +68,5 @@ fields:
   label: Delivery time
   default: '08:00 - 21:00'
 pages:
+- en/contact.md
 - kontakty.md

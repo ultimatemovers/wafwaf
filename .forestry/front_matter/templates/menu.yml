@@ -68,4 +68,5 @@ fields:
   hidden: true
   default: menu
 pages:
+- en/menu.md
 - menu.md

@@ -34,5 +34,9 @@ contact_information:
   content: |-
     If you are interested in the opening hours of individual branches, then visit the tab:
       [Our branches] (# "nzm") on the other hand, if you are interested in working at Waf-Waf, you can visit the box: [vacancies] (#).
+delivery_text: Rozvážíme každý den
+delivery_button: Objednat
+instagram_title: Sledujte nás na Instagramu
+delivery_time: '08:00 - 21:00'
 
 ---
