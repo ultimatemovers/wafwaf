@@ -186,4 +186,5 @@ fields:
   label: Delivery button
   default: " jak se tam dostanu"
 pages:
+- en/locations.md
 - naše-pobočky.md

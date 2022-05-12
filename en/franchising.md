@@ -179,5 +179,7 @@ after_faq:
   content: 'Ostrava, Plzeň, Liberec, Hradec Králové, Brno, Ústí nad Labem, České Budějovice
     aj. Germany, Poland, Slovakia, Austria, Hungary, Italy, Croatia, Srbia, Slovenia
     and more states in EU or out EU,world. '
+mam_zajem_title: 'Chcete nás následovat? Stací vyplnit krátký dotazník:'
+mam_zajem_button: MAM ZAJEM
 
 ---

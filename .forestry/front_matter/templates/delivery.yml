@@ -107,4 +107,5 @@ fields:
   label: Dame Jildo button
   default: DAME JIDLO
 pages:
+- en/delivery.md
 - rozvoz.md

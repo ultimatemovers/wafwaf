@@ -61,4 +61,5 @@ fields:
   hidden: true
   default: jobs
 pages:
+- en/jobs.md
 - přidej-se.md

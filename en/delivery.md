@@ -49,5 +49,6 @@ locations:
   wolt_url: 'https://wolt.com/cs/cze/brno/restaurant/waf-waf-brno '
   boltfood_url: ''
   jidlo_url: " https://www.damejidlo.cz/restaurant/b5cn/waf-waf-3"
+dame_jildo_button: DAME JIDLO
 
 ---

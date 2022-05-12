@@ -160,4 +160,5 @@ fields:
   hidden: true
   default: about
 pages:
+- en/about.md
 - náš-příběh.md
