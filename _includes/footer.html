@@ -1,3 +1,4 @@
+{% assign pageUrl = page.path | split: "/" %}
 <footer class="site-footer container w-full reveal">
   <div class="rubic-pattern top"></div>
   <div class="footer-content flex flex-wrap sm:flex-nowrap items-center">
@@ -14,14 +15,14 @@
         </div>
       </div>
       <div class="w-full sm:w-1/3 flex flex-col mb-12 sm:mb-0 reveal-footer">
-        {% if page.dir == '/en/' %}
+        {% if pageUrl.first == 'en' %}
           <div class="footer-title">Follow us!</div>
         {% else %}
           <div class="footer-title">Sleduj nás!</div>
         {% endif %}
 
         <div class="footer-body">
-          {% if page.dir == '/en/' %}
+          {% if pageUrl.first == 'en' %}
             <div>Taste our products as soon as we prepare it for you.</div>
           {% else %}
             <div>Ochutnejte naše novinky hned, jak je pro vás připravíme.</div>
@@ -40,14 +41,14 @@
         </div>
       </div>
       <div class="w-full sm:w-1/3 flex flex-col mb-12 sm:mb-0 reveal-footer">
-        {% if page.dir == '/en/' %}
+        {% if pageUrl.first == 'en' %}
           <div class="footer-title">Connect with us!</div>
         {% else %}
           <div class="footer-title">Spoj se s námi!</div>
         {% endif %}
 
         <div class="footer-body mb-6">
-          {% if page.dir == '/en/' %}
+          {% if pageUrl.first == 'en' %}
             <div>Join us and be the first to have the latest news at your fingertips!</div>
           {% else %}
             <div>Přidejte se k nám a mějte nejnovější novinky jako první na dosah!</div>
