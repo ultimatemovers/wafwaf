@@ -1,12 +1,12 @@
 ---
-button_text: ZOBRAZIT VÍCE
+button_text: SHOW MORE
 feature_image: "/assets/images/20200324_113947000_ios.jpg"
 layout: post
-published_at: 2022-05-13 12:33:18 +0000
-title: Noční rozvoz z pobočky IP Pavlova!
-excerpt: 'V rámci novinek, které jsme si pro Vás na závěr letošního roku přichystali
-  je noční rozvoz z pobočky IP Pavlova na Praze 2. '
+published_at: 2022-05-13T12:33:18.000+00:00
+title: Night delivery from the IP Pavlova branch!
+excerpt: As part of the novelties that we have prepared for you at the end of this
+  year, there is a night delivery from the IP Pavlova branch in Prague 2.
 post_url: ''
 
 ---
-Novinka, kterou budete chtít zažít! Zahájili jsme noční rozvoz našich sladkých a slaných dobrot do celé Prahy. V pilotní verzi bude možné objednat až do půlnoci. Prodlužujeme tak i otevírací dobu pro naše zákazníky na pobočce Waf-Waf IP Pavlova, která tak nově bude do 22:00. Využijte tak možnosti si s přáteli, rodinou či známými vychutnat Vaše oblíbené produkty z Waf-Waf i v noci. Noční rozvoz je prozatím připraven vždy z pátku na sobotu a ze soboty na neděli. Využít můžete naše rozvozové partnery DameJidlo, Wolt či BoltFood, kteří Vám doručí jídlo až k Vám domů. Těšíme se na první noční objednávky!
+The novelty you will want to experience! We started the night delivery of our sweet and savory delicacies to the whole of Prague. In the pilot version, it will be possible to order until midnight. We are thus extending the opening hours for our customers at the Waf-Waf IP Pavlova branch, which will be until 22:00. Take advantage of the opportunity to enjoy your favorite Waf-Waf products at night with friends, family or acquaintances. For the time being, night delivery is always prepared from Friday to Saturday and from Saturday to Sunday. You can use our delivery partners DameJidlo, Wolt or BoltFood, who will deliver the food to your home. We are looking forward to the first night orders!
