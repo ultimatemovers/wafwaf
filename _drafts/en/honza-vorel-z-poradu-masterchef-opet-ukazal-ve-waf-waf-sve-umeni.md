@@ -1,18 +1,19 @@
 ---
-button_text: ZOBRAZIT VÍCE
+button_text: SHOW MORE
 feature_image: "/assets/images/img_7463.jpg"
 layout: post
-published_at: 2022-05-13 12:34:15 +0000
-title: Honza Vorel z pořadu MasterChef opět ukázal ve Waf-Waf své umění!
-excerpt: 'Jako tomu bylo již v minulých letech, tak se známý mladý kuchař Jan Vorel,
-  který se proslavil díky pořadu MasterChef na TV NOVA rozhodl pro spolupráci se značkou
-  Waf-Waf. Ve spolupráci se zaměstnanci pro Vás připravili nové letní menu, které
-  zahrnuje speciální novinky, které naleznete pouze v rámci sítě poboček Waf-Waf. '
+published_at: 2022-05-13T12:34:15.000+00:00
+title: Honza Vorel from the MasterChef once again showed his art at Waf-Waf!
+excerpt: As has been the case in previous years, the well-known young chef Jan Vorel,
+  who became famous thanks to the MasterChef program on TV NOVA, decided to cooperate
+  with the Waf-Waf brand. In cooperation with the employees, they have prepared a
+  new summer menu for you, which includes special news, which you will find only within
+  the Waf-Waf branch network.
 post_url: ''
 
 ---
-Letní menu dostalo i nádech zdravého stravování, když jsme vymysleli kombinaci slaných lívanců s halloumi sýrem a speciální verzi avokádového smoothie nápoje, který Vás báječně osvěží. Co však musíme zmínit je produkt, který uspokojí každý mlsný jazýček. Sladké vafle s karamelovou-mascarponovou omáčkou a lotus posypem je dokonálá slast pro Vaše chuťové pohárky, tohle musíte prostě ochutnat!
+The summer menu also got a touch of healthy eating, when we came up with a combination of salty pancakes with halloumi cheese and a special version of the avocado smoothie drink, which will refresh you wonderfully. But what we have to mention is a product that will satisfy every palate. Sweet waffles with caramel-mascarpone sauce and lotus sprinkles are the perfect delight for your taste buds, you just have to taste this!
 
-Na menu board se dostali i další novinky, které připravil dívčí kolektiv ve Waf-Waf pod symbolickým názvem WafGirls. Slečny si pro Vás nachystali vaflový burger s kuřecím stripsem, smaženou palačinku s kuřecím masem anebo unikátní kávový nápoj DalgonWaf.
+The menu board also received other novelties prepared by the girls' team at Waf-Waf under the symbolic name WafGirls. The ladies have prepared a waffle burger with chicken strips, a fried pancake with chicken or the unique coffee drink DalgonWaf.
 
-Letní nabídka poběží na všech pobočkách až do 21.9.2021, tak neváhejte přijít ochutnat co jsme si pro Vás připravili! Těšíme se na Vás.
+The special offer will run at all branches, so don't hesitate to come and taste what we have prepared for you! We look forward to you.
