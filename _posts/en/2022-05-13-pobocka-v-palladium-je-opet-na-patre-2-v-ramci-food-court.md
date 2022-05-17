@@ -2,7 +2,7 @@
 button_text: SHOW MORE
 feature_image: "/assets/images/stand-concept.jpg"
 layout: post
-published_at: 2022-05-13T12:23:35.000+00:00
+published_at: 2022-05-13 12:23:35 +0000
 title: The branch in Palladium is again on the +2 floor within the food-court!
 excerpt: The branch in Palladium is again on the +2 floor within the food-court!
 post_url: ''
