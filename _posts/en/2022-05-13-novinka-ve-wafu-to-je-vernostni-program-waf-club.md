@@ -3,7 +3,7 @@ button_text: SHOW MORE
 feature_image: "/assets/images/20210525_123201000_ios.jpg"
 layout: post
 published_at: 2022-05-13T12:29:09.000+00:00
-title: New in Wafu, this is the Waf Club loyalty program
+title: New in Waf, this is the Waf Club loyalty program
 excerpt: 'This year we have prepared a big novelty for you. We did not laze over the
   covid period and worked on further development. We wanted to bring something interesting
   again, while you will enjoy even more #news. In a few weeks, the new Waf-Waf Club
