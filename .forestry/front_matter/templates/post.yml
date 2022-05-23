@@ -53,14 +53,9 @@ fields:
   hidden: true
   default: now
 pages:
-- _posts/2021-07-30-kuchar-jan-vorel-a-waf-waf-spojili-sve-sily-na-valentyna.md
 - _posts/2021-07-30-opening-brno.md
 - _posts/2021-07-30-otevreni-nove-pobocky-v-oc-palladium-praha.md
 - _posts/2021-12-02-stan-se-soucasti-tymu-waf-waf-copy.md
-- _posts/2022-02-14-narozeniny-oslavy-a-nebo-rezervace-ve-waf-waf-rikame-ano.md
-- _posts/2022-03-01-pobocka-v-palladium-je-opet-na-patre-2-v-ramci-food-court.md
-- _posts/en/2022-05-13-narozeniny-oslavy-a-nebo-rezervace-ve-waf-waf-rikame-ano.md
 - _posts/en/2022-05-13-nocni-rozvoz-z-pobocky-ip-pavlova.md
-- _posts/en/2022-05-13-pobocka-v-palladium-je-opet-na-patre-2-v-ramci-food-court.md
 - _posts/en/2022-05-13-stan-se-soucasti-tymu-waf-waf.md
 - _posts/en/honza-vorel-z-poradu-masterchef-opet-ukazal-ve-waf-waf-sve-umeni.md

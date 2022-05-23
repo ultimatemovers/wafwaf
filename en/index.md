@@ -16,7 +16,7 @@ showcase_images:
 - "/uploads/2021/07/20/mask-group-134.png"
 delivery_text: Rozvážíme každý den
 delivery_button: Order
-instagram_title: Sledujte nás na Instagramu
+instagram_title: Follow us on Instagram
 delivery_time: '08:00 - 21:00'
 
 ---
