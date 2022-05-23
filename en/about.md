@@ -38,7 +38,7 @@ proccess:
 bud_u_toho: "/en/franchising"
 layout: about
 subtitle: ''
-title_before_proccess: Jak to u nás chodí
-bud_u_toho_button: BUĎ U TOHO
+title_before_proccess: How is going on at Waf-Waf
+bud_u_toho_button: 'Be part of it! '
 
 ---
