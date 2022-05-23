@@ -5,24 +5,24 @@ subtitle: Become part of our team!
 layout: jobs
 positions_title: 'Positions offered within Waf-Waf :'
 jobs:
-- job_title: WAF-WAF service up to CZK 25,500 (HPP)
+- job_title: WAF-WAF service up to CZK 30 000 (HPP)
   job_location: Prague
   job_description: |-
-    ** What awaits you at Waf-Waf: **
+    \** What awaits you at Waf-Waf: **
 
     Our concept focuses on the production of waffles, pancakes and american pancakes or a milkshake in a very original concept. Our main motto is #joyforeveryone and we will expect that from you as well. Whether you are preparing our products or working at the cash register and communicating with customers.
 
-    ** Who we are looking for in Waf-Waf: **
+    \** Who we are looking for in Waf-Waf: **
 
     New young ambitious colleagues who should have the desire to participate in a very successful gastronomic concept, which aims to expand throughout the Czech Republic and the EU. We will expect a hard-working and kind person who will benefit our entire team.
 
     It will be an advantage if you have experience in gastronomy.
 
-    ** What we can offer you **
+    \** What we can offer you **
 
-    When working at HPP, we can offer you CZK 23,000 - CZK 25,500 + performance bonuses. We are interested in long-term cooperation and also in the fact that your salary will grow, as well as our expanding company.
+    When working at HPP, we can offer you CZK 25 000 - CZK 30 000 + performance bonuses. We are interested in long-term cooperation and also in the fact that your salary will grow, as well as our expanding company.
 
-    ** We also offer: **
+    \** We also offer: **
 
     work outfit
 
@@ -32,7 +32,7 @@ jobs:
 
     possibility of boarding from our offer
 
-    You can send your CVs to email: [jonas@waf-waf.cz] ()
+    You can send your CVs to email: \[jonas@waf-waf.cz\] ()
 - job_title: Waf-Waf branch manager up to CZK 28,500 (HPP)
   job_location: Prague
   job_description: |-
