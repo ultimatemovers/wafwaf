@@ -33,13 +33,15 @@
 <div class="container px-0 sm:px-16">
   <div class="latest-posts mt-12 lg:pr-6 sm:mt-20 mb-16 px-0">
     <div class="latest-posts-wrapper flex justify-between">
-      {% assign blogposts = site.categories.cz %}
 
+      
       {% if pageUrl.first == 'en' %}
-        {% assign blogposts = site.categories.en %}
+        {% assign posts = site.categories.en %} 
+      {% else %}
+        {% assign posts = site.categories.cz %}
       {% endif %}
 
-      {% for post in blogposts limit: 3 %}
+      {% for post in posts limit: 3 %}
         <div data-post-id="{{ post.id }}" class="latest-posts-item w-full px-8 lg:px-0 sm:w-1/4 reveal-delay-{{ forloop.index | plus: 1 }}00">
           <div class="latest-posts-item-image" style="background-image: url('{{ post.feature_image }}');"></div>
           <h4 class="post-title mt-8 mb-6 sm:mb-12 sm:w-3/4 sm:mx-auto lg:w-full">{{ post.title }}</h4>
@@ -94,7 +96,11 @@
   <div class="mt-12 sm:mt-24 px-6 sm:px-0 pb-4 w-full reveal-delay-400">
     <h2 class="h2 text-center sm:text-left">{{ page.delivery_text }} <br>{{ page.delivery_time }}</h2>
     <div class="w-4/5 sm:w-1/5 mx-auto mb-8 my-8 sm:mb-24">
-      <a href="/rozvoz" class="black-btn mt-12 block btn-zoom-in-out">
+      {% if pageUrl.first == 'en' %}
+        <a href="/delivery" class="black-btn mt-12 block btn-zoom-in-out">
+      {% else %}
+        <a href="/rozvoz" class="black-btn mt-12 block btn-zoom-in-out">
+      {% endif %}
         {{ page.delivery_button }}
       </a>
     </div>
