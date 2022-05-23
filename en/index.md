@@ -14,7 +14,7 @@ showcase_images:
 - "/uploads/2021/07/20/mask-group-133.png"
 - "/uploads/2021/07/20/mask-group-135.png"
 - "/uploads/2021/07/20/mask-group-134.png"
-delivery_text: Rozvážíme každý den
+delivery_text: 'Delivery every single day! '
 delivery_button: Order
 instagram_title: Follow us on Instagram
 delivery_time: '08:00 - 21:00'
