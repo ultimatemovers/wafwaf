@@ -78,11 +78,6 @@ categories:
     product_title: AVOWAF
 - category_title: NÁPOJE & MILKSHAKES
   products:
-  - product_image: "/assets/images/s3.jpg"
-    product_title: Čokoládový Milkshake
-    product_description: mléko, kakao, granko, čokoládová poleva, čokoládová zmrzlina,
-      šlehačka, oreo
-    product_price: 
   - product_image: "/assets/images/s2.jpg"
     product_title: Jahodový Milkshake
     product_description: mléko, jahody, vanilková zmrzlina, jahodový toping, šlehačka
@@ -91,11 +86,6 @@ categories:
     product_title: Banánový Milkshake
     product_description: mléko, banán, vanilková zmrzlina, karamelový toping, barevné
       posypky, šlehačka
-    product_price: 
-  - product_image: "/assets/images/ss2.jpg"
-    product_title: Čokoládový Wafshake
-    product_description: mléko, kakao, granko, čokoládová poleva, čokoládová zmrzlina,
-      šlehačka, oreo, vafle
     product_price: 
   - product_image: "/assets/images/ss1.jpg"
     product_title: Jahodový Wafshake
@@ -112,14 +102,14 @@ categories:
   - product_image: "/assets/images/halloumiwaf-small.jpg"
     product_title: HALOUMIWAF
     product_description: avokádová pomazánka, haloumi sýr, rukola, rajče
-    product_price: 164
+    product_price: 
   - product_image: "/assets/images/skywaf-small.jpg"
     product_title: SKYWAF
     product_description: vafle, salko toping, jahody, lotus posyp a sušenka
-    product_price: 159
+    product_price: 
   - product_image: "/assets/images/greensmoothie-small.jpg"
     product_description: avokádo, špenát, banán, sojové mléko
-    product_price: 99
+    product_price: 
     product_title: WAF&SMOOTHIE GREEN
   - product_image: "/assets/images/purplesmoothie-small.jpg"
     product_title: WAF&SMOOTHIE PURPLE
