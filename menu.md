@@ -116,14 +116,14 @@ categories:
   - product_image: "/assets/images/wafchick-small.jpg"
     product_title: WAFCHICK
     product_description: vafle, maxi kuřecí strips, salát, okurka, majonéza
-    product_price: 159
+    product_price: 
   - product_image: "/assets/images/friedwaf-small.jpg"
     product_title: FRIEDWAF
     product_description: smažená palačinka, kuřecí maso, gouda, špenát, kukuřice
-    product_price: 154
+    product_price: 
   - product_image: "/assets/images/dalgonwaf-small.jpg"
     product_title: DALGONWAF
     product_description: kávový krém, mléko, led
-    product_price: 89
+    product_price: 
 
 ---
