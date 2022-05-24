@@ -30,7 +30,12 @@
               </div>
               <div class="flex justify-between items-center lg:items-start mt-6 md:w-1/4 md:block">
                 <div class="block md:hidden product-description">{{ product.product_description }}</div>
-                <div class="product-price">{{ product.product_price }},-</div>
+                <div class="product-price">
+                  {{ product.product_price }} 
+                  {% if product.product_price  %}
+                    <span>,-</span>
+                  {% endif %}
+                </div>
               </div>
             </div>
           </div>

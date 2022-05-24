@@ -449,7 +449,8 @@ html .load-hidden {
 }
 
 .single-product .product-title,
-.single-product .product-price {
+.single-product .product-price,
+.single-product .product-price span {
   font-family: 'BrandonText-Bold', sans-serif;
   font-size: 2.4rem;
   font-weight: bold;
@@ -473,7 +474,8 @@ html .load-hidden {
   color: #483B33;
 }
 
-.single-product .product-price {
+.single-product .product-price,
+.single-product .product-price span {
   margin-top: 0;
   text-align: right;
   color: #85D3C4;
