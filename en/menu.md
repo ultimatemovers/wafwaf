@@ -2,7 +2,7 @@
 big_title: WAF-WAF OFFER
 layout: menu
 categories:
-- category_title: SLADKÉ
+- category_title: SWEET
   products:
   - product_image: "/assets/images/chocowaf-small.jpg"
     product_title: CHOCOWAF
@@ -29,7 +29,7 @@ categories:
     product_title: SUSHIWAF
     product_description: chocolate pancake, banana, strawberry, caramel topping, coconut
     product_price: 
-- category_title: SLANÉ
+- category_title: SAVORY
   products:
   - product_image: "/assets/images/maplewaf-small.jpg"
     product_title: MAPLEWAF
@@ -53,7 +53,7 @@ categories:
     product_description: two waffles, bacon, ham, cheddar, baby spinach, rocked salad,
       tomatoes, mayonnaise, ketchup
     product_price: 
-- category_title: SNÍDANĚ
+- category_title: BREAKFEST
   products:
   - product_image: "/assets/images/eggwaf-small.jpg"
     product_title: EGGWAF
@@ -75,7 +75,7 @@ categories:
       tomatoes, pomegranate seeds
     product_price: 134
     product_title: AVOWAF
-- category_title: NÁPOJE & MILKSHAKES
+- category_title: MILKSHAKES
   products:
   - product_image: "/assets/images/s2.jpg"
     product_title: Strawberry Milkshake
