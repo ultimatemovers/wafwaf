@@ -15,8 +15,8 @@ categories:
   - product_image: "/assets/images/wafreo-small.jpg"
     product_title: WAFREO
     product_description: jahody, nutella, oreo, domácí šlehačka
-    product_price: 164
-  - product_price: 159
+    product_price: 
+  - product_price: 
     product_image: "/assets/images/pearwaf-small.jpg"
     product_title: PEARWAF
     product_description: glazované hrušky, cini minis, čokoládové kousky, javorový
@@ -24,7 +24,7 @@ categories:
   - product_image: "/assets/images/2.png"
     product_title: WAF&CUT
     product_description: 'vafle nakrájena na kousky, posypané skořicovým cukrem, nutella '
-    product_price: 99
+    product_price: 
   - product_image: "/assets/images/1.png"
     product_title: SUSHIWAF
     product_description: čokoládová palačinka, banán, jahody, karamelový toping, kokos
