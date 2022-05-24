@@ -7,16 +7,16 @@ categories:
   - product_image: "/assets/images/chocowaf-small.jpg"
     product_title: CHOCOWAF
     product_description: vanilla topping, caramel topping, raspberries, nuts
-    product_price: 159
-  - product_price: 164
+    product_price: 
+  - product_price: 
     product_image: "/assets/images/4.jpg"
     product_title: WAFTELLA
     product_description: nutella, oreo, strawberries, raspberries, mascarpone
   - product_image: "/assets/images/wafreo-small.jpg"
     product_title: WAFREO
     product_description: strawberries, nutella, oreo, homemade whipped cream
-    product_price: 164
-  - product_price: 159
+    product_price: 
+  - product_price: 
     product_image: "/assets/images/pearwaf-small.jpg"
     product_title: PEARWAF
     product_description: glazed pears, cini minis, chocolate pieces, maple syrup,
@@ -24,22 +24,22 @@ categories:
   - product_image: "/assets/images/2.png"
     product_title: WAF&CUT
     product_description: waffles cut into pieces, sprinkled with cinnamon sugar, nutella
-    product_price: 99
+    product_price: 
   - product_image: "/assets/images/1.png"
     product_title: SUSHIWAF
     product_description: chocolate pancake, banana, strawberry, caramel topping, coconut
-    product_price: 129
+    product_price: 
 - category_title: SLANÉ
   products:
   - product_image: "/assets/images/maplewaf-small.jpg"
     product_title: MAPLEWAF
     product_description: egg, bacon, cheddar, rocket salad, tomato, maple syrup
-    product_price: 164
+    product_price: 
   - product_image: "/assets/images/beefwaf-small.jpg"
     product_title: BEEFWAF
     product_description: shredded beef, cheddar sauce, grilled tomatoes, onions, salad,
       cranberries
-    product_price: 174
+    product_price: 
   - product_image: "/assets/images/ironwaf-small.jpg"
     product_title: IRONWAF
     product_description: egg, bacon, cheddar, rocket salad
