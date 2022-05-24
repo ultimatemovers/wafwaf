@@ -107,25 +107,21 @@ categories:
     product_title: SKYWAF
     product_description: waffles, salco topping, strawberries, lotus sprinkles and
       biscuit
-    product_price: 159
-  - product_image: "/assets/images/greensmoothie-small.jpg"
-    product_description: avocado, spinach, banana, soy milk
-    product_price: 99
-    product_title: WAF&SMOOTHIE GREEN
+    product_price: 
   - product_image: "/assets/images/purplesmoothie-small.jpg"
     product_title: WAF&SMOOTHIE PURPLE
     product_description: blueberries, banana, kiwi, honey
-    product_price: 99
+    product_price: 
 - category_title: WAF-WAF GIRLS
   products:
   - product_image: "/assets/images/wafchick-small.jpg"
     product_title: WAFCHICK
     product_description: waffles, maxi chicken strips, lettuce, cucumber, mayonnaise
-    product_price: 159
+    product_price: 
   - product_image: "/assets/images/friedwaf-small.jpg"
     product_title: FRIEDWAF
     product_description: fried pancake, chicken, gouda, spinach, corn
-    product_price: 154
+    product_price: 
   - product_image: "/assets/images/dalgonwaf-small.jpg"
     product_title: DALGONWAF
     product_description: coffee cream, milk, ice
