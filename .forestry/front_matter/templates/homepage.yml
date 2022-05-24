@@ -2,6 +2,13 @@
 label: homepage
 hide_body: true
 fields:
+- name: layout
+  type: text
+  config:
+    required: false
+  label: Layout
+  hidden: true
+  default: homepage
 - name: hero_images
   type: image_gallery
   config: {}
@@ -55,13 +62,6 @@ fields:
     required: false
   label: Instagram title
   default: Sledujte nás na Instagramu
-- name: layout
-  type: text
-  config:
-    required: false
-  label: Layout
-  hidden: true
-  default: homepage
 - name: delivery_time
   type: text
   config:

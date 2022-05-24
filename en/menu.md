@@ -2,7 +2,7 @@
 big_title: WAF-WAF OFFER
 layout: menu
 categories:
-- category_title: SLADKÉ
+- category_title: SWEET
   products:
   - product_image: "/assets/images/chocowaf-small.jpg"
     product_title: CHOCOWAF
@@ -29,7 +29,7 @@ categories:
     product_title: SUSHIWAF
     product_description: chocolate pancake, banana, strawberry, caramel topping, coconut
     product_price: 
-- category_title: SLANÉ
+- category_title: SAVORY
   products:
   - product_image: "/assets/images/maplewaf-small.jpg"
     product_title: MAPLEWAF
@@ -43,17 +43,17 @@ categories:
   - product_image: "/assets/images/ironwaf-small.jpg"
     product_title: IRONWAF
     product_description: egg, bacon, cheddar, rocket salad
-    product_price: 164
+    product_price: 
   - product_image: "/assets/images/crepedilla-small.jpg"
     product_title: CREPEDILLA
     product_description: chicken, cheddar, baby spinach, tomato dip, sour cream
-    product_price: 169
+    product_price: 
   - product_image: "/assets/images/3.jpg"
     product_title: BIGWAF
     product_description: two waffles, bacon, ham, cheddar, baby spinach, rocked salad,
       tomatoes, mayonnaise, ketchup
-    product_price: 219
-- category_title: SNÍDANĚ
+    product_price: 
+- category_title: BREAKFEST
   products:
   - product_image: "/assets/images/eggwaf-small.jpg"
     product_title: EGGWAF
@@ -75,70 +75,56 @@ categories:
       tomatoes, pomegranate seeds
     product_price: 134
     product_title: AVOWAF
-- category_title: NÁPOJE & MILKSHAKES
+- category_title: MILKSHAKES
   products:
-  - product_image: "/assets/images/s3.jpg"
-    product_title: Chocolate Milkshake
-    product_description: milk, cocoa, chocolate topping, chocolate ice cream, whipped
-      cream, oreo
-    product_price: 129
   - product_image: "/assets/images/s2.jpg"
     product_title: Strawberry Milkshake
     product_description: milk, strawberries, vanilla ice cream, strawberry topping,
       whipped cream
-    product_price: 129
+    product_price: 
   - product_image: "/assets/images/s1.jpg"
     product_title: Banana Milkshake
     product_description: milk, banana, vanilla ice cream, caramel topping, colored
       sprinkles, whipped cream
-    product_price: 129
-  - product_image: "/assets/images/ss2.jpg"
-    product_title: Chocolate Wafshake
-    product_description: milk, cocoa, chocolate topping, chocolate ice cream, whipped
-      cream, oreo, waffles
-    product_price: 199
+    product_price: 
   - product_image: "/assets/images/ss1.jpg"
     product_title: Strawberry Wafshake
     product_description: milk, strawberries, vanilla ice cream, strawberry topping,
       whipped cream, waffles
-    product_price: 199
+    product_price: 
   - product_image: "/assets/images/ss3.jpg"
     product_title: Banana Wafshake
     product_description: milk, banana, vanilla ice cream, caramel topping, colored
       sprinkles, whipped cream, waffles
-    product_price: 199
-- category_title: SPECIÁLNÍ NABÍDKA by HONZA VOREL
+    product_price: 
+- category_title: CHEF MENU by HONZA VOREL
   products:
   - product_image: "/assets/images/halloumiwaf-small.jpg"
     product_title: HALOUMIWAF
     product_description: avocado spread, haloumi cheese, rocked salad, tomato
-    product_price: 164
+    product_price: 
   - product_image: "/assets/images/skywaf-small.jpg"
     product_title: SKYWAF
     product_description: waffles, salco topping, strawberries, lotus sprinkles and
       biscuit
-    product_price: 159
-  - product_image: "/assets/images/greensmoothie-small.jpg"
-    product_description: avocado, spinach, banana, soy milk
-    product_price: 99
-    product_title: WAF&SMOOTHIE GREEN
+    product_price: 
   - product_image: "/assets/images/purplesmoothie-small.jpg"
     product_title: WAF&SMOOTHIE PURPLE
     product_description: blueberries, banana, kiwi, honey
-    product_price: 99
+    product_price: 
 - category_title: WAF-WAF GIRLS
   products:
   - product_image: "/assets/images/wafchick-small.jpg"
     product_title: WAFCHICK
     product_description: waffles, maxi chicken strips, lettuce, cucumber, mayonnaise
-    product_price: 159
+    product_price: 
   - product_image: "/assets/images/friedwaf-small.jpg"
     product_title: FRIEDWAF
     product_description: fried pancake, chicken, gouda, spinach, corn
-    product_price: 154
+    product_price: 
   - product_image: "/assets/images/dalgonwaf-small.jpg"
     product_title: DALGONWAF
     product_description: coffee cream, milk, ice
-    product_price: 89
+    product_price: 
 
 ---
