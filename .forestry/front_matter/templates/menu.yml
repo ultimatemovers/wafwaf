@@ -49,7 +49,7 @@ fields:
         min: 
         max: 
         step: 
-        required: true
+        required: false
     config:
       min: 
       max: 
