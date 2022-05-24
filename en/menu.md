@@ -25,10 +25,6 @@ categories:
     product_title: WAF&CUT
     product_description: waffles cut into pieces, sprinkled with cinnamon sugar, nutella
     product_price: 
-  - product_image: "/assets/images/1.png"
-    product_title: SUSHIWAF
-    product_description: chocolate pancake, banana, strawberry, caramel topping, coconut
-    product_price: 
 - category_title: SAVORY
   products:
   - product_image: "/assets/images/maplewaf-small.jpg"
