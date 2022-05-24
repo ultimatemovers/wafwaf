@@ -97,7 +97,7 @@ categories:
     product_description: milk, banana, vanilla ice cream, caramel topping, colored
       sprinkles, whipped cream, waffles
     product_price: 
-- category_title: CHEFF MENU by HONZA VOREL
+- category_title: CHEF MENU by HONZA VOREL
   products:
   - product_image: "/assets/images/halloumiwaf-small.jpg"
     product_title: HALOUMIWAF
