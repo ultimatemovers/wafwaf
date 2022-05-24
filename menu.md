@@ -74,7 +74,7 @@ categories:
   - product_image: "/assets/images/avowaf-small.jpg"
     product_description: avokádová pomazánka, sázené vajíčko, baby špenát, rukola,
       cherry rajčátka, granátové jablko, semínka
-    product_price: 134
+    product_price: 
     product_title: AVOWAF
 - category_title: NÁPOJE & MILKSHAKES
   products:
@@ -82,16 +82,16 @@ categories:
     product_title: Čokoládový Milkshake
     product_description: mléko, kakao, granko, čokoládová poleva, čokoládová zmrzlina,
       šlehačka, oreo
-    product_price: 129
+    product_price: 
   - product_image: "/assets/images/s2.jpg"
     product_title: Jahodový Milkshake
     product_description: mléko, jahody, vanilková zmrzlina, jahodový toping, šlehačka
-    product_price: 129
+    product_price: 
   - product_image: "/assets/images/s1.jpg"
     product_title: Banánový Milkshake
     product_description: mléko, banán, vanilková zmrzlina, karamelový toping, barevné
       posypky, šlehačka
-    product_price: 129
+    product_price: 
   - product_image: "/assets/images/ss2.jpg"
     product_title: Čokoládový Wafshake
     product_description: mléko, kakao, granko, čokoládová poleva, čokoládová zmrzlina,
