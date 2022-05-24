@@ -43,16 +43,16 @@ categories:
   - product_image: "/assets/images/ironwaf-small.jpg"
     product_title: IRONWAF
     product_description: egg, bacon, cheddar, rocket salad
-    product_price: 164
+    product_price: 
   - product_image: "/assets/images/crepedilla-small.jpg"
     product_title: CREPEDILLA
     product_description: chicken, cheddar, baby spinach, tomato dip, sour cream
-    product_price: 169
+    product_price: 
   - product_image: "/assets/images/3.jpg"
     product_title: BIGWAF
     product_description: two waffles, bacon, ham, cheddar, baby spinach, rocked salad,
       tomatoes, mayonnaise, ketchup
-    product_price: 219
+    product_price: 
 - category_title: SNÍDANĚ
   products:
   - product_image: "/assets/images/eggwaf-small.jpg"
