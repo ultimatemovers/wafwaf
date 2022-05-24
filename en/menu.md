@@ -24,22 +24,22 @@ categories:
   - product_image: "/assets/images/2.png"
     product_title: WAF&CUT
     product_description: waffles cut into pieces, sprinkled with cinnamon sugar, nutella
-    product_price: 99
+    product_price: 
   - product_image: "/assets/images/1.png"
     product_title: SUSHIWAF
     product_description: chocolate pancake, banana, strawberry, caramel topping, coconut
-    product_price: 129
+    product_price: 
 - category_title: SLANÉ
   products:
   - product_image: "/assets/images/maplewaf-small.jpg"
     product_title: MAPLEWAF
     product_description: egg, bacon, cheddar, rocket salad, tomato, maple syrup
-    product_price: 164
+    product_price: 
   - product_image: "/assets/images/beefwaf-small.jpg"
     product_title: BEEFWAF
     product_description: shredded beef, cheddar sauce, grilled tomatoes, onions, salad,
       cranberries
-    product_price: 174
+    product_price: 
   - product_image: "/assets/images/ironwaf-small.jpg"
     product_title: IRONWAF
     product_description: egg, bacon, cheddar, rocket salad
