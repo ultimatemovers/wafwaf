@@ -28,18 +28,18 @@ categories:
   - product_image: "/assets/images/1.png"
     product_title: SUSHIWAF
     product_description: čokoládová palačinka, banán, jahody, karamelový toping, kokos
-    product_price: 129
+    product_price: 
 - category_title: SLANÉ
   products:
   - product_image: "/assets/images/maplewaf-small.jpg"
     product_title: MAPLEWAF
     product_description: vajíčko, slanina, cheddar, rukola, rajče, javorový sirup
-    product_price: 164
+    product_price: 
   - product_image: "/assets/images/beefwaf-small.jpg"
     product_title: BEEFWAF
     product_description: trhané hovězí maso,  cheddarová omáčka, grilovaná rajčata,
       cibule, salát, brusinky
-    product_price: 174
+    product_price: 
   - product_image: "/assets/images/ironwaf-small.jpg"
     product_title: IRONWAF
     product_description: vajíčko, slanina, cheddar, rukola
@@ -53,7 +53,7 @@ categories:
     product_title: BIGWAF
     product_description: dvě vafle, slanina, šunka, cheddar, baby špenát, rukola,
       rajčata, majonéza, kečup
-    product_price: 219
+    product_price: 
 - category_title: SNÍDANĚ
   products:
   - product_image: "/assets/images/eggwaf-small.jpg"
