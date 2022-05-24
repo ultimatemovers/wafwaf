@@ -107,14 +107,10 @@ categories:
     product_title: SKYWAF
     product_description: vafle, salko toping, jahody, lotus posyp a sušenka
     product_price: 
-  - product_image: "/assets/images/greensmoothie-small.jpg"
-    product_description: avokádo, špenát, banán, sojové mléko
-    product_price: 
-    product_title: WAF&SMOOTHIE GREEN
   - product_image: "/assets/images/purplesmoothie-small.jpg"
     product_title: WAF&SMOOTHIE PURPLE
     product_description: borůvky, banán, kiwi, med
-    product_price: 99
+    product_price: 
 - category_title: WAF-WAF GIRLS
   products:
   - product_image: "/assets/images/wafchick-small.jpg"
