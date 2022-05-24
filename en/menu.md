@@ -77,31 +77,21 @@ categories:
     product_title: AVOWAF
 - category_title: NÁPOJE & MILKSHAKES
   products:
-  - product_image: "/assets/images/s3.jpg"
-    product_title: Chocolate Milkshake
-    product_description: milk, cocoa, chocolate topping, chocolate ice cream, whipped
-      cream, oreo
-    product_price: 129
   - product_image: "/assets/images/s2.jpg"
     product_title: Strawberry Milkshake
     product_description: milk, strawberries, vanilla ice cream, strawberry topping,
       whipped cream
-    product_price: 129
+    product_price: 
   - product_image: "/assets/images/s1.jpg"
     product_title: Banana Milkshake
     product_description: milk, banana, vanilla ice cream, caramel topping, colored
       sprinkles, whipped cream
     product_price: 129
-  - product_image: "/assets/images/ss2.jpg"
-    product_title: Chocolate Wafshake
-    product_description: milk, cocoa, chocolate topping, chocolate ice cream, whipped
-      cream, oreo, waffles
-    product_price: 199
   - product_image: "/assets/images/ss1.jpg"
     product_title: Strawberry Wafshake
     product_description: milk, strawberries, vanilla ice cream, strawberry topping,
       whipped cream, waffles
-    product_price: 199
+    product_price: 
   - product_image: "/assets/images/ss3.jpg"
     product_title: Banana Wafshake
     product_description: milk, banana, vanilla ice cream, caramel topping, colored
