@@ -43,12 +43,12 @@ categories:
   - product_image: "/assets/images/ironwaf-small.jpg"
     product_title: IRONWAF
     product_description: vajíčko, slanina, cheddar, rukola
-    product_price: 164
+    product_price: 
   - product_image: "/assets/images/crepedilla-small.jpg"
     product_title: CREPEDILLA
     product_description: kuřecí maso, cheddar, baby špenát, rajčatový dip, zakysaná
       smetana
-    product_price: 169
+    product_price: 
   - product_image: "/assets/images/3.jpg"
     product_title: BIGWAF
     product_description: dvě vafle, slanina, šunka, cheddar, baby špenát, rukola,
@@ -60,17 +60,17 @@ categories:
     product_title: EGGWAF
     product_description: sázená vajíčka, slanina, cheddar, baby špenát, cherry rajčátka,
       pažitka a kousky vaflí polité cheddarem
-    product_price: 139
+    product_price: 
   - product_image: "/assets/images/waf-wood-small.jpg"
     product_title: WAF&WOOD
     product_description: plněné kousky čokolády, lesní ovoce, javorový sirup, domácí
       šlehačka
-    product_price: 134
+    product_price: 
   - product_image: "/assets/images/cream-waf-small.jpg"
     product_title: CREAM&WAF
     product_description: plněné zakysanou smetanou, jahodama a cukrem, polité jahodovým
       topingem
-    product_price: 129
+    product_price: 
   - product_image: "/assets/images/avowaf-small.jpg"
     product_description: avokádová pomazánka, sázené vajíčko, baby špenát, rukola,
       cherry rajčátka, granátové jablko, semínka
