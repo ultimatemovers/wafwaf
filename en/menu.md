@@ -86,7 +86,7 @@ categories:
     product_title: Banana Milkshake
     product_description: milk, banana, vanilla ice cream, caramel topping, colored
       sprinkles, whipped cream
-    product_price: 129
+    product_price: 
   - product_image: "/assets/images/ss1.jpg"
     product_title: Strawberry Wafshake
     product_description: milk, strawberries, vanilla ice cream, strawberry topping,
@@ -96,13 +96,13 @@ categories:
     product_title: Banana Wafshake
     product_description: milk, banana, vanilla ice cream, caramel topping, colored
       sprinkles, whipped cream, waffles
-    product_price: 199
+    product_price: 
 - category_title: SPECIÁLNÍ NABÍDKA by HONZA VOREL
   products:
   - product_image: "/assets/images/halloumiwaf-small.jpg"
     product_title: HALOUMIWAF
     product_description: avocado spread, haloumi cheese, rocked salad, tomato
-    product_price: 164
+    product_price: 
   - product_image: "/assets/images/skywaf-small.jpg"
     product_title: SKYWAF
     product_description: waffles, salco topping, strawberries, lotus sprinkles and
