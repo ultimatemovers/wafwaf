@@ -7,16 +7,16 @@ categories:
   - product_image: "/assets/images/chocowaf-small.jpg"
     product_title: CHOCOWAF
     product_description: vanilla topping, caramel topping, raspberries, nuts
-    product_price: 159
-  - product_price: 164
+    product_price: 
+  - product_price: 
     product_image: "/assets/images/4.jpg"
     product_title: WAFTELLA
     product_description: nutella, oreo, strawberries, raspberries, mascarpone
   - product_image: "/assets/images/wafreo-small.jpg"
     product_title: WAFREO
     product_description: strawberries, nutella, oreo, homemade whipped cream
-    product_price: 164
-  - product_price: 159
+    product_price: 
+  - product_price: 
     product_image: "/assets/images/pearwaf-small.jpg"
     product_title: PEARWAF
     product_description: glazed pears, cini minis, chocolate pieces, maple syrup,
