@@ -1,5 +1,10 @@
 {% assign current_page = 'about' %}
-{% assign page_title = 'Náš příběh' %}
+{% assign pageUrl = page.path | split: "/" %}
+{% if pageUrl.first == 'en' %}
+  {% assign page_title = 'About' %}
+{% else %}
+  {% assign page_title = 'Náš příběh' %}
+{% endif %}
 
 {% include head.html %}
 

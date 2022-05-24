@@ -1,5 +1,10 @@
 {% assign current_page = 'franchising' %}
-{% assign page_title = 'Franchise' %}
+{% assign pageUrl = page.path | split: "/" %}
+{% if pageUrl.first == 'en' %}
+  {% assign page_title = 'Franchising' %}
+{% else %}
+  {% assign page_title = 'Franchise' %}
+{% endif %}
 
 {% include head.html %}
 

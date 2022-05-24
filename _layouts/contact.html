@@ -1,5 +1,10 @@
 {% assign current_page = 'contact' %}
-{% assign page_title = 'Kontakty' %}
+{% assign pageUrl = page.path | split: "/" %}
+{% if pageUrl.first == 'en' %}
+  {% assign page_title = 'Contact' %}
+{% else %}
+  {% assign page_title = 'Kontakty' %}
+{% endif %}
 {% assign pageUrl = page.path | split: "/" %}
 
 {% include head.html %}
