@@ -125,6 +125,6 @@ categories:
   - product_image: "/assets/images/dalgonwaf-small.jpg"
     product_title: DALGONWAF
     product_description: coffee cream, milk, ice
-    product_price: 89
+    product_price: 
 
 ---
