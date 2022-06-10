@@ -17,6 +17,8 @@
       <div class="w-full sm:w-1/3 flex flex-col mb-12 sm:mb-0 reveal-footer">
         {% if pageUrl.first == 'en' %}
           <div class="footer-title">Follow us!</div>
+        {% elsif pageUrl.first == 'hr' %}
+          <div class="footer-title">Pratite nas!</div>
         {% else %}
           <div class="footer-title">Sleduj nás!</div>
         {% endif %}
@@ -24,6 +26,8 @@
         <div class="footer-body">
           {% if pageUrl.first == 'en' %}
             <div>Taste our products as soon as we prepare it for you.</div>
+          {% elsif pageUrl.first == 'hr' %}
+            <div>Isprobajte nase proizvode čim ih pripremimo za vas.</div>
           {% else %}
             <div>Ochutnejte naše novinky hned, jak je pro vás připravíme.</div>
           {% endif %}
@@ -43,6 +47,8 @@
       <div class="w-full sm:w-1/3 flex flex-col mb-12 sm:mb-0 reveal-footer">
         {% if pageUrl.first == 'en' %}
           <div class="footer-title">Connect with us!</div>
+        {% elsif pageUrl.first == 'hr' %}
+          <div class="footer-title">Povezite se sa nama!</div>
         {% else %}
           <div class="footer-title">Spoj se s námi!</div>
         {% endif %}
@@ -50,6 +56,8 @@
         <div class="footer-body mb-6">
           {% if pageUrl.first == 'en' %}
             <div>Join us and be the first to have the latest news at your fingertips!</div>
+          {% elsif pageUrl.first == 'hr' %}
+            <div>Pridruzite nam se da i budite privi koji cete dobiti najnovije vesti!</div>
           {% else %}
             <div>Přidejte se k nám a mějte nejnovější novinky jako první na dosah!</div>
           {% endif %}
