@@ -5,6 +5,18 @@ admin_path: admin-editor
 webhook_url: 
 sections:
 - type: heading
+  label: English
+- type: directory
+  path: en
+  label: Pages
+  create: all
+  match: "**/*"
+- type: directory
+  path: en/_posts
+  label: Posts
+  create: all
+  match: "**/*"
+- type: heading
   label: Croatian
 - type: directory
   path: hr
