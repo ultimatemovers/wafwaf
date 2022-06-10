@@ -1,5 +1,5 @@
 ---
-big_title: WAF-WAF ofer
+big_title: waf-waf OFFER
 layout: menu
 categories:
 - category_title: SWEET
