@@ -187,4 +187,5 @@ fields:
   default: " jak se tam dostanu"
 pages:
 - en/locations.md
+- en/locations.md
 - naše-pobočky.md

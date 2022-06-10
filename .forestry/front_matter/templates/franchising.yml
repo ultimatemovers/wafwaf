@@ -190,4 +190,5 @@ fields:
   default: franchising
 pages:
 - en/franchising.md
+- en/franchising.md
 - franchise.md

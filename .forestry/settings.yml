@@ -36,11 +36,6 @@ sections:
 - type: jekyll-pages
   label: Pages
   create: all
-- type: directory
-  path: en/_posts
-  label: en-posts
-  create: all
-  match: "**/*"
 upload_dir: assets/images
 public_path: "/assets/images"
 front_matter_path: ''

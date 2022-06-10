@@ -70,5 +70,6 @@ fields:
   default: '08:00 - 21:00'
 pages:
 - en/index.md
+- en/index.md
 - homepage.md
 - index.md

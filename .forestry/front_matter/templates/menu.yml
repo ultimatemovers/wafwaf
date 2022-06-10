@@ -69,4 +69,5 @@ fields:
   default: menu
 pages:
 - en/menu.md
+- en/menu.md
 - menu.md

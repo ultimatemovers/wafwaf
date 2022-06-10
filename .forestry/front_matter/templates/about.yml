@@ -161,4 +161,5 @@ fields:
   default: about
 pages:
 - en/about.md
+- en/about.md
 - náš-příběh.md

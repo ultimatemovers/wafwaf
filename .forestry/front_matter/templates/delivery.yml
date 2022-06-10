@@ -108,4 +108,5 @@ fields:
   default: DAME JIDLO
 pages:
 - en/delivery.md
+- en/delivery.md
 - rozvoz.md
