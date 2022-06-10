@@ -1,5 +1,5 @@
 ---
-big_title: WAF-WAF OFFER
+big_title: WAF-WAF ofer
 layout: menu
 categories:
 - category_title: SWEET
@@ -55,21 +55,21 @@ categories:
     product_title: EGGWAF
     product_description: fried eggs, bacon, cheddar, baby spinach, cherry tomatoes,
       chives and pieces of waffles topped with cheddar
-    product_price: 139
+    product_price: "139"
   - product_image: "/assets/images/waf-wood-small.jpg"
     product_title: WAF&WOOD
     product_description: stuffed pieces of chocolate, forest fruits, maple syrup,
       homemade whipped cream
-    product_price: 134
+    product_price: "134"
   - product_image: "/assets/images/cream-waf-small.jpg"
     product_title: CREAM&WAF
     product_description: stuffed with sour cream, strawberries and sugar, topped with
       strawberry topping
-    product_price: 129
+    product_price: "129"
   - product_image: "/assets/images/avowaf-small.jpg"
     product_description: avocado spread, fried egg, baby spinach,rocket salad, cherry
       tomatoes, pomegranate seeds
-    product_price: 134
+    product_price: "134"
     product_title: AVOWAF
 - category_title: MILKSHAKES
   products:
