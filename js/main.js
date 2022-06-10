@@ -157,6 +157,83 @@
       }
     })  
   }
+  if(location.pathname.split('/')[1] === 'hr'){
+    menuItems.forEach((m,idx) => {      
+      if(idx === 0 || idx === 8) {
+        m.setAttribute('href', '/hr')
+        if(m.classList.contains('btn-zoom-in-out')){
+          m.innerHTML = 'Početna'
+        }
+        if(m.children[0] && m.children[0].classList.contains('nav-mobile-item')){
+          m.children[0].innerHTML = 'Početna'
+        }
+      }
+      if(idx === 1 || idx === 9) {
+        m.setAttribute('href', '/hr/locations')
+        if(m.classList.contains('btn-zoom-in-out')){
+          m.innerHTML = 'Lokacije'
+        }
+        if(m.children[0] && m.children[0].classList.contains('nav-mobile-item')){
+          m.children[0].innerHTML = 'Lokacije'
+        }
+      }
+      if(idx === 2 || idx === 10) {
+        m.setAttribute('href', '/hr/menu')
+        if(m.classList.contains('btn-zoom-in-out')){
+          m.innerHTML = 'Menu'
+        }
+        if(m.children[0] && m.children[0].classList.contains('nav-mobile-item')){
+          m.children[0].innerHTML = 'Menu'
+        }
+      }
+      if(idx === 3 || idx === 11){
+        m.setAttribute('href', '/hr/franchising')
+        if(m.classList.contains('btn-zoom-in-out')){
+          m.innerHTML = 'Franšize'
+        }
+        if(m.children[0] && m.children[0].classList.contains('nav-mobile-item')){
+          m.children[0].innerHTML = 'Franšize'
+        }
+      }
+      if(idx === 4 || idx === 12){
+        m.setAttribute('href', '/hr/about')
+        if(m.classList.contains('btn-zoom-in-out')){
+          m.innerHTML = 'O nama'
+        }
+        if(m.children[0] && m.children[0].classList.contains('nav-mobile-item')){
+          m.children[0].innerHTML = 'O nama'
+        }
+      }
+      if(idx === 5 || idx === 13){
+        m.setAttribute('href', '/hr/contact')
+        if(m.classList.contains('btn-zoom-in-out')){
+          m.innerHTML = 'Kontakt'
+        }
+        if(m.children[0] && m.children[0].classList.contains('nav-mobile-item')){
+          m.children[0].innerHTML = 'Kontakt'
+        }
+      }
+      if(idx === 6 || idx === 14){
+        m.setAttribute('href', '/hr/jobs')
+        if(m.classList.contains('btn-zoom-in-out')){
+          m.innerHTML = 'Poslovi'
+        }
+        if(m.children[0] && m.children[0].classList.contains('nav-mobile-item')){
+          m.children[0].innerHTML = 'Poslovi'
+        }
+      }
+      if(idx === 7 || idx === 15){
+        m.setAttribute('href', '/hr/delivery')
+        if(m.classList.contains('btn-zoom-in-out')){
+          m.innerHTML = 'Dostava'
+        }
+        if(m.children[0] && m.children[0].classList.contains('nav-mobile-item')){
+          m.children[0].innerHTML = 'Dostava'
+        }
+        
+      }
+    })  
+  }
 
   menuItems.forEach((m, idx) => {
     const menuUrl = m.getAttribute('href').replaceAll('/', '')
@@ -185,42 +262,63 @@
         if(cl.id === 'cz'){
           const currentPath = location.pathname.replaceAll('/', '')
 
-          if(currentPath === 'en')
+          if(currentPath === 'en' || currentPath === 'hr')
             location.href = location.origin + "/"
-          if(currentPath === 'enlocations')
+          if(currentPath === 'enlocations' || currentPath === 'hrlocations')
             location.href = location.origin + "/na%C5%A1e-pobo%C4%8Dky" 
-          if(currentPath === 'enmenu')
+          if(currentPath === 'enmenu' || currentPath === 'hrmenu')
             location.href = location.origin + "/menu" 
-            if(currentPath === 'enfranchising')
+            if(currentPath === 'enfranchising' || currentPath === 'hrfranchising')
             location.href = location.origin + "/franchise" 
-          if(currentPath === 'enabout')
+          if(currentPath === 'enabout' || currentPath === 'hrabout')
             location.href = location.origin + "/n%C3%A1%C5%A1-p%C5%99%C3%ADb%C4%9Bh" 
-          if(currentPath === 'encontact')
+          if(currentPath === 'encontact' || currentPath === 'hrcontact')
             location.href = location.origin + "/kontakty" 
-          if(currentPath === 'enjobs')
+          if(currentPath === 'enjobs' || currentPath === 'hrjobs')
             location.href = location.origin + "/p%C5%99idej-se" 
-          if(currentPath === 'endelivery')
+          if(currentPath === 'endelivery' || currentPath === 'hrdelivery')
             location.href = location.origin + "/rozvoz" 
         }
         if(cl.id === 'en'){
           const currentPath = location.pathname.replaceAll('/', '')
           
-          if(currentPath === '')
+          if(currentPath === '' || currentPath === 'hr')
             location.href = location.origin + "/en/" 
-          if(currentPath === 'na%C5%A1e-pobo%C4%8Dky')
+          if(currentPath === 'na%C5%A1e-pobo%C4%8Dky' || currentPath === 'hrlocations')
             location.href = location.origin + "/en/locations" 
-          if(currentPath === 'menu')
+          if(currentPath === 'menu' || currentPath === 'hrmenu')
             location.href = location.origin + "/en/menu" 
-          if(currentPath === 'franchise')
+          if(currentPath === 'franchise' || currentPath === 'hrfranchising')
             location.href = location.origin + "/en/franchising" 
-          if(currentPath === 'n%C3%A1%C5%A1-p%C5%99%C3%ADb%C4%9Bh')
+          if(currentPath === 'n%C3%A1%C5%A1-p%C5%99%C3%ADb%C4%9Bh' || currentPath === 'hrabout')
             location.href = location.origin + "/en/about" 
-          if(currentPath === 'kontakty')
+          if(currentPath === 'kontakty' || currentPath === 'hrcontact')
             location.href = location.origin + "/en/contact" 
-          if(currentPath === 'p%C5%99idej-se')
+          if(currentPath === 'p%C5%99idej-se' || currentPath === 'hrjobs')
             location.href = location.origin + "/en/jobs" 
-          if(currentPath === 'rozvoz')
+          if(currentPath === 'rozvoz' || currentPath === 'hrdelivery')
             location.href = location.origin + "/en/delivery" 
+        }
+        if(cl.id === 'hr'){
+          const currentPath = location.pathname.replaceAll('/', '')
+          console.log(currentPath)
+          
+          if(currentPath === '' || currentPath === 'en')
+            location.href = location.origin + "/hr/" 
+          if(currentPath === 'na%C5%A1e-pobo%C4%8Dky' || currentPath === 'enlocations')
+            location.href = location.origin + "/hr/locations" 
+          if(currentPath === 'menu' || currentPath === 'enmenu')
+            location.href = location.origin + "/hr/menu" 
+          if(currentPath === 'franchise' || currentPath === 'enfranchising')
+            location.href = location.origin + "/hr/franchising" 
+          if(currentPath === 'n%C3%A1%C5%A1-p%C5%99%C3%ADb%C4%9Bh' || currentPath === 'enabout')
+            location.href = location.origin + "/hr/about" 
+          if(currentPath === 'kontakty' || currentPath === 'encontact')
+            location.href = location.origin + "/hr/contact" 
+          if(currentPath === 'p%C5%99idej-se' || currentPath === 'enjobs')
+            location.href = location.origin + "/hr/jobs" 
+          if(currentPath === 'rozvoz' || currentPath === 'endelivery')
+            location.href = location.origin + "/hr/delivery" 
         }
       })
     })

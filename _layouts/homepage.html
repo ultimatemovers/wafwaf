@@ -37,6 +37,8 @@
       
       {% if pageUrl.first == 'en' %}
         {% assign posts = site.categories.en %} 
+      {% elsif pageUrl.first == 'hr' %}
+        {% assign posts = site.categories.hr %}
       {% else %}
         {% assign posts = site.categories.cz %}
       {% endif %}
