@@ -46,10 +46,12 @@
   <h2 class="h2 text-center sm:text-left">{{ page.delivery_text }} <br> {{ page.delivery_time }} </h2>
   <div class="w-4/5 sm:w-1/5 mx-auto mb-8 my-8 sm:mb-24">
     {% if pageUrl.first == 'en' %}
-        <a href="/en/delivery" class="black-btn mt-12 block btn-zoom-in-out">
-      {% else %}
-        <a href="/rozvoz" class="black-btn mt-12 block btn-zoom-in-out">
-      {% endif %}
+      <a href="/en/delivery" class="black-btn mt-12 block btn-zoom-in-out">
+    {% elsif pageUrl.first == 'hr' %}
+      <a href="/hr/delivery" class="black-btn mt-12 block btn-zoom-in-out">
+    {% else %}
+      <a href="/rozvoz" class="black-btn mt-12 block btn-zoom-in-out">
+    {% endif %}
         {{ page.delivery_button }} 
       </a>
     </a>
