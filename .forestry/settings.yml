@@ -7,8 +7,13 @@ sections:
 - type: heading
   label: Croatian
 - type: directory
+  path: hr
+  label: Pages
+  create: all
+  match: "**/*"
+- type: directory
   path: hr/_posts
-  label: hr-posts
+  label: Posts
   create: all
   match: "**/*"
 - type: heading
