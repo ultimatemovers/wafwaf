@@ -19,17 +19,17 @@ fields:
   - name: products
     type: field_group_list
     fields:
+    - name: product_title
+      type: text
+      config:
+        required: false
+      label: Product title
     - name: product_image
       type: file
       config:
         maxSize: 64
       label: Product image
       description: Image size must be 1:1
-    - name: product_title
-      type: text
-      config:
-        required: false
-      label: Product title
     - name: product_description
       type: textarea
       default: ''
