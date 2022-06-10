@@ -5,6 +5,13 @@ admin_path: admin-editor
 webhook_url: 
 sections:
 - type: heading
+  label: Croatian
+- type: directory
+  path: hr/_posts
+  label: hr-posts
+  create: all
+  match: "**/*"
+- type: heading
   label: Content
 - type: jekyll-posts
   label: Posts
@@ -15,11 +22,6 @@ sections:
 - type: directory
   path: en/_posts
   label: en-posts
-  create: all
-  match: "**/*"
-- type: directory
-  path: hr/_posts
-  label: hr-posts
   create: all
   match: "**/*"
 upload_dir: assets/images
