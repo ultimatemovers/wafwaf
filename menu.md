@@ -4,9 +4,9 @@ layout: menu
 categories:
 - category_title: SLADKÉ
   products:
-  - product_image: "/assets/images/chocowaf-small.jpg"
-    product_title: CHOCOWAF
-    product_description: vanilková poleva, karamelový toping, maliny, oříšky
+  - product_image: "/assets/images/cocowaf-2022.png"
+    product_title: COCOWAF
+    product_description: vanilková poleva, karamelový toping, maliny, kokos
     product_price: 
   - product_price: 
     product_image: "/assets/images/4.jpg"
