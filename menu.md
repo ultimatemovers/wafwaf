@@ -81,7 +81,7 @@ categories:
     product_title: Jahodový Milkshake
     product_description: mléko, jahody, vanilková zmrzlina, jahodový toping, šlehačka
     product_price: 
-  - product_image: "/assets/images/s1.jpg"
+  - product_image: "/assets/images/milkshake-bananovy-2022.jpg"
     product_title: Banánový Milkshake
     product_description: mléko, banán, vanilková zmrzlina, karamelový toping, barevné
       posypky, šlehačka
