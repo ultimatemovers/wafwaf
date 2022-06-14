@@ -80,7 +80,7 @@ categories:
     product_title: AVOWAF
 - category_title: NÁPOJE & MILKSHAKES
   products:
-  - product_image: "/assets/images/s2.jpg"
+  - product_image: "/assets/images/milkshake-jahodovy2022.jpg"
     product_title: Jahodový Milkshake
     product_description: mléko, jahody, vanilková zmrzlina, jahodový toping, šlehačka
     product_price: 
