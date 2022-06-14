@@ -62,16 +62,6 @@ categories:
     product_description: sázená vajíčka, slanina, cheddar, baby špenát, cherry rajčátka,
       pažitka a kousky vaflí polité cheddarem
     product_price: 
-  - product_image: "/assets/images/waf-wood-small.jpg"
-    product_title: WAF&WOOD
-    product_description: plněné kousky čokolády, lesní ovoce, javorový sirup, domácí
-      šlehačka
-    product_price: 
-  - product_image: "/assets/images/cream-waf-small.jpg"
-    product_title: CREAM&WAF
-    product_description: plněné zakysanou smetanou, jahodama a cukrem, polité jahodovým
-      topingem
-    product_price: 
   - product_image: "/assets/images/avowaf-small.jpg"
     product_description: avokádová pomazánka, sázené vajíčko, baby špenát, rukola,
       cherry rajčátka, granátové jablko, semínka
@@ -79,6 +69,14 @@ categories:
     product_title: AVOWAF
 - category_title: NÁPOJE & MILKSHAKES
   products:
+  - product_title: Ice-Tea
+    product_image: "/assets/images/icetea2022-2.jpg"
+    product_description: ledový čaj
+    product_price: 
+  - product_title: Citronáda
+    product_image: "/assets/images/citronada2022-2.jpg"
+    product_description: domácí citronáda s mátou
+    product_price: 0
   - product_image: "/assets/images/milkshake-jahodovy2022.jpg"
     product_title: Jahodový Milkshake
     product_description: mléko, jahody, vanilková zmrzlina, jahodový toping, šlehačka
