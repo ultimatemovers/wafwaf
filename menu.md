@@ -121,33 +121,5 @@ categories:
     product_description: mléko, banán, vanilková zmrzlina, karamelový toping, barevné
       posypky, šlehačka, vafle
     product_price: 
-- category_title: SPECIÁLNÍ NABÍDKA by HONZA VOREL
-  products:
-  - product_image: "/assets/images/halloumiwaf-small.jpg"
-    product_title: HALOUMIWAF
-    product_description: avokádová pomazánka, haloumi sýr, rukola, rajče
-    product_price: 
-  - product_image: "/assets/images/skywaf-small.jpg"
-    product_title: SKYWAF
-    product_description: vafle, salko toping, jahody, lotus posyp a sušenka
-    product_price: 
-  - product_image: "/assets/images/purplesmoothie-small.jpg"
-    product_title: WAF&SMOOTHIE PURPLE
-    product_description: borůvky, banán, kiwi, med
-    product_price: 
-- category_title: WAF-WAF GIRLS
-  products:
-  - product_image: "/assets/images/wafchick-small.jpg"
-    product_title: WAFCHICK
-    product_description: vafle, maxi kuřecí strips, salát, okurka, majonéza
-    product_price: 
-  - product_image: "/assets/images/friedwaf-small.jpg"
-    product_title: FRIEDWAF
-    product_description: smažená palačinka, kuřecí maso, gouda, špenát, kukuřice
-    product_price: 
-  - product_image: "/assets/images/dalgonwaf-small.jpg"
-    product_title: DALGONWAF
-    product_description: kávový krém, mléko, led
-    product_price: 
 
 ---
