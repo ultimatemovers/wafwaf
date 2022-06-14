@@ -6,8 +6,7 @@ categories:
   products:
   - product_title: CAKEWAF
     product_image: "/assets/images/cake-waf-2022.jpg"
-    product_description: Lívance, tvarohový krém, karamelový toping, borůvky, banán,
-      jahoda
+    product_description: tvarohový krém, karamelový toping, borůvky, banán, jahoda
     product_price: 
   - product_image: "/assets/images/cocowaf-2022.jpg"
     product_title: COCOWAF
