@@ -81,10 +81,6 @@ categories:
     product_title: AVOWAF
 - category_title: NÁPOJE & MILKSHAKES
   products:
-  - product_title: DALGONWAF
-    product_image: "/assets/images/dalgonwaf-small.jpg"
-    product_description: kávový krém, mléko, led
-    product_price: 
   - product_title: Ice-Tea
     product_image: "/assets/images/icetea2022-2.jpg"
     product_description: ledový čaj s limetkou
@@ -92,6 +88,14 @@ categories:
   - product_title: Citronáda
     product_image: "/assets/images/citronada2022-2.jpg"
     product_description: domácí citronáda s mátou
+    product_price: 
+  - product_title: DALGONWAF
+    product_image: "/assets/images/dalgonwaf-small.jpg"
+    product_description: kávový krém, mléko, led
+    product_price: 
+  - product_title: WAF & SMOOTHIE PURPLE
+    product_image: "/assets/images/purplesmoothie-small.jpg"
+    product_description: borůvky, banán, kiwi, med
     product_price: 
   - product_image: "/assets/images/milkshake-jahodovy2022.jpg"
     product_title: Jahodový Milkshake
