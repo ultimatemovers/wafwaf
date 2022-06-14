@@ -4,6 +4,11 @@ layout: menu
 categories:
 - category_title: SLADKÉ
   products:
+  - product_title: CAKEWAF
+    product_image: "/assets/images/cake-waf-2022.jpg"
+    product_description: Lívance, tvarohový krém, karamelový toping, borůvky, banán,
+      jahoda
+    product_price: 
   - product_image: "/assets/images/cocowaf-2022.jpg"
     product_title: COCOWAF
     product_description: vanilková poleva, karamelový toping, maliny, kokos
