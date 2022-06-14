@@ -31,6 +31,10 @@ categories:
     product_price: 
 - category_title: SLANÉ
   products:
+  - product_title: WAFCHICK
+    product_image: "/assets/images/wafchick-small.jpg"
+    product_description: vafle, maxi kuřecí strips, salát, okurka, majonéza
+    product_price: 
   - product_image: "/assets/images/maplewaf2022-2.jpg"
     product_title: MAPLEWAF
     product_description: vajíčko, slanina, cheddarová omáčka, rukola, rajče, javorový
