@@ -4,6 +4,10 @@ layout: menu
 categories:
 - category_title: SLADKÉ
   products:
+  - product_title: SKYWAF
+    product_image: "/assets/images/skywaf-small.jpg"
+    product_description: vafle, salko toping, jahody, lotus posyp a sušenka
+    product_price: 
   - product_title: CAKEWAF
     product_image: "/assets/images/cake-waf-2022.jpg"
     product_description: tvarohový krém, karamelový toping, borůvky, banán, jahoda
