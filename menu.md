@@ -51,10 +51,10 @@ categories:
     product_description: kuřecí maso, cheddar, baby špenát, rajčatový dip, zakysaná
       smetana
     product_price: 
-  - product_image: "/assets/images/3.jpg"
+  - product_image: "/assets/images/big-waf-2022.jpg"
     product_title: BIGWAF
-    product_description: dvě vafle, slanina, šunka, cheddar, baby špenát, rukola,
-      rajčata, majonéza, kečup
+    product_description: dvě vafle, slanina, šunka, cheddarová omáčka, baby špenát,
+      rukola, rajčata, majonéza, kečup
     product_price: 
 - category_title: SNÍDANĚ
   products:
