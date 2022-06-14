@@ -31,9 +31,9 @@ categories:
     product_price: 
 - category_title: SLANÉ
   products:
-  - product_title: WAFCHICK
-    product_image: "/assets/images/wafchick-small.jpg"
-    product_description: vafle, maxi kuřecí strips, salát, okurka, majonéza
+  - product_title: HALLOUMIWAF
+    product_image: "/assets/images/halloumiwaf-small.jpg"
+    product_description: avokádová pomazánka, haloumi sýr, rukola, rajče
     product_price: 
   - product_image: "/assets/images/maplewaf2022-2.jpg"
     product_title: MAPLEWAF
@@ -48,6 +48,10 @@ categories:
   - product_image: "/assets/images/ironwaf2022-2.jpg"
     product_title: IRONWAF
     product_description: vajíčko, slanina, cheddarová omáčka, rukola
+    product_price: 
+  - product_title: WAFCHICK
+    product_image: "/assets/images/wafchick-small.jpg"
+    product_description: vafle, maxi kuřecí strips, salát, okurka, majonéza
     product_price: 
   - product_image: "/assets/images/crepedilla2022-2.jpg"
     product_title: CREPEDILLA
