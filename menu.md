@@ -32,9 +32,10 @@ categories:
     product_price: 
 - category_title: SLANÉ
   products:
-  - product_image: "/assets/images/maplewaf-small.jpg"
+  - product_image: "/assets/images/maplewaf2022-2.jpg"
     product_title: MAPLEWAF
-    product_description: vajíčko, slanina, cheddar, rukola, rajče, javorový sirup
+    product_description: vajíčko, slanina, cheddarová omáčka, rukola, rajče, javorový
+      sirup
     product_price: 
   - product_image: "/assets/images/beefwaf-small.jpg"
     product_title: BEEFWAF
