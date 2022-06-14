@@ -9,7 +9,7 @@ categories:
     product_description: vanilková poleva, karamelový toping, maliny, kokos
     product_price: 
   - product_price: 
-    product_image: "/assets/images/4.jpg"
+    product_image: "/assets/images/waftella-2022.jpg"
     product_title: WAFTELLA
     product_description: nutella, oreo, jahody, maliny, mascarpone
   - product_image: "/assets/images/wafreo-small.jpg"
