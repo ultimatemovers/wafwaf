@@ -97,9 +97,9 @@ categories:
     product_image: "/assets/images/dalgonwaf-small.jpg"
     product_description: kávový krém, mléko, led
     product_price: 
-  - product_title: WAF & SMOOTHIE PURPLE
-    product_image: "/assets/images/purplesmoothie-small.jpg"
-    product_description: borůvky, banán, kiwi, med
+  - product_title: WAFRAPE
+    product_image: "/assets/images/wafrappe2022.jpg"
+    product_description: ledová káva s vanilkovou zmrzlinou, šlehačka, lotus posyp
     product_price: 
   - product_image: "/assets/images/milkshake-jahodovy2022.jpg"
     product_title: Jahodový Milkshake
@@ -120,6 +120,10 @@ categories:
     product_title: Banánový Wafshake
     product_description: mléko, banán, vanilková zmrzlina, karamelový toping, barevné
       posypky, šlehačka, vafle
+    product_price: 
+  - product_title: WAF & SMOOTHIE PURPLE
+    product_image: "/assets/images/purplesmoothie-small.jpg"
+    product_description: borůvky, banán, kiwi, med
     product_price: 
 
 ---
