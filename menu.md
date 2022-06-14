@@ -76,7 +76,7 @@ categories:
   - product_title: Citronáda
     product_image: "/assets/images/citronada2022-2.jpg"
     product_description: domácí citronáda s mátou
-    product_price: 0
+    product_price: 
   - product_image: "/assets/images/milkshake-jahodovy2022.jpg"
     product_title: Jahodový Milkshake
     product_description: mléko, jahody, vanilková zmrzlina, jahodový toping, šlehačka
@@ -91,7 +91,7 @@ categories:
     product_description: mléko, jahody, vanilková zmrzlina, jahodový toping, šlehačka,
       vafle
     product_price: 
-  - product_image: "/assets/images/ss3.jpg"
+  - product_image: "/assets/images/wafshake-bananovy-2022.jpg"
     product_title: Banánový Wafshake
     product_description: mléko, banán, vanilková zmrzlina, karamelový toping, barevné
       posypky, šlehačka, vafle
