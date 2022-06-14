@@ -46,7 +46,7 @@ categories:
     product_title: IRONWAF
     product_description: vajíčko, slanina, cheddarová omáčka, rukola
     product_price: 
-  - product_image: "/assets/images/crepedilla-small.jpg"
+  - product_image: "/assets/images/crepedilla2022-2.jpg"
     product_title: CREPEDILLA
     product_description: kuřecí maso, cheddar, baby špenát, rajčatový dip, zakysaná
       smetana
