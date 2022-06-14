@@ -71,7 +71,7 @@ categories:
   products:
   - product_title: Ice-Tea
     product_image: "/assets/images/icetea2022-2.jpg"
-    product_description: ledový čaj
+    product_description: ledový čaj s limetkou
     product_price: 
   - product_title: Citronáda
     product_image: "/assets/images/citronada2022-2.jpg"
@@ -79,7 +79,8 @@ categories:
     product_price: 
   - product_image: "/assets/images/milkshake-jahodovy2022.jpg"
     product_title: Jahodový Milkshake
-    product_description: mléko, jahody, vanilková zmrzlina, jahodový toping, šlehačka
+    product_description: mléko, jahody, vanilková zmrzlina, jahodový toping, barevné
+      posypky, šlehačka
     product_price: 
   - product_image: "/assets/images/milkshake-bananovy-2022.jpg"
     product_title: Banánový Milkshake
