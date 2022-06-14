@@ -89,8 +89,8 @@ categories:
     product_price: 
   - product_image: "/assets/images/wafshake-jahodovy-2022.jpg"
     product_title: Jahodový Wafshake
-    product_description: mléko, jahody, vanilková zmrzlina, jahodový toping, šlehačka,
-      vafle
+    product_description: mléko, jahody, vanilková zmrzlina, jahodový toping, barevné
+      posypky, šlehačka, vafle
     product_price: 
   - product_image: "/assets/images/wafshake-bananovy-2022.jpg"
     product_title: Banánový Wafshake
