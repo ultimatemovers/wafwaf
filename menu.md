@@ -101,7 +101,7 @@ categories:
     product_image: "/assets/images/dalgonwaf-small.jpg"
     product_description: kávový krém, mléko, led
     product_price: 
-  - product_title: WAFRAPE
+  - product_title: WAFRAPPE
     product_image: "/assets/images/wafrappe2022.jpg"
     product_description: ledová káva s vanilkovou zmrzlinou, šlehačka, lotus posyp
     product_price: 
