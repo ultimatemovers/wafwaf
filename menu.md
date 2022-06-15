@@ -29,7 +29,7 @@ categories:
     product_title: PEARWAF
     product_description: glazované hrušky, cini minis, čokoládové kousky, javorový
       sirup, domácí šlehačka
-  - product_image: "/assets/images/wafcut-2022.jpg"
+  - product_image: "/assets/images/wafcut.jpg"
     product_title: WAF&CUT
     product_description: 'vafle nakrájena na kousky, posypané skořicovým cukrem, nutella '
     product_price: 
