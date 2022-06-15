@@ -4,6 +4,10 @@ layout: menu
 categories:
 - category_title: SLADKÉ
   products:
+  - product_title: CREAMWAF
+    product_image: "/assets/images/cream-waf-small.jpg"
+    product_description: 'jahody, zakysaná smetana, jahodový toping, '
+    product_price: 
   - product_title: SKYWAF
     product_image: "/assets/images/skywaf-small.jpg"
     product_description: vafle, salko toping, jahody, lotus posyp a sušenka
