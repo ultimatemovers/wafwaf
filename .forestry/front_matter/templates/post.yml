@@ -52,3 +52,5 @@ fields:
     display_utc: false
   hidden: true
   default: now
+pages:
+- cz/_posts/stan-se-soucasti-tymu-waf-waf.md
