@@ -13,6 +13,13 @@ sections:
   label: Posts
   create: all
 - type: heading
+  label: Czech Posts
+- type: directory
+  path: en/_posts
+  label: Posts
+  create: all
+  match: "**/*"
+- type: heading
   label: English
 - type: directory
   path: en
