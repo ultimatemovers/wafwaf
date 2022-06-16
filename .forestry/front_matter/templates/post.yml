@@ -52,5 +52,3 @@ fields:
     display_utc: false
   hidden: true
   default: now
-pages:
-- cz/_posts/test-en.md
