@@ -29,12 +29,13 @@ categories:
   products:
   - product_image: "/assets/images/maplewaf-small.jpg"
     product_title: MAPLEWAF
-    product_description: jaja, slanina, sir cheddar, rukola, rajčice, javorov sirup
+    product_description: jaja, slanina, topljeni cheddar sir, rukola, rajčice, javorov
+      sirup
     product_price: 
   - product_image: "/assets/images/beefwaf-small.jpg"
     product_title: BEEFWAF
-    product_description: trgana govedina, topljeni cheddar, rajčice, luk, zelena salata,
-      brusnice
+    product_description: trgana govedina, topljeni cheddar sir, rajčice, luk, zelena
+      salata, brusnice
     product_price: 
   - product_image: "/assets/images/ironwaf-small.jpg"
     product_title: IRONWAF
