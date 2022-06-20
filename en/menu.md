@@ -84,8 +84,12 @@ categories:
       tomatoes, pomegranate seeds
     product_price: 134
     product_title: AVOWAF
-- category_title: MILKSHAKES
+- category_title: MILKSHAKES & DRINKS
   products:
+  - product_title: Wafsmoothie Purple
+    product_image: "/assets/images/purplesmoothie-small.jpg"
+    product_description: blueberries, banana, kiwi, honey
+    product_price: 
   - product_image: "/assets/images/s2.jpg"
     product_title: Strawberry Milkshake
     product_description: milk, strawberries, vanilla ice cream, strawberry topping,
@@ -108,11 +112,6 @@ categories:
     product_price: 
 - category_title: CHEF MENU by HONZA VOREL
   products:
-  - product_image: "/assets/images/skywaf-small.jpg"
-    product_title: SKYWAF
-    product_description: waffles, salco topping, strawberries, lotus sprinkles and
-      biscuit
-    product_price: 
   - product_image: "/assets/images/purplesmoothie-small.jpg"
     product_title: WAF&SMOOTHIE PURPLE
     product_description: blueberries, banana, kiwi, honey
