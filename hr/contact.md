@@ -26,10 +26,10 @@ contact_information:
 - title: Mediji i poslovni kontakt
   content: 'Pitanja menadzmentu tvrtke uputite na e-mail: [jonas@waf-waf.cz] (mailto:
     jonas@waf-waf.cz)'
-- title: Would you like to have a celebration or teambuilding at Waf-Waf?
-  content: 'Would you like to have a birthday party, a bachelor party, a corporate
-    event or a presentation or rent the whole space straight away within our branches?
-    Contact us by e-mail: [provoz@waf-waf.cz] (mailto: provoz@waf-waf.cz)'
+- title: Želite li imati proslavu ili teambuilding u Waf-Waf-u?
+  content: 'Želite li imati rođendan, djevojačku večer, korporativni događaj, prezentaciju
+    ili odmah unajmiti cijeli prostor u našim poslovnicama? Kontaktirajte nas putem
+    e-pošte: [provoz@waf-waf.cz] (mailto: provoz@waf-waf.cz)'
 - title: Opening hours and contact for the job offer
   content: |-
     If you are interested in the opening hours of individual branches, then visit the tab:
