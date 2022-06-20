@@ -15,16 +15,16 @@ concept:
     ovom konceptu kupci imaju gotovo neograničen broj kombinacija, a Tvrtka je u mogućnosti
     privući širok raspon potrošača.
 - icon: "/uploads/2021/07/26/path-1125.svg"
-  title: Waf-Waf as a lovebrand
-  description: Thanks to its focus on quality workmanship and unique decoration, Waf-Waf
-    is very popular, especially with the young generation, who like to take pictures
-    of food and share it on social networks, which helps the Company to create effective
-    viral campaigns. In order to further support this customer involvement in marketing,
-    the Company began cooperating with well-known Czech influencers, who promote the
-    Waf-Waf brand among their wide fan base. The success of this strategy can already
-    be seen today in the large number of the Company's fans on social networks, when
-    it has over 57,000 +  on its social networks. fans. Waf-Waf has thus become a
-    so-called "lovebrand", where its customers become part of the whole concept.
+  title: Waf-Waf kao lovebrand
+  description: Zahvaljujući fokusu na kvalitetnu izradu i unikatnu dekoraciju, Waf-Waf
+    je vrlo popularan, posebno među mladima, koji vole slikati hranu i dijeliti je
+    na društvenim mrežama, što pomaže tvrtki u kreiranju učinkovitih viralnih kampanja.
+    Kako bi dodatno podržali ovaj angažman kupaca u marketingu, tvrtka je započela
+    suradnju s poznatim češkim influencerima, koji promoviraju brend Waf-Waf među
+    svojim širokim fanovima. Uspješnost ove strategije vidljiva je već danas u velikom
+    broju fanova tvrtke na društvenim mrežama, gdje ih ima preko 57.000.  Waf-Waf
+    je tako postao takozvani "lovebrand", gdje njegovi kupci postaju dio cjelokupnog
+    koncepta.
 - icon: "/uploads/2021/07/26/group-2186.svg"
   title: Growth potential
   description: Waf-Waf has managed to build a successful brand out of an innovative
