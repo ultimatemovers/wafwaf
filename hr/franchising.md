@@ -139,17 +139,17 @@ faq:
     investicija može biti znatno manja ili čak veća.
 - question: Koju lokaciju preporučate za poslovnicu Waf-Waf?
   answer: U gradovima s više od 50.000 stanovnika i u svojim glavnim mjestima.
-- question: Do I have to buy supplies directly from you?
-  answer: What specific inventory you need to buy from our company is included in
-    the franchise agreement. Some are needed to shop directly and some through our
-    business partners.
-- question: Do I need experience to start a Waf-Waf franchise?
-  answer: There is no need for experience if there is determination, motivation. In
-    any case, experience is certainly welcome, and such candidates will have a certain
-    advantage of faster integration within the business itself.
-- question: How can I take care of marketing during the opening of a Waf-Waf branch?
-  answer: As part of simple marketing activities, you will be trained, for example,
-    to manage your own social media or sites that evaluate your business.
+- question: Moram li kupiti zalihe izravno od vas?
+  answer: Neke konkretne zalihe je potrebno kupovati o nase tvrtke, a neke od nasih
+    poslovnih partnera, sve je specificirano u ugovoru o franšizi.
+- question: Trebam li iskustvo za pokretanje Waf-Waf franšize?
+  answer: Nema potrebe za iskustvom ako postoji odlučnost, motivacija. U svakom slučaju,
+    iskustvo je svakako dobrodošlo, a takvi će kandidati imati određenu prednost u
+    bržoj integraciji unutar samog poslovanja.
+- question: Kako se mogu pobrinuti za marketing tijekom otvaranja poslovnice Waf-Waf?
+  answer: Kao dio jednostavnih marketinških aktivnosti, bit ćete osposobljeni, na
+    primjer, za upravljanje vlastitim društvenim mrežama ili stranicama koje ocjenjuju
+    vaše poslovanje.
 - question: How fast is the return on investment(ROI)?
   answer: Again, it depends on the size of the branch and the capacity of the branch
     or its recommended location. In any case, we expect about 1 year for a smaller
