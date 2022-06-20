@@ -27,11 +27,10 @@ categories:
     product_description: strawberries, nutella, oreo, homemade whipped cream
     product_price: 
   - product_price: 
-    product_image: "/assets/images/pearwaf-small.jpg"
+    product_image: "/assets/images/pearwaf-2022.jpg"
     product_title: PEARWAF
-    product_description: glazed pears, cini minis, chocolate pieces, maple syrup,
-      homemade whipped cream
-  - product_image: "/assets/images/2.png"
+    product_description: glazed pears, cini minis, chocolate pieces, caramel topping,
+  - product_image: "/assets/images/wafcut.jpg"
     product_title: WAF&CUT
     product_description: waffles cut into pieces, sprinkled with cinnamon sugar, nutella
     product_price: 
