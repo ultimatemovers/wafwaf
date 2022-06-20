@@ -86,6 +86,10 @@ categories:
     product_title: AVOWAF
 - category_title: MILKSHAKES & DRINKS
   products:
+  - product_title: Dalgonwaf
+    product_image: "/assets/images/dalgonwaf-small.jpg"
+    product_description: coffee cream, milk, ice
+    product_price: 
   - product_title: Ice-Tea
     product_image: "/assets/images/icetea2022-2.jpg"
     product_description: ice-tea
@@ -118,12 +122,6 @@ categories:
     product_description: milk, banana, vanilla ice cream, caramel topping, colored
       sprinkles, whipped cream, waffles
     product_price: 
-- category_title: CHEF MENU by HONZA VOREL
-  products:
-  - product_image: "/assets/images/purplesmoothie-small.jpg"
-    product_title: WAF&SMOOTHIE PURPLE
-    product_description: blueberries, banana, kiwi, honey
-    product_price: 
 - category_title: WAF-WAF GIRLS
   products:
   - product_image: "/assets/images/wafchick-small.jpg"
@@ -133,10 +131,6 @@ categories:
   - product_image: "/assets/images/friedwaf-small.jpg"
     product_title: FRIEDWAF
     product_description: fried pancake, chicken, gouda, spinach, corn
-    product_price: 
-  - product_image: "/assets/images/dalgonwaf-small.jpg"
-    product_title: DALGONWAF
-    product_description: coffee cream, milk, ice
     product_price: 
 
 ---
