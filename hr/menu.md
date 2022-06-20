@@ -98,8 +98,8 @@ categories:
     product_price: 
   - product_image: "/assets/images/skywaf-small.jpg"
     product_title: SKYWAF
-    product_description: waffles, salco topping, strawberries, lotus sprinkles and
-      biscuit
+    product_description: waffle, salko preljev, jagode, posip od lotus keksa, lotus
+      keks
     product_price: 
   - product_image: "/assets/images/purplesmoothie-small.jpg"
     product_title: WAF&SMOOTHIE PURPLE
