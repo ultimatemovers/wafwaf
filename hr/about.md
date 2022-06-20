@@ -27,9 +27,9 @@ right_section:
     možemo priuštiti stalno i jedinstveno novo iskustvo.
 proccess:
 - image: "/uploads/2021/07/27/group-55760.svg"
-  name: Choose from our menu at MenuBoard x Make your own according to the flyer
+  name: Birajte s našeg jelovnika na MenuBoardu x Napravite sami svoju prema letku
 - image: "/uploads/2021/07/27/group-45860.svg"
-  name: Complete the order with the staff and you will receive a pager
+  name: Dovršite narudžbu s osobljem i dobit ćete dojavljivač
 - image: "/uploads/2021/07/27/group-45862.svg"
   name: Wait for the pager to ring
 - image: "/uploads/2021/07/27/group-45866.svg"
