@@ -82,43 +82,43 @@ accordions:
     Volja za treningom, želja za promjenom
 
     Iskustvo u restoranu (nije uvjet)
-- title: INITIAL INVESTMENT REQUIRED
+- title: POTREBNA POČETNA ULAGANJA
   description: |-
-    ** INITIAL INVESTMENT **
+    ** POČETNO ULAGANJE **
 
-    Entrance fee: 30.000,00 EUR
+    Ulazni fee: 30.000,00 EUR
 
-    Deposit: 20.000,00 EUR
+    Depozit: 20.000,00 EUR
 
-    Investment: Purchase price approx. 70.000,00 EUR - 240.000,00 EUR Depending on the type of operation selected
+    Investicija:  70.000,00 EUR - 240.000,00 EUR - ovisno o tipu i izboru poslovnice te koncepta
 
-    Staff training
+    Trening osoblja
 
-    Initial costs + Reserve
+    Početni troškovi + Rezerva
 
-    For the year 2021/2022, we offer the possibility of negotiating within the offered entry conditions, the so-called CovidDiscount.
+    Za 2021./2022. godinu nudimo mogućnost pregovaranja u okviru ponuđenih uvjeta ulaska u odnos, tzv. CovidPopust.
 
-    **MONTHLY FEES**
+    **MJESEČNE NAKNADE**
 
-    Franchise fee: 12% of sales
+    Naknada za franšizu: 12% od prodaje
 
-    **OPERATING COSTS**
+    **POSLOVNI TROŠKOVI**
 
-    Rent and energy
+    Najam i energija
 
-    Salary and personnel costs
+    Plaća i troškovi osoblja
 
-    Raw materials, packaging and logistics
+    Sirovine, ambalaža i logistika
 
-    Marketing within and around the establishment
+    Marketing unutar i van poslovnice
 
-    IT and Systems
+    IT i Sustavi
 
-    Establishment control mechanisms
+    Kontrolni mehanizmi poslovnice
 
-    Other operating, overhead and financial expenses
+    Ostali operativni, varijabilni i financijski troškovi
 
-    The contract is concluded for a period of 5 years. Return on investment can be achieved within 12-24 months.
+    Ugovor se sklapa na period od 5 godina. Povrat ulaganja može se postići u roku od 12-24 mjeseca.
 layout: franchising
 faq_title: FAQ FOR FRANCHISE BRANCH
 faq:
