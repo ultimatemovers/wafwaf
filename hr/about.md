@@ -13,19 +13,18 @@ first_section:
 right_section:
   left_image: "/assets/images/20200109_095611000_ios.jpg"
   first_icon: "/uploads/2021/07/27/group-8064.svg"
-  first_title: More than 50 ingredients
-  first_content: Thanks to sophisticated marketing, Waf-Waf and the products themselves
-    became a hit both within the public and on social networks after only a few days.
-    Our virality and uniqueness lies in the combination of the concept of choosing
-    the pancakes and waffles or pancakes, where it is possible to assemble these things
-    of your choice from more than 50 ingredients, as well as decorating that goes
-    beyond established global standards.
+  first_title: Više od 50 sastojaka
+  first_content: Zahvaljujući naprednom i dobrom marketingu, Waf-Waf i sami proizvodi
+    nakon samo nekoliko dana postali su hit kako u javnosti tako i na društvenim mrežama.
+    Naša viralnost i posebnost leži u kombinaciji koncepta odabira palačinki, wafla
+    ili američkih palačinki, gdje je moguće sastaviti ove stvari po svom izboru od
+    više od 50 sastojaka, kao i dekoracije koje nadilazi utvrđene svjetske standarde.
   first_image: "/assets/images/20190730_093653032_ios.jpg"
   second_icon: "/uploads/2021/07/27/group-8065.svg"
-  second_title: Original products
-  second_content: The offer is extended by our original products, which cannot be
-    found anywhere else. Thanks to a special offer that changes quarterly, we can
-    treat our customers to a constant and unique new experience.
+  second_title: Originalni proizvodi
+  second_content: Ponuda je proširena našim originalnim proizvodima, kojih nema nigdje
+    drugdje. Zahvaljujući posebnoj ponudi koja se mijenja tromjesečno, svojim klijentima
+    možemo priuštiti stalno i jedinstveno novo iskustvo.
 proccess:
 - image: "/uploads/2021/07/27/group-55760.svg"
   name: Choose from our menu at MenuBoard x Make your own according to the flyer
