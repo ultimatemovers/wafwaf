@@ -33,8 +33,8 @@ categories:
     product_price: 
   - product_image: "/assets/images/beefwaf-small.jpg"
     product_title: BEEFWAF
-    product_description: shredded beef, cheddar sauce, grilled tomatoes, onions, salad,
-      cranberries
+    product_description: trgana govedina, topljeni cheddar, rajčice, luk, zelena salata,
+      brusnice
     product_price: 
   - product_image: "/assets/images/ironwaf-small.jpg"
     product_title: IRONWAF
