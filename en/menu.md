@@ -90,15 +90,15 @@ categories:
     product_title: AVOWAF
 - category_title: MILKSHAKES & DRINKS
   products:
-  - product_title: Ice-Tea
+  - product_title: ICE-TEA
     product_image: "/assets/images/icetea2022-2.jpg"
     product_description: ice-tea
     product_price: 
-  - product_title: 'Lemonade '
+  - product_title: LEMONADE
     product_image: "/assets/images/citronada2022-2.jpg"
     product_description: homemade lemonade
     product_price: 
-  - product_title: Wafrappe
+  - product_title: WAFRAPPE
     product_image: "/assets/images/wafrappe2022.jpg"
     product_description: vanilla ice, coffee, homemade whipped cream, lotus
     product_price: 
