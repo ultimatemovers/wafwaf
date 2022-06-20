@@ -23,7 +23,7 @@ categories:
       sirup, domaći šlag
   - product_image: "/assets/images/2.png"
     product_title: WAF&CUT
-    product_description: waffles cut into pieces, sprinkled with cinnamon sugar, nutella
+    product_description: narezani komadići wafle, posip od cimetovog šećera, nutella
     product_price: 
 - category_title: SAVORY
   products:
