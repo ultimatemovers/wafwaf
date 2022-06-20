@@ -37,7 +37,7 @@ concept:
 stores:
 - image: "/assets/images/20111231_230000000_ios-103-modified.png"
   description: " "
-  title: Branch in Shopping Mall (80 – 180m2)
+  title: Poslovnica u trgovačkom centru (80 – 180m2)
 - image: "/assets/images/waf-waf-ipak-misto-te-fotky-s-ruzovou-kytkou-mala-fotka-v-uvodnim-ramecku.jpg"
   description: " "
   title: High street concept – (60m2 – 150m2)
