@@ -50,7 +50,8 @@ categories:
     product_price: 
   - product_image: "/assets/images/maplewaf2022-2.jpg"
     product_title: MAPLEWAF
-    product_description: egg, bacon, cheddar, rocket salad, tomato, maple syrup
+    product_description: egg, bacon, cheddar topping, rocket salad, tomato, maple
+      syrup
     product_price: 
   - product_image: "/assets/images/beef-waf-2022.jpg"
     product_title: BEEFWAF
@@ -63,12 +64,12 @@ categories:
     product_price: 
   - product_image: "/assets/images/crepedilla2022-2.jpg"
     product_title: CREPEDILLA
-    product_description: chicken, cheddar, baby spinach, tomato dip, sour cream
+    product_description: chicken, cheddar topping, baby spinach, sour cream
     product_price: 
-  - product_image: "/assets/images/3.jpg"
+  - product_image: "/assets/images/big-waf-2022.jpg"
     product_title: BIGWAF
-    product_description: two waffles, bacon, ham, cheddar, baby spinach, rocked salad,
-      tomatoes, mayonnaise, ketchup
+    product_description: two waffles, bacon, ham, cheddar topping, baby spinach, rocked
+      salad, tomatoes, mayonnaise, ketchup
     product_price: 
 - category_title: BREAKFEST
   products:
