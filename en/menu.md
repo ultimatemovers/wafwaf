@@ -86,6 +86,14 @@ categories:
     product_title: AVOWAF
 - category_title: MILKSHAKES & DRINKS
   products:
+  - product_title: Ice-Tea
+    product_image: "/assets/images/icetea2022-2.jpg"
+    product_description: ice-tea
+    product_price: 
+  - product_title: 'Lemonade '
+    product_image: "/assets/images/citronada2022-2.jpg"
+    product_description: homemade lemonade
+    product_price: 
   - product_title: Wafsmoothie Purple
     product_image: "/assets/images/purplesmoothie-small.jpg"
     product_description: blueberries, banana, kiwi, honey
