@@ -49,7 +49,7 @@ categories:
   - product_image: "/assets/images/3.jpg"
     product_title: BIGWAF
     product_description: dvije waffle, slanina, šunka, topljeni cheddar sir, baby
-      špinat, rukola, rajčica, majoneza, kečap
+      špinat, rukola, rajčica, majoneza, kečap, jaja na oko
     product_price: 
 - category_title: DORUČAK
   products:
