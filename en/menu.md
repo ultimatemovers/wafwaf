@@ -27,6 +27,10 @@ categories:
     product_price: 
 - category_title: SAVORY
   products:
+  - product_title: Halloumiwaf
+    product_image: "/assets/images/halloumiwaf-small.jpg"
+    product_description: avocado spread, haloumi cheese, rocked salad, tomato
+    product_price: 
   - product_image: "/assets/images/maplewaf-small.jpg"
     product_title: MAPLEWAF
     product_description: egg, bacon, cheddar, rocket salad, tomato, maple syrup
