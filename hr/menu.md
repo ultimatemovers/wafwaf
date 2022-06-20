@@ -86,9 +86,9 @@ categories:
       šlag, waffle
     product_price: 
   - product_image: "/assets/images/ss3.jpg"
-    product_title: Banana Wafshake
-    product_description: milk, banana, vanilla ice cream, caramel topping, colored
-      sprinkles, whipped cream, waffles
+    product_title: Wafshake od banane
+    product_description: mlijeko, banana, sladoled od vanilije, preljev od karamele,
+      šareni posip, šlag, waffle
     product_price: 
 - category_title: CHEF MENU by HONZA VOREL
   products:
