@@ -14,12 +14,12 @@ categories:
     product_description: waffles, salco topping, strawberries, lotus sprinkles and
       biscuit
     product_price: 
-  - product_image: "/assets/images/chocowaf-small.jpg"
-    product_title: CHOCOWAF
-    product_description: vanilla topping, caramel topping, raspberries, nuts
+  - product_image: "/assets/images/cocowaf-2022.jpg"
+    product_title: COCOWAF
+    product_description: vanilla topping, caramel topping, raspberries, cocoa
     product_price: 
   - product_price: 
-    product_image: "/assets/images/4.jpg"
+    product_image: "/assets/images/waftella-2022.jpg"
     product_title: WAFTELLA
     product_description: nutella, oreo, strawberries, raspberries, mascarpone
   - product_image: "/assets/images/wafreo-small.jpg"
