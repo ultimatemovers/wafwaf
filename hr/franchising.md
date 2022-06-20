@@ -156,12 +156,11 @@ faq:
     15-30 mjeseci, ovisno o više faktora.
 - question: Kolika je vaša mjesečna naknada koju moram platiti?
   answer: Mjesečna naknada iznosi 12%.
-- question: Is it necessary to pay a deposit?
-  answer: Yes, the deposit is EUR 20.000,00 and is refundable upon termination of
-    the franchise agreement.
-- question: Do I need to pay a license fee?
-  answer: Yes, the license fee, which includes the rights to use the complete Waf-Waf
-    brand and the rights to use it, is EUR 30.000,00 + VAT.
+- question: Je li potrebno uplatiti depozit?
+  answer: Da, depozit iznosi 20.000,00 EUR i vraća se nakon raskida ugovora o franšizi.
+- question: Trebam li platiti naknadu za licencu?
+  answer: Da, licenčna naknada, koja uključuje prava na korištenje cjelokupnog brenda
+    Waf-Waf i prava na njegovo korištenje, iznosi 30.000,00 EUR + PDV.
 mam_zajem: https://docs.google.com/forms/d/1iMidmc9xHbVnVLZVh6d6yE7hliv2U6I_DqN5lSW_3vI/prefill
 after_faq:
 - title: OWN ESTABLISHMENTS
