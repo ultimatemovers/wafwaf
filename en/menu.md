@@ -115,12 +115,12 @@ categories:
     product_image: "/assets/images/purplesmoothie-small.jpg"
     product_description: blueberries, banana, kiwi, honey
     product_price: 
-  - product_image: "/assets/images/s2.jpg"
+  - product_image: "/assets/images/milkshake-jahodovy2022.jpg"
     product_title: Strawberry Milkshake
     product_description: milk, strawberries, vanilla ice cream, strawberry topping,
       whipped cream
     product_price: 
-  - product_image: "/assets/images/s1.jpg"
+  - product_image: "/assets/images/milkshake-bananovy-2022.jpg"
     product_title: Banana Milkshake
     product_description: milk, banana, vanilla ice cream, caramel topping, colored
       sprinkles, whipped cream
