@@ -58,11 +58,6 @@ categories:
     product_description: jaja na oko, slanina, topljeni cheddar sir, baby špinat,
       cherry rajčice, vlasac, komadi waffle preliveni topljenim chedarr sirom
     product_price: "139"
-  - product_image: "/assets/images/waf-wood-small.jpg"
-    product_title: WAF&WOOD
-    product_description: stuffed pieces of chocolate, forest fruits, maple syrup,
-      homemade whipped cream
-    product_price: "134"
   - product_image: "/assets/images/cream-waf-small.jpg"
     product_title: CREAM&WAF
     product_description: stuffed with sour cream, strawberries and sugar, topped with
