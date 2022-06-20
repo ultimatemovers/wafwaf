@@ -59,9 +59,11 @@ locations:
 
     Ponedjeljak – Nedjelja: 09:00 - 21:00
 
-    Kontaktni telefon: + 420 725 745 898
+    Kontakt:
 
-    Kontaktni email: palladium@waf-waf.cz
+     telefon: + 420 725 745 898
+
+    email: palladium@waf-waf.cz
   location_description: Lokacija poslovnice je na +2 katu u OC Palladium u sklopu
     restorana. U ovoj poslovnici možete uživati ​​u hrani na licu mjesta ili pakirati
     proizvode sa sobom. Djevojke će naše proizvode zapakirati u lijepo pakiranje i
