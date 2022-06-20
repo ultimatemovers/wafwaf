@@ -125,12 +125,12 @@ categories:
     product_description: milk, banana, vanilla ice cream, caramel topping, colored
       sprinkles, whipped cream
     product_price: 
-  - product_image: "/assets/images/ss1.jpg"
+  - product_image: "/assets/images/wafshake-jahodovy-2022.jpg"
     product_title: Strawberry Wafshake
     product_description: milk, strawberries, vanilla ice cream, strawberry topping,
       whipped cream, waffles
     product_price: 
-  - product_image: "/assets/images/ss3.jpg"
+  - product_image: "/assets/images/wafshake-bananovy-2022.jpg"
     product_title: Banana Wafshake
     product_description: milk, banana, vanilla ice cream, caramel topping, colored
       sprinkles, whipped cream, waffles
