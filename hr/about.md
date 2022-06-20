@@ -33,7 +33,7 @@ proccess:
 - image: "/uploads/2021/07/27/group-45862.svg"
   name: Pričekajte da pejdžer zazvoni
 - image: "/uploads/2021/07/27/group-45866.svg"
-  name: Come with a pager for order and enjoy your meal
+  name: Dođite s pejdžerom po narudžbu i uživajte u obroku
 bud_u_toho: "/en/franchising"
 layout: about
 subtitle: ''
