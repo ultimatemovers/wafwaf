@@ -64,8 +64,8 @@ categories:
       strawberry topping
     product_price: "129"
   - product_image: "/assets/images/avowaf-small.jpg"
-    product_description: avocado spread, fried egg, baby spinach,rocket salad, cherry
-      tomatoes, pomegranate seeds
+    product_description: krema od avokada, jaje na oko, baby špinat, rukola, cherry
+      rajčice, bobice šipka
     product_price: "134"
     product_title: AVOWAF
 - category_title: MILKSHAKES
