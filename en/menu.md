@@ -4,6 +4,10 @@ layout: menu
 categories:
 - category_title: SWEET
   products:
+  - product_title: Skywaf
+    product_image: "/assets/images/skywaf-small.jpg"
+    product_description: ''
+    product_price: 
   - product_image: "/assets/images/chocowaf-small.jpg"
     product_title: CHOCOWAF
     product_description: vanilla topping, caramel topping, raspberries, nuts
@@ -27,6 +31,10 @@ categories:
     product_price: 
 - category_title: SAVORY
   products:
+  - product_title: ''
+    product_image: ''
+    product_description: ''
+    product_price: 
   - product_title: Halloumiwaf
     product_image: "/assets/images/halloumiwaf-small.jpg"
     product_description: avocado spread, haloumi cheese, rocked salad, tomato
@@ -99,10 +107,6 @@ categories:
     product_price: 
 - category_title: CHEF MENU by HONZA VOREL
   products:
-  - product_image: "/assets/images/halloumiwaf-small.jpg"
-    product_title: HALOUMIWAF
-    product_description: avocado spread, haloumi cheese, rocked salad, tomato
-    product_price: 
   - product_image: "/assets/images/skywaf-small.jpg"
     product_title: SKYWAF
     product_description: waffles, salco topping, strawberries, lotus sprinkles and
