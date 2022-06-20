@@ -6,7 +6,8 @@ categories:
   products:
   - product_title: Skywaf
     product_image: "/assets/images/skywaf-small.jpg"
-    product_description: ''
+    product_description: waffles, salco topping, strawberries, lotus sprinkles and
+      biscuit
     product_price: 
   - product_image: "/assets/images/chocowaf-small.jpg"
     product_title: CHOCOWAF
