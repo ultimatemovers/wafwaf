@@ -170,7 +170,7 @@ after_faq:
     Prague 2 - I.P.Pavlova
 
     Prague 1 - OC Palladium
-- title: FRANCHISE ESTABLISHMENTS
+- title: FRANŠIZNE POSLOVNICE
   content: Brno - OC Špalíček
 - title: LOCATIONS
   content: 'Ostrava, Plzeň, Liberec, Hradec Králové, Brno, Ústí nad Labem, České Budějovice
