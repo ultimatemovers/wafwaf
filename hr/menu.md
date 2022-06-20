@@ -14,7 +14,7 @@ categories:
     product_description: nutella, oreo, jagode, maline, sir mascarpone
   - product_image: "/assets/images/wafreo-small.jpg"
     product_title: WAFREO
-    product_description: strawberries, nutella, oreo, homemade whipped cream
+    product_description: jagode, nutella, oreo, domaći šlag
     product_price: 
   - product_price: 
     product_image: "/assets/images/pearwaf-small.jpg"
