@@ -1,20 +1,19 @@
 ---
 hero_image: "/assets/images/franchising-uvodni-fotka-nerozmazana.jpg"
-big_title: Franchising
-subtitle: Strategic pillars of the company
-second_subtitle: So you want an original brand and become a business partner of a
-  fast growing company?
+big_title: Franšizing
+subtitle: Strateški stupovi tvrtke
+second_subtitle: Dakle, želite originalan brend i postati poslovni partner brzorastuće
+  tvrtke?
 concept:
 - icon: "/uploads/2021/07/26/group-2184.svg"
-  title: Innovative concept
-  description: The uniqueness of Waf-Waf lies primarily in the innovative concept
-    of preparing waffles, pancakes and american pancakes. The concept allows customers
-    to put together their own product with the help of dozens of salty and sweet ingredients,
-    which the trained staff then freshly prepares right in front of them. After a
-    few minutes, the decorated waffle or pancake is ready and the customer can eat
-    it either in the restaurant or take it with them. Thanks to this concept, customers
-    have an almost unlimited number of combinations, and the Company is able to attract
-    a wide range of consumers.
+  title: Inovativni koncept
+  description: Jedinstvenost Waf-Waf-a prvenstveno je u inovativnom konceptu pripreme
+    wafli, palačinki i američkih palačinki. Koncept omogućuje kupcima da slože vlastiti
+    proizvod uz pomoć desetaka slanih i slatkih sastojaka koje educirano osoblje potom
+    svježe priprema pred njima. Nakon nekoliko minuta, ukrašeni wafle ili palačinke
+    su gotove i kupac ih može pojesti u restoranu ili ponijeti sa sobom. Zahvaljujući
+    ovom konceptu kupci imaju gotovo neograničen broj kombinacija, a Tvrtka je u mogućnosti
+    privući širok raspon potrošača.
 - icon: "/uploads/2021/07/26/path-1125.svg"
   title: Waf-Waf as a lovebrand
   description: Thanks to its focus on quality workmanship and unique decoration, Waf-Waf
