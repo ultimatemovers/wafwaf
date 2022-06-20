@@ -10,7 +10,7 @@ jobs:
   job_description: |-
     \** Što te čeka u Waf-Waf-u: **
 
-    Naš koncept se fokusira na proizvodnju vafla, palačinki i američkih palačinki ili milkshakea u vrlo originalnom konceptu. Naš glavni moto je #radostsvima i to ćemo očekivati ​​i od vas. Bilo da pripremate naše proizvode ili radite na blagajni i komunicirate s kupcima.
+    Naš koncept se fokusira na proizvodnju wafla, palačinki, američkih palačinki te milkshakea u vrlo originalnom konceptu. Naš glavni moto je #radostsvima i to ćemo očekivati ​​i od vas. Bilo da pripremate naše proizvode ili radite na blagajni i komunicirate s kupcima.
 
     \** Koga tražimo u Waf-Waf-u: **
 
@@ -33,12 +33,12 @@ jobs:
     mogućnost konzumacije proizvoda iz naše ponude
 
     Možete poslati Vaš CV na email: \[jonas@waf-waf.cz\] ()
-- job_title: Waf-Waf branch manager up to CZK 33 000 (HPP)
-  job_location: Prague
+- job_title: Voditelj Waf-Waf poslovnice do 33 000 CZK  (HPP)
+  job_location: Prag
   job_description: |-
-    \** What awaits you at Waf-Waf: **
+    \** Što vas čeka u Waf-Waf-u: **
 
-    Our concept focuses on the production of waffles, pancakes and american pancakes or a milkshake in a very original concept. Our main motto is #joyforall and we will expect that from you as well.
+    Naš koncept se fokusira na proizvodnju wafla, palačinki, američkih palačinki te milkshakea u vrlo originalnom konceptu. Naš glavni moto je #radostsvima i to ćemo očekivati ​​i od vas.
 
     \** Who we are looking for in Waf-Waf: **
 
