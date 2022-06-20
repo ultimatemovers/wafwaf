@@ -104,6 +104,8 @@ locations:
     Petak - Subota - 08:00 - 22:00 + dostava i za ponijeti - 22:00 - 02:00
     Nedjelja: 08:00 - 21:00
 
+    Kontakt:
+
      telefon: +420 725 344 097
 
      email: ipak@waf-waf.cz
