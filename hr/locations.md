@@ -1,5 +1,5 @@
 ---
-locations_title: Our branches
+locations_title: Naše poslovnice
 hero_image: "/uploads/2021/08/16/20111231_230000000_ios-103.png"
 locations:
 - local_image: "/assets/images/deniel-65_1.jpg"
@@ -191,7 +191,7 @@ locations:
   damejidlo_url: https://www.damejidlo.cz/restaurant/b5cn/waf-waf-3
   location_gmaps_url: https://g.page/wafwafbrnospalicek?share
 layout: locations
-contact_us_button: Contact us
-delivery_button: How can i get there
+contact_us_button: Kontaktirajte nas
+delivery_button: Kako doći do nas
 
 ---
