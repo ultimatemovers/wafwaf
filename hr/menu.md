@@ -25,11 +25,11 @@ categories:
     product_title: WAF&CUT
     product_description: narezani komadići wafle, posip od cimetovog šećera, nutella
     product_price: 
-- category_title: SAVORY
+- category_title: SLANE
   products:
   - product_image: "/assets/images/maplewaf-small.jpg"
     product_title: MAPLEWAF
-    product_description: egg, bacon, cheddar, rocket salad, tomato, maple syrup
+    product_description: jaja, slanina, sir cheddar, rukola, rajčice, javorov sirup
     product_price: 
   - product_image: "/assets/images/beefwaf-small.jpg"
     product_title: BEEFWAF
