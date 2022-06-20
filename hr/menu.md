@@ -29,8 +29,8 @@ categories:
   products:
   - product_image: "/assets/images/maplewaf-small.jpg"
     product_title: MAPLEWAF
-    product_description: jaja, slanina, topljeni cheddar sir, rukola, rajčice, javorov
-      sirup
+    product_description: jaje na oko, slanina, topljeni cheddar sir, rukola, rajčice,
+      javorov sirup
     product_price: 
   - product_image: "/assets/images/beefwaf-small.jpg"
     product_title: BEEFWAF
