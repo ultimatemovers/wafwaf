@@ -1,6 +1,6 @@
 ---
 big_title: WAF-WAF PONUDA
-layout: ponuda
+layout: menu
 categories:
 - category_title: SWEET
   products:
