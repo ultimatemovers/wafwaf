@@ -34,7 +34,7 @@ categories:
   products:
   - product_title: Friedwaf
     product_image: "/assets/images/friedwaf-2022.jpg"
-    product_description: ''
+    product_description: fried pancake, chicken, gouda, spinach, corn
     product_price: 
   - product_title: Wafchick
     product_image: "/assets/images/wafchick-small.jpg"
@@ -127,14 +127,6 @@ categories:
       sprinkles, whipped cream, waffles
     product_price: 
 - category_title: WAF-WAF GIRLS
-  products:
-  - product_image: "/assets/images/wafchick-small.jpg"
-    product_title: WAFCHICK
-    product_description: waffles, maxi chicken strips, lettuce, cucumber, mayonnaise
-    product_price: 
-  - product_image: "/assets/images/friedwaf-small.jpg"
-    product_title: FRIEDWAF
-    product_description: fried pancake, chicken, gouda, spinach, corn
-    product_price: 
+  products: []
 
 ---
