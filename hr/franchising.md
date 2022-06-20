@@ -40,10 +40,10 @@ stores:
   title: Poslovnica u trgovačkom centru (80 – 180m2)
 - image: "/assets/images/waf-waf-ipak-misto-te-fotky-s-ruzovou-kytkou-mala-fotka-v-uvodnim-ramecku.jpg"
   description: " "
-  title: High street concept – (60m2 – 150m2)
+  title: High street koncept – (60m2 – 150m2)
 - image: "/assets/images/stand-concept.jpg"
   description: " "
-  title: Pop Up concept – (20 – 50m2)
+  title: Pop Up koncept – (20 – 50m2)
 third_subtitle: CONCEPT – WAF-WAF FRANCHISE
 accordions:
 - title: SUPPORT FOR FRANCHISANTS
