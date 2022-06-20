@@ -81,9 +81,9 @@ categories:
       šareni posip, šlag
     product_price: 
   - product_image: "/assets/images/ss1.jpg"
-    product_title: Strawberry Wafshake
-    product_description: milk, strawberries, vanilla ice cream, strawberry topping,
-      whipped cream, waffles
+    product_title: Wafshake od jagode
+    product_description: mlijeko, jagode, sladoled od vanilije, preljev od jagode,
+      šlag, waffle
     product_price: 
   - product_image: "/assets/images/ss3.jpg"
     product_title: Banana Wafshake
