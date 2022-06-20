@@ -50,7 +50,7 @@ jobs:
     nagrade, uključujući bonuse. Preduvjet je naporan rad i entuzijazam za naš brend.
     Zainteresirani smo za dugoročnu suradnju te za rast vaše plače kako se naša tvrtka
     bude širila. \n\n\\** Nadalje, uz zapošljenje nudimo: **\n\nradnu odjeću\nMultiSport
-    karticu\n\nYmožete poslati svoj CV na email: \\[jonas@waf-waf.cz\\] (mailto: jonas@waf-waf.cz)"
+    karticu\n\nMožete poslati Vaš CV na email: \\[jonas@waf-waf.cz\\] (mailto: jonas@waf-waf.cz)"
 - job_title: Usluga WAF-WAF do 130 CZK / sat  (nepuno radno vrijeme)
   job_location: Prag
   job_description: |-
@@ -74,7 +74,7 @@ jobs:
     * bonuse za zaposlenike mjeseca
     * Redovne TeamBuilding aktivnosti
 
-    You can send your CVs to email: \[jonas@waf-waf.cz\] (mailto: jonas@waf-waf.cz)
+    Možete poslati Vaš CV na email: \[jonas@waf-waf.cz\] (mailto: jonas@waf-waf.cz)
 - job_title: Service at Waf-Waf Brno with the possibility of career development (HPP)
   job_location: Brno
   job_description: "** Who we are looking for in Waf-Waf Brno: **\nNew young ambitious
