@@ -35,33 +35,22 @@ jobs:
     Možete poslati Vaš CV na email: \[jonas@waf-waf.cz\] ()
 - job_title: Voditelj Waf-Waf poslovnice do 33 000 CZK  (HPP)
   job_location: Prag
-  job_description: |-
-    \** Što vas čeka u Waf-Waf-u: **
-
-    Naš koncept se fokusira na proizvodnju wafla, palačinki, američkih palačinki te milkshakea u vrlo originalnom konceptu. Naš glavni moto je #radostsvima i to ćemo očekivati ​​i od vas.
-
-    \** Who we are looking for in Waf-Waf: **
-
-    A strong reinforcement of our team, which will be in charge of the management of our Prague branch thanks to the expansion of the Waf-Waf concept. We will expect a responsible and kind person who will benefit the whole society and will have a desire for personal and professional growth. Experience from a similar gastronomic operation is a great advantage.
-
-    \** You will be in charge of: **
-
-    * control of employee activities
-    * participation in product preparation
-    * leading your own team
-    * order settlement with suppliers
-    * motivation of your colleagues
-    * complete management of one of our branches
-
-    \** What we can offer you **
-
-    When working at HPP, we can offer you salary conditions of up to CZK 33 000 and other motivational evaluations, including bonuses. The prerequisite is hard work and enthusiasm for our brand. We are interested in long-term cooperation and also in the fact that your salary will grow, as well as our expanding company, there is also the possibility of further career growth.
-
-    \** Furthermore, after incorporation we offer: **
-    business clothes
-    MultiSport Card options
-
-    You can send your CVs to email: \[jonas@waf-waf.cz\] (mailto: jonas@waf-waf.cz)
+  job_description: "\\** Što vas čeka u Waf-Waf-u: **\n\nNaš koncept se fokusira na
+    proizvodnju wafla, palačinki, američkih palačinki te milkshakea u vrlo originalnom
+    konceptu. Naš glavni moto je #radostsvima i to ćemo očekivati ​​i od vas.\n\n\\**
+    Koga tražimo u Waf-Waf-u: **\n\nSnažno pojačanje našeg tima, koji će zahvaljujući
+    proširenju Waf-Waf koncepta biti zadužen za upravljanje našom praškom podružnicom.
+    Očekiujemo odgovornu i ljubaznu osobu koja će koristiti cijelom timu i koja će
+    imati želju za osobnim i profesionalnim rastom. Iskustvo u sličnom gastronomskom
+    poslu velika je prednost.\n\n\\** Biti ćete zaduženi za: **\n\n* kontrolu aktivnosti
+    zaposlenika\n* sudjelovanje u pripremi proizvoda\n* vođenje vlastitog tima\n*
+    obavljanje narudžbi s našim dobavljačima\n* motivaciju vaših kolega\n* kompletno
+    upravljanje jednom od naših poslovnica\n\n\\** Što Vam možemo ponuditi **\n\nZa
+    vrijeme rada na HPP možemo vam ponuditi uvjete plaće do 33 000 CZK i druge motivacijske
+    nagrade, uključujući bonuse. Preduvjet je naporan rad i entuzijazam za naš brend.
+    Zainteresirani smo za dugoročnu suradnju te za rast vaše plače kako se naša tvrtka
+    bude širila. \n\n\\** Nadalje, uz zapošljenje nudimo: **\n\nradnu odjeću\nMultiSport
+    karticu\n\nYmožete poslati svoj CV na email: \\[jonas@waf-waf.cz\\] (mailto: jonas@waf-waf.cz)"
 - job_title: WAF-WAF service up to 130 CZK / hour (part-time)
   job_location: Prague
   job_description: |-
