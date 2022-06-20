@@ -113,7 +113,7 @@ categories:
     product_price: 
   - product_image: "/assets/images/friedwaf-small.jpg"
     product_title: FRIEDWAF
-    product_description: fried pancake, chicken, gouda, spinach, corn
+    product_description: pohana palačinka, piletina, gouda sir, špinat, kukuruz
     product_price: 
   - product_image: "/assets/images/dalgonwaf-small.jpg"
     product_title: DALGONWAF
