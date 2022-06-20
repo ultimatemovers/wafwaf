@@ -73,15 +73,15 @@ accordions:
     Procjena vaše izvedbe i pronalaženje optimalnog rješenja
 
     Razvoj i pridržavanje standarda brenda
-- title: ESSENTIAL REQUIREMENTS
+- title: OSNOVNI ZAHTJEVI
   description: |-
-    Financial security (possibly by loan)
+    Financijsko osiguranje (moguće putem zajma)
 
-    Personal commitment
+    Osobna predanost
 
-    Willingness to train, willingness to change
+    Volja za treningom, želja za promjenom
 
-    Restaurant experience (not a requirement)
+    Iskustvo u restoranu (nije uvjet)
 - title: INITIAL INVESTMENT REQUIRED
   description: |-
     ** INITIAL INVESTMENT **
