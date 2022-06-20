@@ -11,7 +11,7 @@ categories:
   - product_price: 
     product_image: "/assets/images/4.jpg"
     product_title: WAFTELLA
-    product_description: nutella, oreo, strawberries, raspberries, mascarpone
+    product_description: nutella, oreo, jagode, maline, sir mascarpone
   - product_image: "/assets/images/wafreo-small.jpg"
     product_title: WAFREO
     product_description: strawberries, nutella, oreo, homemade whipped cream
