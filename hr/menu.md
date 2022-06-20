@@ -43,12 +43,13 @@ categories:
     product_price: 
   - product_image: "/assets/images/crepedilla-small.jpg"
     product_title: CREPEDILLA
-    product_description: chicken, cheddar, baby spinach, tomato dip, sour cream
+    product_description: piletina, topljeni cheddar sir, baby špinat, umak od rajčice,
+      vrhnje
     product_price: 
   - product_image: "/assets/images/3.jpg"
     product_title: BIGWAF
-    product_description: two waffles, bacon, ham, cheddar, baby spinach, rocked salad,
-      tomatoes, mayonnaise, ketchup
+    product_description: dvije waffle, slanina, šunka, topljeni cheddar sir, baby
+      špinat, rukola, rajčica, majoneza, kečap
     product_price: 
 - category_title: BREAKFEST
   products:
