@@ -30,13 +30,13 @@ contact_information:
   content: 'Želite li imati rođendan, djevojačku večer, korporativni događaj, prezentaciju
     ili odmah unajmiti cijeli prostor u našim poslovnicama? Kontaktirajte nas putem
     e-pošte: [provoz@waf-waf.cz] (mailto: provoz@waf-waf.cz)'
-- title: Opening hours and contact for the job offer
+- title: Radno vrijeme i kontakt za ponudu posla
   content: |-
-    If you are interested in the opening hours of individual branches, then visit the tab:
-      [Our branches] (# "nzm") on the other hand, if you are interested in working at Waf-Waf, you can visit the box: [vacancies] (#).
-delivery_text: Delivery every single day!
-delivery_button: Delivery
-instagram_title: Follow us on instagram
+    Ako vas zanima radno vrijeme pojedinih poslovnica, posjetite karticu:
+      [Naše poslovnice] (# "nzm") s druge strane, ako ste zainteresirani za rad u Waf-Waf-u, možete posjetiti okvir: [slobodna radna mjesta] (#).
+delivery_text: Dostava svaki dan!
+delivery_button: Dostava
+instagram_title: Pratite nas na instagramu
 delivery_time: '08:00 - 21:00'
 
 ---
