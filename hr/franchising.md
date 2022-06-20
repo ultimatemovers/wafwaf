@@ -137,8 +137,8 @@ faq:
   answer: Minimalna investicija će biti oko 70.000,00 EUR, a maksimalna 240.000,00
     EUR ovisno o veličini poslovnice i njezinoj pripremi za uredenje. Ovisno o tome
     investicija može biti znatno manja ili čak veća.
-- question: What location do you recommend for the Waf-Waf branch?
-  answer: In cities with more than 50,000 inhabitants and in its main places.
+- question: Koju lokaciju preporučate za poslovnicu Waf-Waf?
+  answer: U gradovima s više od 50.000 stanovnika i u svojim glavnim mjestima.
 - question: Do I have to buy supplies directly from you?
   answer: What specific inventory you need to buy from our company is included in
     the franchise agreement. Some are needed to shop directly and some through our
