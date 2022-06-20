@@ -4,6 +4,11 @@ layout: menu
 categories:
 - category_title: SWEET
   products:
+  - product_title: CREAMWAF
+    product_image: "/assets/images/cream-waf-small.jpg"
+    product_description: stuffed with sour cream, strawberries and sugar, topped with
+      strawberry topping
+    product_price: 
   - product_title: CAKEWAF
     product_image: "/assets/images/cake-waf-2022.jpg"
     product_description: cream, strawberries, blueberries, bananas, salty caramel
@@ -78,11 +83,6 @@ categories:
     product_description: fried eggs, bacon, cheddar, baby spinach, cherry tomatoes,
       chives and pieces of waffles topped with cheddar
     product_price: 139
-  - product_image: "/assets/images/waf-wood-small.jpg"
-    product_title: WAF&WOOD
-    product_description: stuffed pieces of chocolate, forest fruits, maple syrup,
-      homemade whipped cream
-    product_price: 134
   - product_image: "/assets/images/cream-waf-small.jpg"
     product_title: CREAM&WAF
     product_description: stuffed with sour cream, strawberries and sugar, topped with
