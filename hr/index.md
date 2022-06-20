@@ -1,10 +1,10 @@
 ---
-big_title: The best waffles!
-subtitle: Waf-Waf These are the best waffles, pancakes and american pancakes you have
-  had the opportunity to taste.
-breakfast: Have you already tasted our salty products?
+big_title: Najbolje wafle!
+subtitle: Waf-Waf ovo su najbolji wafle, palačinke i američke palačinke koje ste imali
+  prilike kušati.
+breakfast: Jeste li već kušali naše slane proizvode?
 breakfast_image: "/assets/images/img_1760-aerial.jpeg"
-delivery: Rozvážíme každý den od 08:00 do 21:00
+delivery: Dostavljamo svaki dan od 08:00 do 21:00
 layout: homepage
 hero_images:
 - "/assets/images/dsc_5358.JPG"
@@ -14,9 +14,9 @@ showcase_images:
 - "/uploads/2021/07/20/mask-group-133.png"
 - "/uploads/2021/07/20/mask-group-135.png"
 - "/uploads/2021/07/20/mask-group-134.png"
-delivery_text: 'Delivery every single day! '
-delivery_button: Order
-instagram_title: Follow us on Instagram
+delivery_text: 'Dostava svaki dan! '
+delivery_button: Narudžba
+instagram_title: Pratite nas na Instagramu
 delivery_time: '08:00 - 21:00'
 
 ---
