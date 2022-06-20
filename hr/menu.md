@@ -103,7 +103,7 @@ categories:
     product_price: 
   - product_image: "/assets/images/purplesmoothie-small.jpg"
     product_title: WAF&SMOOTHIE PURPLE
-    product_description: blueberries, banana, kiwi, honey
+    product_description: borovnice, banana, kivi, med
     product_price: 
 - category_title: WAF-WAF GIRLS
   products:
