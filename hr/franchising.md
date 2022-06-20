@@ -122,17 +122,17 @@ accordions:
 layout: franchising
 faq_title: FAQ FOR FRANCHISE BRANCH
 faq:
-- question: What is the minimum size of a Waf-Waf branch?
+- question: Koja je minimalna veličina poslovnice Waf-Waf?
   answer: |-
-    We recommend having a size larger than 20 square meters when the stand is in the mall.
+    Preporučujemo imati veličinu veću od 20 četvornih metara ako je štand u trgovačkom centru.
 
-    If it is a stone branch, we require a minimum size of 80 square meters.
+    Ako se radi o samostalnom poslovnom prostoru, potrebna je minimalna veličina od 80 četvornih metara.
 
-    We have to reckon with the fact that fast-casual cuisine will be installed here, as well as supplies or possibly a warehouse.
+    Moramo računati s tim da će se ovdje ugraditi fast-casual kuhinja, kao i zalihe ili eventualno skladište.
 
-    It is necessary to have enough seats depending on the location and type of operation.
+    Potrebno je imati dovoljno sjedecih mjesta ovisno o lokaciji i vrsti koncepta.
 
-    In any case, we recommend having another warehouse available outside the premises.
+    U svakom slučaju, preporučujemo da imate još jedno skladište izvan prostora.
 - question: What is the minimum / maximum investment for opening a Waf-Waf franchise?
   answer: The minimum investment will be around EUR 70.000,00 the maximum EUR 240.000,00
     depending on the size of the branch and its construction readiness. The investment
