@@ -1,13 +1,13 @@
 ---
-button_text: SHOW MORE
+button_text: PRIKAŽI VIŠE
 feature_image: "/assets/images/deniel-103_1.jpg"
 layout: post
 published_at: 2022-05-13T12:30:30.000+00:00
-title: Birthdays, celebrations or reservations in Waf-Waf? We say yes!
-excerpt: Birthdays, celebrations or reservations in Waf-Waf? We say yes!
+title: Rođendani, proslave ili rezervacije u Waf-Waf-u? Mi kažemo da!
+excerpt: Rođendani, proslave ili rezervacije u Waf-Waf-u? Mi kažemo da!
 post_url: ''
 
 ---
-We fulfill your wishes. Recently, your questions about the possibility of organizing birthday parties or other private occasions have multiplied. We say yes, it will be our pleasure to give you this experience. All you have to do is contact the telephone contact according to the selected branch or our offices: +420 602 368 532 and we will go through your event or we will make a reservation for the number of seats you have chosen.
+Ispunjavamo Vaše želje. U posljednje vrijeme umnožila su se vaša pitanja o mogućnosti organiziranja rođendana ili drugih privatnih prigoda. Kažemo da, bit će nam zadovoljstvo pružiti vam ovo iskustvo. Sve što trebate učiniti je kontaktirati telefonski broj prema odabranoj poslovnici ili se javiti na broj kancelarije:: +420 602 368 532 i mi ćemo proći kroz vaš događaj ili ćemo izvršiti rezervaciju za broj mjesta koje ste odabrali.
 
-In Waf-Waf, in addition to space, we are also able to provide catering or decoration in cooperation with our partners. We will create a tailor-made event for you. We therefore accept reservations at all Waf-Waf branches and we look forward to your questions.
+U Waf-Waf-u, osim prostora, u mogućnosti smo osigurati i catering ili dekoraciju u suradnji s našim partnerima. Za Vas ćemo kreirati događaj po mjeri. Stoga prihvaćamo rezervacije u svim poslovnicama Waf-Waf-a i veselimo se vašim pitanjima.
