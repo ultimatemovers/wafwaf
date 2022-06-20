@@ -1,13 +1,13 @@
 ---
 hero_image: "/assets/images/dscf0489.jpg"
-big_title: Our story
+big_title: Naša priča
 first_section:
   icon: "/uploads/2021/07/27/group-6357.svg"
-  content: In 2016, the idea was born in our heads to establish a unique fast-casual
-    franchise concept with a focus on waffles and pancakes or pancakes with an extension
-    of milkshakes, fresh-juices, homemade tea and other additional assortment. After
-    less than 15 months of hard work, we turned the whole concept into reality when
-    we opened our first store at 52 Milady Horákové Street in Prague 7.
+  content: 2016. godine u našim se glavama rodila ideja da uspostavimo jedinstveni
+    fast-casual franšizni koncept s fokusom na wafle, palačinke američke palačinke
+    i milkshakea, svježih sokova, domaćeg čaja i drugog dodatnog asortimana. Nakon
+    manje od 15 mjeseci napornog rada, cijeli smo koncept pretvorili u stvarnost kada
+    smo otvorili svoju prvu poslovnicu u ulici Milady Horákové 52 u Pragu 7.
   title: Fast-casual
   image: "/assets/images/20181023_095624000_ios.jpg"
 right_section:
