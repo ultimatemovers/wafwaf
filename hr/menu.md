@@ -51,12 +51,12 @@ categories:
     product_description: dvije waffle, slanina, šunka, topljeni cheddar sir, baby
       špinat, rukola, rajčica, majoneza, kečap
     product_price: 
-- category_title: BREAKFEST
+- category_title: DORUČAK
   products:
   - product_image: "/assets/images/eggwaf-small.jpg"
     product_title: EGGWAF
-    product_description: fried eggs, bacon, cheddar, baby spinach, cherry tomatoes,
-      chives and pieces of waffles topped with cheddar
+    product_description: jaja na oko, slanina, topljeni cheddar sir, baby špinat,
+      cherry rajčice, vlasac, komadi waffle preliveni topljenim chedarr sirom
     product_price: "139"
   - product_image: "/assets/images/waf-wood-small.jpg"
     product_title: WAF&WOOD
