@@ -1,11 +1,11 @@
 ---
-button_text: SHOW MORE
+button_text: PRIKAŽI VIŠE
 feature_image: "/assets/images/stand-concept.jpg"
 layout: post
-published_at: 2022-05-13 12:23:35 +0000
-title: The branch in Palladium is again on the +2 floor within the food-court!
-excerpt: The branch in Palladium is again on the +2 floor within the food-court!
+published_at: 2022-05-13T12:23:35.000+00:00
+title: Poslovnica u Palladiumu je opet na +2 katu u sklopu food-courta!
+excerpt: Poslovnica u Palladiumu je opet na +2 katu u sklopu food-courta!
 post_url: ''
 
 ---
-Our branch within OC Palladium has another relocation and this time it has been standing still. After the reconstruction, which took place in this shopping center, we received a new place for our Waf-Waf stand concept on the +2 floor within the modified food court. We are currently in the middle and you will definitely not miss us. We have kept 20 seats and we will try to create a perfect atmosphere with excellent waffles, pancakes and pancakes. You can enjoy the complete assortment at this branch and our girls are already looking forward to your visit. #wafwafpalladium in the new!
+Naša poslovnica u sklopu OC Palladium ima još jedno preseljenje i ovaj put za stalno. Nakon rekonstrukcije, koja se odvijala u ovom trgovačkom centru, dobili smo novo mjesto za koncept našeg Waf-Waf štanda na +2 katu u sklopu preuređenog food Courta. Trenutno smo u sredini i sigurno vam nećemo nedostajati. Zadržali smo 20 sjedećih mjesta i trudit ćemo se stvoriti savršenu atmosferu uz odlične wafle, palačinke te američke palačinke. U ovoj poslovnici možete uživati ​​u kompletnom asortimanu, a naše djevojke se već raduju vašem posjetu. #wafwafpalladium u novom!
