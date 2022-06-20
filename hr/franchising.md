@@ -176,7 +176,7 @@ after_faq:
   content: 'Ostrava, Plzen, Liberec, Hradec Králové, Brno, Ústí nad Labem, České Budějovice
     aj. Njemačka, Poljska, Slovačka, Austria, Madarska, Italija, Hrvatska, Srbija,
     Slovenija i više država u EU ili izvan EU, svijeta. '
-mam_zajem_title: 'Would you like to have own Waf-Waf? Fill out: '
-mam_zajem_button: 'I want to be a part! '
+mam_zajem_title: 'Želite li imati vlastiti Waf-Waf? Ispuniti:'
+mam_zajem_button: Želim biti dio!
 
 ---
