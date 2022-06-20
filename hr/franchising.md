@@ -44,35 +44,35 @@ stores:
 - image: "/assets/images/stand-concept.jpg"
   description: " "
   title: Pop Up koncept – (20 – 50m2)
-third_subtitle: CONCEPT – WAF-WAF FRANCHISE
+third_subtitle: KONCEPT – WAF-WAF FRANŠIZA
 accordions:
-- title: SUPPORT FOR FRANCHISANTS
+- title: PODRŠKA ZA FRANŠIZANTE
   description: |-
-    ** Before opening the establishment: **
+    ** Prije otvaranja poslovnice: **
 
-    Finding a suitable site, offer from the sites that are available
+    Pronalaženje odgovarajuće lokacije, ponuda dostupnih lokacija
 
-    Architectural study and design of the establishment
+    Arhitektonska studija i projektiranje objekta
 
-    Construction and equipment of turnkey facilities
+    Izgradnja i opremanje objekata po sistemu ključ u ruke
 
-    Recruitment and training of complete staff, including you, where we will introduce you to individual processes (operation, quality, marketing, finance, human resources, restaurant control, loyalty system, software, etc.)
+    Zapošljavanje i edukacija kompletnog osoblja, uključujući i vas, gdje ćemo vas upoznati s pojedinim procesima (poslovanje, kvaliteta, marketing, financije, ljudski potencijali, kontrola restorana, sustav vjernosnog programa, softver itd.)
 
-    ** After opening the establishment: **
+    ** Nakon otvaranja objekta: **
 
-    Ensuring the supply of raw materials, packaging and other materials (especially marketing), including technology and logistics
+    Osiguravanje opskrbe sirovinama, ambalažom i drugim materijalima (osobito marketingom), uključujući tehnologiju i logistiku
 
-    Waf-Waf headquarters support
+    Podrška centrale Waf-Waf-a
 
-    Setting up a marketing strategy and assistance with local marketing
+    Postavljanje marketinške strategije i pomoć u lokalnom marketingu
 
-    Establishment control systems
+    Kontrola sistema poslovnice
 
-    Complete software equipment - cash register system, warehouses
+    Kompletna softverska oprema - blagajni sustav, skladišta
 
-    Evaluating your performance and finding the optimal solution
+    Procjena vaše izvedbe i pronalaženje optimalnog rješenja
 
-    Development and adherence to brand standards
+    Razvoj i pridržavanje standarda brenda
 - title: ESSENTIAL REQUIREMENTS
   description: |-
     Financial security (possibly by loan)
