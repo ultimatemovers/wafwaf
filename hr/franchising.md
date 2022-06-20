@@ -120,7 +120,7 @@ accordions:
 
     Ugovor se sklapa na period od 5 godina. Povrat ulaganja može se postići u roku od 12-24 mjeseca.
 layout: franchising
-faq_title: FAQ FOR FRANCHISE BRANCH
+faq_title: ČESTA PITANJA VEZANA UZ FRANŠIZNE POSLOVNICE
 faq:
 - question: Koja je minimalna veličina poslovnice Waf-Waf?
   answer: |-
@@ -172,10 +172,10 @@ after_faq:
     Prague 1 - OC Palladium
 - title: FRANŠIZNE POSLOVNICE
   content: Brno - OC Špalíček
-- title: LOCATIONS
-  content: 'Ostrava, Plzeň, Liberec, Hradec Králové, Brno, Ústí nad Labem, České Budějovice
-    aj. Germany, Poland, Slovakia, Austria, Hungary, Italy, Croatia, Srbia, Slovenia
-    and more states in EU or out EU,world. '
+- title: LOKACIJE
+  content: 'Ostrava, Plzen, Liberec, Hradec Králové, Brno, Ústí nad Labem, České Budějovice
+    aj. Njemačka, Poljska, Slovačka, Austria, Madarska, Italija, Hrvatska, Srbija,
+    Slovenija i više država u EU ili izvan EU, svijeta. '
 mam_zajem_title: 'Would you like to have own Waf-Waf? Fill out: '
 mam_zajem_button: 'I want to be a part! '
 
