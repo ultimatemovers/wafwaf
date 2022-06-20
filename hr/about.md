@@ -29,9 +29,9 @@ proccess:
 - image: "/uploads/2021/07/27/group-55760.svg"
   name: Birajte s našeg jelovnika na MenuBoardu x Napravite sami svoju prema letku
 - image: "/uploads/2021/07/27/group-45860.svg"
-  name: Dovršite narudžbu s osobljem i dobit ćete dojavljivač
+  name: 'Dovršite narudžbu s osobljem i dobit ćete pejdžer '
 - image: "/uploads/2021/07/27/group-45862.svg"
-  name: Wait for the pager to ring
+  name: Pričekajte da pejdžer zazvoni
 - image: "/uploads/2021/07/27/group-45866.svg"
   name: Come with a pager for order and enjoy your meal
 bud_u_toho: "/en/franchising"
