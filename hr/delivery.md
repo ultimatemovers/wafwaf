@@ -1,18 +1,17 @@
 ---
-big_title: Delivery
-subtitle: Food Delivery - Wolt, Bolt Food and We will give food!
-delivery_title: We provide delivery throughout the cities of Prague and Brno
+big_title: Dostava
+subtitle: Dostava hrane - Wolt, Bolt Food i Dame Jidlo
+delivery_title: Dostavu vršimo u gradovima Prag i Brno
 wolt: true
 boltfood: true
 damejidlo: true
-delivery_description: We deliver every day. There will be both sweet (Wafreo or Waftella)
-  and salty variants (Ironwaf, Crepedilla, or Maplewaf) to choose from from our permanent
-  menu. There will also be a "Make your own", where you will be able to compile food
-  according to your taste. You choose the base, sweet or salty ingredients and finally
-  some topping. We also offer a few of our specialties such as Waf & Cut and BigWaf.
-  In our offer you will also find a few drinks for refreshment. Don't forget to download
-  the Bolt Food, Wolt and Dame Food app. A novelty is also the night delivery every
-  Friday and Saturday from the IP Pavlova branch.
+delivery_description: Dostavljamo svaki dan. Na našem stalnom jelovniku možete birati
+  između slatkih (Wafreo ili Waftella) i slanih (Ironwaf, Crepedilla ili Maplewaf).
+  Bit će tu i "Napravi svoj", gdje ćete moći sastaviti hranu po svom ukusu. Vi birate
+  vrstu tijesta, slatke ili slane sastojke i na kraju neki preljev. Nudimo i nekoliko
+  naših specijaliteta kao što su Waf & Cut i BigWaf. U našoj ponudi pronaći ćete i
+  nekoliko pića za osvježenje. Ne zaboravite preuzeti aplikaciju Bolt Food, Wolt i
+  Dame Jidlo. Novost je i noćna dostava svakog petka i subote iz poslovnice IP Pavlova.
 delivery_image: "/assets/images/20210305_150014000_ios.jpg"
 layout: deliverylayout
 hero_image: "/uploads/2021/07/24/delivery.png"
