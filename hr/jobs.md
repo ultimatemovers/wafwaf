@@ -51,28 +51,28 @@ jobs:
     Zainteresirani smo za dugoročnu suradnju te za rast vaše plače kako se naša tvrtka
     bude širila. \n\n\\** Nadalje, uz zapošljenje nudimo: **\n\nradnu odjeću\nMultiSport
     karticu\n\nYmožete poslati svoj CV na email: \\[jonas@waf-waf.cz\\] (mailto: jonas@waf-waf.cz)"
-- job_title: WAF-WAF service up to 130 CZK / hour (part-time)
-  job_location: Prague
+- job_title: Usluga WAF-WAF do 130 CZK / sat  (nepuno radno vrijeme)
+  job_location: Prag
   job_description: |-
-    \** What awaits you at Waf-Waf: **
+    \** Što vas čeka u Waf-Waf-u: **
 
-    Our concept focuses on the production and preparation of waffles, pancakes and pancakes or milkshake in a very original concept. Our main motto is #radostprovsechny and we will expect that from you as well. Whether you are preparing our products or working at the cash register and communicating with customers.
+    Naš koncept fokusiran je na proizvodnju i pripremu wafli, palačinki, američkih palačinki te milkshakea u vrlo originalnom konceptu. Naš glavni moto je #radostsvima i ​​to ćemo očekivati ​​i od vas. Bilo da pripremate naše proizvode ili radite na blagajni i komunicirate s kupcima.
 
-    \** Who are we looking for in Waf-Waf? **
+    \** Koga tražimo u Waf-Waf-u? **
 
-    Young ambitious colleagues for brigade and help. We will expect a hard-working and kind person who will benefit our entire team.
+    Mlade ambiciozne kolege za honorarni rad i pomoć. Očekujemo vrijednu i ljubaznu osobu koja će koristiti cijelom našem timu.
 
-    \** It will be an advantage if you have experience in gastronomy. **
-    What we can offer you:
+    \** Bit će vam prednost ako imate iskustva u gastronomiji. **
+    Što Vam možemo ponuditi:
 
-    We can offer you a starting salary of 100-130 CZK / hour for a part-time job. We are interested in long-term cooperation and also in the fact that your salary will grow, as well as our expanding company, and therefore your salary, even as a part-time worker, may shift.
+    Možemo vam ponuditi početnu plaću od 100-130 CZK / sat za posao sa skraćenim radnim vremenom. Zainteresirani smo za dugoročnu suradnju, ali i za to da će vaša plaća rasti, kao i naše poslovnice koje se šire, pa se vaša plaća, čak i kao honorarnog radnika, može narasti
+    .
+    \** Također nudimo uz navedenu plaću: **
 
-    \** We also offer in addition to the above salary: **
-
-    * work outfit
-    * bonuses for daily performance
-    * bonuses for employees of the month
-    * Regular TeamBuilding activities
+    * radnu odjeću
+    * bonuse za dnevni učinak
+    * bonuse za zaposlenike mjeseca
+    * Redovne TeamBuilding aktivnosti
 
     You can send your CVs to email: \[jonas@waf-waf.cz\] (mailto: jonas@waf-waf.cz)
 - job_title: Service at Waf-Waf Brno with the possibility of career development (HPP)
