@@ -109,7 +109,7 @@ categories:
   products:
   - product_image: "/assets/images/wafchick-small.jpg"
     product_title: WAFCHICK
-    product_description: waffles, maxi chicken strips, lettuce, cucumber, mayonnaise
+    product_description: waffle, maxi pileći strips, zelena salata, krastavac, majoneza
     product_price: 
   - product_image: "/assets/images/friedwaf-small.jpg"
     product_title: FRIEDWAF
