@@ -39,7 +39,7 @@ categories:
     product_price: 
   - product_image: "/assets/images/ironwaf-small.jpg"
     product_title: IRONWAF
-    product_description: egg, bacon, cheddar, rocket salad
+    product_description: jaje, slanina, topljeni cheddar sir, zelena salata
     product_price: 
   - product_image: "/assets/images/crepedilla-small.jpg"
     product_title: CREPEDILLA
