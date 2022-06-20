@@ -4,10 +4,10 @@ feature_image: "/assets/images/20210525_123201000_ios.jpg"
 layout: post
 published_at: 2022-05-13T12:29:09.000+00:00
 title: Novo u Wafuu, ovo je program vjernosti Waf Cluba
-excerpt: 'This year we have prepared a big novelty for you. We did not laze over the
-  covid period and worked on further development. We wanted to bring something interesting
-  again, while you will enjoy even more #news. In a few weeks, the new Waf-Waf Club
-  customer program will be launched!'
+excerpt: 'Ove godine smo za vas pripremili veliki novitet. Nismo ljenčarili u razdoblju
+  covida i radili smo na daljnjem razvoju. Htjeli smo ponovno donijeti nešto zanimljivo,
+  a vi ćete uživati ​​u još više #vijesti. Za nekoliko tjedana će biti pokrenut novi
+  korisnički program Waf-Waf Club!'
 post_url: ''
 
 ---
