@@ -154,8 +154,8 @@ faq:
   answer: Opet, ovisi o veličini poslovnice i kapacitetu ili odredenoj lokaciji. U
     svakom slučaju za manju poslovnicu očekujemo oko 1 godinu, a za veće poslovnice
     15-30 mjeseci, ovisno o više faktora.
-- question: What is your monthly fee that I have to pay?
-  answer: The monthly fee is 12%.
+- question: Kolika je vaša mjesečna naknada koju moram platiti?
+  answer: Mjesečna naknada iznosi 12%.
 - question: Is it necessary to pay a deposit?
   answer: Yes, the deposit is EUR 20.000,00 and is refundable upon termination of
     the franchise agreement.
