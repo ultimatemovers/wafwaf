@@ -4,6 +4,11 @@ layout: menu
 categories:
 - category_title: SWEET
   products:
+  - product_title: CAKEWAF
+    product_image: "/assets/images/cake-waf-2022.jpg"
+    product_description: cream, strawberries, blueberries, bananas, salty caramel
+      topping
+    product_price: 
   - product_title: SKYWAF
     product_image: "/assets/images/skywaf-small.jpg"
     product_description: waffles, salco topping, strawberries, lotus sprinkles and
