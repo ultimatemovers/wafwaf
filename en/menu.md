@@ -36,19 +36,19 @@ categories:
     product_price: 
 - category_title: SAVORY
   products:
-  - product_title: Friedwaf
+  - product_title: FRIEDWAF
     product_image: "/assets/images/friedwaf-2022.jpg"
     product_description: fried pancake, chicken, gouda, spinach, corn
     product_price: 
-  - product_title: Wafchick
+  - product_title: WAFCHICK
     product_image: "/assets/images/wafchick-small.jpg"
     product_description: waffles, maxi chicken strips, lettuce, cucumber, mayonnaise
     product_price: 
-  - product_title: Halloumiwaf
+  - product_title: HALLOUMIWAF
     product_image: "/assets/images/halloumiwaf-small.jpg"
     product_description: avocado spread, haloumi cheese, rocked salad, tomato
     product_price: 
-  - product_image: "/assets/images/maplewaf-small.jpg"
+  - product_image: "/assets/images/maplewaf2022-2.jpg"
     product_title: MAPLEWAF
     product_description: egg, bacon, cheddar, rocket salad, tomato, maple syrup
     product_price: 
