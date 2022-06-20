@@ -150,11 +150,10 @@ faq:
   answer: Kao dio jednostavnih marketinških aktivnosti, bit ćete osposobljeni, na
     primjer, za upravljanje vlastitim društvenim mrežama ili stranicama koje ocjenjuju
     vaše poslovanje.
-- question: How fast is the return on investment(ROI)?
-  answer: Again, it depends on the size of the branch and the capacity of the branch
-    or its recommended location. In any case, we expect about 1 year for a smaller
-    store and we can talk about 15-30 months for larger ones, depending on several
-    factors.
+- question: Koliko je brz povrat ulaganja?
+  answer: Opet, ovisi o veličini poslovnice i kapacitetu ili odredenoj lokaciji. U
+    svakom slučaju za manju poslovnicu očekujemo oko 1 godinu, a za veće poslovnice
+    15-30 mjeseci, ovisno o više faktora.
 - question: What is your monthly fee that I have to pay?
   answer: The monthly fee is 12%.
 - question: Is it necessary to pay a deposit?
