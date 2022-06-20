@@ -2,11 +2,11 @@
 big_title: WAF-WAF PONUDA
 layout: menu
 categories:
-- category_title: SWEET
+- category_title: SLATKE
   products:
   - product_image: "/assets/images/chocowaf-small.jpg"
     product_title: CHOCOWAF
-    product_description: vanilla topping, caramel topping, raspberries, nuts
+    product_description: preljev od vanilije, preljev od karamele, maline, orasi
     product_price: 
   - product_price: 
     product_image: "/assets/images/4.jpg"
