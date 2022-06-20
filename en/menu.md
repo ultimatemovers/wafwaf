@@ -52,16 +52,16 @@ categories:
     product_title: MAPLEWAF
     product_description: egg, bacon, cheddar, rocket salad, tomato, maple syrup
     product_price: 
-  - product_image: "/assets/images/beefwaf-small.jpg"
+  - product_image: "/assets/images/beef-waf-2022.jpg"
     product_title: BEEFWAF
     product_description: shredded beef, cheddar sauce, grilled tomatoes, onions, salad,
       cranberries
     product_price: 
-  - product_image: "/assets/images/ironwaf-small.jpg"
+  - product_image: "/assets/images/ironwaf2022-2.jpg"
     product_title: IRONWAF
     product_description: egg, bacon, cheddar, rocket salad
     product_price: 
-  - product_image: "/assets/images/crepedilla-small.jpg"
+  - product_image: "/assets/images/crepedilla2022-2.jpg"
     product_title: CREPEDILLA
     product_description: chicken, cheddar, baby spinach, tomato dip, sour cream
     product_price: 
