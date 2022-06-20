@@ -94,7 +94,7 @@ categories:
   products:
   - product_image: "/assets/images/halloumiwaf-small.jpg"
     product_title: HALOUMIWAF
-    product_description: avocado spread, haloumi cheese, rocked salad, tomato
+    product_description: krema od avokada, halumi sir, rukola, rajčice
     product_price: 
   - product_image: "/assets/images/skywaf-small.jpg"
     product_title: SKYWAF
