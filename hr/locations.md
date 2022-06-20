@@ -17,7 +17,7 @@ locations:
 
     +420602728121
 
-    Kontakt e-mail:
+    e-mail:
 
     letna@waf-waf.cz
   location_description: 'Obnovljena poslovnica Waf-Waf Letná također ima zimsku/ljetnu
@@ -96,15 +96,15 @@ locations:
   location_name: WAF-WAF IPÁK
   location_address: Bělehradská 67, 120 00 Nové Město
   location_contact: |-
-    Opening hours:
+    Radno vrijeme:
 
-    Monday - Thursday: 08:00 - 21:00
-    Friday - Saturday - 08:00 - 22:00 + delivery & take-away - 22:00 - 02:00
-    Sunday: 08:00 - 21:00
+    Ponedjeljak - Četvrtak: 08:00 - 21:00
+    Petak - Subota - 08:00 - 22:00 + dostava i za ponijeti - 22:00 - 02:00
+    Nedjelja: 08:00 - 21:00
 
-    Contact telephone number: +420 725 344 097
+     telefon: +420 725 344 097
 
-    Contact email: ipak@waf-waf.cz
+     email: ipak@waf-waf.cz
   location_description: The Waf-Waf IP Pavlova branch is located directly at the Bruselská
     tram stop. At this branch you can enjoy food ** on the spot ** or pick up ** food
     with you. ** The girls will pack our products in a nice package and give you a
