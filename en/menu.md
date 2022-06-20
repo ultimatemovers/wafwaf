@@ -90,10 +90,6 @@ categories:
     product_title: AVOWAF
 - category_title: MILKSHAKES & DRINKS
   products:
-  - product_title: Dalgonwaf
-    product_image: "/assets/images/dalgonwaf-small.jpg"
-    product_description: coffee cream, milk, ice
-    product_price: 
   - product_title: Ice-Tea
     product_image: "/assets/images/icetea2022-2.jpg"
     product_description: ice-tea
@@ -101,6 +97,14 @@ categories:
   - product_title: 'Lemonade '
     product_image: "/assets/images/citronada2022-2.jpg"
     product_description: homemade lemonade
+    product_price: 
+  - product_title: Wafrappe
+    product_image: "/assets/images/wafrappe2022.jpg"
+    product_description: vanilla ice, coffee, homemade whipped cream, lotus
+    product_price: 
+  - product_title: Dalgonwaf
+    product_image: "/assets/images/dalgonwaf-small.jpg"
+    product_description: coffee cream, milk, ice
     product_price: 
   - product_title: Wafsmoothie Purple
     product_image: "/assets/images/purplesmoothie-small.jpg"
@@ -126,7 +130,5 @@ categories:
     product_description: milk, banana, vanilla ice cream, caramel topping, colored
       sprinkles, whipped cream, waffles
     product_price: 
-- category_title: WAF-WAF GIRLS
-  products: []
 
 ---
