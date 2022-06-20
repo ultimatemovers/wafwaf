@@ -4,7 +4,7 @@ layout: menu
 categories:
 - category_title: SWEET
   products:
-  - product_title: Skywaf
+  - product_title: SKYWAF
     product_image: "/assets/images/skywaf-small.jpg"
     product_description: waffles, salco topping, strawberries, lotus sprinkles and
       biscuit
@@ -102,11 +102,11 @@ categories:
     product_image: "/assets/images/wafrappe2022.jpg"
     product_description: vanilla ice, coffee, homemade whipped cream, lotus
     product_price: 
-  - product_title: Dalgonwaf
+  - product_title: DALGONWAF
     product_image: "/assets/images/dalgonwaf-small.jpg"
     product_description: coffee cream, milk, ice
     product_price: 
-  - product_title: Wafsmoothie Purple
+  - product_title: WAF&SMOOTHIE PURPLE
     product_image: "/assets/images/purplesmoothie-small.jpg"
     product_description: blueberries, banana, kiwi, honey
     product_price: 
