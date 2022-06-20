@@ -1,6 +1,6 @@
 ---
 big_title: Najbolje wafle!
-subtitle: Waf-Waf ovo su najbolji wafle, palačinke i američke palačinke koje ste imali
+subtitle: Waf-Waf ovo su najbolje wafle, palačinke i američke palačinke koje ste imali
   prilike kušati.
 breakfast: Jeste li već kušali naše slane proizvode?
 breakfast_image: "/assets/images/img_1760-aerial.jpeg"
