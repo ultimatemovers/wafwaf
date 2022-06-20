@@ -117,7 +117,7 @@ categories:
     product_price: 
   - product_image: "/assets/images/dalgonwaf-small.jpg"
     product_title: DALGONWAF
-    product_description: coffee cream, milk, ice
+    product_description: krema od kave, mlijeko, led
     product_price: 
 
 ---
