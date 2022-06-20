@@ -32,9 +32,13 @@ categories:
     product_price: 
 - category_title: SAVORY
   products:
-  - product_title: ''
-    product_image: ''
+  - product_title: Friedwaf
+    product_image: "/assets/images/friedwaf-2022.jpg"
     product_description: ''
+    product_price: 
+  - product_title: Wafchick
+    product_image: "/assets/images/wafchick-small.jpg"
+    product_description: waffles, maxi chicken strips, lettuce, cucumber, mayonnaise
     product_price: 
   - product_title: Halloumiwaf
     product_image: "/assets/images/halloumiwaf-small.jpg"
