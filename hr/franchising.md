@@ -26,14 +26,14 @@ concept:
     je tako postao takozvani "lovebrand", gdje njegovi kupci postaju dio cjelokupnog
     koncepta.
 - icon: "/uploads/2021/07/26/group-2186.svg"
-  title: Growth potential
-  description: Waf-Waf has managed to build a successful brand out of an innovative
-    concept in a short time. The whole concept is very simple and can be easily adapted
-    to the location and background. Thus, restaurants(FAST-CASUAL CONCEPT) can easily
-    operate in smaller or larger premises, regardless of whether it is a shopping
-    center or another stone shop. This simple concept, together with Waf-Waf's strong
-    brand and know-how, thus offers the ideal combination for the successful franchise
-    expansion that the Company plans to start in the future.
+  title: Potencijal rasta
+  description: Waf-Waf je u kratkom vremenu uspio izgraditi uspješan brend iz inovativnog
+    koncepta. Cijeli koncept je vrlo jednostavan i lako se može prilagoditi lokaciji
+    i prostoru. Tako Waf- Waf restorani (FAST-CASUAL CONCEPT) mogu bez problema raditi
+    u manjim ili većim prostorima, bez obzira radi li se o trgovačkom centru ili nekom
+    drugom poslovnom prostoru. Ovaj jednostavan koncept, zajedno s Waf-Waf-ovim snažnim
+    brendom i znanjem, stoga nudi idealnu kombinaciju za uspješno širenje franšize
+    koje tvrtka planira započeti u budućnosti.
 stores:
 - image: "/assets/images/20111231_230000000_ios-103-modified.png"
   description: " "
