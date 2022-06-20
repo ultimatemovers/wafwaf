@@ -76,9 +76,9 @@ categories:
       šlag
     product_price: 
   - product_image: "/assets/images/s1.jpg"
-    product_title: Banana Milkshake
-    product_description: milk, banana, vanilla ice cream, caramel topping, colored
-      sprinkles, whipped cream
+    product_title: Milkshake od banane
+    product_description: mlijeko, banana, sladoled od vanilije, preljev od karamele,
+      šareni posip, šlag
     product_price: 
   - product_image: "/assets/images/ss1.jpg"
     product_title: Strawberry Wafshake
