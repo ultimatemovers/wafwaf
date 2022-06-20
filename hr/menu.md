@@ -71,9 +71,9 @@ categories:
 - category_title: MILKSHAKES
   products:
   - product_image: "/assets/images/s2.jpg"
-    product_title: Strawberry Milkshake
-    product_description: milk, strawberries, vanilla ice cream, strawberry topping,
-      whipped cream
+    product_title: Milkshake od jagode
+    product_description: mlijeko, jagode, sladoled od vanilije, preljev od jagode,
+      šlag
     product_price: 
   - product_image: "/assets/images/s1.jpg"
     product_title: Banana Milkshake
