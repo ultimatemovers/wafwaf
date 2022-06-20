@@ -133,10 +133,10 @@ faq:
     Potrebno je imati dovoljno sjedecih mjesta ovisno o lokaciji i vrsti koncepta.
 
     U svakom slučaju, preporučujemo da imate još jedno skladište izvan prostora.
-- question: What is the minimum / maximum investment for opening a Waf-Waf franchise?
-  answer: The minimum investment will be around EUR 70.000,00 the maximum EUR 240.000,00
-    depending on the size of the branch and its construction readiness. The investment
-    can be significantly smaller or even higher.
+- question: Koja je minimalna/maksimalna investicija za otvaranje Waf-Waf franšize?
+  answer: Minimalna investicija će biti oko 70.000,00 EUR, a maksimalna 240.000,00
+    EUR ovisno o veličini poslovnice i njezinoj pripremi za uredenje. Ovisno o tome
+    investicija može biti znatno manja ili čak veća.
 - question: What location do you recommend for the Waf-Waf branch?
   answer: In cities with more than 50,000 inhabitants and in its main places.
 - question: Do I have to buy supplies directly from you?
