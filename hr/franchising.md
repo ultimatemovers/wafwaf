@@ -163,7 +163,7 @@ faq:
     Waf-Waf i prava na njegovo korištenje, iznosi 30.000,00 EUR + PDV.
 mam_zajem: https://docs.google.com/forms/d/1iMidmc9xHbVnVLZVh6d6yE7hliv2U6I_DqN5lSW_3vI/prefill
 after_faq:
-- title: OWN ESTABLISHMENTS
+- title: VLASTITE POSLOVNICE
   content: |-
     Prague 7 - Letná
 
