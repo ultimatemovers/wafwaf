@@ -1,8 +1,8 @@
 ---
 big_title: Najbolje wafle!
 subtitle: Waf-Waf su najbolje wafle, palačinke i američke palačinke koje ste imali
-  prilike kušati.
-breakfast: Jeste li već kušali naše slane proizvode?
+  prilike probati.
+breakfast: Jeste li već probali naše slane proizvode?
 breakfast_image: "/assets/images/img_1760-aerial.jpeg"
 delivery: Dostavljamo svaki dan od 08:00 do 21:00
 layout: homepage
