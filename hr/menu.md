@@ -60,8 +60,8 @@ categories:
     product_price: "139"
   - product_image: "/assets/images/cream-waf-small.jpg"
     product_title: CREAM&WAF
-    product_description: stuffed with sour cream, strawberries and sugar, topped with
-      strawberry topping
+    product_description: Punjenje od vrhnja, jagoda i secera, preliveno preljevom
+      od jagoda
     product_price: "129"
   - product_image: "/assets/images/avowaf-small.jpg"
     product_description: krema od avokada, jaje na oko, baby špinat, rukola, cherry
