@@ -1,42 +1,42 @@
 ---
 hero_image: "/uploads/2021/07/22/kontakty.png"
-big_title: Contact
+big_title: KONTAKT
 layout: contact
 contact_information:
-- title: Would you like some information?
+- title: Želite li još kakve informacije?
   content: |-
     [info@waf-waf.cz] (mailto: info@waf-waf.cz)
     [+420 725 344 097] (https://wa.me/420725344097)
 
-    Summer: [+420 602 728 121] (https://wa.me/420602728121)
-    every day from 08:00 to 21:00
+    Letna: [+420 602 728 121] (https://wa.me/420602728121)
+    svaki dan od 08:00 do 21:00
 
     Brno: [+420 608 918 243] (https://wa.me/420608918243)
-    every day from 09:00 to 21:00
+    svaki dan od 09:00 do 21:00
 
     Palladium: [+420 725 745 898] (https://wa.me/420725745898)
-    every day from 09:00 to 20:00
+    svaki dan od 09:00 do 20:00
 
     IP Pavlova: [+420 725 344 097] (https://wa.me/420725344097)
-    every day from 08:00 to 21:00
-- title: Seat reservations
-  content: We make reservations from Monday to Friday for more than 2 people who will
-    always find a place with us :) If you would like to make a reservation, contact
-    the branch. Thank you
-- title: Media and business contact
-  content: 'Questions on company management please use email: [jonas@waf-waf.cz] (mailto:
+    svaki dan od 08:00 do 21:00
+- title: 'Rezervacije '
+  content: Rezervacije vršimo od ponedjeljka do petka za više od 2 osobe koje će uvijek
+    naći mjesto kod nas :) Ukoliko želite rezervirati, obratite se poslovnici. Hvala
+    vam
+- title: Mediji i poslovni kontakt
+  content: 'Pitanja menadzmentu tvrtke uputite na e-mail: [jonas@waf-waf.cz] (mailto:
     jonas@waf-waf.cz)'
-- title: Would you like to have a celebration or teambuilding at Waf-Waf?
-  content: 'Would you like to have a birthday party, a bachelor party, a corporate
-    event or a presentation or rent the whole space straight away within our branches?
-    Contact us by e-mail: [provoz@waf-waf.cz] (mailto: provoz@waf-waf.cz)'
-- title: Opening hours and contact for the job offer
+- title: Želite li imati proslavu ili teambuilding u Waf-Waf-u?
+  content: 'Želite li imati rođendan, djevojačku večer, korporativni događaj, prezentaciju
+    ili odmah unajmiti cijeli prostor u našim poslovnicama? Kontaktirajte nas putem
+    e-pošte: [provoz@waf-waf.cz] (mailto: provoz@waf-waf.cz)'
+- title: Radno vrijeme i kontakt za ponudu posla
   content: |-
-    If you are interested in the opening hours of individual branches, then visit the tab:
-      [Our branches] (# "nzm") on the other hand, if you are interested in working at Waf-Waf, you can visit the box: [vacancies] (#).
-delivery_text: Delivery every single day!
-delivery_button: Delivery
-instagram_title: Follow us on instagram
+    Ako vas zanima radno vrijeme pojedinih poslovnica, posjetite karticu:
+      [Naše poslovnice] (# "nzm") s druge strane, ako ste zainteresirani za rad u Waf-Waf-u, možete posjetiti okvir: [slobodna radna mjesta] (#).
+delivery_text: Dostava svaki dan!
+delivery_button: Dostava
+instagram_title: Pratite nas na instagramu
 delivery_time: '08:00 - 21:00'
 
 ---

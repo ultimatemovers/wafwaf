@@ -1,185 +1,182 @@
 ---
 hero_image: "/assets/images/franchising-uvodni-fotka-nerozmazana.jpg"
-big_title: Franchising
-subtitle: Strategic pillars of the company
-second_subtitle: So you want an original brand and become a business partner of a
-  fast growing company?
+big_title: Franšizing
+subtitle: Strateški stupovi tvrtke
+second_subtitle: Dakle, želite originalan brend i postati poslovni partner brzorastuće
+  tvrtke?
 concept:
 - icon: "/uploads/2021/07/26/group-2184.svg"
-  title: Innovative concept
-  description: The uniqueness of Waf-Waf lies primarily in the innovative concept
-    of preparing waffles, pancakes and american pancakes. The concept allows customers
-    to put together their own product with the help of dozens of salty and sweet ingredients,
-    which the trained staff then freshly prepares right in front of them. After a
-    few minutes, the decorated waffle or pancake is ready and the customer can eat
-    it either in the restaurant or take it with them. Thanks to this concept, customers
-    have an almost unlimited number of combinations, and the Company is able to attract
-    a wide range of consumers.
+  title: Inovativni koncept
+  description: Jedinstvenost Waf-Waf-a prvenstveno je u inovativnom konceptu pripreme
+    wafli, palačinki i američkih palačinki. Koncept omogućuje kupcima da slože vlastiti
+    proizvod uz pomoć desetaka slanih i slatkih sastojaka koje educirano osoblje potom
+    svježe priprema pred njima. Nakon nekoliko minuta, ukrašeni wafle ili palačinke
+    su gotove i kupac ih može pojesti u restoranu ili ponijeti sa sobom. Zahvaljujući
+    ovom konceptu kupci imaju gotovo neograničen broj kombinacija, a Tvrtka je u mogućnosti
+    privući širok raspon potrošača.
 - icon: "/uploads/2021/07/26/path-1125.svg"
-  title: Waf-Waf as a lovebrand
-  description: Thanks to its focus on quality workmanship and unique decoration, Waf-Waf
-    is very popular, especially with the young generation, who like to take pictures
-    of food and share it on social networks, which helps the Company to create effective
-    viral campaigns. In order to further support this customer involvement in marketing,
-    the Company began cooperating with well-known Czech influencers, who promote the
-    Waf-Waf brand among their wide fan base. The success of this strategy can already
-    be seen today in the large number of the Company's fans on social networks, when
-    it has over 57,000 +  on its social networks. fans. Waf-Waf has thus become a
-    so-called "lovebrand", where its customers become part of the whole concept.
+  title: Waf-Waf kao lovebrand
+  description: Zahvaljujući fokusu na kvalitetnu izradu i unikatnu dekoraciju, Waf-Waf
+    je vrlo popularan, posebno među mladima, koji vole slikati hranu i dijeliti je
+    na društvenim mrežama, što pomaže tvrtki u kreiranju učinkovitih viralnih kampanja.
+    Kako bi dodatno podržali ovaj angažman kupaca u marketingu, tvrtka je započela
+    suradnju s poznatim češkim influencerima, koji promoviraju brend Waf-Waf među
+    svojim širokim fanovima. Uspješnost ove strategije vidljiva je već danas u velikom
+    broju fanova tvrtke na društvenim mrežama, gdje ih ima preko 57.000.  Waf-Waf
+    je tako postao takozvani "lovebrand", gdje njegovi kupci postaju dio cjelokupnog
+    koncepta.
 - icon: "/uploads/2021/07/26/group-2186.svg"
-  title: Growth potential
-  description: Waf-Waf has managed to build a successful brand out of an innovative
-    concept in a short time. The whole concept is very simple and can be easily adapted
-    to the location and background. Thus, restaurants(FAST-CASUAL CONCEPT) can easily
-    operate in smaller or larger premises, regardless of whether it is a shopping
-    center or another stone shop. This simple concept, together with Waf-Waf's strong
-    brand and know-how, thus offers the ideal combination for the successful franchise
-    expansion that the Company plans to start in the future.
+  title: Potencijal rasta
+  description: Waf-Waf je u kratkom vremenu uspio izgraditi uspješan brend iz inovativnog
+    koncepta. Cijeli koncept je vrlo jednostavan i lako se može prilagoditi lokaciji
+    i prostoru. Tako Waf- Waf restorani (FAST-CASUAL CONCEPT) mogu bez problema raditi
+    u manjim ili većim prostorima, bez obzira radi li se o trgovačkom centru ili nekom
+    drugom poslovnom prostoru. Ovaj jednostavan koncept, zajedno s Waf-Waf-ovim snažnim
+    brendom i znanjem, stoga nudi idealnu kombinaciju za uspješno širenje franšize
+    koje tvrtka planira započeti u budućnosti.
 stores:
 - image: "/assets/images/20111231_230000000_ios-103-modified.png"
   description: " "
-  title: Branch in Shopping Mall (80 – 180m2)
+  title: Poslovnica u trgovačkom centru (80 – 180m2)
 - image: "/assets/images/waf-waf-ipak-misto-te-fotky-s-ruzovou-kytkou-mala-fotka-v-uvodnim-ramecku.jpg"
   description: " "
-  title: High street concept – (60m2 – 150m2)
+  title: High street koncept – (60m2 – 150m2)
 - image: "/assets/images/stand-concept.jpg"
   description: " "
-  title: Pop Up concept – (20 – 50m2)
-third_subtitle: CONCEPT – WAF-WAF FRANCHISE
+  title: Pop Up koncept – (20 – 50m2)
+third_subtitle: KONCEPT – WAF-WAF FRANŠIZA
 accordions:
-- title: SUPPORT FOR FRANCHISANTS
+- title: PODRŠKA ZA FRANŠIZANTE
   description: |-
-    ** Before opening the establishment: **
+    ** Prije otvaranja poslovnice: **
 
-    Finding a suitable site, offer from the sites that are available
+    Pronalaženje odgovarajuće lokacije, ponuda dostupnih lokacija
 
-    Architectural study and design of the establishment
+    Arhitektonska studija i projektiranje objekta
 
-    Construction and equipment of turnkey facilities
+    Izgradnja i opremanje objekata po sistemu ključ u ruke
 
-    Recruitment and training of complete staff, including you, where we will introduce you to individual processes (operation, quality, marketing, finance, human resources, restaurant control, loyalty system, software, etc.)
+    Zapošljavanje i edukacija kompletnog osoblja, uključujući i vas, gdje ćemo vas upoznati s pojedinim procesima (poslovanje, kvaliteta, marketing, financije, ljudski potencijali, kontrola restorana, sustav vjernosnog programa, softver itd.)
 
-    ** After opening the establishment: **
+    ** Nakon otvaranja objekta: **
 
-    Ensuring the supply of raw materials, packaging and other materials (especially marketing), including technology and logistics
+    Osiguravanje opskrbe sirovinama, ambalažom i drugim materijalima (osobito marketingom), uključujući tehnologiju i logistiku
 
-    Waf-Waf headquarters support
+    Podrška centrale Waf-Waf-a
 
-    Setting up a marketing strategy and assistance with local marketing
+    Postavljanje marketinške strategije i pomoć u lokalnom marketingu
 
-    Establishment control systems
+    Kontrola sistema poslovnice
 
-    Complete software equipment - cash register system, warehouses
+    Kompletna softverska oprema - blagajni sustav, skladišta
 
-    Evaluating your performance and finding the optimal solution
+    Procjena vaše izvedbe i pronalaženje optimalnog rješenja
 
-    Development and adherence to brand standards
-- title: ESSENTIAL REQUIREMENTS
+    Razvoj i pridržavanje standarda brenda
+- title: OSNOVNI ZAHTJEVI
   description: |-
-    Financial security (possibly by loan)
+    Financijsko osiguranje (moguće putem zajma)
 
-    Personal commitment
+    Osobna predanost
 
-    Willingness to train, willingness to change
+    Volja za treningom, želja za promjenom
 
-    Restaurant experience (not a requirement)
-- title: INITIAL INVESTMENT REQUIRED
+    Iskustvo u restoranu (nije uvjet)
+- title: POTREBNA POČETNA ULAGANJA
   description: |-
-    ** INITIAL INVESTMENT **
+    ** POČETNO ULAGANJE **
 
-    Entrance fee: 30.000,00 EUR
+    Ulazni fee: 30.000,00 EUR
 
-    Deposit: 20.000,00 EUR
+    Depozit: 20.000,00 EUR
 
-    Investment: Purchase price approx. 70.000,00 EUR - 240.000,00 EUR Depending on the type of operation selected
+    Investicija:  70.000,00 EUR - 240.000,00 EUR - ovisno o tipu i izboru poslovnice te koncepta
 
-    Staff training
+    Trening osoblja
 
-    Initial costs + Reserve
+    Početni troškovi + Rezerva
 
-    For the year 2021/2022, we offer the possibility of negotiating within the offered entry conditions, the so-called CovidDiscount.
+    Za 2021./2022. godinu nudimo mogućnost pregovaranja u okviru ponuđenih uvjeta ulaska u odnos, tzv. CovidPopust.
 
-    **MONTHLY FEES**
+    **MJESEČNE NAKNADE**
 
-    Franchise fee: 12% of sales
+    Naknada za franšizu: 12% od prodaje
 
-    **OPERATING COSTS**
+    **POSLOVNI TROŠKOVI**
 
-    Rent and energy
+    Najam i energija
 
-    Salary and personnel costs
+    Plaća i troškovi osoblja
 
-    Raw materials, packaging and logistics
+    Sirovine, ambalaža i logistika
 
-    Marketing within and around the establishment
+    Marketing unutar i van poslovnice
 
-    IT and Systems
+    IT i Sustavi
 
-    Establishment control mechanisms
+    Kontrolni mehanizmi poslovnice
 
-    Other operating, overhead and financial expenses
+    Ostali operativni, varijabilni i financijski troškovi
 
-    The contract is concluded for a period of 5 years. Return on investment can be achieved within 12-24 months.
+    Ugovor se sklapa na period od 5 godina. Povrat ulaganja može se postići u roku od 12-24 mjeseca.
 layout: franchising
-faq_title: FAQ FOR FRANCHISE BRANCH
+faq_title: ČESTA PITANJA VEZANA UZ FRANŠIZNE POSLOVNICE
 faq:
-- question: What is the minimum size of a Waf-Waf branch?
+- question: Koja je minimalna veličina poslovnice Waf-Waf?
   answer: |-
-    We recommend having a size larger than 20 square meters when the stand is in the mall.
+    Preporučujemo imati veličinu veću od 20 četvornih metara ako je štand u trgovačkom centru.
 
-    If it is a stone branch, we require a minimum size of 80 square meters.
+    Ako se radi o samostalnom poslovnom prostoru, potrebna je minimalna veličina od 80 četvornih metara.
 
-    We have to reckon with the fact that fast-casual cuisine will be installed here, as well as supplies or possibly a warehouse.
+    Moramo računati s tim da će se ovdje ugraditi fast-casual kuhinja, kao i zalihe ili eventualno skladište.
 
-    It is necessary to have enough seats depending on the location and type of operation.
+    Potrebno je imati dovoljno sjedecih mjesta ovisno o lokaciji i vrsti koncepta.
 
-    In any case, we recommend having another warehouse available outside the premises.
-- question: What is the minimum / maximum investment for opening a Waf-Waf franchise?
-  answer: The minimum investment will be around EUR 70.000,00 the maximum EUR 240.000,00
-    depending on the size of the branch and its construction readiness. The investment
-    can be significantly smaller or even higher.
-- question: What location do you recommend for the Waf-Waf branch?
-  answer: In cities with more than 50,000 inhabitants and in its main places.
-- question: Do I have to buy supplies directly from you?
-  answer: What specific inventory you need to buy from our company is included in
-    the franchise agreement. Some are needed to shop directly and some through our
-    business partners.
-- question: Do I need experience to start a Waf-Waf franchise?
-  answer: There is no need for experience if there is determination, motivation. In
-    any case, experience is certainly welcome, and such candidates will have a certain
-    advantage of faster integration within the business itself.
-- question: How can I take care of marketing during the opening of a Waf-Waf branch?
-  answer: As part of simple marketing activities, you will be trained, for example,
-    to manage your own social media or sites that evaluate your business.
-- question: How fast is the return on investment(ROI)?
-  answer: Again, it depends on the size of the branch and the capacity of the branch
-    or its recommended location. In any case, we expect about 1 year for a smaller
-    store and we can talk about 15-30 months for larger ones, depending on several
-    factors.
-- question: What is your monthly fee that I have to pay?
-  answer: The monthly fee is 12%.
-- question: Is it necessary to pay a deposit?
-  answer: Yes, the deposit is EUR 20.000,00 and is refundable upon termination of
-    the franchise agreement.
-- question: Do I need to pay a license fee?
-  answer: Yes, the license fee, which includes the rights to use the complete Waf-Waf
-    brand and the rights to use it, is EUR 30.000,00 + VAT.
+    U svakom slučaju, preporučujemo da imate još jedno skladište izvan prostora.
+- question: Koja je minimalna/maksimalna investicija za otvaranje Waf-Waf franšize?
+  answer: Minimalna investicija će biti oko 70.000,00 EUR, a maksimalna 240.000,00
+    EUR ovisno o veličini poslovnice i njezinoj pripremi za uredenje. Ovisno o tome
+    investicija može biti znatno manja ili čak veća.
+- question: Koju lokaciju preporučate za poslovnicu Waf-Waf?
+  answer: U gradovima s više od 50.000 stanovnika i u svojim glavnim mjestima.
+- question: Moram li kupiti zalihe izravno od vas?
+  answer: Neke konkretne zalihe je potrebno kupovati o nase tvrtke, a neke od nasih
+    poslovnih partnera, sve je specificirano u ugovoru o franšizi.
+- question: Trebam li iskustvo za pokretanje Waf-Waf franšize?
+  answer: Nema potrebe za iskustvom ako postoji odlučnost, motivacija. U svakom slučaju,
+    iskustvo je svakako dobrodošlo, a takvi će kandidati imati određenu prednost u
+    bržoj integraciji unutar samog poslovanja.
+- question: Kako se mogu pobrinuti za marketing tijekom otvaranja poslovnice Waf-Waf?
+  answer: Kao dio jednostavnih marketinških aktivnosti, bit ćete osposobljeni, na
+    primjer, za upravljanje vlastitim društvenim mrežama ili stranicama koje ocjenjuju
+    vaše poslovanje.
+- question: Koliko je brz povrat ulaganja?
+  answer: Opet, ovisi o veličini poslovnice i kapacitetu ili odredenoj lokaciji. U
+    svakom slučaju za manju poslovnicu očekujemo oko 1 godinu, a za veće poslovnice
+    15-30 mjeseci, ovisno o više faktora.
+- question: Kolika je vaša mjesečna naknada koju moram platiti?
+  answer: Mjesečna naknada iznosi 12%.
+- question: Je li potrebno uplatiti depozit?
+  answer: Da, depozit iznosi 20.000,00 EUR i vraća se nakon raskida ugovora o franšizi.
+- question: Trebam li platiti naknadu za licencu?
+  answer: Da, licenčna naknada, koja uključuje prava na korištenje cjelokupnog brenda
+    Waf-Waf i prava na njegovo korištenje, iznosi 30.000,00 EUR + PDV.
 mam_zajem: https://docs.google.com/forms/d/1iMidmc9xHbVnVLZVh6d6yE7hliv2U6I_DqN5lSW_3vI/prefill
 after_faq:
-- title: OWN ESTABLISHMENTS
+- title: VLASTITE POSLOVNICE
   content: |-
     Prague 7 - Letná
 
     Prague 2 - I.P.Pavlova
 
     Prague 1 - OC Palladium
-- title: FRANCHISE ESTABLISHMENTS
+- title: FRANŠIZNE POSLOVNICE
   content: Brno - OC Špalíček
-- title: LOCATIONS
-  content: 'Ostrava, Plzeň, Liberec, Hradec Králové, Brno, Ústí nad Labem, České Budějovice
-    aj. Germany, Poland, Slovakia, Austria, Hungary, Italy, Croatia, Srbia, Slovenia
-    and more states in EU or out EU,world. '
-mam_zajem_title: 'Would you like to have own Waf-Waf? Fill out: '
-mam_zajem_button: 'I want to be a part! '
+- title: LOKACIJE
+  content: 'Ostrava, Plzen, Liberec, Hradec Králové, Brno, Ústí nad Labem, České Budějovice
+    aj. Njemačka, Poljska, Slovačka, Austria, Madarska, Italija, Hrvatska, Srbija,
+    Slovenija i više država u EU ili izvan EU, svijeta. '
+mam_zajem_title: 'Želite li imati vlastiti Waf-Waf? Ispuniti:'
+mam_zajem_button: Želim biti dio!
 
 ---
