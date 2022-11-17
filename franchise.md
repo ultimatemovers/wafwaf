@@ -127,9 +127,9 @@ faq:
     Každopádně u menšího obchodu předpokládáme kolem 1 rok a u větších se můžeme bavit
     o 15-30 měsících v závislosti na několika faktorech.
 - question: 'Jaký je Váš měsíční poplatek, který musím hradit? '
-  answer: Měsíční poplatek činí 12%.
+  answer: 'Měsíční poplatek činí 6-8% v závislosti na finanční výsledcích. '
 - question: Je zapotřebí zaplatit kauci?
-  answer: Ano, kauce činí 500.000kč a je vratná po ukončení franchisingové smlouvy.
+  answer: Ano, kauce činí 250 000 Kč a je vratná po ukončení franchisingové smlouvy.
 - question: 'Je zapotřebí zaplatit licenční poplatek? '
   answer: Ano, licenční poplatek, který zahrnuje práva na užívání kompletního brandu
     Waf-Waf a práva na jeho používání je 750.000Kč + DPH.
