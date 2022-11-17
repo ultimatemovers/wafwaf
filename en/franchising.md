@@ -117,10 +117,9 @@ faq:
     It is necessary to have enough seats depending on the location and type of operation.
 
     In any case, we recommend having another warehouse available outside the premises.
-- question: What is the minimum / maximum investment for opening a Waf-Waf franchise?
-  answer: The minimum investment will be around EUR 70.000,00 the maximum EUR 240.000,00
-    depending on the size of the branch and its construction readiness. The investment
-    can be significantly smaller or even higher.
+- question: What is the minimum investment for opening a Waf-Waf franchise?
+  answer: 'The minimum investment will be around from EUR 40.000,00 depending on the
+    size of the branch and its construction readiness. '
 - question: What location do you recommend for the Waf-Waf branch?
   answer: In cities with more than 50,000 inhabitants and in its main places.
 - question: Do I have to buy supplies directly from you?
@@ -142,11 +141,11 @@ faq:
 - question: What is your monthly fee that I have to pay?
   answer: The monthly fee is 12%.
 - question: Is it necessary to pay a deposit?
-  answer: Yes, the deposit is EUR 20.000,00 and is refundable upon termination of
+  answer: Yes, the deposit is EUR 10.000,00 and is refundable upon termination of
     the franchise agreement.
 - question: Do I need to pay a license fee?
   answer: Yes, the license fee, which includes the rights to use the complete Waf-Waf
-    brand and the rights to use it, is EUR 30.000,00 + VAT.
+    brand and the rights to use it, is EUR 12.000,00 + VAT.
 mam_zajem: https://docs.google.com/forms/d/1iMidmc9xHbVnVLZVh6d6yE7hliv2U6I_DqN5lSW_3vI/prefill
 after_faq:
 - title: OWN ESTABLISHMENTS
