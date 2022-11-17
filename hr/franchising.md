@@ -68,40 +68,14 @@ accordions:
 
     Iskustvo u restoranu (nije uvjet)
 - title: POTREBNA POČETNA ULAGANJA
-  description: |-
-    ** POČETNO ULAGANJE **
-
-    Ulazni fee: 12.000,00 EUR
-
-    Depozit: 10.000,00 EUR
-
-    Investicija:  40.000,00 EUR ovisno o tipu i izboru poslovnice te koncepta
-
-    Trening osoblja
-
-    Početni troškovi + Rezerva
-
-    **MJESEČNE NAKNADE**
-
-    Naknada za franšizu: 6-8% od prodaje
-
-    **POSLOVNI TROŠKOVI**
-
-    Najam i energija
-
-    Plaća i troškovi osoblja
-
-    Sirovine, ambalaža i logistika
-
-    Marketing unutar i van poslovnice
-
-    IT i Sustavi
-
-    Kontrolni mehanizmi poslovnice
-
-    Ostali operativni, varijabilni i financijski troškovi
-
-    Ugovor se sklapa na period od 5 godina. Povrat ulaganja može se postići u roku od 12-24 mjeseca.
+  description: "POČETNO ULAGANJE \n\nUlazni fee: 12.000,00 EUR\n\nDepozit: 10.000,00
+    EUR\n\nInvesticija: Od 40.000,00 EUR ovisno o tipu i izboru poslovnice te koncepta\n\nTrening
+    osoblja\n\nPočetni troškovi + Rezerva\n\nMJESEČNE NAKNADE\n\nNaknada za franšizu:
+    6-8% od prodaje\n\nPOSLOVNI TROŠKOVI\n\nNajam i energija\n\nPlaća i troškovi osoblja\n\nSirovine,
+    ambalaža i logistika\n\nMarketing unutar i van poslovnice\n\nIT i Sustavi\n\nKontrolni
+    mehanizmi poslovnice\n\nOstali operativni, varijabilni i financijski troškovi\n\nUgovor
+    se sklapa na period od 5 godina. Povrat ulaganja može se postići u roku od 12-24
+    mjeseca."
 layout: franchising
 faq_title: ČESTA PITANJA VEZANA UZ FRANŠIZNE POSLOVNICE
 faq:
