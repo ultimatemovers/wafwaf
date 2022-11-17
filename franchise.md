@@ -132,7 +132,7 @@ faq:
   answer: Ano, kauce činí 250 000 Kč a je vratná po ukončení franchisingové smlouvy.
 - question: 'Je zapotřebí zaplatit licenční poplatek? '
   answer: Ano, licenční poplatek, který zahrnuje práva na užívání kompletního brandu
-    Waf-Waf a práva na jeho používání je 750.000Kč + DPH.
+    Waf-Waf a práva na jeho používání je 300 000 Kč bez dph.
 mam_zajem: https://docs.google.com/forms/d/1iMidmc9xHbVnVLZVh6d6yE7hliv2U6I_DqN5lSW_3vI/prefill
 after_faq:
 - title: VLASTNÍ PROVOZOVNY
