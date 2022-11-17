@@ -137,12 +137,12 @@ faq:
     svakom slučaju za manju poslovnicu očekujemo oko 1 godinu, a za veće poslovnice
     15-30 mjeseci, ovisno o više faktora.
 - question: Kolika je vaša mjesečna naknada koju moram platiti?
-  answer: Mjesečna naknada iznosi 12%.
+  answer: Mjesečna naknada iznosi 6-8%
 - question: Je li potrebno uplatiti depozit?
-  answer: Da, depozit iznosi 20.000,00 EUR i vraća se nakon raskida ugovora o franšizi.
+  answer: Da, depozit iznosi 10.000,00 EUR i vraća se nakon raskida ugovora o franšizi.
 - question: Trebam li platiti naknadu za licencu?
   answer: Da, licenčna naknada, koja uključuje prava na korištenje cjelokupnog brenda
-    Waf-Waf i prava na njegovo korištenje, iznosi 30.000,00 EUR + PDV.
+    Waf-Waf i prava na njegovo korištenje, iznosi 12.000,00 EUR + PDV.
 mam_zajem: https://docs.google.com/forms/d/1iMidmc9xHbVnVLZVh6d6yE7hliv2U6I_DqN5lSW_3vI/prefill
 after_faq:
 - title: VLASTITE POSLOVNICE
