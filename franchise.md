@@ -106,10 +106,9 @@ faq:
     Zapotřebí je mít dostatek míst k sezení v závislosti na lokalitě a typu provozu.
 
     Každopádně doporučujeme mít k dispozici nějaký další sklad mimo provozovnu.
-- question: Jaká je minimální/maximální investice pro otevření franchisy Waf-Waf?
-  answer: Minimální investice se bude pohybovat kolem 1 750 000 Kč, maximální pak
-    6 000 000 Kč v závislosti na velikost pobočky a její stavební připravenosti. Investice
-    tak může být výrazně menší a nebo take vyšší.
+- question: Jaká je minimální investice pro otevření franchisy Waf-Waf?
+  answer: Minimální investice se bude pohybovat kolem 1 000 000 Kč v závislosti na
+    velikost pobočky a její stavební připravenosti.
 - question: Jakou doporučujete lokalitu k umístění pobočky Waf-Waf?
   answer: Ve městech nad 50 000 obyvatel a na jeho hlavních místech.
 - question: Musím kupovat zásoby přímo od Vás?
