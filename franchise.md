@@ -48,7 +48,7 @@ third_subtitle: KONCEPTY – WAF-WAF FRANCHISE
 accordions:
 - title: PODPORA PRO FRANCHISANTY
   description: |-
-    **Před otevřením provozovny:**
+    Před otevřením provozovny:
 
     Vyhledání vhodné lokality, nabídka z lokalit, které jsou k dispozici
 
@@ -58,7 +58,7 @@ accordions:
 
     Nábor a vyškolení kompletního personálu včetně Vás, kde Vás zasvětíme do jednotlivých procesů  (provoz, kvalita, marketing, finance, personalistika, kontrola restaurací, věrnostní systém, software aj.)
 
-    **Po otevření provozovny:**
+    Po otevření provozovny:
 
     Zajištění dodávky surovin, obalů a ostatních materiálů (zejména marketingových) včetně technologie a logistiky
 
