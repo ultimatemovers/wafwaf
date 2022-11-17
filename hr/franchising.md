@@ -47,32 +47,17 @@ stores:
 third_subtitle: KONCEPT – WAF-WAF FRANŠIZA
 accordions:
 - title: PODRŠKA ZA FRANŠIZANTE
-  description: |-
-    ** Prije otvaranja poslovnice: **
-
-    Pronalaženje odgovarajuće lokacije, ponuda dostupnih lokacija
-
-    Arhitektonska studija i projektiranje objekta
-
-    Izgradnja i opremanje objekata po sistemu ključ u ruke
-
-    Zapošljavanje i edukacija kompletnog osoblja, uključujući i vas, gdje ćemo vas upoznati s pojedinim procesima (poslovanje, kvaliteta, marketing, financije, ljudski potencijali, kontrola restorana, sustav vjernosnog programa, softver itd.)
-
-    ** Nakon otvaranja objekta: **
-
-    Osiguravanje opskrbe sirovinama, ambalažom i drugim materijalima (osobito marketingom), uključujući tehnologiju i logistiku
-
-    Podrška centrale Waf-Waf-a
-
-    Postavljanje marketinške strategije i pomoć u lokalnom marketingu
-
-    Kontrola sistema poslovnice
-
-    Kompletna softverska oprema - blagajni sustav, skladišta
-
-    Procjena vaše izvedbe i pronalaženje optimalnog rješenja
-
-    Razvoj i pridržavanje standarda brenda
+  description: "Prije otvaranja poslovnice: \n\nPronalaženje odgovarajuće lokacije,
+    ponuda dostupnih lokacija\n\nArhitektonska studija i projektiranje objekta\n\nIzgradnja
+    i opremanje objekata po sistemu ključ u ruke\n\nZapošljavanje i edukacija kompletnog
+    osoblja, uključujući i vas, gdje ćemo vas upoznati s pojedinim procesima (poslovanje,
+    kvaliteta, marketing, financije, ljudski potencijali, kontrola restorana, sustav
+    vjernosnog programa, softver itd.)\n\nNakon otvaranja objekta: \n\nOsiguravanje
+    opskrbe sirovinama, ambalažom i drugim materijalima (osobito marketingom), uključujući
+    tehnologiju i logistiku\n\nPodrška centrale Waf-Waf-a\n\nPostavljanje marketinške
+    strategije i pomoć u lokalnom marketingu\n\nKontrola sistema poslovnice\n\nKompletna
+    softverska oprema - blagajni sustav, skladišta\n\nProcjena vaše izvedbe i pronalaženje
+    optimalnog rješenja\n\nRazvoj i pridržavanje standarda brenda"
 - title: OSNOVNI ZAHTJEVI
   description: |-
     Financijsko osiguranje (moguće putem zajma)
