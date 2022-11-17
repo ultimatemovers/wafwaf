@@ -71,21 +71,19 @@ accordions:
   description: |-
     ** POČETNO ULAGANJE **
 
-    Ulazni fee: 30.000,00 EUR
+    Ulazni fee: 12.000,00 EUR
 
-    Depozit: 20.000,00 EUR
+    Depozit: 10.000,00 EUR
 
-    Investicija:  70.000,00 EUR - 240.000,00 EUR - ovisno o tipu i izboru poslovnice te koncepta
+    Investicija:  40.000,00 EUR ovisno o tipu i izboru poslovnice te koncepta
 
     Trening osoblja
 
     Početni troškovi + Rezerva
 
-    Za 2021./2022. godinu nudimo mogućnost pregovaranja u okviru ponuđenih uvjeta ulaska u odnos, tzv. CovidPopust.
-
     **MJESEČNE NAKNADE**
 
-    Naknada za franšizu: 12% od prodaje
+    Naknada za franšizu: 6-8% od prodaje
 
     **POSLOVNI TROŠKOVI**
 
@@ -118,10 +116,9 @@ faq:
     Potrebno je imati dovoljno sjedecih mjesta ovisno o lokaciji i vrsti koncepta.
 
     U svakom slučaju, preporučujemo da imate još jedno skladište izvan prostora.
-- question: Koja je minimalna/maksimalna investicija za otvaranje Waf-Waf franšize?
-  answer: Minimalna investicija će biti oko 70.000,00 EUR, a maksimalna 240.000,00
-    EUR ovisno o veličini poslovnice i njezinoj pripremi za uredenje. Ovisno o tome
-    investicija može biti znatno manja ili čak veća.
+- question: Koja je minimalna investicija za otvaranje Waf-Waf franšize?
+  answer: Minimalna investicija će biti oko 40.000,00 EUR ovisno o tome investicija
+    može biti znatno manja ili čak veća.
 - question: Koju lokaciju preporučate za poslovnicu Waf-Waf?
   answer: U gradovima s više od 50.000 stanovnika i u svojim glavnim mjestima.
 - question: Moram li kupiti zalihe izravno od vas?
