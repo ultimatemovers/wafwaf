@@ -48,32 +48,17 @@ stores:
 third_subtitle: CONCEPT – WAF-WAF FRANCHISE
 accordions:
 - title: SUPPORT FOR FRANCHISANTS
-  description: |-
-    ** Before opening the establishment: **
-
-    Finding a suitable site, offer from the sites that are available
-
-    Architectural study and design of the establishment
-
-    Construction and equipment of turnkey facilities
-
-    Recruitment and training of complete staff, including you, where we will introduce you to individual processes (operation, quality, marketing, finance, human resources, restaurant control, loyalty system, software, etc.)
-
-    ** After opening the establishment: **
-
-    Ensuring the supply of raw materials, packaging and other materials (especially marketing), including technology and logistics
-
-    Waf-Waf headquarters support
-
-    Setting up a marketing strategy and assistance with local marketing
-
-    Establishment control systems
-
-    Complete software equipment - cash register system, warehouses
-
-    Evaluating your performance and finding the optimal solution
-
-    Development and adherence to brand standards
+  description: "Before opening the establishment: \n\nFinding a suitable site, offer
+    from the sites that are available\n\nArchitectural study and design of the establishment\n\nConstruction
+    and equipment of turnkey facilities\n\nRecruitment and training of complete staff,
+    including you, where we will introduce you to individual processes (operation,
+    quality, marketing, finance, human resources, restaurant control, loyalty system,
+    software, etc.)\n\nAfter opening the establishment: \n\nEnsuring the supply of
+    raw materials, packaging and other materials (especially marketing), including
+    technology and logistics\n\nWaf-Waf headquarters support\n\nSetting up a marketing
+    strategy and assistance with local marketing\n\nEstablishment control systems\n\nComplete
+    software equipment - cash register system, warehouses\n\nEvaluating your performance
+    and finding the optimal solution\n\nDevelopment and adherence to brand standards"
 - title: ESSENTIAL REQUIREMENTS
   description: |-
     Financial security (possibly by loan)
