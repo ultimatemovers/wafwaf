@@ -83,11 +83,11 @@ accordions:
 
     Zkušenosti s restauračním provozem (není podmínkou)
 - title: POTŘEBNÁ POČÁTEČNÍ INVESTICE
-  description: "**PRVOTNÍ INVESTICE**\n\nVstupní poplatek: 300 000 Kč\n\nKauce: 250
-    000 Kč\n\nInvestice: od cca. 1 mil. v závislosti na výběru typu provozu\n\nDále
-    je potřeba se připravit na náklady spojené s otevřením provozovny:   \nškolení
-    zaměstnanců, prvotní náklady na nákup zboží\n\n**MĚSÍČNÍ POPLATKY**\n\nFranšízový
-    poplatek: 6-8 % z tržby v závislosti na finančních výsledcích.\n\n**PROVOZNÍ NÁKLADY**\n\nNájemné
+  description: "PRVOTNÍ INVESTICE\n\nVstupní poplatek: 300 000 Kč\n\nKauce: 250 000
+    Kč\n\nInvestice: od cca. 1 mil. v závislosti na výběru typu provozu\n\nDále je
+    potřeba se připravit na náklady spojené s otevřením provozovny:  \nškolení zaměstnanců,
+    prvotní náklady na nákup zbož\n\nMĚSÍČNÍ POPLATKY\n\nFranšízový poplatek: 6-8
+    % z tržby v závislosti na finančních výsledcích.\n\nPROVOZNÍ NÁKLADY\n\nNájemné
     a energie\n\nMzdové a personální náklady\n\nSuroviny, obaly a logistika\n\nMarketing
     v rámci a okolí provozovny\n\nIT a Systémy\n\nKontrolní mechanismy provozovny\n\nOstatní
     provozní, režijní a finanční náklady\n\nSmlouva se uzavírá na dobu 5 let. Návratnosti
