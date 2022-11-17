@@ -139,7 +139,7 @@ faq:
     store and we can talk about 15-30 months for larger ones, depending on several
     factors.
 - question: What is your monthly fee that I have to pay?
-  answer: The monthly fee is 12%.
+  answer: The monthly fee is 6-8% depend of financial revenue.
 - question: Is it necessary to pay a deposit?
   answer: Yes, the deposit is EUR 10.000,00 and is refundable upon termination of
     the franchise agreement.
