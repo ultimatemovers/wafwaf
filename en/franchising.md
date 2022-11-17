@@ -70,23 +70,21 @@ accordions:
     Restaurant experience (not a requirement)
 - title: INITIAL INVESTMENT REQUIRED
   description: |-
-    ** INITIAL INVESTMENT **
+    \** INITIAL INVESTMENT **
 
-    Entrance fee: 30.000,00 EUR
+    Entrance fee: 12.000,00 EUR
 
-    Deposit: 20.000,00 EUR
+    Deposit: 10.000,00 EUR
 
-    Investment: Purchase price approx. 70.000,00 EUR - 240.000,00 EUR Depending on the type of operation selected
+    Investment: Purchase price approx. from 40.000,00 EUR depending on the type of operation selected.
 
     Staff training
 
     Initial costs + Reserve
 
-    For the year 2021/2022, we offer the possibility of negotiating within the offered entry conditions, the so-called CovidDiscount.
-
     **MONTHLY FEES**
 
-    Franchise fee: 12% of sales
+    Franchise fee: 6-8% of sales depend of financial revenue.
 
     **OPERATING COSTS**
 
