@@ -756,7 +756,7 @@ html .load-hidden {
   font-family: 'AvenirNext-Regular', sans-serif;
   font-size: 1.125rem;
   line-height: 5px;
-  white-space: pre-wrap;
+  white-space: pre-line;
   overflow: hidden;
   -webkit-transition: max-height 0.6s ease-in;
   -o-transition: max-height 0.6s ease-in;
@@ -1082,7 +1082,7 @@ header nav .menu-item.active {
   font-family: 'AvenirNext-Regular', sans-serif;
   font-size: 18px;
   line-height: 5px;
-  white-space: pre-wrap;
+  white-space: pre-line;
   overflow: hidden;
   -webkit-transition: max-height 0.6s ease-in-out;
   -o-transition: max-height 0.6s ease-in-out;
