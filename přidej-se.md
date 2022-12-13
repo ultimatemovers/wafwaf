@@ -60,7 +60,7 @@ jobs:
     hledáme do Waf-Waf?**\n\nMladé ambiciózní kolegyně na brigádu a výpomoc. Budeme
     očekávat pracovitou a milou osobu, která bude přínosem pro celý náš tým.\n\n**Výhodou
     bude, pokud budete mít zkušenosti z gastro provozu.**  \nCo vám můžeme nabídnout:\n\nZa
-    brigádu Vám můžeme nabídnout nástupní mzdu 100-130Kč/hod. Máme zájem o dlouhodobou
+    brigádu Vám můžeme nabídnout nástupní mzdu 110-130Kč/hod. Máme zájem o dlouhodobou
     spolupráci a také o to, že Vaše mzda bude růst, stejně jako naše rozšiřující se
     společnost a proto Vaše mzda i jako u brigádníka se může posunout.\n\n**Dále také
     nabízíme nad rámec uvedené mzdy:**\n\n* pracovní oblečení\n* bonusy za denní plnění\n*
