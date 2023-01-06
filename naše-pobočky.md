@@ -140,14 +140,14 @@ locations:
 
     Pondělí - Neděle: 09:00 – 21:00
 
-    Kontaktní telefonní číslo: +420 608 918 243
+    Kontaktní telefonní číslo: +420 722 228 542
 
     Kontaktní email: brno.spalicek@waf-waf.cz
   location_description: Na této pobočce si můžete vychutnat jídlo na místě, jenž disponuje
     kapacitou až 75 míst a nebo si vyzvednout jídlo s sebou. Slečny Vám připraví naše
     produkty na talíř Waf-Waf a nebo do hezkého obalu a dají Vám papírovou tašku pro
     snazší odnos vaflí, lívanců nebo palačinek.
-  contact_number: "+420 608 918 243\L"
+  contact_number: "+420 722 228 542"
   first_column_above_image: Brněnská pobočka se otevřela 17.11. 2019 a nabízí kompletní
     sortiment konceptu Waf-Waf, ať už se jedná o oblíbené vafle, palačinky, lívance
     nebo i milkshakes, fresh-juices a další originální produkty jako SushiWaf, BigWaf,
