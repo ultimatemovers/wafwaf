@@ -2,13 +2,14 @@
 button_text: SHOW MORE
 feature_image: "/assets/images/20210525_123201000_ios.jpg"
 layout: post
-published_at: 2022-05-13T12:29:09.000+00:00
+published_at: 2023-01-31 13:02:17 +0000
 title: New in Waf, this is the Waf Club loyalty program
 excerpt: 'This year we have prepared a big novelty for you. We did not laze over the
   covid period and worked on further development. We wanted to bring something interesting
   again, while you will enjoy even more #news. In a few weeks, the new Waf-Waf Club
   customer program will be launched!'
 post_url: ''
+post_image: "/assets/images/20210525_123201000_ios.jpg"
 
 ---
 This year we have prepared a big novelty for you. We did not laze over the covid period and worked on further development. We wanted to bring something interesting again, while you will enjoy even more #newexpirience.
