@@ -59,3 +59,5 @@ fields:
     display_utc: false
   hidden: true
   default: now
+pages:
+- cz/_posts/2022-03-01-pobocka-v-palladium-je-opet-na-patre-2-v-ramci-food-court.md
