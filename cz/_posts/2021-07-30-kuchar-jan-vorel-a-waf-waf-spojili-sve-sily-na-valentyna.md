@@ -6,9 +6,10 @@ excerpt: 'V rámci letošního roku jsme si pro Vás nachystali velkou novinku.
   se tak bude spouštět nový zákaznický program Waf-Waf Club!'
 feature_image: "/assets/images/20210525_123201000_ios.jpg"
 layout: post
-published_at: 2021-10-08T12:26:06.000+00:00
+published_at: 2023-01-31 12:55:49 +0000
 post_url: ''
 button_text: ZOBRAZIT VÍCE
+post_image: "/assets/images/20210525_123201000_ios.jpg"
 
 ---
 V rámci letošního roku jsme si pro Vás nachystali velkou novinku. Přes covidové období jsme nelenili a pracovali na dalším rozvoji. Chtěli jsme přinést opět něco zajímavého, při čemž si užijete ještě větší #novyzazitek.   
