@@ -2,13 +2,14 @@
 button_text: PRIKAŽI VIŠE
 feature_image: "/assets/images/20210525_123201000_ios.jpg"
 layout: post
-published_at: 2022-05-13T12:29:09.000+00:00
+published_at: 2023-01-31 13:04:44 +0000
 title: Novo u Wafuu, ovo je program vjernosti Waf Cluba
 excerpt: 'Ove godine smo za vas pripremili veliki novitet. Nismo ljenčarili u razdoblju
   covida i radili smo na daljnjem razvoju. Htjeli smo ponovno donijeti nešto zanimljivo,
   a vi ćete uživati ​​u još više #vijesti. Za nekoliko tjedana će biti pokrenut novi
   korisnički program Waf-Waf Club!'
 post_url: ''
+post_image: "/assets/images/20210525_123201000_ios.jpg"
 
 ---
 Ove godine smo za vas pripremili veliki novitet. Nismo ljenčarili u razdoblju covida i radili smo na daljnjem razvoju. Htjeli smo ponovno donijeti nešto zanimljivo, a vi ćete uživati ​​u još više #novogiskustva.
