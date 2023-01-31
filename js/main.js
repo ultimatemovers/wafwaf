@@ -667,15 +667,15 @@
 
   if(document.querySelector('.show-more-btn'))
   {
-    document.querySelectorAll('.show-more-btn').forEach((b) => {
-       b.addEventListener('click', (e) => {
-        const id = e.target.dataset.post
-        const postContent = document.querySelector(`[data-post-id='${id}'] .post-content`)
-        postContent.style = 'max-height: 2000px;'
-        postContent.classList.remove('fool-class')
-        e.target.remove()
-       })
-    })
+    // document.querySelectorAll('.show-more-btn').forEach((b) => {
+    //    b.addEventListener('click', (e) => {
+    //     const id = e.target.dataset.post
+    //     const postContent = document.querySelector(`[data-post-id='${id}'] .post-content`)
+    //     postContent.style = 'max-height: 2000px;'
+    //     postContent.classList.remove('fool-class')
+    //     e.target.remove()
+    //    })
+    // })
   }
 
   function toggleAccordion(el) {

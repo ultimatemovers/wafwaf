@@ -970,13 +970,20 @@ header nav .menu-item.active {
 }
 
 /* Posts */
-.latest-posts .post-title {
+.latest-posts .post-title,
+#single-article .post-title {
   font-family: 'Brandon', sans-serif;
   font-weight: bold;
   font-size: 1.4rem;
   line-height: 1.8rem;
   color: #CF909B;
   min-height: 84px;
+}
+
+#single-article .post-content p,
+#single-article .post-content p a {
+  margin-top: 16px;
+  font-size: 18px;
 }
 
 .latest-posts .post-content {
@@ -987,6 +994,10 @@ header nav .menu-item.active {
 .showcase-item img {
   border-radius: 20px;
   overflow: hidden;
+}
+
+#single-article .multi-lang {
+  display: none;
 }
 
 /* Button */
@@ -1397,12 +1408,6 @@ footer #newsletter input::placeholder {
     padding-right: 8px;
   }
 
-  /* body .rubic-pattern {
-    background-size: 200px;
-    height: 20px;
-    border-radius: 0!important;
-  } */
-
   .navbar-pattern {
     display: none;
   }
@@ -1709,7 +1714,18 @@ footer #newsletter input::placeholder {
   }
   .change-location h2 {
     font-size: 1rem;
-}
+  }
+  
+  #single-article .post-content p,
+  #single-article .post-content p a {
+    margin-top: 14px;
+    font-size: 16px;
+  }   
+  
+  #single-article .post-title {
+    font-size: 25px;
+    line-height: 32px;
+  }
 }
 
 @media (min-width: 1439px) {
@@ -1772,5 +1788,10 @@ footer #newsletter input::placeholder {
 @media(min-width: 500px) {
   .fool-class {
     max-height: 450px; display: -webkit-box; -webkit-line-clamp: 19; -webkit-box-orient: vertical; overflow: hidden;
+  }
+
+  #single-article .post-title {
+    font-size: 48px;
+    line-height: 60px;
   }
 }

@@ -50,13 +50,13 @@
           <div class="post-content sm:w-3/4 sm:mx-auto lg:w-full btn-zoom-in-out fool-class">
             {{ post.content }}
           </div>
-          {% if post.content.size > 700 %}
-            <div data-post="{{ post.id }}" class="show-more-btn cursor-pointer sm:w-1/2 lg:w-full rounded-outline-btn mt-10 block btn-zoom-in-out">
+          <!-- {% if post.content.size > 700 %}
+            <a data-post="{{ post.id }}" class="show-more-btn cursor-pointer sm:w-1/2 lg:w-full rounded-outline-btn mt-10 block btn-zoom-in-out">
               {{ post.button_text }}
-            </div>
-          {% endif %}
-          {% if post.post_url != '' %}
-          <a target="_blank" href="{{ post.post_url }}" class="sm:w-1/2 lg:w-full rounded-outline-btn mt-6 block btn-zoom-in-out">{{ post.button_text }}</a>
+            </a>
+          {% endif %} -->
+          {% if post.url != '' %}
+          <a target="_blank" href="{{ post.url }}" class="sm:w-1/2 lg:w-full rounded-outline-btn mt-6 block btn-zoom-in-out">{{ post.button_text }}</a>
           {% endif %}
         </div>
       {% endfor %}

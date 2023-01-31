@@ -1,0 +1,31 @@
+{% assign current_page = 'single-article' %}
+{% assign page_title = page.title %}
+{% assign pageUrl = page.path | split: "/" %}
+
+{% include head.html %}
+
+{% include nav.html %}
+
+
+<main class="container sm:py-8 reveal-delay-2200">
+  <div class="mx-auto hero-custom-carousel flex items-center justify-center">
+    <div class="overflow-hidden w-full">
+      <img src="{{ page.post_image | img_url: '1200x1200'}}" alt="wafwaf hero" width="100%">
+    </div>
+  </div>
+
+  <div class="sm:w-3/5 mx-auto mt-12 mb-20 px-4">
+    <h1 class="post-title mb-16 md:text-center ">
+      {{ page.title }}
+    </h1>
+    <div class="post-content">
+      {{ page.content | markdownify }}
+    </div>
+  </div>  
+</main>
+  
+
+
+
+
+{% include footer.html %}
