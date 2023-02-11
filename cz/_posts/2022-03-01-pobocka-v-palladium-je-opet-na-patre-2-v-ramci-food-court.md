@@ -1,12 +1,20 @@
 ---
-feature_image: "/assets/images/stand-concept.jpg"
+feature_image: "/assets/images/untitled-design-7.png"
 layout: post
 published_at: 2023-01-31T12:55:05.000+00:00
 title: Valentýnský týden ve Waf-Waf - 13.2.-19.2.2023
 excerpt: Valentýnský týden ve Waf-Waf - 13.2.-19.2.2023
 post_url: ''
 button_text: ZOBRAZIT VÍCE
-post_image: "/assets/images/2b0600fd-66e6-4ea0-a74a-f62e4ded0518.JPG"
+post_image: "/assets/images/untitled-design-6.png"
 
 ---
-Naše pobočka v rámci OC Palladium má za sebou další přesun a tentokrát již na stálo. Po rekonstrukci, které se provedla v tomto obchodním centru jsme obdrželi nové místo pro náš stánkový koncept Waf-Waf na patře +2 v rámci pozměněného food-court. Aktuálně se nacházíme přímo uprostřed a určitě nás neminete. Zachovali jsme 20 míst k sezení a budeme se snažit Vám vytvořit i zde dokonalou atmosféru s výbornými vaflemi, palačinkami a lívanci. Na této pobočce si můžete vychutnat kompletní sortiment a naše slečny se již těší na Vaši návštěvu. #wafwafpalladium v novém!
+Hledáte nejlepší místo, kde strávit letošní Valentýn?   
+  
+Svátek zamilovaných je významná věc a ve Waf-Waf jsme se rozhodli pro tento týden připravit speciální produkt! Náš WafLover, který jsme vám již ukázali před několika lety, ale rozhodli jsme pro re-design s některými novými přísadami, které máme aktuálně na nabídce. Produkt se skládá z limetkového mascarpone, saldo topingu, malinového coulis, domácí šlehačky a malin. 
+
+![](/assets/images/01195616-60e5-404d-a4f5-3791d4dd5e33.JPG)
+
+Pro pány pak doporučujeme například BigWaf z naší nabídky, který zaručené chuťově uspokojí i toho největšího jedlíka.   
+  
+Valentýnský týden od 13.2.2023 - 19.2.2023 na všech pobočkách Waf-Waf! 
