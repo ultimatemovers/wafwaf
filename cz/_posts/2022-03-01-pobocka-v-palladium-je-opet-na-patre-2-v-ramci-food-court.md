@@ -4,7 +4,7 @@ layout: post
 published_at: 2023-01-31T12:55:05.000+00:00
 title: Valentýnský týden ve Waf-Waf - 13.2.-19.2.2023
 excerpt: Valentýnský týden ve Waf-Waf - 13.2.-19.2.2023
-post_url: ''
+post_url: valentynsky-tyden-ve-waf-waf
 button_text: ZOBRAZIT VÍCE
 post_image: "/assets/images/untitled-design-6.png"
 
