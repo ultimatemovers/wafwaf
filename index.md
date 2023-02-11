@@ -2,8 +2,8 @@
 big_title: Ty nejlepší vafle
 subtitle: Waf-Waf to jsou ty nejlepší vafle, palačinky a lívance, které jste měli
   možnost ochutnat.
-breakfast: 'Již jste ochutnali naši novinku CakeWaf ?! '
-breakfast_image: "/assets/images/cakewaf-2022.jpg"
+breakfast: 'Valentýnský týden ve Waf-Waf! '
+breakfast_image: "/assets/images/bcc2bda0-cee5-4954-aec7-6fa4813af84b.JPG"
 delivery: Rozvážíme každý den od 08:00 do 21:00
 layout: homepage
 hero_images:
