@@ -1058,6 +1058,21 @@ header nav .menu-item.active {
   padding-bottom: 0;
 }
 
+.form-container {
+  max-width: 368px;
+  margin: 0 auto;
+}
+.form-container input,
+.form-container textarea {
+  width: 100%;
+  margin-top: 20px;
+  padding: 8px 20px;
+  outline: none;
+  border-radius: 10px;
+}
+.form-container textarea {
+  resize: none;
+}
 .franchising-subtitle{
   font-family: 'Obcecada Sans';
   font-size: 3.5rem;
