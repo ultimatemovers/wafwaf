@@ -148,7 +148,7 @@ after_faq:
   content: "Ostrava, Plzeň, Liberec, Hradec Králové, Brno, Ústí nad Labem, České Budějovice
     aj. \n\nNěmecko, Polsko, Slovensko, Rakousko, Maďarsko, Itálie, Chorvatsko, Srbsko,
     Slovinsko a další státy v EU či mimo EU. "
-mam_zajem_title: 'Chcete nás následovat? Stací vyplnit krátký dotazník:'
+mam_zajem_title: 'Zajímá Vás franchise Waf-Waf? Vyplňte krátký dotazník, děkujeme. '
 mam_zajem_button: MAM ZAJEM
 
 ---
