@@ -2,8 +2,8 @@
 big_title: Ty nejlepší vafle
 subtitle: Waf-Waf to jsou ty nejlepší vafle, palačinky a lívance, které jste měli
   možnost ochutnat.
-breakfast: Valentýnský týden ve Waf-Waf - 13.2. - 19.2.2023
-breakfast_image: "/assets/images/untitled-design-11.png"
+breakfast: 'Waf-Waf se rozrůstá o další pobočku, buďte součástí naší sítě! '
+breakfast_image: "/assets/images/franchising-uvodni-fotka-nerozmazana.jpg"
 delivery: Rozvážíme každý den od 08:00 do 21:00
 layout: homepage
 hero_images:
