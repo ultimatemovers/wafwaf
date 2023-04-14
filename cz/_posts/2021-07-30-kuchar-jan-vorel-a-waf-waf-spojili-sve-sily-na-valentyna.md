@@ -1,7 +1,7 @@
 ---
 title: Všichni registrování zákazníci mají 20% slevu až do 24.4.2023
 excerpt: Všichni registrování zákazníci mají 20% slevu až do 24.4.2023
-feature_image: "/assets/images/untitled-design-8.png"
+feature_image: "/assets/images/20210525_123201000_ios.jpg"
 layout: post
 published_at: 2023-01-31T12:55:49.000+00:00
 post_url: waf-club-card-20%-sleva-registrovaní-zákazníci
