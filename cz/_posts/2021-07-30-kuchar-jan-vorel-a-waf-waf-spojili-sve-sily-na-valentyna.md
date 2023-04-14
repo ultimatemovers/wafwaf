@@ -1,6 +1,6 @@
 ---
-title: Všichni registrování zákazníci mají 20% slevu až do 28.2.2023
-excerpt: Všichni registrování zákazníci mají 20% slevu až do 28.2.2023
+title: Všichni registrování zákazníci mají 20% slevu až do 24.4.2023
+excerpt: Všichni registrování zákazníci mají 20% slevu až do 24.4.2023
 feature_image: "/assets/images/untitled-design-8.png"
 layout: post
 published_at: 2023-01-31T12:55:49.000+00:00
@@ -9,9 +9,9 @@ button_text: ZOBRAZIT VÍCE
 post_image: "/assets/images/untitled-design-9.png"
 
 ---
-V rámci měsíce února jsme si připravili opět skvělou akci pro naše nejvěrnější zákazníky! Chtěli jsme přinést opět něco zajímavého, při čemž si užijete ještě větší #novyzazitek.
+V rámci měsíce dubna jsme si připravili opět skvělou akci pro naše nejvěrnější zákazníky! Chtěli jsme přinést opět něco zajímavého, při čemž si užijete ještě větší #novyzazitek.
 
-Každý si tak může na našich pobočkách zakoupit věrnostní kartičku za symbolickou cenu 49Kč, která Vás dostane do magického světa, kde Vás budeme odměňovat za Vaši návštěvu Waf-Waf. Až do konce února obdržíte 20% slevu na každý nákup ve Waf-Waf! Po obdržení zákaznické kartičky se stačí registrovat [ZDE](bit.ly/registrace_waf_card "Registrace"), aby byla sleva aktivní. 
+Každý si tak může na našich pobočkách zakoupit věrnostní kartičku za symbolickou cenu 49Kč, která Vás dostane do magického světa, kde Vás budeme odměňovat za Vaši návštěvu Waf-Waf. Až do 24.4.2023 obdržíte 20% slevu na každý nákup ve Waf-Waf! Po obdržení zákaznické kartičky se stačí registrovat, aby byla sleva aktivní.
 
 ![](/assets/images/untitled-design-10.png)
 
