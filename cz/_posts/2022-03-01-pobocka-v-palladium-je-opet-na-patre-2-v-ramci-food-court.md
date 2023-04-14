@@ -2,7 +2,7 @@
 feature_image: "/assets/images/20111231_230000000_ios-103-modified.png"
 layout: post
 published_at: 2023-01-31T12:55:05.000+00:00
-title: 'Waf-Waf bude otevírat novou pobočku! '
+title: 'Brzy budeme otevírat novou pobočku!  '
 excerpt: 'Waf-Waf bude otevírat novou pobočku! '
 post_url: waf-waf-nova-pobocka
 button_text: ZOBRAZIT VÍCE
