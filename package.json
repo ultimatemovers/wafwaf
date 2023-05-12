@@ -1,0 +1,18 @@
+{
+  "name": "wafwaf",
+  "version": "1.0.0",
+  "description": "![Preview](https://user-images.githubusercontent.com/896475/47384541-89053c80-d6d5-11e8-98dc-dba16e192de9.gif)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tinacms dev -p 3002 --datalayer-port 4002 -c 'jekyll serve'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tinacms/cli": "^1.5.12",
+    "dotenv": "^16.0.3",
+    "tinacms": "^1.5.5"
+  }
+}
