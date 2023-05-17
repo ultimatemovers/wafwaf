@@ -1,18 +1,18 @@
 ---
-title: Všichni registrování zákazníci mají 20% slevu až do 24.4.2023
-excerpt: Všichni registrování zákazníci mají 20% slevu až do 24.4.2023
+title: 'Pondělí - pátek, to znamená sleva 20% pro registrované zákazníky Waf-Waf Club'
+excerpt: 'Pondělí - pátek, to znamená sleva 20% pro registrované zákazníky Waf-Waf Club'
 feature_image: /assets/images/20210525_123201000_ios.jpg
 layout: post
-published_at: 2023-01-31T12:55:49.000Z
+published_at: '2023-01-31T12:55:49.000Z'
 post_url: waf-club-card-20%-sleva-registrovaní-zákazníci
 button_text: ZOBRAZIT VÍCE
 post_image: /assets/images/untitled-design-9.png
 _template: post
 ---
 
-V rámci měsíce dubna jsme si připravili opět skvělou akci pro naše nejvěrnější zákazníky! Chtěli jsme přinést opět něco zajímavého, při čemž si užijete ještě větší #novyzazitek.
+Připravili jsme si opět skvělou akci pro naše nejvěrnější zákazníky! Chtěli jsme přinést znovu něco zajímavého, při čemž si užijete ještě větší #novyzazitek.
 
-Každý si tak může na našich pobočkách zakoupit věrnostní kartičku za symbolickou cenu 49Kč, která Vás dostane do magického světa, kde Vás budeme odměňovat za Vaši návštěvu Waf-Waf. Až do 24.4.2023 obdržíte 20% slevu na každý nákup ve Waf-Waf! Po obdržení zákaznické kartičky se stačí registrovat, aby byla sleva aktivní.
+Každý si tak může na našich pobočkách zakoupit věrnostní kartičku za symbolickou cenu 49Kč, která Vás dostane do magického světa, kde Vás budeme odměňovat za Vaši návštěvu Waf-Waf. Každý všední den obdržíte 20% slevu na každý nákup ve Waf-Waf! Po obdržení zákaznické kartičky se stačí registrovat, aby byla sleva aktivní.
 
 ![](/assets/images/untitled-design-10.png)
 
