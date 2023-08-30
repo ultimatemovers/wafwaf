@@ -5,7 +5,7 @@ layout: menu
 categories:
   - category_title: KIDS MENU
     products:
-      - product_title: Ovocné plněné lívance
+      - product_title: OVOCNÉ PLNĚNÉ LÍVANCE
         product_image: /assets/images/OvocnÃ© LÃ­vance s mlÃ©kem.jpg
         product_description: 'lívance plněné banánem a jahodami, čokoládová poleva, javorový sirup'
       - product_title: SYRNIKI
@@ -186,6 +186,7 @@ categories:
         product_price: null
 _template: menu
 ---
+
 
 
 
