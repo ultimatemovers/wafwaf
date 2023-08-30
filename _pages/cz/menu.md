@@ -4,6 +4,12 @@ big_title: WAF-WAF NABÍDKA
 layout: menu
 categories:
   - category_title: SPECIÁLNÍ NABÍDKA
+    products:
+      - product_title: BEEFTELLA
+        product_image: /assets/images/Beeftella.jpg
+        product_description: >-
+          lívance, hovězí maso, římský salát, lanýžová majonéza, glazovaná
+          cibulka
   - category_title: SLADKÉ
     products:
       - product_title: CREAMWAF
@@ -140,5 +146,6 @@ categories:
         product_price: null
 _template: menu
 ---
+
 
 
