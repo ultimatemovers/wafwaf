@@ -301,7 +301,6 @@
         }
         if(cl.id === 'hr'){
           const currentPath = location.pathname.replaceAll('/', '')
-          console.log(currentPath)
           
           if(currentPath === '' || currentPath === 'en')
             location.href = location.origin + "/hr/" 
