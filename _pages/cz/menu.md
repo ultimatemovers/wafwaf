@@ -64,10 +64,6 @@ categories:
         product_image: /assets/images/cake-waf-2022.jpg
         product_description: 'tvarohový krém, karamelový toping, borůvky, banán, jahoda'
         product_price: null
-      - product_title: COCOWAF
-        product_image: /assets/images/cocowaf-2022.jpg
-        product_description: 'vanilková poleva, karamelový toping, maliny, kokos'
-        product_price: null
       - product_title: WAFTELLA
         product_image: /assets/images/waftella-2022.jpg
         product_description: 'nutella, oreo, jahody, maliny, mascarpone'
@@ -186,6 +182,7 @@ categories:
         product_price: null
 _template: menu
 ---
+
 
 
 
