@@ -5,6 +5,11 @@ layout: menu
 categories:
   - category_title: FRESH MENU
     products:
+      - product_title: PLAINWAF
+        product_image: /assets/images/Plainwaf.jpg
+        product_description: >-
+          bezlepková a veganská vafle, bezlaktózové mléko sezónní ovoce,
+          čokoládová poleva
       - product_title: SALATELLA
         product_image: /assets/images/Salatella.jpg
         product_description: >-
@@ -163,6 +168,7 @@ categories:
         product_price: null
 _template: menu
 ---
+
 
 
 
