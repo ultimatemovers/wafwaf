@@ -5,6 +5,11 @@ layout: menu
 categories:
   - category_title: SPECIÁLNÍ NABÍDKA
     products:
+      - product_title: BOLOGNELLA
+        product_image: /assets/images/Bolognella.jpg
+        product_description: >-
+          palačinka, bolognese omáčka, parmazán, bešamel, zakysaná smetana,
+          parmazánový chips
       - product_title: BEEFTELLA
         product_image: /assets/images/Beeftella.jpg
         product_description: >-
@@ -146,6 +151,7 @@ categories:
         product_price: null
 _template: menu
 ---
+
 
 
 
