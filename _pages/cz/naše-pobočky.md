@@ -22,6 +22,7 @@ locations:
       forum.liberec@waf-waf.cz
     location_gmaps_url: >-
       https://www.google.com/maps/place/FORUM+Liberec/@50.7653503,15.0539859,17z/data=!3m1!4b1!4m6!3m5!1s0x4709369ed0b04f5b:0x47b98768b5353e8c!8m2!3d50.7653503!4d15.0565608!16s%2Fg%2F1vmr02lz?entry=ttu
+    location_description: 'Pobočka v Liberci se bude otevírat 11.9.2023 v 17:00. '
   - local_image: /assets/images/deniel-65_1.jpg
     first_left_image: /assets/images/letna-prvni-foto-vlevo-misto-te-rozmazane.jpg
     location_name: WAF-WAF LETNÁ
@@ -156,6 +157,7 @@ contact_us_button: Kontaktujte nas
 delivery_button: ' jak se tam dostanu'
 _template: locations
 ---
+
 
 
 
