@@ -3,26 +3,6 @@ permalink: /naše-pobočky/
 locations_title: Naše pobočky
 hero_image: /assets/images/kancelar5.jpg
 locations:
-  - local_image: /assets/images/IMG_4760.jpg
-    location_name: WAF-WAF - OC FORUM LIBEREC
-    location_address: 'nám. Soukenné 2a, 460 01 Liberec'
-    location_contact: |-
-      Otevírací doba:
-
-      Pondělí - Neděle:
-
-      08:00 - 20:00
-
-      Kontaktní telefonní číslo:
-
-
-
-      Kontaktní email:
-
-      forum.liberec@waf-waf.cz
-    location_gmaps_url: >-
-      https://www.google.com/maps/place/FORUM+Liberec/@50.7653503,15.0539859,17z/data=!3m1!4b1!4m6!3m5!1s0x4709369ed0b04f5b:0x47b98768b5353e8c!8m2!3d50.7653503!4d15.0565608!16s%2Fg%2F1vmr02lz?entry=ttu
-    location_description: 'Pobočka v Liberci se otevře již 11.9.2023 v 17:00. '
   - local_image: /assets/images/deniel-65_1.jpg
     first_left_image: /assets/images/letna-prvni-foto-vlevo-misto-te-rozmazane.jpg
     location_name: WAF-WAF LETNÁ
@@ -116,6 +96,26 @@ locations:
     boltfood: true
     damejidlo: true
     damejidlo_url: ' https://www.damejidlo.cz/restaurant/s0ma/waf-waf-belehradska'
+  - local_image: /assets/images/IMG_4760.jpg
+    location_name: WAF-WAF - OC FORUM LIBEREC
+    location_address: 'nám. Soukenné 2a, 460 01 Liberec'
+    location_contact: |-
+      Otevírací doba:
+
+      Pondělí - Neděle:
+
+      08:00 - 20:00
+
+      Kontaktní telefonní číslo:
+
+
+
+      Kontaktní email:
+
+      forum.liberec@waf-waf.cz
+    location_gmaps_url: >-
+      https://www.google.com/maps/place/FORUM+Liberec/@50.7653503,15.0539859,17z/data=!3m1!4b1!4m6!3m5!1s0x4709369ed0b04f5b:0x47b98768b5353e8c!8m2!3d50.7653503!4d15.0565608!16s%2Fg%2F1vmr02lz?entry=ttu
+    location_description: 'Pobočka v Liberci se otevře již 11.9.2023 v 17:00. '
   - local_image: /assets/images/fotokancl740x30.png
     first_left_image: /assets/images/fotokancl240x30 (kopie).png
     location_name: WAF-WAF OC VELKÝ ŠPALÍČEK
