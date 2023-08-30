@@ -3,16 +3,6 @@ permalink: /menu/
 big_title: WAF-WAF NABÍDKA
 layout: menu
 categories:
-  - category_title: KIDS MENU
-    products:
-      - product_title: OVOCNÉ PLNĚNÉ LÍVANCE
-        product_image: /assets/images/OvocnÃ© LÃ­vance s mlÃ©kem.jpg
-        product_description: 'lívance plněné banánem a jahodami, čokoládová poleva, javorový sirup'
-      - product_title: SYRNIKI
-        product_image: /assets/images/SyrnÃ­ky.jpg
-        product_description: >-
-          tvarohové lívance, maliny, jahodová poleva, moučkový cukr, zakysaná
-          smetana, máta
   - category_title: FRESH MENU
     products:
       - product_title: CAESARWAF
@@ -36,7 +26,7 @@ categories:
   - category_title: SPECIÁLNÍ NABÍDKA
     products:
       - product_title: TACOWAF
-        product_image: /assets/images/Tacowaf.jpg
+        product_image: /assets/images/Tacowaf-2.jpg
         product_description: >-
           lívance, limetkový krém, mango, borůvky, jahody, granátové jablko,
           limetka, máta
@@ -120,6 +110,16 @@ categories:
           dvě vafle, slanina, šunka, cheddarová omáčka, baby špenát, rukola,
           rajčata, majonéza, kečup
         product_price: null
+  - category_title: KIDS MENU
+    products:
+      - product_title: OVOCNÉ PLNĚNÉ LÍVANCE
+        product_image: /assets/images/OvocnÃ© LÃ­vance s mlÃ©kem.jpg
+        product_description: 'lívance plněné banánem a jahodami, čokoládová poleva, javorový sirup'
+      - product_title: SYRNIKI
+        product_image: /assets/images/SyrnÃ­ky.jpg
+        product_description: >-
+          tvarohové lívance, maliny, jahodová poleva, moučkový cukr, zakysaná
+          smetana, máta
   - category_title: SNÍDANĚ
     products:
       - product_title: EGGWAF
@@ -182,6 +182,7 @@ categories:
         product_price: null
 _template: menu
 ---
+
 
 
 
