@@ -142,15 +142,15 @@ after_faq:
       Liberec - OC Forum Liberec
   - title: 'AKTUÁLNĚ HLEDÁME FRANCHISANTY PRO LOKALITY:'
     content: >-
-      Ostrava, Plzeň, Liberec, Hradec Králové, Brno, Ústí nad Labem, České
-      Budějovice aj. 
+      Plzeň, Hradec Králové, Brno, Ústí nad Labem, České Budějovice aj. 
 
 
-      Německo, Polsko, Slovensko, Rakousko, Maďarsko, Itálie, Chorvatsko,
-      Srbsko, Slovinsko a další státy v EU či mimo EU. 
+      Německo, Polsko, Slovensko, Rakousko, Maďarsko, Itálie, Chorvatsko a další
+      státy v EU či mimo EU. 
 mam_zajem_title: 'Zajímá Vás franchise Waf-Waf? Vyplňte krátký dotazník, děkujeme. '
 mam_zajem_button: MÁM ZÁJEM
 _template: franchising
 ---
+
 
 
