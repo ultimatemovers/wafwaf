@@ -47,30 +47,6 @@ locations:
     boltfood: true
     damejidlo: true
     damejidlo_url: 'https://www.damejidlo.cz/restaurant/f6zc/waf-waf-m-horakove'
-  - local_image: /assets/images/screen-shot-2021-09-28-at-20-49-40.png
-    first_left_image: /assets/images/20200119_085517000_ios.jpg
-    location_name: WAF-WAF OC PALLADIUM (+2 patro)
-    location_address: 'Náměstí Republiky 1, 110 00 Nové Město'
-    location_contact: "Otevírací doba:\n\nPondělí - Neděle: 09:00 – 21:00\n\nKontaktní telefonní číslo:\_+ 420 725 745 898\n\nKontaktní email:\_palladium@waf-waf.cz"
-    location_gmaps_url: 'https://g.page/wafwafpalladium'
-    location_description: >-
-      Umístění pobočky je na patře +2 v OC Palladium v rámci food-court. Na této
-      pobočce si můžete vychutnat jídlo přímo na místě a nebo si nechat produkty
-      zabalit s sebou. Slečny Vám zabalí naše produkty do hezkého obalu a dají
-      Vám papírovou tašku pro snazší odnos vaflí, lívanců nebo palačinek.
-    contact_number: + 420 725 745 898
-    first_column_above_image: "Další pražská pobočka (v\_pořadí již třetí) se otevřela 19. ledna 2020 a nabízí kompletní sortiment konceptu Waf-Waf, ať už se jedná o oblíbené vafle, palačinky, lívance nebo i milkshakes, fresh-juices a další originální produkty. Zajímavá je specifickým interiérem, který zahrnuje i některé z retro prvků."
-    second_column_above_image: "Pobočka se nachází v OC Palladium (Praha 1, Náměstí Republiky 1, 110 00) v\_+ 2. patře\_v rámci food-court. \_Kapacita je\_20 zákazníků. Samozřejmostí je možnost\_take-away či rozvoz jídla. Radost uděláme i\_veganům, protože už i vegani si můžou sestavit vafli podle sebe! Stačí zaškrtnout políčko veganská vafle."
-    image_left: /assets/images/20200119_085523000_ios.jpg
-    third_column_under_image: "Doporučujeme ochutnat i některé z\_našich novinek, které jsme aktuálně přidali do našeho sortimentu. Věříme, že jsme Vás navnadili k\_návštěvě, těšíme se na Vás."
-    image_right_portrait: /assets/images/ocpalladium2.jpg
-    footer_image: /assets/images/kancelar1.jpg
-    footer_description: "Z\_této pobočky také probíhá rozvoz Waf-Waf produktů do různých koutů Prahy. Objednávat můžete na těchto platformách:"
-    wolt: true
-    wolt_url: 'https://wolt.com/cs/cze/prague/restaurant/waf-waf-palladium'
-    boltfood: true
-    damejidlo: true
-    damejidlo_url: 'https://www.damejidlo.cz/restaurant/p3ug/waf-waf-paladium'
   - local_image: /assets/images/highstreetconcept.jpg
     first_left_image: /assets/images/highstreetconcept.jpg
     location_name: WAF-WAF IPÁK
@@ -96,6 +72,30 @@ locations:
     boltfood: true
     damejidlo: true
     damejidlo_url: ' https://www.damejidlo.cz/restaurant/s0ma/waf-waf-belehradska'
+  - local_image: /assets/images/screen-shot-2021-09-28-at-20-49-40.png
+    first_left_image: /assets/images/20200119_085517000_ios.jpg
+    location_name: WAF-WAF OC PALLADIUM (+2 patro)
+    location_address: 'Náměstí Republiky 1, 110 00 Nové Město'
+    location_contact: "Otevírací doba:\n\nPondělí - Neděle: 09:00 – 21:00\n\nKontaktní telefonní číslo:\_+ 420 725 745 898\n\nKontaktní email:\_palladium@waf-waf.cz"
+    location_gmaps_url: 'https://g.page/wafwafpalladium'
+    location_description: >-
+      Umístění pobočky je na patře +2 v OC Palladium v rámci food-court. Na této
+      pobočce si můžete vychutnat jídlo přímo na místě a nebo si nechat produkty
+      zabalit s sebou. Slečny Vám zabalí naše produkty do hezkého obalu a dají
+      Vám papírovou tašku pro snazší odnos vaflí, lívanců nebo palačinek.
+    contact_number: + 420 725 745 898
+    first_column_above_image: "Další pražská pobočka (v\_pořadí již třetí) se otevřela 19. ledna 2020 a nabízí kompletní sortiment konceptu Waf-Waf, ať už se jedná o oblíbené vafle, palačinky, lívance nebo i milkshakes, fresh-juices a další originální produkty. Zajímavá je specifickým interiérem, který zahrnuje i některé z retro prvků."
+    second_column_above_image: "Pobočka se nachází v OC Palladium (Praha 1, Náměstí Republiky 1, 110 00) v\_+ 2. patře\_v rámci food-court. \_Kapacita je\_20 zákazníků. Samozřejmostí je možnost\_take-away či rozvoz jídla. Radost uděláme i\_veganům, protože už i vegani si můžou sestavit vafli podle sebe! Stačí zaškrtnout políčko veganská vafle."
+    image_left: /assets/images/20200119_085523000_ios.jpg
+    third_column_under_image: "Doporučujeme ochutnat i některé z\_našich novinek, které jsme aktuálně přidali do našeho sortimentu. Věříme, že jsme Vás navnadili k\_návštěvě, těšíme se na Vás."
+    image_right_portrait: /assets/images/ocpalladium2.jpg
+    footer_image: /assets/images/kancelar1.jpg
+    footer_description: "Z\_této pobočky také probíhá rozvoz Waf-Waf produktů do různých koutů Prahy. Objednávat můžete na těchto platformách:"
+    wolt: true
+    wolt_url: 'https://wolt.com/cs/cze/prague/restaurant/waf-waf-palladium'
+    boltfood: true
+    damejidlo: true
+    damejidlo_url: 'https://www.damejidlo.cz/restaurant/p3ug/waf-waf-paladium'
   - local_image: /assets/images/IMG_4760.jpg
     location_name: WAF-WAF - OC FORUM LIBEREC
     location_address: 'nám. Soukenné 2a, 460 01 Liberec'
