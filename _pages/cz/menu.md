@@ -3,26 +3,6 @@ permalink: /menu/
 big_title: WAF-WAF NABÍDKA
 layout: menu
 categories:
-  - category_title: FRESH MENU
-    products:
-      - product_title: CAESARWAF
-        product_image: /assets/images/CaesarWaf.jpg
-        product_description: >-
-          vaflové krutony, kuřecí maso, slanina, parmazán, cherry rajčata,
-          římský salát, dresink
-      - product_title: PROTEINWAF
-        product_image: /assets/images/Proteinwaf.jpg
-        product_description: 'lívance, tvaroh, arašídové máslo, banán, cookies sušenky'
-      - product_title: PLAINWAF
-        product_image: /assets/images/Plainwaf.jpg
-        product_description: >-
-          bezlepková a veganská vafle, bezlaktózové mléko sezónní ovoce,
-          čokoládová poleva
-      - product_title: SALATELLA
-        product_image: /assets/images/Salatella.jpg
-        product_description: >-
-          mini lívance, mango, jahody, maliny, borůvky, javorový sirup, moučkový
-          cukr, máta
   - category_title: SPECIÁLNÍ NABÍDKA
     products:
       - product_title: TACOWAF
@@ -40,6 +20,26 @@ categories:
         product_description: >-
           lívance, hovězí maso, římský salát, lanýžová majonéza, glazovaná
           cibulka
+  - category_title: FRESH MENU
+    products:
+      - product_title: CAESARWAF
+        product_image: /assets/images/CaesarWaf.jpg
+        product_description: >-
+          vaflové krutony, kuřecí maso, slanina, parmazán, cherry rajčata,
+          římský salát, dresink
+      - product_title: PROTEINWAF
+        product_image: /assets/images/Proteinwaf.jpg
+        product_description: 'lívance, tvaroh, arašídové máslo, banán, cookies sušenky'
+      - product_title: PLAINWAF
+        product_image: /assets/images/Plainwaf-2.jpg
+        product_description: >-
+          bezlepková a veganská vafle, bezlaktózové mléko sezónní ovoce,
+          čokoládová poleva
+      - product_title: SALATELLA
+        product_image: /assets/images/Salatella.jpg
+        product_description: >-
+          mini lívance, mango, jahody, maliny, borůvky, javorový sirup, moučkový
+          cukr, máta
   - category_title: SLADKÉ
     products:
       - product_title: CREAMWAF
@@ -182,6 +182,7 @@ categories:
         product_price: null
 _template: menu
 ---
+
 
 
 
