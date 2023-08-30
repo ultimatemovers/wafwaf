@@ -96,8 +96,8 @@ locations:
     boltfood: true
     damejidlo: true
     damejidlo_url: ' https://www.damejidlo.cz/restaurant/s0ma/waf-waf-belehradska'
-  - local_image: /assets/images/uploads/2021/09/28/brno1.jpg
-    first_left_image: /assets/images/uploads/2021/09/28/brno2.jpg
+  - local_image: /assets/images/fotokancl740x30.png
+    first_left_image: /assets/images/fotokancl240x30 (kopie).png
     location_name: WAF-WAF OC VELKÝ ŠPALÍČEK
     location_address: 'Mečová 695/2, 602 00 Brno-střed'
     location_contact: "Otevírací doba:\n\nPondělí - Neděle: 09:00 – 21:00\n\nKontaktní telefonní číslo:\_+420 608 670 260\n\nKontaktní email:\_brno.spalicek@waf-waf.cz"
@@ -124,8 +124,8 @@ locations:
       udělat rezervaci, neváhejte nás kontaktovat na uvedeném telefonním čísle.
       Kapacitou 74 zákazníků se Waf-Waf Brno také stává zatím největší pobočkou
       sítě Waf-Waf. Samozřejmostí je možnost odnést si jídlo s sebou. 
-    image_right_portrait: /assets/images/uploads/2021/09/28/brno4.jpg
-    footer_image: /assets/images/uploads/2021/09/28/brno-6.jpg
+    image_right_portrait: /assets/images/20111231_230000000_iOS.jpg
+    footer_image: /assets/images/20111231_230000000_iOS 82.jpg
     footer_description: "Radost uděláme i veganům, protože už i vegani si můžou sestavit vafli podle sebe! Stačí zaškrtnout políčko veganská vafle. Na pobočku smí i pejsci.\n\nZ\_této pobočky také probíhá rozvoz Waf-Waf produktů do různých koutů Brna. Objednávat můžete na těchto platformách:"
     wolt: true
     wolt_url: 'https://wolt.com/cs/cze/brno/restaurant/waf-waf-brno'
@@ -137,5 +137,6 @@ contact_us_button: Kontaktujte nas
 delivery_button: ' jak se tam dostanu'
 _template: locations
 ---
+
 
 
