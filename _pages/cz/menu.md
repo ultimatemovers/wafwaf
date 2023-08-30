@@ -5,6 +5,11 @@ layout: menu
 categories:
   - category_title: FRESH MENU
     products:
+      - product_title: CAESARWAF
+        product_image: /assets/images/CaesarWaf.jpg
+        product_description: >-
+          vaflové krutony, kuřecí maso, slanina, parmazán, cherry rajčata,
+          římský salát, dresink
       - product_title: PROTEINWAF
         product_image: /assets/images/Proteinwaf.jpg
         product_description: 'lívance, tvaroh, arašídové máslo, banán, cookies sušenky'
@@ -171,6 +176,7 @@ categories:
         product_price: null
 _template: menu
 ---
+
 
 
 
