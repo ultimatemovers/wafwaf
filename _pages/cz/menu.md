@@ -3,6 +3,13 @@ permalink: /menu/
 big_title: WAF-WAF NABÍDKA
 layout: menu
 categories:
+  - category_title: KIDS MENU
+    products:
+      - product_title: SYRNIKI
+        product_image: /assets/images/SyrnÃ­ky.jpg
+        product_description: >-
+          tvarohové lívance, maliny, jahodová poleva, moučkový cukr, zakysaná
+          smetana, máta
   - category_title: FRESH MENU
     products:
       - product_title: CAESARWAF
@@ -176,6 +183,7 @@ categories:
         product_price: null
 _template: menu
 ---
+
 
 
 
