@@ -1,8 +1,9 @@
 ---
 permalink: /naše-pobočky/
 locations_title: Naše pobočky
-hero_image: /assets/images/uploads/2021/08/16/20111231_230000000_ios-103.png
+hero_image: /assets/images/kancelar5.jpg
 locations:
+  - {}
   - local_image: /assets/images/deniel-65_1.jpg
     first_left_image: /assets/images/letna-prvni-foto-vlevo-misto-te-rozmazane.jpg
     location_name: WAF-WAF LETNÁ
@@ -137,6 +138,7 @@ contact_us_button: Kontaktujte nas
 delivery_button: ' jak se tam dostanu'
 _template: locations
 ---
+
 
 
 
