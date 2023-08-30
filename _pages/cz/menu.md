@@ -5,6 +5,9 @@ layout: menu
 categories:
   - category_title: FRESH MENU
     products:
+      - product_title: PROTEINWAF
+        product_image: /assets/images/Proteinwaf.jpg
+        product_description: 'lívance, tvaroh, arašídové máslo, banán, cookies sušenky'
       - product_title: PLAINWAF
         product_image: /assets/images/Plainwaf.jpg
         product_description: >-
@@ -168,6 +171,7 @@ categories:
         product_price: null
 _template: menu
 ---
+
 
 
 
