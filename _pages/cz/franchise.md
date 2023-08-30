@@ -7,7 +7,7 @@ second_subtitle: >-
   Chcete tedy originální značku a stát se obchodním partnerem rychle rostoucí
   společnosti?
 concept:
-  - icon: /uploads/2021/07/26/group-2184.svg
+  - icon: /assets/images/uploads/2021/07/26/group-2184.svg
     title: Inovativní koncept
     description: >-
       Unikátnost Waf-Waf spočívá především v inovativním konceptu přípravy
@@ -18,7 +18,7 @@ concept:
       v restauraci nebo vzít s sebou. Díky tomuto konceptu pak zákazníci mají
       téměř neomezené množství kombinací, a Společnost tak dokáže zaujmout
       široké spektrum konzumentů.
-  - icon: /uploads/2021/07/26/path-1125.svg
+  - icon: /assets/images/uploads/2021/07/26/path-1125.svg
     title: Waf-Waf jako lovebrand
     description: >-
       Waf-Waf je díky svému zaměření na kvalitu provedení a jedinečnému zdobení
@@ -31,7 +31,7 @@ concept:
       sociálních sítí, kdy má za své působení na sociálních sítích přes 32 tis.
       fanoušků. Z Waf-Waf se tak stal tzv. „lovebrand“, kdy se její zákazníci
       stávají součástí celého konceptu.
-  - icon: /uploads/2021/07/26/group-2186.svg
+  - icon: /assets/images/uploads/2021/07/26/group-2186.svg
     title: Rustový potenciál
     description: >-
       Waf-Waf se podařilo z inovativního konceptu vybudovat v krátkém čase
@@ -44,15 +44,15 @@ concept:
       započít.
 stores:
   - image: /assets/images/20111231_230000000_ios-103-modified.png
-    description: ' '
     title: Pobočka v OC (80 – 180m2)
+    description: ' '
   - image: >-
       /assets/images/waf-waf-ipak-misto-te-fotky-s-ruzovou-kytkou-mala-fotka-v-uvodnim-ramecku.jpg
-    description: ' '
     title: High street koncept – (60m2 – 150m2)
-  - image: /assets/images/stand-concept.jpg
     description: ' '
+  - image: /assets/images/stand-concept.jpg
     title: Stand koncept – (20 – 50m2)
+    description: ' '
 third_subtitle: KONCEPTY – WAF-WAF FRANCHISE
 accordions:
   - title: PODPORA PRO FRANCHISANTY
@@ -137,7 +137,9 @@ after_faq:
 
       Praha 1 - OC Palladium
   - title: FRANŠÍZOVÉ PROVOZOVNY
-    content: Brno - OC Špalíček
+    content: |-
+      Brno - OC Špalíček
+      Liberec - OC Forum Liberec
   - title: 'AKTUÁLNĚ HLEDÁME FRANCHISANTY PRO LOKALITY:'
     content: >-
       Ostrava, Plzeň, Liberec, Hradec Králové, Brno, Ústí nad Labem, České
@@ -150,4 +152,5 @@ mam_zajem_title: 'Zajímá Vás franchise Waf-Waf? Vyplňte krátký dotazník, 
 mam_zajem_button: MAM ZAJEM
 _template: franchising
 ---
+
 
