@@ -119,7 +119,7 @@ faq:
       větších se můžeme bavit o 15-30 měsících v závislosti na několika
       faktorech.
   - question: 'Jaký je Váš měsíční poplatek, který musím hradit? '
-    answer: 'Měsíční poplatek činí 6-8% v závislosti na finanční výsledcích. '
+    answer: Měsíční poplatek činí 8%.
   - question: Je zapotřebí zaplatit kauci?
     answer: 'Ano, kauce činí 250 000 Kč a je vratná po ukončení franchisingové smlouvy.'
   - question: 'Je zapotřebí zaplatit licenční poplatek? '
@@ -151,6 +151,7 @@ mam_zajem_title: 'Zajímá Vás franchise Waf-Waf? Vyplňte krátký dotazník, 
 mam_zajem_button: MÁM ZÁJEM
 _template: franchising
 ---
+
 
 
 
