@@ -5,6 +5,11 @@ layout: menu
 categories:
   - category_title: SPECIÁLNÍ NABÍDKA
     products:
+      - product_title: TACOWAF
+        product_image: /assets/images/Tacowaf.jpg
+        product_description: >-
+          lívance, limetkový krém, mango, borůvky, jahody, granátové jablko,
+          limetka, máta
       - product_title: BOLOGNELLA
         product_image: /assets/images/Bolognella.jpg
         product_description: >-
@@ -151,6 +156,7 @@ categories:
         product_price: null
 _template: menu
 ---
+
 
 
 
