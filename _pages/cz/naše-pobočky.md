@@ -3,7 +3,8 @@ permalink: /naše-pobočky/
 locations_title: Naše pobočky
 hero_image: /assets/images/kancelar5.jpg
 locations:
-  - {}
+  - location_name: WAF-WAF - OC FORUM LIBEREC
+    location_address: 'nám. Soukenné 2a, 460 01 Liberec'
   - local_image: /assets/images/deniel-65_1.jpg
     first_left_image: /assets/images/letna-prvni-foto-vlevo-misto-te-rozmazane.jpg
     location_name: WAF-WAF LETNÁ
@@ -138,6 +139,7 @@ contact_us_button: Kontaktujte nas
 delivery_button: ' jak se tam dostanu'
 _template: locations
 ---
+
 
 
 
