@@ -3,6 +3,13 @@ permalink: /menu/
 big_title: WAF-WAF NABÍDKA
 layout: menu
 categories:
+  - category_title: FRESH MENU
+    products:
+      - product_title: SALATELLA
+        product_image: /assets/images/Salatella.jpg
+        product_description: >-
+          mini lívance, mango, jahody, maliny, borůvky, javorový sirup, moučkový
+          cukr, máta
   - category_title: SPECIÁLNÍ NABÍDKA
     products:
       - product_title: TACOWAF
@@ -156,6 +163,7 @@ categories:
         product_price: null
 _template: menu
 ---
+
 
 
 
