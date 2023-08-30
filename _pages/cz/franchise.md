@@ -149,7 +149,7 @@ after_faq:
       Německo, Polsko, Slovensko, Rakousko, Maďarsko, Itálie, Chorvatsko,
       Srbsko, Slovinsko a další státy v EU či mimo EU. 
 mam_zajem_title: 'Zajímá Vás franchise Waf-Waf? Vyplňte krátký dotazník, děkujeme. '
-mam_zajem_button: MAM ZAJEM
+mam_zajem_button: MÁM ZÁJEM
 _template: franchising
 ---
 
