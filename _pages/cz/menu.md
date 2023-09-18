@@ -102,7 +102,7 @@ categories:
       - product_title: FRIEDWAF
         product_image: /assets/images/friedwaf-2022.jpg
         product_description: 'smažená palačinka, kuřecí maso, gouda, špenát, kukuřice'
-        product_price: null
+        product_price: 189
       - product_title: IRONWAF
         product_image: /assets/images/ironwaf2022-2.jpg
         product_description: 'vajíčko, slanina, cheddarová omáčka, rukola'
