@@ -30,6 +30,7 @@ categories:
         product_description: >-
           vaflové krutony, kuřecí maso, slanina, parmazán, cherry rajčata,
           římský salát, dresink
+        product_price: 174
       - product_title: PROTEINWAF
         product_image: /assets/images/Proteinwaf.jpg
         product_description: 'lívance, tvaroh, arašídové máslo, banán, cookies sušenky'
