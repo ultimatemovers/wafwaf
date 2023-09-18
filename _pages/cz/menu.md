@@ -183,13 +183,14 @@ categories:
         product_description: >-
           mléko, banán, vanilková zmrzlina, karamelový toping, barevné posypky,
           šlehačka, vafle
-        product_price: null
+        product_price: 119
       - product_title: WAF & SMOOTHIE PURPLE
         product_image: /assets/images/purplesmoothie-small.jpg
         product_description: 'borůvky, banán, kiwi, med'
         product_price: null
 _template: menu
 ---
+
 
 
 
