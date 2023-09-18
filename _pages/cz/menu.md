@@ -46,6 +46,7 @@ categories:
         product_description: >-
           mini lívance, mango, jahody, maliny, borůvky, javorový sirup, moučkový
           cukr, máta
+        product_price: 169
   - category_title: SLADKÉ
     products:
       - product_title: CREAMWAF
