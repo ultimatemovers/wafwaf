@@ -22,6 +22,7 @@ categories:
         product_description: >-
           lívance, hovězí maso, římský salát, lanýžová majonéza, glazovaná
           cibulka
+        product_price: 184
   - category_title: FRESH MENU
     products:
       - product_title: CAESARWAF
@@ -184,6 +185,7 @@ categories:
         product_price: null
 _template: menu
 ---
+
 
 
 
