@@ -16,6 +16,7 @@ categories:
         product_description: >-
           palačinka, bolognese omáčka, parmazán, bešamel, zakysaná smetana,
           parmazánový chips
+        product_price: 189
       - product_title: BEEFTELLA
         product_image: /assets/images/Beeftella.jpg
         product_description: >-
