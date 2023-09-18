@@ -14,4 +14,4 @@ feature_image: /assets/images/WhatsApp Image 2023-09-13 at 20.57.28.jpeg
 _template: post
 ---
 
-Waf-Waf se nezadržitelně rozrůstá a tak jsme otevřeli novou pobočku v Liberci. 
+Waf-Waf se nezadržitelně rozrůstá! Otevřeli jsme novou pobočku v Liberci.
