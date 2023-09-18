@@ -165,7 +165,7 @@ categories:
         product_description: >-
           mléko, jahody, vanilková zmrzlina, jahodový toping, barevné posypky,
           šlehačka
-        product_price: null
+        product_price: 119
       - product_title: Banánový Milkshake
         product_image: /assets/images/milkshake-bananovy-2022.jpg
         product_description: >-
