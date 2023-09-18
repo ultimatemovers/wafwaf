@@ -144,6 +144,9 @@ categories:
         product_price: 159
   - category_title: NÁPOJE & MILKSHAKES
     products:
+      - product_title: Malinová domácí limonáda
+        product_image: /assets/images/MalinovÃ¡ domÃ¡cÃ­ limonÃ¡da.jpg
+        product_price: 79
       - product_title: Ice-Tea
         product_image: /assets/images/icetea2022-2.jpg
         product_description: ledový čaj s limetkou
@@ -190,6 +193,7 @@ categories:
         product_price: 99
 _template: menu
 ---
+
 
 
 
