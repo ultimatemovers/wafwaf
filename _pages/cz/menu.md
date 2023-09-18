@@ -171,7 +171,7 @@ categories:
         product_description: >-
           mléko, banán, vanilková zmrzlina, karamelový toping, barevné posypky,
           šlehačka
-        product_price: null
+        product_price: 119
       - product_title: Jahodový Wafshake
         product_image: /assets/images/wafshake-jahodovy-2022.jpg
         product_description: >-
