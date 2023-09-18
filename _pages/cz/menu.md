@@ -122,12 +122,12 @@ categories:
       - product_title: OVOCNÉ PLNĚNÉ LÍVANCE
         product_image: /assets/images/OvocnÃ© LÃ­vance s mlÃ©kem.jpg
         product_description: 'lívance plněné banánem a jahodami, čokoládová poleva, javorový sirup'
-        product_price: 79
       - product_title: SYRNIKI
         product_image: /assets/images/SyrnÃ­ky.jpg
         product_description: >-
           tvarohové lívance, maliny, jahodová poleva, moučkový cukr, zakysaná
           smetana, máta
+        product_price: 79
   - category_title: SNÍDANĚ
     products:
       - product_title: EGGWAF
@@ -190,6 +190,7 @@ categories:
         product_price: null
 _template: menu
 ---
+
 
 
 
