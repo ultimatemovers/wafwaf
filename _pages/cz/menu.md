@@ -40,6 +40,7 @@ categories:
         product_description: >-
           bezlepková a veganská vafle, bezlaktózové mléko sezónní ovoce,
           čokoládová poleva
+        product_price: 159
       - product_title: SALATELLA
         product_image: /assets/images/Salatella.jpg
         product_description: >-
