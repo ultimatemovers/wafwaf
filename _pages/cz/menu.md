@@ -56,7 +56,7 @@ categories:
       - product_title: SKYWAF
         product_image: /assets/images/skywaf-small.jpg
         product_description: 'vafle, salko toping, jahody, lotus posyp a sušenka'
-        product_price: null
+        product_price: 179
       - product_title: CAKEWAF
         product_image: /assets/images/cake-waf-2022.jpg
         product_description: 'tvarohový krém, karamelový toping, borůvky, banán, jahoda'
