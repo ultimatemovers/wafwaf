@@ -80,7 +80,6 @@
   }
   const menuItems = document.querySelectorAll('.menu-item')
 
-  console.log('test')
 
 
   if(location.pathname.split('/')[1] === 'en'){
