@@ -10,6 +10,7 @@ categories:
         product_description: >-
           lívance, limetkový krém, mango, borůvky, jahody, granátové jablko,
           limetka, máta
+        product_price: 179
       - product_title: BOLOGNELLA
         product_image: /assets/images/Bolognella.jpg
         product_description: >-
@@ -182,6 +183,7 @@ categories:
         product_price: null
 _template: menu
 ---
+
 
 
 
