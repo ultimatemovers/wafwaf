@@ -151,7 +151,7 @@ categories:
       - product_title: Citronáda
         product_image: /assets/images/citronada2022-2.jpg
         product_description: domácí citronáda s mátou
-        product_price: null
+        product_price: 49
       - product_title: DALGONWAF
         product_image: /assets/images/dalgonwaf-small.jpg
         product_description: 'kávový krém, mléko, led'
@@ -190,6 +190,7 @@ categories:
         product_price: null
 _template: menu
 ---
+
 
 
 
