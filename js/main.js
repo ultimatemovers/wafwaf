@@ -80,6 +80,9 @@
   }
   const menuItems = document.querySelectorAll('.menu-item')
 
+  console.log('test')
+
+
   if(location.pathname.split('/')[1] === 'en'){
     menuItems.forEach((m,idx) => {      
       if(idx === 0 || idx === 8) {
