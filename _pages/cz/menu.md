@@ -94,7 +94,7 @@ categories:
         product_description: >-
           trhané hovězí maso,  cheddarová omáčka, grilovaná rajčata, cibule,
           salát, brusinky
-        product_price: null
+        product_price: 209
       - product_title: HALLOUMIWAF
         product_image: /assets/images/halloumiwaf-small.jpg
         product_description: 'avokádová pomazánka, haloumi sýr, rukola, rajče'
@@ -189,6 +189,7 @@ categories:
         product_price: null
 _template: menu
 ---
+
 
 
 
