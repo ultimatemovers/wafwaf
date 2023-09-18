@@ -74,7 +74,7 @@ categories:
         product_description: >-
           glazované hrušky, cini minis, čokoládové kousky, javorový sirup,
           domácí šlehačka
-        product_price: null
+        product_price: 179
       - product_title: WAF&CUT
         product_image: /assets/images/wafcut.jpg
         product_description: 'vafle nakrájena na kousky, posypané skořicovým cukrem, nutella '
