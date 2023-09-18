@@ -34,6 +34,7 @@ categories:
       - product_title: PROTEINWAF
         product_image: /assets/images/Proteinwaf.jpg
         product_description: 'lívance, tvaroh, arašídové máslo, banán, cookies sušenky'
+        product_price: 164
       - product_title: PLAINWAF
         product_image: /assets/images/Plainwaf-2.jpg
         product_description: >-
@@ -186,6 +187,7 @@ categories:
         product_price: null
 _template: menu
 ---
+
 
 
 
