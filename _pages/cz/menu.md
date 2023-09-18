@@ -84,7 +84,7 @@ categories:
       - product_title: WAFCHICK
         product_image: /assets/images/wafchick-small.jpg
         product_description: 'vafle, maxi kuřecí strips, salát, okurka, majonéza'
-        product_price: null
+        product_price: 209
       - product_title: MAPLEWAF
         product_image: /assets/images/maplewaf2022-2.jpg
         product_description: 'vajíčko, slanina, cheddarová omáčka, rukola, rajče, javorový sirup'
@@ -189,6 +189,7 @@ categories:
         product_price: null
 _template: menu
 ---
+
 
 
 
