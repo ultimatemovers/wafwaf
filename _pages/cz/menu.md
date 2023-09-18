@@ -159,7 +159,7 @@ categories:
       - product_title: WAFRAPPE
         product_image: /assets/images/wafrappe2022.jpg
         product_description: 'ledová káva s vanilkovou zmrzlinou, šlehačka, lotus posyp'
-        product_price: null
+        product_price: 99
       - product_title: Jahodový Milkshake
         product_image: /assets/images/milkshake-jahodovy2022.jpg
         product_description: >-
