@@ -122,6 +122,7 @@ categories:
       - product_title: OVOCNÉ PLNĚNÉ LÍVANCE
         product_image: /assets/images/OvocnÃ© LÃ­vance s mlÃ©kem.jpg
         product_description: 'lívance plněné banánem a jahodami, čokoládová poleva, javorový sirup'
+        product_price: 79
       - product_title: SYRNIKI
         product_image: /assets/images/SyrnÃ­ky.jpg
         product_description: >-
