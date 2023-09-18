@@ -68,7 +68,7 @@ categories:
       - product_title: WAFREO
         product_image: /assets/images/wafreo-small.jpg
         product_description: 'jahody, nutella, oreo, domácí šlehačka'
-        product_price: null
+        product_price: 189
       - product_title: PEARWAF
         product_image: /assets/images/pearwaf-2022.jpg
         product_description: >-
