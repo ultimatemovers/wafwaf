@@ -11,7 +11,7 @@ excerpt: >
   detailních informací jak postupovat a co je vše potřeba.
 post_image: /assets/images/PHOTO-2023-09-18-19-41-51.jpg
 feature_image: /assets/images/WhatsApp Image 2023-09-13 at 20.57.28.jpeg
-button_text: /
+button_text: ' '
 _template: post
 ---
 
