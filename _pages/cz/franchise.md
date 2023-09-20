@@ -73,16 +73,16 @@ faq_title: "FAQ K\_FRANCHISE POBOČCE"
 faq:
   - question: Jaká je minimální velikost pobočky Waf-Waf?
     answer: >-
-      Doporučujeme mít velikost větší než 20m2, když je stánek v obchodním
-      centru.
+      Doporučujeme mít velikost větší než 20m2 a to pokud se jedná o stánek v
+      obchodním centru.
 
 
-      Pokud se jedná o kamennou pobočku tak minimální velikost požadujeme mít
-      80m2.
+      Pokud jde o kamennou pobočku či provozovnu v rámci obchodního centra, tak
+      minimální velikost požadujeme mít 80m2.
 
 
-      Musíme počítat s tím, že zde bude zasazena fast-casual kuchyně a take
-      zásobování či případně sklad.
+      Musíme počítat s tím, že zde bude zasazena fast-casual kuchyně a také
+      přípravna či sklad.
 
 
       Zapotřebí je mít dostatek míst k sezení v závislosti na lokalitě a typu
@@ -151,6 +151,7 @@ mam_zajem_title: 'Zajímá Vás franchise Waf-Waf? Vyplňte krátký dotazník, 
 mam_zajem_button: MÁM ZÁJEM
 _template: franchising
 ---
+
 
 
 
