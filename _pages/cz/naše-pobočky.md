@@ -96,7 +96,8 @@ locations:
     boltfood: true
     damejidlo: true
     damejidlo_url: 'https://www.damejidlo.cz/restaurant/p3ug/waf-waf-paladium'
-  - local_image: /assets/images/IMG_4760.jpg
+  - local_image: /assets/images/IMG_5157(1).png
+    first_left_image: /assets/images/IMG_5233.JPG
     location_name: WAF-WAF - OC FORUM LIBEREC
     location_address: 'nám. Soukenné 2a, 460 01 Liberec'
     location_contact: |-
@@ -108,14 +109,28 @@ locations:
 
       Kontaktní telefonní číslo:
 
-
+      +420 608 553 255
 
       Kontaktní email:
 
       forum.liberec@waf-waf.cz
     location_gmaps_url: >-
       https://www.google.com/maps/place/FORUM+Liberec/@50.7653503,15.0539859,17z/data=!3m1!4b1!4m6!3m5!1s0x4709369ed0b04f5b:0x47b98768b5353e8c!8m2!3d50.7653503!4d15.0565608!16s%2Fg%2F1vmr02lz?entry=ttu
-    location_description: 'Pobočka v Liberci se otevře již 11.9.2023 v 17:00. '
+    location_description: >-
+      Pobočka v OC Forum Liberec se otevřela 11.9.2023 a obsahuje celkem až 50
+      míst k sezení, které je rozmístěno jak ve vnitřní části pobočky, tak i
+      před samotnou pobočku v pasáži obchodní centra. Provozovna disponuje
+      velkým dětským koutkem se spousty herních prvků a skluzavkou, takže své
+      ratolesti můžete nechat pohodlně vyhrát. 
+    contact_number: +420 608 553 255
+    second_column_above_image: >-
+      Najdete zde také unikátní zelenou foto stěnu se svítícím logem Waf-Waf a
+      vícero boxů, které Vám dopřejí pohodlné posezení s přáteli. Najdete nás
+      přímo u jednoho z vchodů do obchodního centra a to konkrétně z ulice
+      Jánská. 
+    image_left: /assets/images/IMG_5228.JPG
+    image_right_portrait: /assets/images/IMG_5292.JPG
+    footer_image: /assets/images/IMG_5256.JPG
   - local_image: /assets/images/fotokancl740x30.png
     first_left_image: /assets/images/fotokancl240x30 (kopie).png
     location_name: WAF-WAF OC VELKÝ ŠPALÍČEK
@@ -157,6 +172,7 @@ contact_us_button: Kontaktujte nas
 delivery_button: ' jak se tam dostanu'
 _template: locations
 ---
+
 
 
 
