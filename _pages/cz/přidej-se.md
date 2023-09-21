@@ -1,6 +1,6 @@
 ---
 permalink: /přidej-se/
-hero_image: /assets/images/uploads/2021/07/25/jobs.png
+hero_image: /uploads/2021/07/25/jobs.png
 big_title: Přidej se k nám
 subtitle: Staň se součástí našeho týmu!
 layout: jobs
