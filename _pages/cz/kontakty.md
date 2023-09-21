@@ -1,6 +1,6 @@
 ---
 permalink: /kontakty/
-hero_image: /uploads/2021/07/22/kontakty.png
+hero_image: /assets/images/IMG_5172.png
 big_title: Kontakty
 layout: contact
 contact_information:
@@ -45,6 +45,7 @@ instagram_title: Sledujte nás na Instagramu
 delivery_time: '08:00 - 21:00'
 _template: contact
 ---
+
 
 
 
