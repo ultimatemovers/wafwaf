@@ -109,11 +109,11 @@ locations:
 
       Kontaktní telefonní číslo:
 
-      +420 608 553 255
+      +420 775 713 008
 
       Kontaktní email:
 
-      forum.liberec@waf-waf.cz
+      liberec.forum@waf-waf.cz
     location_gmaps_url: >-
       https://www.google.com/maps/place/FORUM+Liberec/@50.7653503,15.0539859,17z/data=!3m1!4b1!4m6!3m5!1s0x4709369ed0b04f5b:0x47b98768b5353e8c!8m2!3d50.7653503!4d15.0565608!16s%2Fg%2F1vmr02lz?entry=ttu
     location_description: >-
@@ -122,7 +122,7 @@ locations:
       před samotnou pobočku v pasáži obchodní centra. Provozovna disponuje
       velkým dětským koutkem se spousty herních prvků a skluzavkou, takže své
       ratolesti můžete nechat pohodlně vyhrát. 
-    contact_number: +420 608 553 255
+    contact_number: '+420 775 713 008 '
     second_column_above_image: >-
       Najdete zde také unikátní zelenou foto stěnu se svítícím logem Waf-Waf a
       vícero boxů, které Vám dopřejí pohodlné posezení s přáteli. Najdete nás
@@ -172,6 +172,7 @@ contact_us_button: Kontaktujte nas
 delivery_button: ' jak se tam dostanu'
 _template: locations
 ---
+
 
 
 
