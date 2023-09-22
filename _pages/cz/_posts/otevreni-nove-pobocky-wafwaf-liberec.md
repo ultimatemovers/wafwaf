@@ -1,5 +1,5 @@
 ---
-title: 'Otevření nové pobočky v Liberci! '
+title: 'Pobočka v Liberci nově otevřena! '
 excerpt: >
   Novou provozovnu najdete v OC Forum Liberec a jedná se o unikátní místo, které
   se po náročné rekonstrukci změnilo k nepoznání. Naleznete zde několik
