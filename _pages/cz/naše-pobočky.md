@@ -51,14 +51,14 @@ locations:
     first_left_image: /assets/images/highstreetconcept.jpg
     location_name: WAF-WAF IPÁK
     location_address: 'Bělehradská 67, 120 00 Nové Město'
-    location_contact: "Otevírací doba:\n\nPondělí - Čtvrtek: 08:00 - 21:00  \nPátek - Sobota - 08:00 - 22:00 + rozvoz & take-away - 22:00 - 02:00   \nNeděle: 08:00 - 21:00\n\nKontaktní telefonní číslo:\_+420\_725 344 097\n\nKontaktní email:\_ipak@waf-waf.cz"
+    location_contact: "Otevírací doba:\n\nPondělí - Neděle: 08:00 - 21:00   \n\nKontaktní telefonní číslo:\_+420\_725 344 097\n\nKontaktní email:\_ipak@waf-waf.cz"
     location_gmaps_url: 'https://g.page/wafwafipak'
     location_description: >-
       Pobočka Waf-Waf IP Pavlova se nachází přímo na tramvajové zastávce
-      Bruselská. Na této pobočce si můžete vychutnat jídlo **přímo na místě** a
-      nebo si vyzvednout **jídlo s sebou.** Slečny Vám zabalí naše produkty do
-      hezkého obalu a dají Vám papírovou tašku pro snazší odnos vaflí, lívanců
-      nebo palačinek.
+      Bruselská. Na této pobočce si můžete vychutnat jídlo přímo na místě a nebo
+      si vyzvednout jídlo s sebou. Slečny Vám zabalí naše produkty do hezkého
+      obalu a dají Vám papírovou tašku pro snazší odnos vaflí, lívanců nebo
+      palačinek.
     contact_number: "+420\_725 344 097"
     first_column_above_image: "Vinohradská pobočka se otevřela přesně 27.6.2018 a nabízí kompletní sortiment konceptu Waf-Waf ať už se jedná o oblíbené vafle, palačinky, lívance nebo i milkshakes, fresh-juices a další originální produkty. Zajímavá je specifickým interiérem, který zahrnuje nízké sezení i barové židle se sezením v\_rámci okenního výklenku, kde se Vám nabídne výhled do ulice."
     second_column_above_image: "Kapacita je 30 lidí, nicméně přes letní měsíce se kapacita pobočky navýší díky předzahrádce, která má k\_dispozici dalších 6 stolků a je tak zkrášlením pobočky pro teplejší měsíce. Na této předzahrádce také prodáváme vlastní kopečkovou zmrzlinu a sorbety, které jsme přidali do naší nabídky. Zmrzlinu si tak můžete dopřát i během chůze po ulici Bělehradská a v\_přilehlých parcích. Samozřejmostí je možnost take-away."
@@ -172,6 +172,7 @@ contact_us_button: Kontaktujte nás
 delivery_button: ' jak se tam dostanu'
 _template: locations
 ---
+
 
 
 
