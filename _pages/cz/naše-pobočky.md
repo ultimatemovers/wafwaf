@@ -133,7 +133,7 @@ locations:
     footer_image: /assets/images/IMG_5256.JPG
   - local_image: /assets/images/fotokancl740x30.png
     first_left_image: /assets/images/fotokancl240x30 (kopie).png
-    location_name: WAF-WAF OC VELKÝ ŠPALÍČEK
+    location_name: WAF-WAF - OC VELKÝ ŠPALÍČEK BRNO
     location_address: 'Mečová 695/2, 602 00 Brno-střed'
     location_contact: "Otevírací doba:\n\nPondělí - Neděle: 09:00 – 21:00\n\nKontaktní telefonní číslo:\_+420 608 670 260\n\nKontaktní email:\_brno.spalicek@waf-waf.cz"
     location_gmaps_url: 'https://g.page/wafwafbrnospalicek?share'
@@ -172,6 +172,7 @@ contact_us_button: Kontaktujte nás
 delivery_button: ' jak se tam dostanu'
 _template: locations
 ---
+
 
 
 
