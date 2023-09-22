@@ -1,7 +1,7 @@
 ---
 permalink: /naše-pobočky/
 locations_title: Naše pobočky
-hero_image: /assets/images/kancelar5.jpg
+hero_image: /assets/images/nasepobocky.png
 locations:
   - local_image: /assets/images/deniel-65_1.jpg
     first_left_image: /assets/images/letna-prvni-foto-vlevo-misto-te-rozmazane.jpg
@@ -172,6 +172,7 @@ contact_us_button: Kontaktujte nas
 delivery_button: ' jak se tam dostanu'
 _template: locations
 ---
+
 
 
 
