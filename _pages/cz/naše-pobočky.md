@@ -168,7 +168,7 @@ locations:
     damejidlo: true
     damejidlo_url: 'https://www.damejidlo.cz/restaurant/b5cn/waf-waf-3'
 layout: locations
-contact_us_button: Kontaktujte nas
+contact_us_button: Kontaktujte nás
 delivery_button: ' jak se tam dostanu'
 _template: locations
 ---
