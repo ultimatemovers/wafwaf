@@ -12,10 +12,10 @@ hero_images:
   - /assets/images/dsc_5358.JPG
   - /assets/images/img_1783.jpeg
 showcase_images:
-  - /assets/images/uploads/2021/07/20/mask-group-132.png
-  - /assets/images/uploads/2021/07/20/mask-group-133.png
-  - /assets/images/uploads/2021/07/20/mask-group-135.png
-  - /assets/images/uploads/2021/07/20/mask-group-134.png
+  - /uploads/2021/07/20/mask-group-132.png
+  - /uploads/2021/07/20/mask-group-133.png
+  - /uploads/2021/07/20/mask-group-135.png
+  - /uploads/2021/07/20/mask-group-134.png
 delivery_text: Rozvážíme každý den
 delivery_button: Objednat
 instagram_title: Sledujte nás na Instagramu
