@@ -32,7 +32,7 @@ locations:
     damejidlo: true
     jidlo_url: 'https://www.damejidlo.cz/restaurant/p3ug/waf-waf-paladium'
   - location_image: ''
-    location_title: Ostrava
+    location_title: WAF-WAF - LIBEREC
     wolt: false
     wolt_url: 'https://wolt.com/cs/cze/brno/restaurant/waf-waf-brno '
     boltfood: false
