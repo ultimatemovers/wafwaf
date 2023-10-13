@@ -145,7 +145,7 @@ locations:
     third_column_under_image: ''
     image_right_portrait: ''
     footer_image: ''
-    footer_description: "Radost uděláme i veganům, protože už i vegani si můžou sestavit vafli podle sebe! Stačí zaškrtnout políčko veganská vafle. Na pobočku smí i pejsci.\n\nZ\_této pobočky také probíhá rozvoz Waf-Waf produktů do různých koutů Brna. Objednávat můžete na těchto platformách:"
+    footer_description: ''
     wolt: false
     wolt_url: ''
     boltfood: false
