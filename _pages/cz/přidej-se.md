@@ -3,7 +3,6 @@ permalink: /přidej-se/
 hero_image: /uploads/2021/07/25/jobs.png
 big_title: Přidej se k nám
 subtitle: Staň se součástí našeho týmu!
-layout: jobs
 positions_title: Nabízené pozice v rámci značky Waf-Waf
 jobs:
   - job_title: Obsluha ve WAF-WAF až 35 000 Kč (HPP)
@@ -53,10 +52,10 @@ jobs:
 
       Vaše životopisy můžete zasílat na email:
       [jonas@waf-waf.cz](mailto:jonas@waf-waf.cz)
-  - job_title: Obsluha ve Waf-Waf Brno s možností kariérního rozvoje (HPP)
-    job_location: Brno
+  - job_title: Obsluha ve Waf-Waf - Liberec (HPP)
+    job_location: Liberec
     job_description: >-
-      **Koho ve Waf-Waf Brno hledáme:**   
+      **Koho ve Waf-Waf - Liberec hledáme:**   
 
       Nové mladé ambiciózní kolegy/ně, kteří by měli mít chuť podílet se na
       velmi úspěšném gastro konceptu, který má za cíl rozšíření do celé ČR a EU.
@@ -82,31 +81,23 @@ jobs:
 
       usměvavá, pracovitá a pozitivní osoba  
 
-      potravinářský průkaz  
-
       nástup ihned  
         
       **Co můžeme nabídnout:**   
 
-      motivující nástupní mzda, po zapracování zvýšení mzdy a bonusy  
-
-      směny na bázi „krátký/dlouhý týden“  
+      motivující nástupní mzda, po zapracování zvýšení mzdy a bonusy    
 
       práci v silně se rozvíjející společnosti  
 
       kariérní růst s možností podílení se na vedení provozovny Waf-Waf  
 
-      pravidelné teambuildingové aktivity  
-
-      kompletní zaškolení do našeho systému a produktů  
-
-      práce v případě opětovného uzavření garantovaná!  
+      pravidelné teambuildingové aktivity   
         
       Pokud byste měli zájem o nabízenou pozici, kontaktujte nás prosím na
-      e-mailové: [kristyna.brno@waf-waf.cz ](kristyna.brno@waf-waf.cz)  
+      e-mailové: [liberec.forum@waf-waf.cz]
         
       Děkujeme!  
+layout: jobs
 _template: jobs
 ---
-
 
