@@ -21,9 +21,8 @@ contact_information:
       každý den od 08:00 - 21:00
   - title: 'Rezervace míst '
     content: >-
-      Rezervace provádíme od pondělí do pátku pro více jak 2 osoby, které u nás
-      místo vždy najdou :) Pokud byste chtěli provést rezervaci, kontaktujte
-      danou pobočku. Děkujeme 
+      Rezervace provádíme na všech pobočkách Waf-Waf, stačí nás pouze
+      kontaktovat. 
   - title: 'Kontakt pro média a obchodní záležitosti '
     content: >-
       Otázky na management společnosti využijte prosím email:
