@@ -11,11 +11,11 @@ contact_information:
       Letná: [+420 602 728 121](https://wa.me/420602728121)  
       každý den od 08:00 - 21:00
 
-      Brno: [+420 608 918 243 ](https://wa.me/420608918243)  
-      každý den od 09:00 - 21:00
+      Liberec: [+420 608 553 255 ](https://wa.me/420608553255)  
+      každý den od 08:00 - 20:00
 
       Palladium: [+420 725 745 898](https://wa.me/420725745898)  
-      každý den od 09:00 - 20:00
+      každý den od 09:00 - 21:00
 
       IP Pavlova: [+420 725 344 097](https://wa.me/420725344097)  
       každý den od 08:00 - 21:00
@@ -45,7 +45,4 @@ instagram_title: Sledujte nás na Instagramu
 delivery_time: '08:00 - 21:00'
 _template: contact
 ---
-
-
-
 
