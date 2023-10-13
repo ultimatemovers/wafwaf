@@ -131,58 +131,29 @@ locations:
     image_left: /assets/images/IMG_5228.JPG
     image_right_portrait: /assets/images/IMG_5292.JPG
     footer_image: /assets/images/IMG_5256.JPG
-  - local_image: /assets/images/fotokancl740x30.png
-    first_left_image: /assets/images/fotokancl240x30 (kopie).png
-    location_name: WAF-WAF - OC VELKÝ ŠPALÍČEK BRNO
-    location_address: 'Mečová 695/2, 602 00 Brno-střed'
-    location_contact: "Otevírací doba:\n\nPondělí - Neděle: 09:00 – 21:00\n\nKontaktní telefonní číslo:\_+420 608 670 260\n\nKontaktní email:\_brno.spalicek@waf-waf.cz"
-    location_gmaps_url: 'https://g.page/wafwafbrnospalicek?share'
-    location_description: "Na této pobočce si můžete vychutnat jídlo na místě, jenž disponuje kapacitou až 75 míst a nebo si vyzvednout jídlo s\_sebou. Slečny Vám připraví naše produkty na talíř Waf-Waf a nebo do hezkého obalu a dají Vám papírovou tašku pro snazší odnos vaflí, lívanců nebo palačinek."
-    contact_number: +420 608 670 260
-    first_column_above_image: >-
-      Brněnská pobočka se otevřela 17.11. 2019 a nabízí kompletní sortiment
-      konceptu Waf-Waf, ať už se jedná o oblíbené vafle, palačinky, lívance nebo
-      i milkshakes, fresh-juices a další originální produkty jako SushiWaf,
-      BigWaf, WafShakes aj.
-    second_column_above_image: >-
-      Pobočka je zajímavá specifickým interiérem, který zahrnuje i některé z
-      retro prvků. Provozovna je zasazena do obchodní centra Velký Špalíček,
-      který je dominantou centra v Brně a naleznete nás v 1.patře přímo vedle
-      prodejny Dráčik. Z této pobočky navíc budete mít krásný výhled do ulic pod
-      Velkým Špalíčkem a je to ideální prostředí na sraz s kamarády, romantickou
-      návštěvu a nebo i obchodní schůzku. Pobočka Waf-Waf v Brně je také
-      oblíbená u rodin s dětmi, díky svému dětskému koutku a radostí, kterou
-      dětem vykouzlí naše produkty.
-    image_left: /assets/images/uploads/2021/09/28/brno3.jpg
-    third_column_under_image: >-
-      Waf-Waf Brno je otevřený každý den až do večerních hodin a pokud chcete
-      udělat rezervaci, neváhejte nás kontaktovat na uvedeném telefonním čísle.
-      Kapacitou 74 zákazníků se Waf-Waf Brno také stává zatím největší pobočkou
-      sítě Waf-Waf. Samozřejmostí je možnost odnést si jídlo s sebou. 
-    image_right_portrait: /assets/images/20111231_230000000_iOS.jpg
-    footer_image: /assets/images/20111231_230000000_iOS 82.jpg
+  - local_image: ''
+    first_left_image: ''
+    location_name: WAF-WAF - OSTRAVA
+    location_address: 'Jantarová 3344/4, 702 00 Moravská Ostrava a Přívoz'
+    location_contact: 'Kontaktní email: ostrava.karolina@waf-waf.cz'
+    location_gmaps_url: ''
+    location_description: 'Pobočka v Ostravě již brzy! '
+    contact_number: ''
+    first_column_above_image: ''
+    second_column_above_image: ''
+    image_left: ''
+    third_column_under_image: ''
+    image_right_portrait: ''
+    footer_image: ''
     footer_description: "Radost uděláme i veganům, protože už i vegani si můžou sestavit vafli podle sebe! Stačí zaškrtnout políčko veganská vafle. Na pobočku smí i pejsci.\n\nZ\_této pobočky také probíhá rozvoz Waf-Waf produktů do různých koutů Brna. Objednávat můžete na těchto platformách:"
-    wolt: true
-    wolt_url: 'https://wolt.com/cs/cze/brno/restaurant/waf-waf-brno'
-    boltfood: true
-    damejidlo: true
-    damejidlo_url: 'https://www.damejidlo.cz/restaurant/b5cn/waf-waf-3'
+    wolt: false
+    wolt_url: ''
+    boltfood: false
+    damejidlo: false
+    damejidlo_url: ''
 layout: locations
 contact_us_button: Kontaktujte nás
 delivery_button: ' jak se tam dostanu'
 _template: locations
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
 
