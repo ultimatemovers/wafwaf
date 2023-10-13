@@ -39,7 +39,7 @@ locations:
     boltfood_url: ''
     damejidlo: false
     jidlo_url: ' https://www.damejidlo.cz/restaurant/b5cn/waf-waf-3'
-delivery_title: Rozvoz provádíme v rámci celých měst Praha a Brno
+delivery_title: Rozvoz provádíme v rámci celé Prahy
 delivery_description: >-
   Rozvážíme každý den. Na výběr budou jak sladké (Wafreo či Waftella), tak slané
   varianty (Ironwaf, Crepedilla, nebo Maplewaf) z našeho stálého menu. Součástí
