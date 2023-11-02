@@ -3,6 +3,7 @@ permalink: //
 delivery: 'Rozvážíme každý den od 08:00 do 21:00'
 layout: homepage
 hero_images:
+  - /Podzimni nabidka resize.jpg
   - /assets/images/dsc_5358.JPG
   - /assets/images/img_1783.jpeg
 big_title: Ty nejlepší vafle
