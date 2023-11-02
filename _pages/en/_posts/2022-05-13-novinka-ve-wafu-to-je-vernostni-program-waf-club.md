@@ -11,6 +11,7 @@ excerpt: >-
   new Waf-Waf Club customer program will be launched!
 post_url: ''
 post_image: /assets/images/20210525_123201000_ios.jpg
+category: en
 _template: post
 ---
 

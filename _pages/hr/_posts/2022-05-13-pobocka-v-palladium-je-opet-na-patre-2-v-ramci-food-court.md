@@ -7,6 +7,7 @@ title: Poslovnica u Palladiumu je opet na +2 katu u sklopu food-courta!
 excerpt: Poslovnica u Palladiumu je opet na +2 katu u sklopu food-courta!
 post_url: ''
 post_image: /assets/images/stand-concept.jpg
+category: hr
 _template: post
 ---
 

@@ -7,6 +7,7 @@ title: 'Rođendani, proslave ili rezervacije u Waf-Waf-u? Mi kažemo da!'
 excerpt: 'Rođendani, proslave ili rezervacije u Waf-Waf-u? Mi kažemo da!'
 post_url: ''
 post_image: /assets/images/deniel-82_1.jpg
+category: hr
 _template: post
 ---
 

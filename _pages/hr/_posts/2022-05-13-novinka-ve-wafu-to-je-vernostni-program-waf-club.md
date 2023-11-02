@@ -11,6 +11,7 @@ excerpt: >-
   biti pokrenut novi korisnički program Waf-Waf Club!
 post_url: ''
 post_image: /assets/images/20210525_123201000_ios.jpg
+category: hr
 _template: post
 ---
 

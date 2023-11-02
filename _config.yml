@@ -23,6 +23,17 @@ collections:
   projects:
     output: true
     permalink: "/projects/:path/"
+  category:
+    output: true
+  en:
+    output: true
+    permalink: "/en/:path/"
+  hr:
+    output: true
+    permalink: "/hr/_posts/"
+  cz:
+    output: true
+    permalink: "/cz/_posts/"
 # tag_page_layout: tag_page
 # tag_page_dir: tag
 jekyll-archives:
