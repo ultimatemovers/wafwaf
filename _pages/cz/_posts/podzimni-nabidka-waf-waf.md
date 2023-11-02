@@ -35,7 +35,8 @@ excerpt: >+
   navrh jsme přidali petrželový olej a grilovanou cuketu. Právě spojení všech
   komponentů na talíři dokreslí podzim jak se patří. 
 
+post_image: /IMG_9368.JPG
 _template: post
 ---
 
-Už nějakou dobu nás drásá sychravé podzimní počasí, nicméně zpříjemnění v podobě sladkých a nebo slaných vaflí, lívanců či palačinek je tady! Od 1.11.2023 si můžete vychutnat skvěle vyladěné podzimní menu, kde si vybere opravdu každý. 
+Už nějakou dobu nás drásá sychravé podzimní počasí, nicméně zpříjemnění v podobě sladkých a nebo slaných vaflí, lívanců či palačinek je tady! Od 1.11.2023 si můžete vychutnat skvěle vyladěné podzimní menu, kde si vybere opravdu každý.
