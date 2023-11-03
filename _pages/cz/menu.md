@@ -18,6 +18,13 @@ categories:
         product_image: /assets/images/WAF-WAF-NEW-_0003_Cookie-lÃ­vance.png
         product_description: 'pomerančová čokoláda, mascarpone, cookies sušenka'
         product_price: 184
+      - product_title: ZUCCHINOWAF
+        product_image: >-
+          /assets/images/WAF-WAF-NEW-_0004_CuketovÃ©-lÃ­vance-s-batÃ¡tovÃ½m-pyrÃ©.png
+        product_description: >-
+          cuketovo-mrkvové lívance, batátové pyré s máslem, grilovaná cuketa,
+          petrželový olej, 
+        product_price: 174
   - category_title: FRESH MENU
     products:
       - product_title: CAESARWAF
