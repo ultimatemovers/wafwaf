@@ -10,12 +10,10 @@ categories:
           teplá jablečná směs, rozinky, créme anglaise, moučkový cukr, vlašské
           ořechy
         product_price: 179
-      - product_title: BOLOGNELLA
-        product_image: /assets/images/Bolognella.jpg
-        product_description: >-
-          palačinka, bolognese omáčka, parmazán, bešamel, zakysaná smetana,
-          parmazánový chips
-        product_price: 189
+      - product_title: Wafstrami
+        product_image: /assets/images/WAF-WAF-NEW-_0001_Pastramiwaf.png
+        product_description: 'pastrami, cheddar, nakládané okurky, glazovaná cibulka, medová hořčice'
+        product_price: 199
       - product_title: BEEFTELLA
         product_image: /assets/images/Beeftella.jpg
         product_description: >-
