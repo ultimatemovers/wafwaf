@@ -1,5 +1,7 @@
 ---
-title: Podzimní nabídka v prodeji
+category: cz
+published_at: '2023-01-31 13:02:58 +0000'
+title: 'Podzimní nabídka v prodeji na pobočkách '
 excerpt: >+
   Připravili jsme pro Vás hned čtyři produkty a nové nápoje a zde Vám je všechny
   představíme. 
@@ -35,12 +37,10 @@ excerpt: >+
   navrh jsme přidali petrželový olej a grilovanou cuketu. Právě spojení všech
   komponentů na talíři dokreslí podzim jak se patří. 
 
+button_text: ZOBRAZIT VÍCE
 post_image: /assets/images/IMG_9368.JPG
 feature_image: /assets/images/IMG_9368.JPG
-button_text: ZOBRAZIT VÍCE
-category: 'cz'
 layout: post
-published_at: '2023-01-31 13:02:58 +0000'
 _template: post
 ---
 
