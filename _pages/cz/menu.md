@@ -43,12 +43,10 @@ categories:
           bezlepková a veganská vafle, bezlaktózové mléko sezónní ovoce,
           čokoládová poleva
         product_price: 159
-      - product_title: SALATELLA
-        product_image: /assets/images/Salatella.jpg
-        product_description: >-
-          mini lívance, mango, jahody, maliny, borůvky, javorový sirup, moučkový
-          cukr, máta
-        product_price: 169
+      - product_title: HALLOUMIWAF
+        product_image: /assets/images/Halloumiwaf_1.jpg
+        product_description: 'avokádová pomazánka, halloumi sýr, rukola, rajcę'
+        product_price: 189
   - category_title: SLADKÉ
     products:
       - product_title: CREAMWAF
