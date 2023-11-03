@@ -1,15 +1,14 @@
 ---
 permalink: /menu/
 big_title: WAF-WAF NABÍDKA
-layout: menu
 categories:
   - category_title: SPECIÁLNÍ NABÍDKA
     products:
-      - product_title: TACOWAF
-        product_image: /assets/images/Tacowaf-2.jpg
+      - product_title: STRUDLWAF
+        product_image: /assets/images/WAF-WAF-NEW-_0002_WafÅ¡trÅ¯dl.png
         product_description: >-
-          lívance, limetkový krém, mango, borůvky, jahody, granátové jablko,
-          limetka, máta
+          teplá jablečná směs, rozinky, créme anglaise, moučkový cukr, vlašské
+          ořechy
         product_price: 179
       - product_title: BOLOGNELLA
         product_image: /assets/images/Bolognella.jpg
@@ -191,32 +190,7 @@ categories:
         product_image: /assets/images/purplesmoothie-small.jpg
         product_description: 'borůvky, banán, kiwi, med'
         product_price: 99
+layout: menu
 _template: menu
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
