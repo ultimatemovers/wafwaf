@@ -54,7 +54,7 @@ categories:
         product_description: 'jahody, zakysaná smetana, jahodový toping, '
         product_price: 175
       - product_title: SKYWAF
-        product_image: /assets/images/skywaf-small.jpg
+        product_image: /assets/images/Skywaf.png
         product_description: 'vafle, salko toping, jahody, lotus posyp a sušenka'
         product_price: 179
       - product_title: CAKEWAF
