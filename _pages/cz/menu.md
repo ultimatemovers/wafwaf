@@ -147,6 +147,10 @@ categories:
       - product_title: Domácí limonáda - Malinová
         product_image: /assets/images/MalinovÃ¡ domÃ¡cÃ­ limonÃ¡da.jpg
         product_price: 79
+      - product_title: Domácí limonáda - kořeněný karamel
+        product_image: "/assets/images/WAF KoÅ\x99enÄ\x9BnÃ½ Karamel.png"
+        product_description: ''
+        product_price: 79
       - product_title: Ice-Tea
         product_image: /assets/images/icetea2022-2.jpg
         product_description: ledový čaj s limetkou
@@ -155,14 +159,10 @@ categories:
         product_image: /assets/images/citronada2022-2.jpg
         product_description: domácí citronáda s mátou
         product_price: 49
-      - product_title: Domácí limonáda - kořeněný karamel
-        product_image: "/assets/images/WAF KoÅ\x99enÄ\x9BnÃ½ Karamel.png"
+      - product_title: Domácí limonáda - Zimní jablko
+        product_image: "/assets/images/WAF Jablko skoÅ\x99ice.png"
         product_description: ''
         product_price: 79
-      - product_title: WAFRAPPE
-        product_image: /assets/images/wafrappe2022.jpg
-        product_description: 'ledová káva s vanilkovou zmrzlinou, šlehačka, lotus posyp'
-        product_price: 99
       - product_title: Jahodový Milkshake
         product_image: /assets/images/milkshake-jahodovy2022.jpg
         product_description: >-
