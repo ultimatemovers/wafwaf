@@ -14,11 +14,9 @@ categories:
         product_image: /assets/images/WAF-WAF-NEW-_0001_Pastramiwaf.png
         product_description: 'pastrami, cheddar, nakládané okurky, glazovaná cibulka, medová hořčice'
         product_price: 199
-      - product_title: BEEFTELLA
-        product_image: /assets/images/Beeftella.jpg
-        product_description: >-
-          lívance, hovězí maso, římský salát, lanýžová majonéza, glazovaná
-          cibulka
+      - product_title: ORANGEWAF
+        product_image: /assets/images/WAF-WAF-NEW-_0003_Cookie-lÃ­vance.png
+        product_description: 'pomerančová čokoláda, mascarpone, cookies sušenka'
         product_price: 184
   - category_title: FRESH MENU
     products:
