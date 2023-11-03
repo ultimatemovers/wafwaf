@@ -70,7 +70,7 @@ categories:
         product_description: 'jahody, nutella, oreo, domácí šlehačka'
         product_price: 189
       - product_title: PEARWAF
-        product_image: /assets/images/pearwaf-2022.jpg
+        product_image: /assets/images/Pearwaf.png
         product_description: >-
           glazované hrušky, cini minis, čokoládové kousky, javorový sirup,
           domácí šlehačka
