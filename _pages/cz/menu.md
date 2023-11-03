@@ -81,6 +81,10 @@ categories:
         product_price: null
   - category_title: SLANÉ
     products:
+      - product_title: BOLOGNELLA
+        product_image: /assets/images/Bolognella.jpg
+        product_description: 'bolognese omáčka, bešamel, parmezán, '
+        product_price: 199
       - product_title: WAFCHICK
         product_image: /assets/images/WAFCHICK.png
         product_description: >-
