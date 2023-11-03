@@ -157,6 +157,10 @@ categories:
         product_image: "/assets/images/WAF KoÅ\x99enÄ\x9BnÃ½ Karamel.png"
         product_description: ''
         product_price: 79
+      - product_title: Domácí limonáda - Zimní jablko
+        product_image: "/assets/images/WAF Jablko skoÅ\x99ice.png"
+        product_description: ''
+        product_price: 79
       - product_title: Ice-Tea
         product_image: /assets/images/icetea2022-2.jpg
         product_description: ledový čaj s limetkou
@@ -165,10 +169,6 @@ categories:
         product_image: /assets/images/citronada2022-2.jpg
         product_description: domácí citronáda s mátou
         product_price: 49
-      - product_title: Domácí limonáda - Zimní jablko
-        product_image: "/assets/images/WAF Jablko skoÅ\x99ice.png"
-        product_description: ''
-        product_price: 79
       - product_title: Jahodový Milkshake
         product_image: /assets/images/milkshake-jahodovy2022.jpg
         product_description: >-
@@ -192,7 +192,7 @@ categories:
         product_description: >-
           mléko, banán, vanilková zmrzlina, karamelový toping, barevné posypky,
           šlehačka, vafle
-        product_price: 119
+        product_price: 189
       - product_title: WAF & SMOOTHIE PURPLE
         product_image: /assets/images/purplesmoothie-small.jpg
         product_description: 'borůvky, banán, kiwi, med'
