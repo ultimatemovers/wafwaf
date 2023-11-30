@@ -3,9 +3,8 @@ permalink: /franchise/
 hero_image: /assets/images/IMG_5256-2.png
 big_title: Franchising
 subtitle: Strategické pilíře společnosti
-second_subtitle: Chcete originální koncept a stát se obchodním partnerem rostoucí značky?
 concept:
-  - icon: "/uploads/2021/07/26/group-2184.svg"
+  - icon: /assets/images/uploads/2021/07/26/group-2184.svg
     title: Inovativní koncept
     description: >-
       Unikátnost Waf-Waf spočívá především v inovativním konceptu přípravy
@@ -16,7 +15,7 @@ concept:
       v restauraci nebo vzít s sebou. Díky tomuto konceptu pak zákazníci mají
       téměř neomezené množství kombinací, a Společnost tak dokáže zaujmout
       široké spektrum konzumentů.
-  - icon: "/uploads/2021/07/26/path-1125.svg"
+  - icon: /assets/images/uploads/2021/07/26/path-1125.svg
     title: Waf-Waf jako lovebrand
     description: >-
       Waf-Waf je díky svému zaměření na kvalitu provedení a jedinečnému zdobení
@@ -29,7 +28,7 @@ concept:
       sociálních sítí, kdy má za své působení na sociálních sítích přes 32 tis.
       fanoušků. Z Waf-Waf se tak stal tzv. „lovebrand“, kdy se její zákazníci
       stávají součástí celého konceptu.
-  - icon: "/uploads/2021/07/26/group-2186.svg"
+  - icon: /assets/images/uploads/2021/07/26/group-2186.svg
     title: Rustový potenciál
     description: >-
       Waf-Waf se podařilo z inovativního konceptu vybudovat v krátkém čase
@@ -40,6 +39,8 @@ concept:
       spolu se silnou značkou a know-how Waf-Waf tak nabízí ideální kombinaci
       pro úspěšnou franšízovou expanzi, kterou Společnost plánuje v budoucnu
       započít.
+second_subtitle: Chcete originální koncept a stát se obchodním partnerem rostoucí značky?
+third_subtitle: KONCEPTY – WAF-WAF FRANCHISE
 stores:
   - image: /assets/images/20111231_230000000_ios-103-modified.png
     title: Pobočka v OC (80 – 180m2)
@@ -51,7 +52,6 @@ stores:
   - image: /assets/images/stand-concept.jpg
     title: Stand koncept – (20 – 50m2)
     description: ' '
-third_subtitle: KONCEPTY – WAF-WAF FRANCHISE
 accordions:
   - title: PODPORA PRO FRANCHISANTY
     description: "**Před otevřením provozovny:**\n\nVyhledání vhodné lokality, nabídka z lokalit, které jsou k dispozici\n\nArchitektonická studie a projekt provozovny\n\nVýstavba a vybavení provozovny na klíč\n\nNábor a vyškolení\_kompletního personálu včetně Vás, kde Vás zasvětíme do jednotlivých procesů \_(provoz, kvalita, marketing, finance, personalistika, kontrola restaurací, věrnostní systém, software aj.)\n\n**Po otevření provozovny:**\n\nZajištění dodávky surovin, obalů a ostatních materiálů (zejména marketingových) včetně technologie a\_logistiky\n\nPodpora centrály Waf-Waf\n\nNastavení marketingové strategie a pomoc při lokálním marketingu\n\nKontrolní systémy provozovny\n\nKompletní softwarové vybavení – pokladní systém, sklady\n\nHodnocení Vaší výkonnosti a hledání optimálního řešení\n\nVývoj a dodržování standardů značky"
@@ -65,8 +65,7 @@ accordions:
 
       Zkušenosti s restauračním provozem (není podmínkou)
   - title: POTŘEBNÁ POČÁTEČNÍ INVESTICE
-    description: "PRVOTNÍ INVESTICE\n\nVstupní poplatek:\_300 000 Kč\n\nKauce:\_250 000 Kč\n\nInvestice:\_od cca. 1,5 mil. v\_závislosti na výběru typu provozu\n\nDále je potřeba se připravit na náklady spojené s otevřením provozovny:  \nškolení zaměstnanců, prvotní náklady na nákup zbož\n\nMĚSÍČNÍ POPLATKY\n\nFranšízový poplatek:\_8 % z\_tržby v závislosti na finančních výsledcích.\n\nPROVOZNÍ NÁKLADY\n\nNájemné a energie\n\nMzdové a personální náklady\n\nSuroviny, obaly a logistika\n\nMarketing v\_rámci\_a okolí\_provozovny\n\nIT a Systémy\n\nKontrolní mechanismy provozovny\n\nOstatní provozní, režijní a finanční náklady\n\nSmlouva se uzavírá na dobu 5 let. Návratnosti investic lze dosáhnout během 12-30 měsíců."
-layout: franchising
+    description: "PRVOTNÍ INVESTICE\n\nVstupní poplatek:\_400 000 Kč\n\nKauce:\_250 000 Kč\n\nInvestice:\_od cca. 1,5 mil. v\_závislosti na výběru typu provozu\n\nDále je potřeba se připravit na náklady spojené s otevřením provozovny:  \nškolení zaměstnanců, prvotní náklady na nákup zbož\n\nMĚSÍČNÍ POPLATKY\n\nFranšízový poplatek:\_8 % z\_tržby v závislosti na finančních výsledcích.\n\nPROVOZNÍ NÁKLADY\n\nNájemné a energie\n\nMzdové a personální náklady\n\nSuroviny, obaly a logistika\n\nMarketing v\_rámci\_a okolí\_provozovny\n\nIT a Systémy\n\nKontrolní mechanismy provozovny\n\nOstatní provozní, režijní a finanční náklady\n\nSmlouva se uzavírá na dobu 5 let. Návratnosti investic lze dosáhnout během 12-30 měsíců."
 faq_title: "FAQ K\_FRANCHISE POBOČCE"
 faq:
   - question: Jaká je minimální velikost pobočky Waf-Waf?
@@ -124,8 +123,6 @@ faq:
     answer: >-
       Ano, licenční poplatek, který zahrnuje práva na užívání kompletního brandu
       Waf-Waf a práva na jeho používání je 300 000 Kč bez dph.
-mam_zajem: >-
-  https://docs.google.com/forms/d/1iMidmc9xHbVnVLZVh6d6yE7hliv2U6I_DqN5lSW_3vI/prefill
 after_faq:
   - title: VLASTNÍ PROVOZOVNY
     content: |-
@@ -146,13 +143,10 @@ after_faq:
       Německo, Polsko, Slovensko, Rakousko, Maďarsko, Itálie, Chorvatsko a další
       státy v EU či mimo EU. 
 mam_zajem_title: 'Zajímá Vás franchise Waf-Waf? Vyplňte krátký dotazník, děkujeme. '
+mam_zajem: >-
+  https://docs.google.com/forms/d/1iMidmc9xHbVnVLZVh6d6yE7hliv2U6I_DqN5lSW_3vI/prefill
 mam_zajem_button: MÁM ZÁJEM
+layout: franchising
 _template: franchising
 ---
-
-
-
-
-
-
 
