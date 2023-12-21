@@ -131,13 +131,16 @@ locations:
     image_left: /assets/images/IMG_5228.JPG
     image_right_portrait: /assets/images/IMG_5292.JPG
     footer_image: /assets/images/IMG_5256.JPG
-  - local_image: ''
-    first_left_image: ''
+  - local_image: /assets/images/Ostrava1.jpeg
+    first_left_image: /assets/images/Ostrava2.jpeg
     location_name: WAF-WAF - OSTRAVA
     location_address: 'Jantarová 3344/4, 702 00 Moravská Ostrava a Přívoz'
     location_contact: 'Kontaktní email: ostrava.karolina@waf-waf.cz'
     location_gmaps_url: ''
-    location_description: 'Pobočka v Ostravě již brzy! '
+    location_description: >-
+      Pobočka v Ostravě se otevřela 15.12.2023 a obsahuje kapacitu přes 30 míst
+      k sezení. K této provozovně je také připojen foodcourt a tak se možnost
+      sezení mnohonásobně navyšuje. Otevřeno je každý den v týdnu od 9 do 21. 
     contact_number: ''
     first_column_above_image: ''
     second_column_above_image: ''
