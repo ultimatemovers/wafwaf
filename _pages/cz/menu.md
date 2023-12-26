@@ -136,6 +136,12 @@ categories:
         product_price: 79
   - category_title: SNÍDANĚ
     products:
+      - product_title: Granolawaf
+        product_image: /assets/images/GranolaWaf.jpg
+        product_description: >-
+          bílý jogurt, müsli, kokos, banán, granátové jablko, semínka, mini
+          lívance
+        product_price: 89
       - product_title: Black&Waf
         product_image: /assets/images/BlackWaf.jpg
         product_description: 'borůvky, zakysaná smetana, borůvková marmeláda'
