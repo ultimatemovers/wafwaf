@@ -173,7 +173,7 @@ categories:
         product_description: >-
           avokádová pomazánka, sázené vajíčko, baby špenát, rukola, cherry
           rajčátka, granátové jablko, semínka
-        product_price: 159
+        product_price: 119
   - category_title: NÁPOJE & MILKSHAKES
     products:
       - product_title: Domácí limonáda - Malinová
