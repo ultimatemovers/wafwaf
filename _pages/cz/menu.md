@@ -136,6 +136,10 @@ categories:
         product_price: 79
   - category_title: SNÍDANĚ
     products:
+      - product_title: Pastrami & Egg
+        product_image: /assets/images/PastramiEgg.jpg
+        product_description: 'pastrami, zastřené vejce, avokádo, cheddar, rukola'
+        product_price: 109
       - product_title: Granolawaf
         product_image: /assets/images/GranolaWaf.jpg
         product_description: >-
