@@ -168,7 +168,7 @@ categories:
           sázená vajíčka, slanina, cheddar, baby špenát, cherry rajčátka,
           pažitka a kousky vaflí polité cheddarem
         product_price: 99
-      - product_title: AVOWAF
+      - product_title: Avowaf
         product_image: /assets/images/avowaf-small.jpg
         product_description: >-
           avokádová pomazánka, sázené vajíčko, baby špenát, rukola, cherry
