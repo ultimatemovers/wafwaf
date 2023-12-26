@@ -136,6 +136,10 @@ categories:
         product_price: 79
   - category_title: SNÍDANĚ
     products:
+      - product_title: WafToast - Šunka & Sýr
+        product_image: /assets/images/WafToast---Å¡unka_sÃ½r.jpg
+        product_description: 'šunka, sýr'
+        product_price: 39
       - product_title: EGGWAF
         product_image: /assets/images/eggwaf-small.jpg
         product_description: >-
