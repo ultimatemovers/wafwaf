@@ -136,6 +136,10 @@ categories:
         product_price: 79
   - category_title: SNÍDANĚ
     products:
+      - product_title: Black&Waf
+        product_image: /assets/images/BlackWaf.jpg
+        product_description: 'borůvky, zakysaná smetana, borůvková marmeláda'
+        product_price: 119
       - product_title: WafToast - Pastrami & Egg
         product_image: /assets/images/Waftoast---pastrami_egg.jpg
         product_description: 'pastrami, vajíčko, baby špenát'
