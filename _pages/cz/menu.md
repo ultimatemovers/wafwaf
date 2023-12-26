@@ -136,6 +136,10 @@ categories:
         product_price: 79
   - category_title: SNÍDANĚ
     products:
+      - product_title: "WafToast - Slanina &\_Sýr"
+        product_image: /assets/images/WafToast---SÃ½r_Slanina.jpg
+        product_description: 'slanina, sýr'
+        product_price: 45
       - product_title: WafToast - Šunka & Sýr
         product_image: /assets/images/WafToast---Å¡unka_sÃ½r.jpg
         product_description: 'šunka, sýr'
