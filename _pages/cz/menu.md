@@ -136,6 +136,10 @@ categories:
         product_price: 79
   - category_title: SNÍDANĚ
     products:
+      - product_title: WafToast - Pastrami & Egg
+        product_image: /assets/images/Waftoast---pastrami_egg.jpg
+        product_description: 'pastrami, vajíčko, baby špenát'
+        product_price: 69
       - product_title: "WafToast - Slanina &\_Sýr"
         product_image: /assets/images/WafToast---SÃ½r_Slanina.jpg
         product_description: 'slanina, sýr'
