@@ -2,6 +2,46 @@
 permalink: /menu/
 big_title: WAF-WAF NABÍDKA
 categories:
+  - category_title: SNÍDANĚ
+    products:
+      - product_title: WafToast - Šunka & Sýr
+        product_image: /assets/images/WafToast---Å¡unka_sÃ½r.jpg
+        product_description: 'šunka, sýr'
+        product_price: 39
+      - product_title: "WafToast - Slanina &\_Sýr"
+        product_image: /assets/images/WafToast---SÃ½r_Slanina.jpg
+        product_description: 'slanina, sýr'
+        product_price: 45
+      - product_title: WafToast - Pastrami & Egg
+        product_image: /assets/images/Waftoast---pastrami_egg.jpg
+        product_description: 'pastrami, vajíčko, baby špenát'
+        product_price: 69
+      - product_title: Granolawaf
+        product_image: /assets/images/GranolaWaf.jpg
+        product_description: >-
+          bílý jogurt, müsli, kokos, banán, granátové jablko, semínka, mini
+          lívance
+        product_price: 89
+      - product_title: Black&Waf
+        product_image: /assets/images/BlackWaf.jpg
+        product_description: 'borůvky, zakysaná smetana, borůvková marmeláda'
+        product_price: 119
+      - product_title: Pastrami & Egg
+        product_image: /assets/images/PastramiEgg.jpg
+        product_description: 'pastrami, zastřené vejce, avokádo, cheddar, rukola'
+        product_price: 109
+      - product_title: Eggwaf
+        product_image: /assets/images/eggwaf-small.jpg
+        product_description: >-
+          sázená vajíčka, slanina, cheddar, baby špenát, cherry rajčátka,
+          pažitka a kousky vaflí polité cheddarem
+        product_price: 99
+      - product_title: Avowaf
+        product_image: /assets/images/avowaf-small.jpg
+        product_description: >-
+          avokádová pomazánka, sázené vajíčko, baby špenát, rukola, cherry
+          rajčátka, granátové jablko, semínka
+        product_price: 119
   - category_title: SPECIÁLNÍ NABÍDKA
     products:
       - product_title: STRUDLWAF
@@ -134,46 +174,6 @@ categories:
           tvarohové lívance, maliny, jahodová poleva, moučkový cukr, zakysaná
           smetana, máta
         product_price: 79
-  - category_title: SNÍDANĚ
-    products:
-      - product_title: WafToast - Šunka & Sýr
-        product_image: /assets/images/WafToast---Å¡unka_sÃ½r.jpg
-        product_description: 'šunka, sýr'
-        product_price: 39
-      - product_title: "WafToast - Slanina &\_Sýr"
-        product_image: /assets/images/WafToast---SÃ½r_Slanina.jpg
-        product_description: 'slanina, sýr'
-        product_price: 45
-      - product_title: WafToast - Pastrami & Egg
-        product_image: /assets/images/Waftoast---pastrami_egg.jpg
-        product_description: 'pastrami, vajíčko, baby špenát'
-        product_price: 69
-      - product_title: Granolawaf
-        product_image: /assets/images/GranolaWaf.jpg
-        product_description: >-
-          bílý jogurt, müsli, kokos, banán, granátové jablko, semínka, mini
-          lívance
-        product_price: 89
-      - product_title: Black&Waf
-        product_image: /assets/images/BlackWaf.jpg
-        product_description: 'borůvky, zakysaná smetana, borůvková marmeláda'
-        product_price: 119
-      - product_title: Pastrami & Egg
-        product_image: /assets/images/PastramiEgg.jpg
-        product_description: 'pastrami, zastřené vejce, avokádo, cheddar, rukola'
-        product_price: 109
-      - product_title: Eggwaf
-        product_image: /assets/images/eggwaf-small.jpg
-        product_description: >-
-          sázená vajíčka, slanina, cheddar, baby špenát, cherry rajčátka,
-          pažitka a kousky vaflí polité cheddarem
-        product_price: 99
-      - product_title: Avowaf
-        product_image: /assets/images/avowaf-small.jpg
-        product_description: >-
-          avokádová pomazánka, sázené vajíčko, baby špenát, rukola, cherry
-          rajčátka, granátové jablko, semínka
-        product_price: 119
   - category_title: NÁPOJE & MILKSHAKES
     products:
       - product_title: Domácí limonáda - Malinová
