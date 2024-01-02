@@ -206,7 +206,7 @@ faq:
       svakom slučaju za manju poslovnicu očekujemo oko 1 godinu, a za veće
       poslovnice 15-30 mjeseci, ovisno o više faktora.
   - question: Kolika je vaša mjesečna naknada koju moram platiti?
-    answer: Mjesečna naknada iznosi 6-8%
+    answer: Mjesečna naknada iznosi 10-12%
   - question: Je li potrebno uplatiti depozit?
     answer: >-
       Da, depozit iznosi 10.000,00 EUR i vraća se nakon raskida ugovora o
