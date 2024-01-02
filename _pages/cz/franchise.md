@@ -116,7 +116,7 @@ faq:
       větších se můžeme bavit o 15-30 měsících v závislosti na několika
       faktorech.
   - question: 'Jaký je Váš měsíční poplatek, který musím hradit? '
-    answer: Měsíční poplatek činí 8%.
+    answer: Měsíční poplatek činí 10-12%.
   - question: Je zapotřebí zaplatit kauci?
     answer: 'Ano, kauce činí 250 000 Kč a je vratná po ukončení franchisingové smlouvy.'
   - question: 'Je zapotřebí zaplatit licenční poplatek? '
