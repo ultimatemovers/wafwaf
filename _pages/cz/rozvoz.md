@@ -3,7 +3,7 @@ permalink: /rozvoz/
 wolt: true
 boltfood: true
 damejidlo: true
-hero_image: /uploads/2021/07/24/delivery.png
+hero_image: /assets/images/uploads/2021/07/24/delivery.png
 big_title: Rozvoz
 subtitle: 'Rozvoz jídla - Wolt, Bolt Food a Foodora! '
 locations:
@@ -23,7 +23,7 @@ locations:
     boltfood_url: ''
     damejidlo: true
     jidlo_url: ' https://www.damejidlo.cz/restaurant/s0ma/waf-waf-belehradska'
-  - location_image: /uploads/2021/07/24/39cf683c-f6fa-4dad-82a3-5a46f81afdf8.png
+  - location_image: /assets/images/uploads/2021/07/24/39cf683c-f6fa-4dad-82a3-5a46f81afdf8.png
     location_title: WAF-WAF OC PALLADIUM
     wolt: true
     wolt_url: 'https://wolt.com/cs/cze/prague/restaurant/waf-waf-palladium'
@@ -31,14 +31,6 @@ locations:
     boltfood_url: ''
     damejidlo: true
     jidlo_url: 'https://www.damejidlo.cz/restaurant/p3ug/waf-waf-paladium'
-  - location_image: ''
-    location_title: WAF-WAF - LIBEREC
-    wolt: false
-    wolt_url: 'https://wolt.com/cs/cze/brno/restaurant/waf-waf-brno '
-    boltfood: false
-    boltfood_url: ''
-    damejidlo: false
-    jidlo_url: ' https://www.damejidlo.cz/restaurant/b5cn/waf-waf-3'
 delivery_title: Rozvoz provádíme v rámci celé Prahy
 delivery_description: >-
   Rozvážíme každý den. Na výběr budou jak sladké (Wafreo či Waftella), tak slané
