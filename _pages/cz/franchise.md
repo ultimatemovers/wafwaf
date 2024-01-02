@@ -122,7 +122,7 @@ faq:
   - question: 'Je zapotřebí zaplatit licenční poplatek? '
     answer: >-
       Ano, licenční poplatek, který zahrnuje práva na užívání kompletního brandu
-      Waf-Waf a práva na jeho používání je 300 000 Kč bez dph.
+      Waf-Waf a práva na jeho používání je 500 000 Kč bez dph.
 after_faq:
   - title: VLASTNÍ PROVOZOVNY
     content: |-
