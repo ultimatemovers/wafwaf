@@ -214,7 +214,7 @@ faq:
   - question: Trebam li platiti naknadu za licencu?
     answer: >-
       Da, licenčna naknada, koja uključuje prava na korištenje cjelokupnog
-      brenda Waf-Waf i prava na njegovo korištenje, iznosi 12.000,00 EUR + PDV.
+      brenda Waf-Waf i prava na njegovo korištenje, iznosi 20.000,00 EUR + PDV.
 after_faq:
   - title: VLASTITE POSLOVNICE
     content: |-
