@@ -3,11 +3,8 @@ permalink: /en/franchising/
 hero_image: /assets/images/franchising-uvodni-fotka-nerozmazana.jpg
 big_title: Franchising
 subtitle: Strategic pillars of the company
-second_subtitle: >-
-  So you want an original brand and become a business partner of a fast growing
-  company?
 concept:
-  - icon: /uploads/2021/07/26/group-2184.svg
+  - icon: /assets/images/uploads/2021/07/26/group-2184.svg
     title: Innovative concept
     description: >-
       The uniqueness of Waf-Waf lies primarily in the innovative concept of
@@ -19,7 +16,7 @@ concept:
       take it with them. Thanks to this concept, customers have an almost
       unlimited number of combinations, and the Company is able to attract a
       wide range of consumers.
-  - icon: /uploads/2021/07/26/path-1125.svg
+  - icon: /assets/images/uploads/2021/07/26/path-1125.svg
     title: Waf-Waf as a lovebrand
     description: >-
       Thanks to its focus on quality workmanship and unique decoration, Waf-Waf
@@ -33,7 +30,7 @@ concept:
       over 57,000 +  on its social networks. fans. Waf-Waf has thus become a
       so-called "lovebrand", where its customers become part of the whole
       concept.
-  - icon: /uploads/2021/07/26/group-2186.svg
+  - icon: /assets/images/uploads/2021/07/26/group-2186.svg
     title: Growth potential
     description: >-
       Waf-Waf has managed to build a successful brand out of an innovative
@@ -44,18 +41,21 @@ concept:
       shop. This simple concept, together with Waf-Waf's strong brand and
       know-how, thus offers the ideal combination for the successful franchise
       expansion that the Company plans to start in the future.
+second_subtitle: >-
+  So you want an original brand and become a business partner of a fast growing
+  company?
+third_subtitle: CONCEPT – WAF-WAF FRANCHISE
 stores:
   - image: /assets/images/20111231_230000000_ios-103-modified.png
-    description: ' '
     title: Branch in Shopping Mall (80 – 180m2)
+    description: ' '
   - image: >-
       /assets/images/waf-waf-ipak-misto-te-fotky-s-ruzovou-kytkou-mala-fotka-v-uvodnim-ramecku.jpg
-    description: ' '
     title: High street concept – (60m2 – 150m2)
-  - image: /assets/images/stand-concept.jpg
     description: ' '
+  - image: /assets/images/stand-concept.jpg
     title: Pop Up concept – (20 – 50m2)
-third_subtitle: CONCEPT – WAF-WAF FRANCHISE
+    description: ' '
 accordions:
   - title: SUPPORT FOR FRANCHISANTS
     description: >-
@@ -114,7 +114,7 @@ accordions:
       \** INITIAL INVESTMENT **
 
 
-      Entrance fee: 12.000,00 EUR
+      Entrance fee: 20.000,00 EUR
 
 
       Deposit: 10.000,00 EUR
@@ -133,7 +133,7 @@ accordions:
       **MONTHLY FEES**
 
 
-      Franchise fee: 6-8% of sales depend of financial revenue.
+      Franchise fee: 10-12% of sales depend of financial revenue.
 
 
       **OPERATING COSTS**
@@ -162,7 +162,6 @@ accordions:
 
       The contract is concluded for a period of 5 years. Return on investment
       can be achieved within 12-24 months.
-layout: franchising
 faq_title: "FAQ FOR\_FRANCHISE BRANCH"
 faq:
   - question: What is the minimum size of a Waf-Waf branch?
@@ -220,8 +219,6 @@ faq:
     answer: >-
       Yes, the license fee, which includes the rights to use the complete
       Waf-Waf brand and the rights to use it, is EUR 12.000,00 + VAT.
-mam_zajem: >-
-  https://docs.google.com/forms/d/1iMidmc9xHbVnVLZVh6d6yE7hliv2U6I_DqN5lSW_3vI/prefill
 after_faq:
   - title: OWN ESTABLISHMENTS
     content: |-
@@ -238,8 +235,10 @@ after_faq:
       Budějovice aj. Germany, Poland, Slovakia, Austria, Hungary, Italy,
       Croatia, Srbia, Slovenia and more states in EU or out EU,world. 
 mam_zajem_title: 'Would you like to have own Waf-Waf? Fill out: '
+mam_zajem: >-
+  https://docs.google.com/forms/d/1iMidmc9xHbVnVLZVh6d6yE7hliv2U6I_DqN5lSW_3vI/prefill
 mam_zajem_button: 'I want to be a part! '
+layout: franchising
 _template: franchising
 ---
-
 
