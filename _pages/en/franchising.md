@@ -218,7 +218,7 @@ faq:
   - question: Do I need to pay a license fee?
     answer: >-
       Yes, the license fee, which includes the rights to use the complete
-      Waf-Waf brand and the rights to use it, is EUR 12.000,00 + VAT.
+      Waf-Waf brand and the rights to use it, is EUR 20.000,00 + VAT.
 after_faq:
   - title: OWN ESTABLISHMENTS
     content: |-
