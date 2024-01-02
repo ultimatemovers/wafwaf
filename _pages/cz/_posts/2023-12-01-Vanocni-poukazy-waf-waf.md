@@ -1,25 +1,21 @@
 ---
-title: 'Vánoční poukazy v prodeji na pobočkách! '
+title: 'Novoroční dárek pro držitele věrnostních kartiček - 20% sleva! '
 excerpt: >-
-  Rádi byste svým blízkým darovali #novyzazitek? Na našich pobočkách Waf-Waf
-  najdete Vánoční poukazy ve formě kartiček, které lze nabít na libovolnou
-  částku. K tomu od nás jako dárek obdržíte propisku s logem Waf-Waf a vše dáme
-  do dekorativní obálky se zimními motivy. 
+  Při každé návštěvě můžete pomocí věrnostní kartičky uplatnit 20% slevu na
+  jakoukoliv položku z našeho sortimentu a to i opakovaně až do 31.1.2024, kdy
+  tato akce končí. Sleva dvacet procent platí pro držitele naší Waf-Club karty a
+  to na všech pobočkách Waf-Waf. 
 
 
-  Pokud byste se však nemohli na naše pobočky dostavit, tak nás kontaktujte na
-  emailu: office@waf-waf.cz a dárkové poukazy Vám můžeme zaslat i k vám domu. 
+  Jak kartu získáte? Stačí si o ni říct na pokladně, při osobní návštěvě. Užijte
+  si tak ještě více zážitků! 
 
 
-  * částku na poukazu není nutné uplatnit najednou, ale lze rozložit 
-
-  * poukaz lze čerpat až do konce roku 2024 
-
-  * v případě registrace lze využít různé slevy a akční nabídky
+  #radostprovsechny 
 button_text: Více informací
-post_image: /assets/images/darkovepoukazy.JPG
+post_image: /assets/images/Sleva.jpeg
 feature_image: /assets/images/darek.png
 _template: post
 ---
 
-Přijďte si pro svůj Vánoční dárek na pobočky Waf-Waf, poukazy máme k dispozici. 
+Přijďte si pro svoji slevu 20% na jakoukoliv pobočku Waf-Waf! Stačí vlastnit naši věrnostní kartičku. 
