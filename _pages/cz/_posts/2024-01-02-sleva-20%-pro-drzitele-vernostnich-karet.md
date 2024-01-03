@@ -13,7 +13,7 @@ excerpt: >-
 
   #radostprovsechny 
 button_text: Více informací
-post_image: ''
+post_image: /assets/images/Slevovakarta.jpeg
 feature_image: /assets/images/darek.png
 _template: post
 ---
