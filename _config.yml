@@ -20,6 +20,7 @@ collections:
     permalink: "/about/:path/"
   posts:
     output: true
+    permalink: "/:year-:month-:day-:title/"
   projects:
     output: true
     permalink: "/projects/:path/"
@@ -27,7 +28,7 @@ collections:
     output: true
   en:
     output: true
-    permalink: "/en/:path/"
+    permalink: "/en/_path/"
   hr:
     output: true
     permalink: "/hr/_posts/"
