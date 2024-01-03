@@ -13,10 +13,9 @@ excerpt: >-
 
   #radostprovsechny 
 button_text: Více informací
-post_image: /assets/images/Sleva.jpeg
+post_image: ''
 feature_image: /assets/images/darek.png
 _template: post
 ---
 
-
-Přijďte si pro svoji slevu 20% na jakoukoliv pobočku Waf-Waf! Stačí vlastnit naši věrnostní kartičku. 
+Přijďte si pro svoji slevu 20% na jakoukoliv pobočku Waf-Waf! Stačí vlastnit naši věrnostní kartičku.
