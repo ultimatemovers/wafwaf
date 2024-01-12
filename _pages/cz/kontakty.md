@@ -26,7 +26,7 @@ contact_information:
   - title: 'Kontakt pro média a obchodní záležitosti '
     content: >-
       Otázky na management společnosti využijte prosím email:
-      [jonas@waf-waf.cz](mailto:jonas@waf-waf.cz)
+      [basel@waf-waf.cz](mailto:basel@waf-waf.cz)
   - title: Chtěli byste ve Waf-Waf udělat oslavu či teambuilding?
     content: >-
       Rádi byste udělali v rámci našich poboček například oslavu narozenin,
