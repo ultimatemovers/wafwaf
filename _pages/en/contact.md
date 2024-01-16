@@ -1,6 +1,6 @@
 ---
 permalink: /en/contact/
-hero_image: /uploads/2021/07/22/kontakty.png
+hero_image: /assets/images/uploads/2021/07/22/kontakty.png
 big_title: Contact
 layout: contact
 contact_information:
@@ -28,7 +28,7 @@ contact_information:
   - title: Media and business contact
     content: >-
       Questions on company management please use email: [jonas@waf-waf.cz]
-      (mailto: jonas@waf-waf.cz)
+      (mailto: basel@waf-waf.cz)
   - title: Would you like to have a celebration or teambuilding at Waf-Waf?
     content: >-
       Would you like to have a birthday party, a bachelor party, a corporate
@@ -46,5 +46,4 @@ instagram_title: Follow us on instagram
 delivery_time: '08:00 - 21:00'
 _template: contact
 ---
-
 
