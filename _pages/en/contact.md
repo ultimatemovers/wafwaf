@@ -6,7 +6,7 @@ layout: contact
 contact_information:
   - title: Would you like some information?
     content: |-
-      [info@waf-waf.cz] (mailto: info@waf-waf.cz)
+      [info@waf-waf.cz] (mailto: office@waf-waf.cz)
       [+420 725 344 097] (https://wa.me/420725344097)
 
       Summer: [+420 602 728 121] (https://wa.me/420602728121)
