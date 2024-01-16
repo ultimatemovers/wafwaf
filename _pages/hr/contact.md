@@ -27,8 +27,8 @@ contact_information:
       poslovnici. Hvala vam
   - title: Mediji i poslovni kontakt
     content: >-
-      Pitanja menadzmentu tvrtke uputite na e-mail: [jonas@waf-waf.cz] (mailto:
-      jonas@waf-waf.cz)
+      Pitanja menadzmentu tvrtke uputite na e-mail: [basel@waf-waf.cz] (mailto:
+      basel@waf-waf.cz)
   - title: Želite li imati proslavu ili teambuilding u Waf-Waf-u?
     content: >-
       Želite li imati rođendan, djevojačku večer, korporativni događaj,
