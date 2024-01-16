@@ -6,7 +6,7 @@ layout: contact
 contact_information:
   - title: Rádi byste nějaké informace?
     content: |-
-      [info@waf-waf.cz](mailto:info@waf-waf.cz)
+      [office@waf-waf.cz](mailto:office@waf-waf.cz)
 
       Letná: [+420 602 728 121](https://wa.me/420602728121)  
       každý den od 08:00 - 21:00
