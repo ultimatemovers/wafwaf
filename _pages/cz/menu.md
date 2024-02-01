@@ -162,7 +162,7 @@ categories:
     products:
       - product_title: Domácí limonáda - Malinová
         product_image: /assets/images/MalinovÃ¡ domÃ¡cÃ­ limonÃ¡da.jpg
-        product_price: 79
+        product_price: 89
       - product_title: Domácí limonáda - kořeněný karamel
         product_image: "/assets/images/WAF KoÅ\x99enÄ\x9BnÃ½ Karamel.png"
         product_description: ''
