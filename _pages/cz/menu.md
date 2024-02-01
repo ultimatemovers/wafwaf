@@ -130,7 +130,7 @@ categories:
         product_description: >-
           vafle, maxi kuřecí strips, vajíčko, javorový sirup, salát, okurka,
           majonéza
-        product_price: 209
+        product_price: 219
       - product_title: MAPLEWAF
         product_image: /assets/images/maplewaf2022-2.jpg
         product_description: 'vajíčko, slanina, cheddarová omáčka, rukola, rajče, javorový sirup'
