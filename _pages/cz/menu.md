@@ -170,7 +170,7 @@ categories:
       - product_title: Domácí limonáda - Zimní jablko
         product_image: "/assets/images/WAF Jablko skoÅ\x99ice.png"
         product_description: ''
-        product_price: 79
+        product_price: 89
       - product_title: Ice-Tea
         product_image: /assets/images/icetea2022-2.jpg
         product_description: ledový čaj s limetkou
