@@ -144,7 +144,7 @@ categories:
       - product_title: HALLOUMIWAF
         product_image: /assets/images/halloumiwaf-small.jpg
         product_description: 'avokádová pomazánka, haloumi sýr, rukola, rajče'
-        product_price: 189
+        product_price: 195
       - product_title: FRIEDWAF
         product_image: /assets/images/friedwaf-2022.jpg
         product_description: 'smažená palačinka, kuřecí maso, gouda, špenát, kukuřice'
