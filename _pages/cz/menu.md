@@ -162,7 +162,7 @@ categories:
         product_description: >-
           dvě vafle, slanina, šunka, cheddarová omáčka, baby špenát, rukola,
           rajčata, majonéza, kečup
-        product_price: 229
+        product_price: 245
   - category_title: KIDS MENU
     products:
       - product_title: OVOCNÉ PLNĚNÉ LÍVANCE
