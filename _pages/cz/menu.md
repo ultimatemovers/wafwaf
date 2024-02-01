@@ -134,7 +134,7 @@ categories:
       - product_title: MAPLEWAF
         product_image: /assets/images/maplewaf2022-2.jpg
         product_description: 'vajíčko, slanina, cheddarová omáčka, rukola, rajče, javorový sirup'
-        product_price: 179
+        product_price: 195
       - product_title: BEEFWAF
         product_image: /assets/images/beef-waf-2022.jpg
         product_description: >-
