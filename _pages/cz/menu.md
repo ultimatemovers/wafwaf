@@ -166,7 +166,7 @@ categories:
       - product_title: Domácí limonáda - kořeněný karamel
         product_image: "/assets/images/WAF KoÅ\x99enÄ\x9BnÃ½ Karamel.png"
         product_description: ''
-        product_price: 79
+        product_price: 89
       - product_title: Domácí limonáda - Zimní jablko
         product_image: "/assets/images/WAF Jablko skoÅ\x99ice.png"
         product_description: ''
