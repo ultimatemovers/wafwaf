@@ -86,7 +86,7 @@ categories:
       - product_title: HALLOUMIWAF
         product_image: /assets/images/Halloumiwaf_1.jpg
         product_description: 'avokádová pomazánka, halloumi sýr, rukola, rajcę'
-        product_price: 189
+        product_price: 195
   - category_title: SLADKÉ
     products:
       - product_title: CREAMWAF
