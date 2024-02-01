@@ -5,11 +5,11 @@ categories:
   - category_title: SNÍDANĚ
     products:
       - product_title: WafToast - Šunka & Sýr
-        product_image: /assets/images/WafToast---Å¡unka_sÃ½r.jpg
+        product_image: /assets/images/WafToast---Å¡unka_sÃ½r.jpg
         product_description: 'šunka, sýr'
         product_price: 39
       - product_title: "WafToast - Slanina &\_Sýr"
-        product_image: /assets/images/WafToast---SÃ½r_Slanina.jpg
+        product_image: /assets/images/WafToast---SÃ½r_Slanina.jpg
         product_description: 'slanina, sýr'
         product_price: 45
       - product_title: WafToast - Pastrami & Egg
@@ -45,7 +45,7 @@ categories:
   - category_title: SPECIÁLNÍ NABÍDKA
     products:
       - product_title: STRUDLWAF
-        product_image: /assets/images/WAF-WAF-NEW-_0002_WafÅ¡trÅ¯dl.png
+        product_image: /assets/images/WAF-WAF-NEW-_0002_WafÅ¡trÅ¯dl.png
         product_description: >-
           teplá jablečná směs, rozinky, créme anglaise, moučkový cukr, vlašské
           ořechy
@@ -55,12 +55,12 @@ categories:
         product_description: 'pastrami, cheddar, nakládané okurky, glazovaná cibulka, medová hořčice'
         product_price: 199
       - product_title: ORANGEWAF
-        product_image: /assets/images/WAF-WAF-NEW-_0003_Cookie-lÃ­vance.png
+        product_image: /assets/images/WAF-WAF-NEW-_0003_Cookie-lÃ­vance.png
         product_description: 'pomerančová čokoláda, mascarpone, cookies sušenka'
         product_price: 184
       - product_title: ZUCCHINOWAF
         product_image: >-
-          /assets/images/WAF-WAF-NEW-_0004_CuketovÃ©-lÃ­vance-s-batÃ¡tovÃ½m-pyrÃ©.png
+          /assets/images/WAF-WAF-NEW-_0004_CuketovÃ©-lÃ­vance-s-batÃ¡tovÃ½m-pyrÃ©.png
         product_description: >-
           cuketovo-mrkvové lívance, batátové pyré s máslem, grilovaná cuketa,
           petrželový olej, 
@@ -108,7 +108,7 @@ categories:
       - product_title: WAFREO
         product_image: /assets/images/wafreo-small.jpg
         product_description: 'jahody, nutella, oreo, domácí šlehačka'
-        product_price: 189
+        product_price: 195
       - product_title: PEARWAF
         product_image: /assets/images/Pearwaf.png
         product_description: >-
@@ -180,11 +180,11 @@ categories:
         product_image: /assets/images/MalinovÃ¡ domÃ¡cÃ­ limonÃ¡da.jpg
         product_price: 79
       - product_title: Domácí limonáda - kořeněný karamel
-        product_image: "/assets/images/WAF KoÅ\x99enÄ\x9BnÃ½ Karamel.png"
+        product_image: "/assets/images/WAF KoÅ\x99enÄ\x9BnÃ½ Karamel.png"
         product_description: ''
         product_price: 79
       - product_title: Domácí limonáda - Zimní jablko
-        product_image: "/assets/images/WAF Jablko skoÅ\x99ice.png"
+        product_image: "/assets/images/WAF Jablko skoÅ\x99ice.png"
         product_description: ''
         product_price: 79
       - product_title: Ice-Tea
