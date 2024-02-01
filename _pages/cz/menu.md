@@ -82,7 +82,7 @@ categories:
         product_description: >-
           bezlepková a veganská vafle, bezlaktózové mléko sezónní ovoce,
           čokoládová poleva
-        product_price: 159
+        product_price: 185
       - product_title: HALLOUMIWAF
         product_image: /assets/images/Halloumiwaf_1.jpg
         product_description: 'avokádová pomazánka, halloumi sýr, rukola, rajcę'
