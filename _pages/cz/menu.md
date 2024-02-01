@@ -92,7 +92,7 @@ categories:
       - product_title: CREAMWAF
         product_image: /assets/images/cream-waf-small.jpg
         product_description: 'jahody, zakysaná smetana, jahodový toping, '
-        product_price: 175
+        product_price: 179
       - product_title: SKYWAF
         product_image: /assets/images/Skywaf.png
         product_description: 'vafle, salko toping, jahody, lotus posyp a sušenka'
