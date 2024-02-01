@@ -206,7 +206,7 @@ categories:
       - product_title: WAF & SMOOTHIE PURPLE
         product_image: /assets/images/purplesmoothie-small.jpg
         product_description: 'borůvky, banán, kiwi, med'
-        product_price: 99
+        product_price: 115
 layout: menu
 _template: menu
 ---
