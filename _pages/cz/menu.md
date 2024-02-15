@@ -44,6 +44,11 @@ categories:
         product_price: 119
   - category_title: SPECIÁLNÍ NABÍDKA
     products:
+      - product_title: PATATEWAF
+        product_image: /assets/images/Patatewaf-2.jpg
+        product_description: >-
+          brambory, mleté hovězí maso, gouda, rajčata, lanýžová majonéza,
+          bazalka
       - product_title: WAFKEKS
         product_image: /assets/images/Wafkeks-2.jpg
         product_description: 'tmavá kakaová vafle, malinový rozvar, lotusový krém'
