@@ -44,6 +44,10 @@ categories:
         product_price: 119
   - category_title: SPECIÁLNÍ NABÍDKA
     products:
+      - product_title: WAFKEKS
+        product_image: /assets/images/Wafkeks-2.jpg
+        product_description: 'tmavá kakaová vafle, malinový rozvar, lotusový krém'
+        product_price: 195
       - product_title: WAFSTRAMI
         product_image: /assets/images/WAF-WAF-NEW-_0001_Pastramiwaf.png
         product_description: 'pastrami, cheddar, nakládané okurky, glazovaná cibulka, medová hořčice'
