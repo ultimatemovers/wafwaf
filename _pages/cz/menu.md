@@ -44,6 +44,10 @@ categories:
         product_price: 119
   - category_title: SPECIÁLNÍ NABÍDKA
     products:
+      - product_title: CINNABONWAF
+        product_image: /assets/images/Cinnabonwaf-2.jpg
+        product_description: 'škořicové lívance, cukr moučkový krém '
+        product_price: 189
       - product_title: PATATEWAF
         product_image: /assets/images/Patatewaf-2.jpg
         product_description: >-
