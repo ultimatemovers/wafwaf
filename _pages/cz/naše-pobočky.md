@@ -3,13 +3,19 @@ permalink: /naše-pobočky/
 locations_title: Naše pobočky
 hero_image: /assets/images/IMG_5224.JPG
 locations:
-  - local_image: /assets/images/IMG_2571.HEIC
-    first_left_image: /assets/images/IMG_2570.HEIC
+  - local_image: /assets/images/IMG_2571.jpg
+    first_left_image: /assets/images/IMG_2570.jpg
     location_name: Waf-Waf - OC Řepy (Praha)
     location_address: 'Makovského 1349/2a, 16300 Praha 17'
-    location_contact: ''
+    location_contact: |-
+      Otevírací doba:
+      Pondělí - Neděle:
+      09:00 - 21:00
+      Kontaktní telefonní číslo:
+      +420778967987
     location_gmaps_url: 'https://www.google.com/maps/@50.0647751,14.2259815,12z?entry=ttu'
     contact_number: '+420778967987'
+    footer_image: /assets/images/IMG_2572.jpg
     wolt: true
     boltfood: true
     damejidlo: true
