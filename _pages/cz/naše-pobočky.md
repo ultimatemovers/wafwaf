@@ -3,23 +3,6 @@ permalink: /naše-pobočky/
 locations_title: Naše pobočky
 hero_image: /assets/images/IMG_5224.JPG
 locations:
-  - local_image: /assets/images/IMG_2571.jpg
-    first_left_image: /assets/images/IMG_2570.jpg
-    location_name: Waf-Waf - OC Řepy (Praha)
-    location_address: 'Makovského 1349/2a, 16300 Praha 17'
-    location_contact: |-
-      Otevírací doba:
-      Pondělí - Neděle:
-      09:00 - 21:00
-      Kontaktní telefonní číslo:
-      +420778967987
-    location_gmaps_url: 'https://www.google.com/maps/@50.0647751,14.2259815,12z?entry=ttu'
-    contact_number: '+420778967987'
-    footer_image: /assets/images/IMG_2572.jpg
-    wolt: true
-    boltfood: true
-    damejidlo: true
-    damejidlo_url: 'https://www.foodora.cz/restaurant/ooye/waf-waf-repy'
   - local_image: /assets/images/deniel-65_1.jpg
     first_left_image: /assets/images/letna-prvni-foto-vlevo-misto-te-rozmazane.jpg
     location_name: WAF-WAF LETNÁ
@@ -89,6 +72,23 @@ locations:
     boltfood: true
     damejidlo: true
     damejidlo_url: ' https://www.damejidlo.cz/restaurant/s0ma/waf-waf-belehradska'
+  - local_image: /assets/images/IMG_2571.jpg
+    first_left_image: /assets/images/IMG_2570.jpg
+    location_name: Waf-Waf - OC Řepy (Praha)
+    location_address: 'Makovského 1349/2a, 16300 Praha 17'
+    location_contact: |-
+      Otevírací doba:
+      Pondělí - Neděle:
+      09:00 - 21:00
+      Kontaktní telefonní číslo:
+      +420778967987
+    location_gmaps_url: 'https://www.google.com/maps/@50.0647751,14.2259815,12z?entry=ttu'
+    contact_number: '+420778967987'
+    footer_image: /assets/images/IMG_2572.jpg
+    wolt: true
+    boltfood: true
+    damejidlo: true
+    damejidlo_url: 'https://www.foodora.cz/restaurant/ooye/waf-waf-repy'
   - local_image: /assets/images/screen-shot-2021-09-28-at-20-49-40.png
     first_left_image: /assets/images/20200119_085517000_ios.jpg
     location_name: WAF-WAF OC PALLADIUM (+2 patro)
