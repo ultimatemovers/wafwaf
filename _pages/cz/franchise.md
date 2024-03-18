@@ -132,9 +132,10 @@ after_faq:
 
       Praha 1 - OC Palladium
   - title: FRANŠÍZOVÉ PROVOZOVNY
-    content: |-
-      Brno - OC Špalíček
+    content: |
       Liberec - OC Forum Liberec
+      Ostrava - OC Forum Nová Karolina 
+      Praha - OC Řepy 
   - title: 'AKTUÁLNĚ HLEDÁME FRANCHISANTY PRO LOKALITY:'
     content: >-
       ČR: Plzeň, Olomouc, Brno, Teplice, České Budějovice, Zlín 
