@@ -136,6 +136,7 @@ after_faq:
       Liberec - OC Forum Liberec
       Ostrava - OC Forum Nová Karolina 
       Praha - OC Řepy 
+      Praha - OC Palladium 
   - title: 'AKTUÁLNĚ HLEDÁME FRANCHISANTY PRO LOKALITY:'
     content: >-
       ČR: Plzeň, Olomouc, Brno, Teplice, České Budějovice, Zlín 
