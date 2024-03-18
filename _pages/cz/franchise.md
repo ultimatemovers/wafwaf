@@ -127,10 +127,7 @@ after_faq:
   - title: VLASTNÍ PROVOZOVNY
     content: |-
       Praha 7 - Letná
-
       Praha 2 - I.P. Pavlova
-
-      Praha 1 - OC Palladium
   - title: FRANŠÍZOVÉ PROVOZOVNY
     content: |
       Liberec - OC Forum Liberec
