@@ -4,7 +4,7 @@ hero_image: /assets/images/IMG_5256-2.png
 big_title: Franchising
 subtitle: Strategické pilíře společnosti
 concept:
-  - icon: /uploads/2021/07/26/group-2184.svg
+  - icon: /assets/images/uploads/2021/07/26/group-2184.svg
     title: Inovativní koncept
     description: >-
       Unikátnost Waf-Waf spočívá především v inovativním konceptu přípravy
@@ -15,7 +15,7 @@ concept:
       v restauraci nebo vzít s sebou. Díky tomuto konceptu pak zákazníci mají
       téměř neomezené množství kombinací, a Společnost tak dokáže zaujmout
       široké spektrum konzumentů.
-  - icon: /uploads/2021/07/26/path-1125.svg
+  - icon: /assets/images/uploads/2021/07/26/path-1125.svg
     title: Waf-Waf jako lovebrand
     description: >-
       Waf-Waf je díky svému zaměření na kvalitu provedení a jedinečnému zdobení
@@ -28,7 +28,7 @@ concept:
       sociálních sítí, kdy má za své působení na sociálních sítích přes 32 tis.
       fanoušků. Z Waf-Waf se tak stal tzv. „lovebrand“, kdy se její zákazníci
       stávají součástí celého konceptu.
-  - icon: /uploads/2021/07/26/group-2186.svg
+  - icon: /assets/images/uploads/2021/07/26/group-2186.svg
     title: Rustový potenciál
     description: >-
       Waf-Waf se podařilo z inovativního konceptu vybudovat v krátkém čase
@@ -137,7 +137,7 @@ after_faq:
       Liberec - OC Forum Liberec
   - title: 'AKTUÁLNĚ HLEDÁME FRANCHISANTY PRO LOKALITY:'
     content: >-
-      Plzeň, Hradec Králové, Brno, Ústí nad Labem, České Budějovice aj. 
+      ČR: Plzeň, Olomouc, Brno, Teplice, České Budějovice, Zlín 
 
 
       Německo, Polsko, Slovensko, Rakousko, Maďarsko, Itálie, Chorvatsko a další
