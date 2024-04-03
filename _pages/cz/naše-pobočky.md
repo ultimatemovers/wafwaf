@@ -175,7 +175,7 @@ locations:
     contact_number: '+420 601 359 262 '
     first_column_above_image: ''
     second_column_above_image: ''
-    image_left: ''
+    image_left: /assets/images/1-4.png
     third_column_under_image: ''
     image_right_portrait: ''
     footer_image: ''
