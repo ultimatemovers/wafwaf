@@ -156,7 +156,7 @@ locations:
     footer_image: /assets/images/IMG_5256.JPG
   - local_image: /assets/images/Ostrava1.jpeg
     first_left_image: /assets/images/Ostrava2.jpeg
-    location_name: WAF-WAF - OSTRAVA
+    location_name: WAF-WAF - OSTRAVA (FORUM NOVA KAROLINA)
     location_address: 'Jantarová 3344/4, 702 00 Moravská Ostrava a Přívoz'
     location_contact: 'Kontaktní email: ostrava.karolina@waf-waf.cz'
     location_gmaps_url: ''
