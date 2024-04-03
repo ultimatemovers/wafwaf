@@ -170,7 +170,8 @@ locations:
     location_description: >-
       Pobočka v Ostravě se otevřela 15.12.2023 a obsahuje kapacitu přes 30 míst
       k sezení. K této provozovně je také připojen foodcourt a tak se možnost
-      sezení mnohonásobně navyšuje. Otevřeno je každý den v týdnu od 9 do 21. 
+      sezení mnohonásobně navyšuje. Otevřeno je každý den v týdnu od 9 do 21.
+      Najdete nás přímo na patře +2 v rámci Forum Nová Karolina. 
     contact_number: ''
     first_column_above_image: ''
     second_column_above_image: ''
