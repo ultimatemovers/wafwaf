@@ -83,6 +83,11 @@ locations:
       Kontaktní telefonní číslo:
       +420778967987
     location_gmaps_url: 'https://www.google.com/maps/@50.0647751,14.2259815,12z?entry=ttu'
+    location_description: >-
+      Pobočka v OC Řepy se otevřela 31.1.2024 a disponuje více než 30 místy k
+      sezení. Z pobočky také lze objednat rozvozové služby do lokalit v její
+      blízkosti. Pokud je zapotřebí, můžete provést i rezervace na výše uvedeném
+      čísle.
     contact_number: '+420778967987'
     footer_image: /assets/images/IMG_2572.jpg
     wolt: true
