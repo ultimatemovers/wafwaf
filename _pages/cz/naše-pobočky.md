@@ -91,6 +91,7 @@ locations:
     contact_number: '+420778967987'
     footer_image: /assets/images/IMG_2572.jpg
     wolt: true
+    wolt_url: 'https://wolt.com/cs/cze/prague/restaurant/waf-waf-oc-epy'
     boltfood: true
     damejidlo: true
     damejidlo_url: 'https://www.foodora.cz/restaurant/ooye/waf-waf-repy'
