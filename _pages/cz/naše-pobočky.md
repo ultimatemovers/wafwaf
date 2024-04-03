@@ -172,7 +172,7 @@ locations:
       k sezení. K této provozovně je také připojen foodcourt a tak se možnost
       sezení mnohonásobně navyšuje. Otevřeno je každý den v týdnu od 9 do 21.
       Najdete nás přímo na patře +2 v rámci Forum Nová Karolina. 
-    contact_number: ''
+    contact_number: '+420 601 359 262 '
     first_column_above_image: ''
     second_column_above_image: ''
     image_left: ''
@@ -180,11 +180,11 @@ locations:
     image_right_portrait: ''
     footer_image: ''
     footer_description: ''
-    wolt: false
-    wolt_url: ''
-    boltfood: false
-    damejidlo: false
-    damejidlo_url: ''
+    wolt: true
+    wolt_url: 'https://wolt.com/cs/cze/ostrava/restaurant/waf-waf-ostrava'
+    boltfood: true
+    damejidlo: true
+    damejidlo_url: 'https://www.foodora.cz/restaurant/l2vy/waf-waf-ostrava'
 layout: locations
 contact_us_button: Kontaktujte nás
 delivery_button: ' jak se tam dostanu'
