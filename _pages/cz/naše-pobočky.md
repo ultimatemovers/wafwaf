@@ -159,7 +159,7 @@ locations:
     location_name: WAF-WAF - OSTRAVA (FORUM NOVA KAROLINA)
     location_address: 'Jantarová 3344/4, 702 00 Moravská Ostrava a Přívoz'
     location_contact: 'Kontaktní email: ostrava.karolina@waf-waf.cz'
-    location_gmaps_url: ''
+    location_gmaps_url: 'https://maps.app.goo.gl/mMzVM1cZNPcEmu8i6'
     location_description: >-
       Pobočka v Ostravě se otevřela 15.12.2023 a obsahuje kapacitu přes 30 míst
       k sezení. K této provozovně je také připojen foodcourt a tak se možnost
