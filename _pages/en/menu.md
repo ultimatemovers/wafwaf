@@ -1,8 +1,13 @@
 ---
 permalink: /en/menu/
 big_title: WAF-WAF OFFER
-layout: menu
 categories:
+  - category_title: SPECIAL OFFER
+    products:
+      - product_title: HAWAIIWAF
+        product_image: /assets/images/Hawaiiwaf2.jpg
+        product_description: 'chicken in sauce, cheddar, pickled onions, watercress'
+        product_price: 185
   - category_title: SWEET
     products:
       - product_title: CREAMWAF
@@ -19,24 +24,24 @@ categories:
         product_image: /assets/images/skywaf-small.jpg
         product_description: 'waffles, salco topping, strawberries, lotus sprinkles and biscuit'
         product_price: null
-      - product_image: /assets/images/cocowaf-2022.jpg
-        product_title: COCOWAF
+      - product_title: COCOWAF
+        product_image: /assets/images/cocowaf-2022.jpg
         product_description: 'vanilla topping, caramel topping, raspberries, cocoa'
         product_price: null
-      - product_price: null
+      - product_title: WAFTELLA
         product_image: /assets/images/waftella-2022.jpg
-        product_title: WAFTELLA
         product_description: 'nutella, oreo, strawberries, raspberries, mascarpone'
-      - product_image: /assets/images/wafreo-small.jpg
-        product_title: WAFREO
+        product_price: null
+      - product_title: WAFREO
+        product_image: /assets/images/wafreo-small.jpg
         product_description: 'strawberries, nutella, oreo, homemade whipped cream'
         product_price: null
-      - product_price: null
+      - product_title: PEARWAF
         product_image: /assets/images/pearwaf-2022.jpg
-        product_title: PEARWAF
         product_description: 'glazed pears, cini minis, chocolate pieces, caramel topping,'
-      - product_image: /assets/images/wafcut.jpg
-        product_title: WAF&CUT
+        product_price: null
+      - product_title: WAF&CUT
+        product_image: /assets/images/wafcut.jpg
         product_description: 'waffles cut into pieces, sprinkled with cinnamon sugar, nutella'
         product_price: null
   - category_title: SAVORY
@@ -53,50 +58,50 @@ categories:
         product_image: /assets/images/halloumiwaf-small.jpg
         product_description: 'avocado spread, haloumi cheese, rocked salad, tomato'
         product_price: null
-      - product_image: /assets/images/maplewaf2022-2.jpg
-        product_title: MAPLEWAF
+      - product_title: MAPLEWAF
+        product_image: /assets/images/maplewaf2022-2.jpg
         product_description: 'egg, bacon, cheddar topping, rocket salad, tomato, maple syrup'
         product_price: null
-      - product_image: /assets/images/beef-waf-2022.jpg
-        product_title: BEEFWAF
+      - product_title: BEEFWAF
+        product_image: /assets/images/beef-waf-2022.jpg
         product_description: >-
           shredded beef, cheddar sauce, grilled tomatoes, onions, salad,
           cranberries
         product_price: null
-      - product_image: /assets/images/ironwaf2022-2.jpg
-        product_title: IRONWAF
+      - product_title: IRONWAF
+        product_image: /assets/images/ironwaf2022-2.jpg
         product_description: 'egg, bacon, cheddar, rocket salad'
         product_price: null
-      - product_image: /assets/images/crepedilla2022-2.jpg
-        product_title: CREPEDILLA
+      - product_title: CREPEDILLA
+        product_image: /assets/images/crepedilla2022-2.jpg
         product_description: 'chicken, cheddar topping, baby spinach, sour cream'
         product_price: null
-      - product_image: /assets/images/big-waf-2022.jpg
-        product_title: BIGWAF
+      - product_title: BIGWAF
+        product_image: /assets/images/big-waf-2022.jpg
         product_description: >-
           two waffles, bacon, ham, cheddar topping, baby spinach, rocked salad,
           tomatoes, mayonnaise, ketchup
         product_price: null
   - category_title: BREAKFEST
     products:
-      - product_image: /assets/images/eggwaf-small.jpg
-        product_title: EGGWAF
+      - product_title: EGGWAF
+        product_image: /assets/images/eggwaf-small.jpg
         product_description: >-
           fried eggs, bacon, cheddar, baby spinach, cherry tomatoes, chives and
           pieces of waffles topped with cheddar
         product_price: 139
-      - product_image: /assets/images/cream-waf-small.jpg
-        product_title: CREAM&WAF
+      - product_title: CREAM&WAF
+        product_image: /assets/images/cream-waf-small.jpg
         product_description: >-
           stuffed with sour cream, strawberries and sugar, topped with
           strawberry topping
         product_price: 129
-      - product_image: /assets/images/avowaf-small.jpg
+      - product_title: AVOWAF
+        product_image: /assets/images/avowaf-small.jpg
         product_description: >-
           avocado spread, fried egg, baby spinach,rocket salad, cherry tomatoes,
           pomegranate seeds
         product_price: 134
-        product_title: AVOWAF
   - category_title: MILKSHAKES & DRINKS
     products:
       - product_title: ICE-TEA
@@ -119,31 +124,31 @@ categories:
         product_image: /assets/images/purplesmoothie-small.jpg
         product_description: 'blueberries, banana, kiwi, honey'
         product_price: null
-      - product_image: /assets/images/milkshake-jahodovy2022.jpg
-        product_title: Strawberry Milkshake
+      - product_title: Strawberry Milkshake
+        product_image: /assets/images/milkshake-jahodovy2022.jpg
         product_description: >-
           milk, strawberries, vanilla ice cream, strawberry topping, whipped
           cream
         product_price: null
-      - product_image: /assets/images/milkshake-bananovy-2022.jpg
-        product_title: Banana Milkshake
+      - product_title: Banana Milkshake
+        product_image: /assets/images/milkshake-bananovy-2022.jpg
         product_description: >-
           milk, banana, vanilla ice cream, caramel topping, colored sprinkles,
           whipped cream
         product_price: null
-      - product_image: /assets/images/wafshake-jahodovy-2022.jpg
-        product_title: Strawberry Wafshake
+      - product_title: Strawberry Wafshake
+        product_image: /assets/images/wafshake-jahodovy-2022.jpg
         product_description: >-
           milk, strawberries, vanilla ice cream, strawberry topping, whipped
           cream, waffles
         product_price: null
-      - product_image: /assets/images/wafshake-bananovy-2022.jpg
-        product_title: Banana Wafshake
+      - product_title: Banana Wafshake
+        product_image: /assets/images/wafshake-bananovy-2022.jpg
         product_description: >-
           milk, banana, vanilla ice cream, caramel topping, colored sprinkles,
           whipped cream, waffles
         product_price: null
+layout: menu
 _template: menu
 ---
-
 
