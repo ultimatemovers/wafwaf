@@ -54,10 +54,12 @@ categories:
           pistáciová poleva, drcené pistácie, maliny, sušené maliny, kousky
           pomeranče
         product_price: 189
-      - product_title: WAFKEKS
-        product_image: /assets/images/Wafkeks-2.jpg
-        product_description: 'tmavá kakaová vafle, malinový rozvar, lotusový krém'
-        product_price: 195
+      - product_title: LEMONWAF
+        product_image: /assets/images/Lemonwaf.jpg
+        product_description: >-
+          makové lívance, citronóvový krém, protein, borůvky, proteinové křupky,
+          sušené borůvky
+        product_price: 175
       - product_title: WAFSTRAMI
         product_image: /assets/images/WAF-WAF-NEW-_0001_Pastramiwaf.png
         product_description: 'pastrami, cheddar, nakládané okurky, glazovaná cibulka, medová hořčice'
