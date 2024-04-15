@@ -60,10 +60,12 @@ categories:
           makové lívance, citronóvový krém, protein, borůvky, proteinové křupky,
           sušené borůvky
         product_price: 175
-      - product_title: WAFSTRAMI
-        product_image: /assets/images/WAF-WAF-NEW-_0001_Pastramiwaf.png
-        product_description: 'pastrami, cheddar, nakládané okurky, glazovaná cibulka, medová hořčice'
-        product_price: 209
+      - product_title: SPRINGWAF
+        product_image: /assets/images/Springwaf.jpg
+        product_description: >-
+          hráškový krém, vaječná omeleta s mozzarellou, polosušená rajčata,
+          řeřicha 
+        product_price: 169
   - category_title: FRESH MENU
     products:
       - product_title: CAESARWAF
