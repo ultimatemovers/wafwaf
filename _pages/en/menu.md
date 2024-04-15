@@ -4,6 +4,12 @@ big_title: WAF-WAF OFFER
 categories:
   - category_title: SPECIAL OFFER
     products:
+      - product_title: LEMONWAF
+        product_image: /assets/images/Lemonwaf2.jpg
+        product_description: >-
+          poppy seed fritters, lemon cream, protein, blueberries, protein
+          crisps, dried blueberries
+        product_price: 175
       - product_title: PISTACHIOWAF
         product_image: /assets/images/Pistachiowaf2.jpg
         product_description: >-
