@@ -4,28 +4,28 @@ big_title: WAF-WAF OFFER
 categories:
   - category_title: SPECIAL OFFER
     products:
-      - product_title: SPRINGWAF
-        product_image: /assets/images/Springwaf2.jpg
-        product_description: >-
-          pea cream, egg omelette with mozzarella, semi-dried tomatoes,
-          watercress
-        product_price: 169
-      - product_title: LEMONWAF
-        product_image: /assets/images/Lemonwaf2.jpg
-        product_description: >-
-          poppy seed fritters, lemon cream, protein, blueberries, protein
-          crisps, dried blueberries
-        product_price: 175
+      - product_title: HAWAIIWAF
+        product_image: /assets/images/Hawaiiwaf2.jpg
+        product_description: 'chicken in sauce, cheddar, pickled onions, watercress'
+        product_price: 185
       - product_title: PISTACHIOWAF
         product_image: /assets/images/Pistachiowaf2.jpg
         product_description: >-
           pistachio frosting, crushed pistachios, raspberries, dried
           raspberries, orange pieces
         product_price: 189
-      - product_title: HAWAIIWAF
-        product_image: /assets/images/Hawaiiwaf2.jpg
-        product_description: 'chicken in sauce, cheddar, pickled onions, watercress'
-        product_price: 185
+      - product_title: LEMONWAF
+        product_image: /assets/images/Lemonwaf2.jpg
+        product_description: >-
+          poppy seed fritters, lemon cream, protein, blueberries, protein
+          crisps, dried blueberries
+        product_price: 175
+      - product_title: SPRINGWAF
+        product_image: /assets/images/Springwaf2.jpg
+        product_description: >-
+          pea cream, egg omelette with mozzarella, semi-dried tomatoes,
+          watercress
+        product_price: 169
   - category_title: SWEET
     products:
       - product_title: CREAMWAF
