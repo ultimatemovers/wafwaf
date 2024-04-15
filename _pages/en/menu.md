@@ -4,6 +4,12 @@ big_title: WAF-WAF OFFER
 categories:
   - category_title: SPECIAL OFFER
     products:
+      - product_title: PISTACHIOWAF
+        product_image: /assets/images/Pistachiowaf2.jpg
+        product_description: >-
+          pistachio frosting, crushed pistachios, raspberries, dried
+          raspberries, orange pieces
+        product_price: 189
       - product_title: HAWAIIWAF
         product_image: /assets/images/Hawaiiwaf2.jpg
         product_description: 'chicken in sauce, cheddar, pickled onions, watercress'
