@@ -4,6 +4,12 @@ big_title: WAF-WAF OFFER
 categories:
   - category_title: SPECIAL OFFER
     products:
+      - product_title: SPRINGWAF
+        product_image: /assets/images/Springwaf2.jpg
+        product_description: >-
+          pea cream, egg omelette with mozzarella, semi-dried tomatoes,
+          watercress
+        product_price: 169
       - product_title: LEMONWAF
         product_image: /assets/images/Lemonwaf2.jpg
         product_description: >-
