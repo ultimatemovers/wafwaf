@@ -48,12 +48,12 @@ categories:
         product_image: /assets/images/Hawaiiwaf.jpg
         product_description: 'kuřecí maso v omáčce, cheddar, nakládaná cibule, řeřicha  '
         product_price: 185
-      - product_title: PATATEWAF
-        product_image: /assets/images/Patatewaf-2.jpg
+      - product_title: PISTACHIOWAF
+        product_image: /assets/images/Pistachiowaf.jpg
         product_description: >-
-          brambory, mleté hovězí maso, gouda, rajčata, lanýžová majonéza,
-          bazalka
-        product_price: 199
+          pistáciová poleva, drcené pistácie, maliny, sušené maliny, kousky
+          pomeranče
+        product_price: 189
       - product_title: WAFKEKS
         product_image: /assets/images/Wafkeks-2.jpg
         product_description: 'tmavá kakaová vafle, malinový rozvar, lotusový krém'
