@@ -10,6 +10,7 @@ excerpt: >-
   Vezměte svoji maminku do Waf-Waf a užijte si #novyzazitek 
 button_text: Zobrazit více
 post_image: /assets/images/WAF-WAF_1080x1080px_Den matek.png
+feature_image: /assets/images/WAF-WAF_1080x1080px_Den matek.png
 _template: post
 ---
 
