@@ -15,6 +15,7 @@ excerpt: >-
   office@waf-waf.cz 
 button_text: Více informací
 post_image: /assets/images/wafcluvz.jpeg
+feature_image: /assets/images/wafcluvz.jpeg
 _template: post
 ---
 
