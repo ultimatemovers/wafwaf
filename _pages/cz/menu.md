@@ -81,8 +81,10 @@ categories:
       - product_title: PLAINWAF
         product_image: /assets/images/Plainwaf-2.jpg
         product_description: >-
-          bezlepková a veganská vafle, bezlaktózové mléko sezónní ovoce,
+          bezlepková a bez laktózová vafle, bezlaktózové mléko sezónní ovoce,
           čokoládová poleva
+
+          *obsahuje stopy lepku z důvodu přípravy na stejném zařízení
         product_price: 185
       - product_title: HALLOUMIWAF
         product_image: /assets/images/Halloumiwaf_1.jpg
