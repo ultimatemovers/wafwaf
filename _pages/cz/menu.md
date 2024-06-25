@@ -53,11 +53,11 @@ categories:
         product_description: 'lívance, tvaroh, arašídové máslo, banán, cookies sušenky'
         product_price: 189
       - product_title: PLAINWAF
-        product_image: /assets/images/Plainwaf-2.jpg
+        product_image: /assets/images/Plainwaf 2024.jpg
         product_description: |-
           bezlepková a bez laktózová vafle, sezónní ovoce, čokoládová poleva
-          *obsahuje stopy lepku z důvodu přípravy na stejném zařízení
-        product_price: 185
+          *obsahuje stopy lepku, není vhodná pro celiaky
+        product_price: 179
   - category_title: SLADKÉ
     products:
       - product_title: CREAMWAF
