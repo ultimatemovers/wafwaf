@@ -8,7 +8,8 @@ categories:
         product_image: /assets/images/Pala.jpg
         product_description: palačinka s nutellou a banánem
         product_price: 129
-      - {}
+      - product_title: WAF&CUT
+        product_price: 89
   - category_title: SNÍDANĚ
     products:
       - product_title: WafToast - Dvojitý sýr
