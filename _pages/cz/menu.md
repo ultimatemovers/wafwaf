@@ -48,6 +48,13 @@ categories:
         product_price: 169
   - category_title: FRESH MENU
     products:
+      - product_title: CakeWaf
+        product_image: /assets/images/Cakew.jpg
+        product_description: >-
+          (lívance), tvarohový krém, karamelová poleva, banán, borůvky, lístek
+          máty
+        product_price: 169
+      - {}
       - product_title: PROTEINWAF
         product_image: /assets/images/Proteinwaf.jpg
         product_description: 'lívance, tvaroh, arašídové máslo, banán, cookies sušenky'
