@@ -154,7 +154,7 @@ categories:
         product_image: /assets/images/crep.jpg
         product_description: >-
           (palačinka), kuřecí maso, cheddarová omáčka, baby špenát, zakysaná
-          smetana
+          smetana + nápoj + waf&fries
         product_price: 259
       - product_title: PlainWaf menu
         product_image: '/assets/images/Obrázek WhatsApp, 2024-06-25 v 12.47.33_32704ae2.jpg'
