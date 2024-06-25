@@ -103,6 +103,9 @@ categories:
         product_price: 179
   - category_title: Menu
     products:
+      - {}
+      - {}
+      - {}
       - product_title: Waftella menu
         product_image: /assets/images/44.jpg
         product_description: '(pancake), nutella, strawberries, oreo + drink'
@@ -123,6 +126,8 @@ categories:
       - product_title: Crepedilla menu
         product_image: ''
         product_price: 259
+      - product_title: PlainWaf menu
+        product_image: /assets/images/mmmmmm.jpg
   - category_title: 'BREAKFEST UNTIL 12:00'
     products:
       - product_title: Syrniki
