@@ -137,7 +137,8 @@ categories:
         product_description: '(vafle), salko poleva, jahody, lotus posyp + nápoj'
         product_price: 199
       - product_title: Wafreo menu
-        product_description: '(vafle), nutella, oreo, jahody, domácí šlehačka'
+        product_image: '/assets/images/Obrázek WhatsApp, 2024-06-25 v 12.47.34_5f85d5aa.jpg'
+        product_description: '(vafle), nutella, oreo, jahody, domácí šlehačka + nápoj'
         product_price: 219
       - product_title: BigWaf menu
         product_image: /assets/images/bigwaff.jpg
