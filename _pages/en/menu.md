@@ -20,6 +20,9 @@ categories:
         product_image: /assets/images/fuuu.jpg
         product_description: '(mini pancake), chocolate topping, forest fruit, banana + ice-tea'
         product_price: 99
+      - product_title: WAF&FRIES
+        product_image: /assets/images/free.jpg
+        product_price: 59
   - category_title: SPECIAL OFFER
     products:
       - product_title: CHICKENWAF
