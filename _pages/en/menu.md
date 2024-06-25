@@ -110,10 +110,10 @@ categories:
         product_image: /assets/images/icetea2022-2.jpg
         product_description: ice-tea
         product_price: null
-      - product_title: LEMONADE
-        product_image: /assets/images/citronada2022-2.jpg
+      - product_title: RASPBERRY LEMONADE
+        product_image: /assets/images/Domácí limonáda malina.jpg
         product_description: homemade lemonade
-        product_price: null
+        product_price: 89
       - product_title: WAFRAPPE
         product_image: /assets/images/wafrappe2022.jpg
         product_description: 'vanilla ice, coffee, homemade whipped cream, lotus'
