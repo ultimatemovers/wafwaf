@@ -4,6 +4,8 @@ big_title: WAF-WAF NABÍDKA
 categories:
   - category_title: SNÍDANĚ
     products:
+      - product_title: Sýrový toast
+        product_image: /assets/images/WafToast - sýr (1).jpg
       - product_title: WafToast - Šunka & Sýr
         product_image: /assets/images/WafToast---Å¡unka_sÃ½r.jpg
         product_description: 'šunka, sýr'
