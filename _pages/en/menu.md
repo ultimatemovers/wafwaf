@@ -97,6 +97,10 @@ categories:
         product_image: /assets/images/Cakew4587.jpg
         product_description: '(pancake), cream cheese, banana, caramel topping, blueberries'
         product_price: 169
+      - product_title: TacoWaf
+        product_image: /assets/images/TAC14.jpg
+        product_description: '(pancake), cream cheese, mango, blueberries, strawberries'
+        product_price: 179
   - category_title: Menu
     products:
       - product_title: Waftella menu
