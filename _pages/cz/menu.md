@@ -12,10 +12,6 @@ categories:
         product_image: /assets/images/WafToast---SÃ½r_Slanina.jpg
         product_description: 'slanina, sýr'
         product_price: 45
-      - product_title: WafToast - Pastrami & Egg
-        product_image: /assets/images/Waftoast---pastrami_egg.jpg
-        product_description: 'pastrami, vajíčko, baby špenát'
-        product_price: 69
       - product_title: Granolawaf
         product_image: /assets/images/GranolaWaf.jpg
         product_description: >-
