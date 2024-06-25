@@ -88,7 +88,10 @@ categories:
       - product_title: Waf-Toast bacon&cheese
         product_description: 'pancake, bacon and cheese'
         product_price: 54
-      - {}
+      - product_title: Waf-Toast double cheese
+        product_image: /assets/images/sýr.jpg
+        product_description: 'pancake, cheese 2x'
+        product_price: 45
       - product_title: EGGWAF
         product_image: /assets/images/eggwaf-small.jpg
         product_description: >-
