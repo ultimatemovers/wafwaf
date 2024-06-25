@@ -129,6 +129,7 @@ categories:
   - category_title: AKČNÍ MENU
     products:
       - product_title: Waftella menu
+        product_description: '(lívance), nutella, oreo, jahody, maliny, mascarpone'
         product_price: 225
       - product_title: Skywaf menu
         product_description: '(vafle), salko poleva, jahody, lotus posyp + nápoj'
