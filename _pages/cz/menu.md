@@ -142,7 +142,9 @@ categories:
         product_price: 219
       - product_title: BigWaf menu
         product_image: /assets/images/bigwaff.jpg
-        product_description: '(vafle 2x), cheddar, rukola, baby špenát, rajče, slanina, šunka'
+        product_description: >-
+          (vafle 2x), cheddar, rukola, baby špenát, rajče, slanina, šunka +
+          nápoj + waf&fries
         product_price: 319
       - product_title: BeefWaf menu
         product_image: /assets/images/beef.jpg
