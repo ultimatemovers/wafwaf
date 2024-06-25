@@ -2,6 +2,13 @@
 permalink: /menu/
 big_title: WAF-WAF NABÍDKA
 categories:
+  - category_title: HOME&HAPPY
+    products:
+      - product_title: PALAČINKA NUTELLA&BANÁN
+        product_image: /assets/images/Pala.jpg
+        product_description: palačinka s nutellou a banánem
+        product_price: 129
+      - {}
   - category_title: SNÍDANĚ
     products:
       - product_title: WafToast - Dvojitý sýr
@@ -105,6 +112,13 @@ categories:
           rajčata, majonéza, kečup
         product_price: 249
   - category_title: AKČNÍ MENU
+    products:
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
   - category_title: NÁPOJE & MILKSHAKES
     products:
       - product_title: DOMÁCÍ LIMONÁDA- MANGOVÁ
