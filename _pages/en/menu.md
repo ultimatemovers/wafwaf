@@ -110,6 +110,10 @@ categories:
         product_image: /assets/images/icetea2022-2.jpg
         product_description: ice-tea
         product_price: null
+      - product_title: Lemon Lemonade
+        product_image: /assets/images/Citronáda2022.png
+        product_description: homemade lemonade
+        product_price: 55
       - product_title: RASPBERRY LEMONADE
         product_image: /assets/images/Domácí limonáda malina.jpg
         product_description: homemade lemonade
