@@ -56,8 +56,8 @@ categories:
         product_price: 189
       - product_title: SKYWAF
         product_image: /assets/images/skywaf-small.jpg
-        product_description: 'waffles, salco topping, strawberries, lotus sprinkles and biscuit'
-        product_price: null
+        product_description: '(waffles), salco topping, strawberries, lotus sprinkles and biscuit'
+        product_price: 169
   - category_title: SAVORY
     products:
       - product_title: FRIEDWAF
