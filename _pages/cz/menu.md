@@ -4,7 +4,6 @@ big_title: WAF-WAF NABÍDKA
 categories:
   - category_title: HOME&HAPPY
     products:
-      - {}
       - product_title: PALAČINKA NUTELLA&BANÁN
         product_image: /assets/images/Pala.jpg
         product_description: palačinka s nutellou a banánem
@@ -12,6 +11,8 @@ categories:
       - product_title: WAF&CUT
         product_price: 89
       - product_title: CREAMWAF
+        product_image: /assets/images/CREAM&WAF-2022.jpg
+        product_description: '(palačinka), jahody, zakysaná smetana, jahodová poleva'
         product_price: 149
       - product_title: FRUITWAF+ICE-TEA
         product_image: /assets/images/Fruitwaf 2024.jpg
