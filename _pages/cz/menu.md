@@ -15,7 +15,9 @@ categories:
       - product_title: FRUITWAF+ICE-TEA
         product_description: '(lívance), čokoládová poleva, lesní ovoce, banán'
         product_price: 99
-      - {}
+      - product_title: WAF&FRIES
+        product_description: waffle fries s kečupem a majonézou
+        product_price: 59
   - category_title: SNÍDANĚ
     products:
       - product_title: WafToast - Dvojitý sýr
