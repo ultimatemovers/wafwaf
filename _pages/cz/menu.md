@@ -24,7 +24,7 @@ categories:
         product_price: 99
   - category_title: SPECIÁLNÍ NABÍDKA
     products:
-      - product_title: HAWAIIWAF
+      - product_title: CHICKENWAF
         product_image: /assets/images/Hawaiiwaf.jpg
         product_description: 'kuřecí maso v omáčce, cheddar, nakládaná cibule, řeřicha  '
         product_price: 185
