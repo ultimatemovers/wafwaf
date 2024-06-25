@@ -52,8 +52,8 @@ categories:
         product_price: 195
       - product_title: WAFREO
         product_image: /assets/images/wafreo-small.jpg
-        product_description: 'strawberries, nutella, oreo, homemade whipped cream'
-        product_price: null
+        product_description: '(waffle), strawberries, nutella, oreo, homemade whipped cream'
+        product_price: 189
       - product_title: SKYWAF
         product_image: /assets/images/skywaf-small.jpg
         product_description: 'waffles, salco topping, strawberries, lotus sprinkles and biscuit'
