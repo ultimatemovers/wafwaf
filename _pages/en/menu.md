@@ -83,7 +83,7 @@ categories:
   - category_title: 'BREAKFEST UNTIL 12:00'
     products:
       - product_title: Waf-Toast-ham&cheese
-        product_description: 'pancake, ham and cheese'
+        product_description: 'american pancake, ham and cheese'
         product_price: 49
       - product_title: Waf-Toast bacon&cheese
         product_description: 'pancake, bacon and cheese'
