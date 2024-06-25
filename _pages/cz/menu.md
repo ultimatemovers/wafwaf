@@ -84,33 +84,11 @@ categories:
         product_price: 189
   - category_title: SLANÉ
     products:
-      - product_title: BOLOGNELLA
-        product_image: /assets/images/Bolognella.jpg
-        product_description: 'bolognese omáčka, bešamel, parmezán, '
-        product_price: 219
-      - product_title: WAFCHICK
-        product_image: /assets/images/WAFCHICK.png
-        product_description: >-
-          vafle, maxi kuřecí strips, vajíčko, javorový sirup, salát, okurka,
-          majonéza
-        product_price: 219
-      - product_title: MAPLEWAF
-        product_image: /assets/images/maplewaf2022-2.jpg
-        product_description: 'vajíčko, slanina, cheddarová omáčka, rukola, rajče, javorový sirup'
-        product_price: 195
       - product_title: BEEFWAF
         product_image: /assets/images/beef-waf-2022.jpg
         product_description: >-
           trhané hovězí maso,  cheddarová omáčka, grilovaná rajčata, cibule,
           salát, brusinky
-        product_price: 209
-      - product_title: HALLOUMIWAF
-        product_image: /assets/images/halloumiwaf-small.jpg
-        product_description: 'avokádová pomazánka, haloumi sýr, rukola, rajče'
-        product_price: 195
-      - product_title: FRIEDWAF
-        product_image: /assets/images/friedwaf-2022.jpg
-        product_description: 'smažená palačinka, kuřecí maso, gouda, špenát, kukuřice'
         product_price: 209
       - product_title: IRONWAF
         product_image: /assets/images/ironwaf2022-2.jpg
@@ -125,7 +103,7 @@ categories:
         product_description: >-
           dvě vafle, slanina, šunka, cheddarová omáčka, baby špenát, rukola,
           rajčata, majonéza, kečup
-        product_price: 245
+        product_price: 249
   - category_title: KIDS MENU
     products:
       - product_title: OVOCNÉ PLNĚNÉ LÍVANCE
