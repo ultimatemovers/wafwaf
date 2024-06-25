@@ -128,7 +128,8 @@ categories:
         product_price: 249
   - category_title: AKČNÍ MENU
     products:
-      - {}
+      - product_title: Waftella menu
+        product_price: 225
       - {}
       - {}
       - {}
