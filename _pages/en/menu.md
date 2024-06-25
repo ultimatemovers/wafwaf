@@ -122,6 +122,7 @@ categories:
           tomatoes, mayonnaise, ketchup+ drink+ waf&fries
         product_price: 315
       - product_title: Beefwaf menu
+        product_image: /assets/images/beefa.jpg
         product_description: >-
           (waffle), shredded beef, cheddar sauce, grilled tomatoes, onions,
           salad, cranberries+ drink+ waf&fries
