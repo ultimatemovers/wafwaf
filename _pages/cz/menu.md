@@ -148,6 +148,7 @@ categories:
           rajče, brusinky + nápoj + waf&fries
         product_price: 265
       - product_title: Crepedilla menu
+        product_image: /assets/images/crep.jpg
         product_description: >-
           (palačinka), kuřecí maso, cheddarová omáčka, baby špenát, zakysaná
           smetana
