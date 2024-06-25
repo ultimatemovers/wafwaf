@@ -107,16 +107,9 @@ categories:
   - category_title: AKČNÍ MENU
   - category_title: NÁPOJE & MILKSHAKES
     products:
+      - product_title: DOMÁCÍ LIMONÁDA- MANGOVÁ
       - product_title: Domácí limonáda - Malinová
         product_image: /assets/images/MalinovÃ¡ domÃ¡cÃ­ limonÃ¡da.jpg
-        product_price: 89
-      - product_title: Domácí limonáda - kořeněný karamel
-        product_image: "/assets/images/WAF KoÅ\x99enÄ\x9BnÃ½ Karamel.png"
-        product_description: ''
-        product_price: 89
-      - product_title: Domácí limonáda - Zimní jablko
-        product_image: "/assets/images/WAF Jablko skoÅ\x99ice.png"
-        product_description: ''
         product_price: 89
       - product_title: Ice-Tea
         product_image: /assets/images/icetea2022-2.jpg
@@ -138,22 +131,6 @@ categories:
           mléko, banán, vanilková zmrzlina, karamelový toping, barevné posypky,
           šlehačka
         product_price: 119
-      - product_title: Jahodový Wafshake
-        product_image: /assets/images/wafshake-jahodovy-2022.jpg
-        product_description: >-
-          mléko, jahody, vanilková zmrzlina, jahodový toping, barevné posypky,
-          šlehačka, vafle
-        product_price: 189
-      - product_title: Banánový Wafshake
-        product_image: /assets/images/wafshake-bananovy-2022.jpg
-        product_description: >-
-          mléko, banán, vanilková zmrzlina, karamelový toping, barevné posypky,
-          šlehačka, vafle
-        product_price: 189
-      - product_title: WAF & SMOOTHIE PURPLE
-        product_image: /assets/images/purplesmoothie-small.jpg
-        product_description: 'borůvky, banán, kiwi, med'
-        product_price: 115
 layout: menu
 _template: menu
 ---
