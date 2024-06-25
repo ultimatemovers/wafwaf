@@ -130,7 +130,9 @@ categories:
     products:
       - product_title: Waftella menu
         product_price: 225
-      - {}
+      - product_title: Skywaf menu
+        product_description: '(vafle), salko poleva, jahody, lotus posyp + nápoj'
+        product_price: 199
       - {}
       - {}
       - {}
