@@ -10,6 +10,10 @@ categories:
         product_price: 129
       - product_title: WAF&CUT
         product_price: 89
+      - product_title: CREAMWAF
+        product_price: 149
+      - {}
+      - {}
   - category_title: SNÍDANĚ
     products:
       - product_title: WafToast - Dvojitý sýr
