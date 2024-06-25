@@ -93,6 +93,7 @@ categories:
         product_description: 'american pancake, ham and cheese'
         product_price: 49
       - product_title: Waf-Toast bacon&cheese
+        product_image: /assets/images/WafToast - Sýr_Slanina_3.jpg
         product_description: 'pancake, bacon and cheese'
         product_price: 54
       - product_title: Waf-Toast double cheese
