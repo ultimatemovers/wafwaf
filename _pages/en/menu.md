@@ -68,8 +68,8 @@ categories:
         product_price: null
       - product_title: IRONWAF
         product_image: /assets/images/ironwaf2022-2.jpg
-        product_description: 'egg, bacon, cheddar, rocket salad'
-        product_price: null
+        product_description: '(waffle),egg, bacon, cheddar, rocket salad'
+        product_price: 169
       - product_title: CREPEDILLA
         product_image: /assets/images/crepedilla2022-2.jpg
         product_description: 'chicken, cheddar topping, baby spinach, sour cream'
