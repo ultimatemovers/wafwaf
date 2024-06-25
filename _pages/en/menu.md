@@ -82,6 +82,12 @@ categories:
         product_price: 249
   - category_title: 'BREAKFEST UNTIL 12:00'
     products:
+      - product_title: Syrniki
+        product_image: /assets/images/syrniki4.jpg
+        product_description: >-
+          (cream cheese pancakes), strawberry topping, powdered sugar, fresh
+          mint
+        product_price: 89
       - product_title: Waf-Toast-ham&cheese
         product_description: 'american pancake, ham and cheese'
         product_price: 49
