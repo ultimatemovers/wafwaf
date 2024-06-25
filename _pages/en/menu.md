@@ -117,6 +117,9 @@ categories:
         product_price: 199
       - product_title: Bigwafmenu
         product_image: /assets/images/11.jpg
+        product_description: >-
+          (two waffles),bacon, ham, cheddar topping, baby spinach, rocked salad,
+          tomatoes, mayonnaise, ketchup+ drink+ waf&fries
         product_price: 315
       - product_title: Beefwaf menu
       - product_title: IronWaf menu
