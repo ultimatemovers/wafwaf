@@ -83,7 +83,7 @@ categories:
   - category_title: Menu
     products:
       - product_title: Waftella menu
-      - {}
+      - product_title: Wafreo menu
       - {}
       - {}
       - {}
