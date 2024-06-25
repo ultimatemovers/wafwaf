@@ -109,7 +109,7 @@ categories:
       - product_title: ICE-TEA
         product_image: /assets/images/icetea2022-2.jpg
         product_description: ice-tea
-        product_price: null
+        product_price: 55
       - product_title: Lemon Lemonade
         product_image: /assets/images/Citronáda2022.png
         product_description: homemade lemonade
