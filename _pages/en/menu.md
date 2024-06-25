@@ -91,6 +91,9 @@ categories:
         product_description: '(waffle), nutella, strawberries, oreo + drink'
         product_price: 219
       - product_title: Skywaf menu
+        product_image: /assets/images/sky.jpg
+        product_description: '(waffle) cream, strawberries, lotus + drink'
+        product_price: 199
       - product_title: Bigwafmenu
         product_image: /assets/images/11.jpg
         product_price: 315
