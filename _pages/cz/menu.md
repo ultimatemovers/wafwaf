@@ -119,7 +119,7 @@ categories:
       - product_title: Citronáda
         product_image: /assets/images/citronada2022-2.jpg
         product_description: domácí citronáda s mátou
-        product_price: 59
+        product_price: 55
       - product_title: Jahodový Milkshake
         product_image: /assets/images/milkshake-jahodovy2022.jpg
         product_description: >-
