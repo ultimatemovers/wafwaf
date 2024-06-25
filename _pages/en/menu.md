@@ -131,7 +131,7 @@ categories:
         product_description: >-
           milk, strawberries, vanilla ice cream, strawberry topping, whipped
           cream
-        product_price: null
+        product_price: 119
       - product_title: Banana Milkshake
         product_image: /assets/images/milkshake-bananovy-2022.jpg
         product_description: >-
