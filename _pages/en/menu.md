@@ -84,7 +84,7 @@ categories:
     products:
       - product_title: Waftella menu
       - product_title: Wafreo menu
-      - {}
+      - product_title: Skywaf menu
       - {}
       - {}
       - {}
