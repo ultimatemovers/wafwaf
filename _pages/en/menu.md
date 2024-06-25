@@ -80,6 +80,14 @@ categories:
           (two waffles),bacon, ham, cheddar topping, baby spinach, rocked salad,
           tomatoes, mayonnaise, ketchup
         product_price: 249
+  - category_title: Menu
+    products:
+      - product_title: Waftella menu
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
   - category_title: 'BREAKFEST UNTIL 12:00'
     products:
       - product_title: Syrniki
