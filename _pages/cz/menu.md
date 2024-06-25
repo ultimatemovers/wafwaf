@@ -164,6 +164,10 @@ categories:
           veganská varianta
           sezonní ovoce, čokoládová poleva + nápoj
         product_price: 209
+      - product_title: ProteinWaf menu
+        product_description: '(proteinové lívance), tvaroh, arašídové máslo, banán'
+        product_price: 219
+      - {}
   - category_title: NÁPOJE & MILKSHAKES
     products:
       - product_title: DOMÁCÍ LIMONÁDA- MANGOVÁ
