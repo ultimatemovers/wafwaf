@@ -7,6 +7,7 @@ categories:
       - product_title: Pancake with nutella and banana
         product_image: /assets/images/palalal.jpg
         product_description: '(pancake), nutella, banana'
+        product_price: 129
       - {}
       - {}
       - {}
