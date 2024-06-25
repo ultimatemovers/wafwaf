@@ -63,9 +63,9 @@ categories:
       - product_title: BEEFWAF
         product_image: /assets/images/beef-waf-2022.jpg
         product_description: >-
-          shredded beef, cheddar sauce, grilled tomatoes, onions, salad,
-          cranberries
-        product_price: null
+          (waffle), shredded beef, cheddar sauce, grilled tomatoes, onions,
+          salad, cranberries
+        product_price: 195
       - product_title: IRONWAF
         product_image: /assets/images/ironwaf2022-2.jpg
         product_description: '(waffle),egg, bacon, cheddar, rocket salad'
