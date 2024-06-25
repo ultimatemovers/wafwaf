@@ -142,6 +142,7 @@ categories:
         product_description: '(vafle 2x), cheddar, rukola, baby špenát, rajče, slanina, šunka'
         product_price: 319
       - product_title: BeefWaf menu
+        product_image: /assets/images/beef.jpg
         product_description: >-
           (vafle), trhané hovězí maso, cheddarová omáčka, cibule, římský salát,
           rajče, brusinky + nápoj + waf&fries
