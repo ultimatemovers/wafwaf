@@ -131,6 +131,7 @@ categories:
         product_price: 209
       - product_title: ProteinWaf menu
         product_image: /assets/images/nzbvgl.jpg
+        product_description: '(protein pancake), cream cheese, peanut butter, banana, cookie+ drink'
         product_price: 219
   - category_title: 'BREAKFEST UNTIL 12:00'
     products:
