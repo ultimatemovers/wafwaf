@@ -93,7 +93,7 @@ categories:
       - product_title: IRONWAF
         product_image: /assets/images/ironwaf2022-2.jpg
         product_description: 'vajíčko, slanina, cheddarová omáčka, rukola'
-        product_price: 189
+        product_price: 169
       - product_title: CREPEDILLA
         product_image: /assets/images/crepedilla2022-2.jpg
         product_description: 'kuřecí maso, cheddar, baby špenát, zakysaná smetana'
