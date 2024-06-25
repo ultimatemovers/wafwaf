@@ -86,8 +86,13 @@ categories:
       - product_title: Wafreo menu
       - product_title: Skywaf menu
       - product_title: Bigwafmenu
+        product_image: /assets/images/11.jpg
+        product_price: 315
       - product_title: Beefwaf menu
       - product_title: IronWaf menu
+      - product_title: Crepedilla menu
+        product_image: ''
+        product_price: 259
   - category_title: 'BREAKFEST UNTIL 12:00'
     products:
       - product_title: Syrniki
