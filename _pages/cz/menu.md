@@ -131,7 +131,7 @@ categories:
   - category_title: AKČNÍ MENU
     products:
       - product_title: Waftella menu
-        product_description: '(lívance), nutella, oreo, jahody, maliny, mascarpone'
+        product_description: '(lívance), nutella, oreo, jahody, maliny, mascarpone + nápoj'
         product_price: 225
       - product_title: Skywaf menu
         product_image: '/assets/images/Obrázek WhatsApp, 2024-06-25 v 12.47.35_af5c2cfb.jpg'
