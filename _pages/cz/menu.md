@@ -167,7 +167,11 @@ categories:
       - product_title: ProteinWaf menu
         product_description: '(proteinové lívance), tvaroh, arašídové máslo, banán'
         product_price: 219
-      - {}
+      - product_title: CakeWaf menu
+        product_description: >-
+          (lívance), tvarohový krém, karamelová poleva, banán, borůvky, lístek
+          máty
+        product_price: 199
   - category_title: NÁPOJE & MILKSHAKES
     products:
       - product_title: DOMÁCÍ LIMONÁDA- MANGOVÁ
