@@ -93,7 +93,10 @@ categories:
         product_image: /assets/images/momo.jpg
         product_description: '(protein pancake), cream cheese, peanut butter, banana, cookie'
         product_price: 189
-      - {}
+      - product_title: CakeWaf
+        product_image: /assets/images/Cakew4587.jpg
+        product_description: '(pancake), cream cheese, banana, caramel topping, blueberries'
+        product_price: 169
   - category_title: Menu
     products:
       - product_title: Waftella menu
