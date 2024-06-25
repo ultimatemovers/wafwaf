@@ -122,6 +122,10 @@ categories:
           tomatoes, mayonnaise, ketchup+ drink+ waf&fries
         product_price: 315
       - product_title: Beefwaf menu
+        product_description: >-
+          (waffle), shredded beef, cheddar sauce, grilled tomatoes, onions,
+          salad, cranberries+ drink+ waf&fries
+        product_price: 265
       - product_title: IronWaf menu
         product_description: '(waffle),egg, bacon, cheddar, rocket salad+ drink +waf&fries'
         product_price: 239
