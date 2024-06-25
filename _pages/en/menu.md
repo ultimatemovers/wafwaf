@@ -89,6 +89,7 @@ categories:
           mint
         product_price: 89
       - product_title: Waf-Toast-ham&cheese
+        product_image: /assets/images/WafToast - šunka_sýr 3.jpg
         product_description: 'american pancake, ham and cheese'
         product_price: 49
       - product_title: Waf-Toast bacon&cheese
