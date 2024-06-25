@@ -147,7 +147,11 @@ categories:
           (vafle), trhané hovězí maso, cheddarová omáčka, cibule, římský salát,
           rajče, brusinky + nápoj + waf&fries
         product_price: 265
-      - {}
+      - product_title: Crepedilla menu
+        product_description: >-
+          (palačinka), kuřecí maso, cheddarová omáčka, baby špenát, zakysaná
+          smetana
+        product_price: 259
   - category_title: NÁPOJE & MILKSHAKES
     products:
       - product_title: DOMÁCÍ LIMONÁDA- MANGOVÁ
