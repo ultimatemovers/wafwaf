@@ -16,12 +16,6 @@ categories:
         product_image: /assets/images/WafToast---SÃ½r_Slanina.jpg
         product_description: 'slanina, sýr'
         product_price: 45
-      - product_title: Granolawaf
-        product_image: /assets/images/GranolaWaf.jpg
-        product_description: >-
-          bílý jogurt, müsli, kokos, banán, granátové jablko, semínka, mini
-          lívance
-        product_price: 89
       - product_title: Eggwaf
         product_image: /assets/images/eggwaf-small.jpg
         product_description: >-
