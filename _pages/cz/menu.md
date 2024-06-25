@@ -24,10 +24,10 @@ categories:
         product_image: /assets/images/Wafflefries.jpg
         product_description: waffle fries s kečupem a majonézou
         product_price: 59
-  - category_title: SNÍDANĚ
+  - category_title: SNÍDANĚ DO 12 HODIN
     products:
       - product_title: Syrniki
-        product_image: ''
+        product_image: /assets/images/syrniki.jpg
         product_price: 89
       - product_title: WafToast - Dvojitý sýr
         product_image: /assets/images/WafToast - sýr (1).jpg
