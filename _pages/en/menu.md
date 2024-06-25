@@ -87,6 +87,9 @@ categories:
         product_description: '(pancake), nutella, strawberries, oreo + drink'
         product_price: 225
       - product_title: Wafreo menu
+        product_image: /assets/images/7851.jpg
+        product_description: '(waffle), nutella, strawberries, oreo + drink'
+        product_price: 219
       - product_title: Skywaf menu
       - product_title: Bigwafmenu
         product_image: /assets/images/11.jpg
