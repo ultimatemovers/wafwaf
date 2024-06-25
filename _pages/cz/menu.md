@@ -12,7 +12,8 @@ categories:
         product_price: 89
       - product_title: CREAMWAF
         product_price: 149
-      - {}
+      - product_title: FRUITWAF+ICE-TEA
+        product_description: '(lívance), čokoládová poleva, lesní ovoce, banán'
       - {}
   - category_title: SNÍDANĚ
     products:
