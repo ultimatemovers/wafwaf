@@ -134,6 +134,7 @@ categories:
         product_description: '(lívance), nutella, oreo, jahody, maliny, mascarpone'
         product_price: 225
       - product_title: Skywaf menu
+        product_image: '/assets/images/Obrázek WhatsApp, 2024-06-25 v 12.47.35_af5c2cfb.jpg'
         product_description: '(vafle), salko poleva, jahody, lotus posyp + nápoj'
         product_price: 199
       - product_title: Wafreo menu
