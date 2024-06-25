@@ -11,7 +11,7 @@ categories:
       - product_title: WafToast - Šunka & Sýr
         product_image: /assets/images/WafToast---Å¡unka_sÃ½r.jpg
         product_description: 'šunka, sýr'
-        product_price: 39
+        product_price: 49
       - product_title: "WafToast - Slanina &\_Sýr"
         product_image: /assets/images/WafToast---SÃ½r_Slanina.jpg
         product_description: 'slanina, sýr'
