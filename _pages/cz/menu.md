@@ -134,7 +134,9 @@ categories:
       - product_title: Skywaf menu
         product_description: '(vafle), salko poleva, jahody, lotus posyp + nápoj'
         product_price: 199
-      - {}
+      - product_title: Wafreo menu
+        product_description: '(vafle), nutella, oreo, jahody, domácí šlehačka'
+        product_price: 219
       - {}
       - {}
       - {}
