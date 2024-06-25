@@ -168,6 +168,7 @@ categories:
         product_description: '(proteinové lívance), tvaroh, arašídové máslo, banán'
         product_price: 219
       - product_title: CakeWaf menu
+        product_image: '/assets/images/Obrázek WhatsApp, 2024-06-25 v 12.47.33_8eaa7549.jpg'
         product_description: >-
           (lívance), tvarohový krém, karamelová poleva, banán, borůvky, lístek
           máty
