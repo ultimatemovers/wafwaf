@@ -137,7 +137,10 @@ categories:
       - product_title: Wafreo menu
         product_description: '(vafle), nutella, oreo, jahody, domácí šlehačka'
         product_price: 219
-      - {}
+      - product_title: BigWaf menu
+        product_image: /assets/images/bigwaff.jpg
+        product_description: '(vafle 2x), cheddar, rukola, baby špenát, rajče, slanina, šunka'
+        product_price: 319
       - {}
       - {}
   - category_title: NÁPOJE & MILKSHAKES
