@@ -131,6 +131,7 @@ categories:
   - category_title: AKČNÍ MENU
     products:
       - product_title: Waftella menu
+        product_image: /assets/images/waftellamenu.jpg
         product_description: '(lívance), nutella, oreo, jahody, maliny, mascarpone + nápoj'
         product_price: 225
       - product_title: Skywaf menu
