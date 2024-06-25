@@ -130,7 +130,7 @@ categories:
         product_description: '(waffle),egg, bacon, cheddar, rocket salad+ drink +waf&fries'
         product_price: 239
       - product_title: Crepedilla menu
-        product_image: ''
+        product_image: /assets/images/nbh.jpg
         product_description: >-
           (pancake), chicken, cheddar topping, baby spinach, sour cream+drink+
           waf&fries
