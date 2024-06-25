@@ -86,7 +86,7 @@ categories:
       - product_title: Wafreo menu
       - product_title: Skywaf menu
       - product_title: Bigwafmenu
-      - {}
+      - product_title: Beefwaf menu
       - {}
   - category_title: 'BREAKFEST UNTIL 12:00'
     products:
