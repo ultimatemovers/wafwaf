@@ -104,7 +104,7 @@ categories:
           dvě vafle, slanina, šunka, cheddarová omáčka, baby špenát, rukola,
           rajčata, majonéza, kečup
         product_price: 249
-  - category_title: MENU
+  - category_title: AKČNÍ MENU
   - category_title: NÁPOJE & MILKSHAKES
     products:
       - product_title: Domácí limonáda - Malinová
