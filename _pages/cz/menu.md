@@ -18,26 +18,12 @@ categories:
           bílý jogurt, müsli, kokos, banán, granátové jablko, semínka, mini
           lívance
         product_price: 89
-      - product_title: Black&Waf
-        product_image: /assets/images/BlackWaf.jpg
-        product_description: 'borůvky, zakysaná smetana, borůvková marmeláda'
-        product_price: 119
-      - product_title: Pastrami & Egg
-        product_image: /assets/images/PastramiEgg.jpg
-        product_description: 'pastrami, zastřené vejce, avokádo, cheddar, rukola'
-        product_price: 109
       - product_title: Eggwaf
         product_image: /assets/images/eggwaf-small.jpg
         product_description: >-
           sázená vajíčka, slanina, cheddar, baby špenát, cherry rajčátka,
           pažitka a kousky vaflí polité cheddarem
         product_price: 99
-      - product_title: Avowaf
-        product_image: /assets/images/avowaf-small.jpg
-        product_description: >-
-          avokádová pomazánka, sázené vajíčko, baby špenát, rukola, cherry
-          rajčátka, granátové jablko, semínka
-        product_price: 119
   - category_title: SPECIÁLNÍ NABÍDKA
     products:
       - product_title: HAWAIIWAF
