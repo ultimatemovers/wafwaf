@@ -80,26 +80,18 @@ categories:
           (two waffles),bacon, ham, cheddar topping, baby spinach, rocked salad,
           tomatoes, mayonnaise, ketchup
         product_price: 249
-  - category_title: BREAKFEST
+  - category_title: 'BREAKFEST UNTIL 12:00'
     products:
+      - product_title: WafToast-ham&cheese
+        product_price: 49
+      - {}
+      - {}
       - product_title: EGGWAF
         product_image: /assets/images/eggwaf-small.jpg
         product_description: >-
           fried eggs, bacon, cheddar, baby spinach, cherry tomatoes, chives and
           pieces of waffles topped with cheddar
         product_price: 139
-      - product_title: CREAM&WAF
-        product_image: /assets/images/cream-waf-small.jpg
-        product_description: >-
-          stuffed with sour cream, strawberries and sugar, topped with
-          strawberry topping
-        product_price: 129
-      - product_title: AVOWAF
-        product_image: /assets/images/avowaf-small.jpg
-        product_description: >-
-          avocado spread, fried egg, baby spinach,rocket salad, cherry tomatoes,
-          pomegranate seeds
-        product_price: 134
   - category_title: MILKSHAKES & DRINKS
     products:
       - product_title: ICE-TEA
