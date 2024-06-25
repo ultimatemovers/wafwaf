@@ -15,7 +15,7 @@ categories:
       - product_title: "WafToast - Slanina &\_Sýr"
         product_image: /assets/images/WafToast---SÃ½r_Slanina.jpg
         product_description: 'slanina, sýr'
-        product_price: 45
+        product_price: 54
       - product_title: Eggwaf
         product_image: /assets/images/eggwaf-small.jpg
         product_description: >-
