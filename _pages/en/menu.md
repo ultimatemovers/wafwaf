@@ -105,7 +105,6 @@ categories:
     products:
       - {}
       - {}
-      - {}
       - product_title: Waftella menu
         product_image: /assets/images/44.jpg
         product_description: '(pancake), nutella, strawberries, oreo + drink'
@@ -130,6 +129,9 @@ categories:
         product_image: /assets/images/mmmmmm.jpg
         product_description: 'gluten-free and lactose-free waffle, fruit, chocolate topping+drink'
         product_price: 209
+      - product_title: ProteinWaf menu
+        product_image: /assets/images/nzbvgl.jpg
+        product_price: 219
   - category_title: 'BREAKFEST UNTIL 12:00'
     products:
       - product_title: Syrniki
