@@ -58,24 +58,8 @@ categories:
         product_image: /assets/images/skywaf-small.jpg
         product_description: '(waffles), salco topping, strawberries, lotus sprinkles and biscuit'
         product_price: 169
-  - category_title: SAVORY
+  - category_title: SALTY
     products:
-      - product_title: FRIEDWAF
-        product_image: /assets/images/friedwaf-2022.jpg
-        product_description: 'fried pancake, chicken, gouda, spinach, corn'
-        product_price: null
-      - product_title: WAFCHICK
-        product_image: /assets/images/wafchick-small.jpg
-        product_description: 'waffles, maxi chicken strips, lettuce, cucumber, mayonnaise'
-        product_price: null
-      - product_title: HALLOUMIWAF
-        product_image: /assets/images/halloumiwaf-small.jpg
-        product_description: 'avocado spread, haloumi cheese, rocked salad, tomato'
-        product_price: null
-      - product_title: MAPLEWAF
-        product_image: /assets/images/maplewaf2022-2.jpg
-        product_description: 'egg, bacon, cheddar topping, rocket salad, tomato, maple syrup'
-        product_price: null
       - product_title: BEEFWAF
         product_image: /assets/images/beef-waf-2022.jpg
         product_description: >-
@@ -93,9 +77,9 @@ categories:
       - product_title: BIGWAF
         product_image: /assets/images/big-waf-2022.jpg
         product_description: >-
-          two waffles, bacon, ham, cheddar topping, baby spinach, rocked salad,
+          (two waffles),bacon, ham, cheddar topping, baby spinach, rocked salad,
           tomatoes, mayonnaise, ketchup
-        product_price: null
+        product_price: 249
   - category_title: BREAKFEST
     products:
       - product_title: EGGWAF
