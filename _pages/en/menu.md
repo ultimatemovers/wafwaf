@@ -123,6 +123,8 @@ categories:
         product_price: 315
       - product_title: Beefwaf menu
       - product_title: IronWaf menu
+        product_description: '(waffle),egg, bacon, cheddar, rocket salad+ drink +waf&fries'
+        product_price: 239
       - product_title: Crepedilla menu
         product_image: ''
         product_price: 259
