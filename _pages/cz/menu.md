@@ -23,6 +23,7 @@ categories:
   - category_title: SNÍDANĚ
     products:
       - product_title: Syrniki
+        product_price: 89
       - product_title: WafToast - Dvojitý sýr
         product_image: /assets/images/WafToast - sýr (1).jpg
         product_description: 'lívance, tavený sýr'
