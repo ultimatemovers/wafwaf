@@ -108,7 +108,7 @@ categories:
   - category_title: NÁPOJE & MILKSHAKES
     products:
       - product_title: DOMÁCÍ LIMONÁDA- MANGOVÁ
-      - product_title: Domácí limonáda - Malinová
+      - product_title: DOMÁCÍ LIMONÁDA- MALINOVÁ
         product_image: /assets/images/MalinovÃ¡ domÃ¡cÃ­ limonÃ¡da.jpg
         product_price: 89
       - product_title: Ice-Tea
