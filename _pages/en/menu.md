@@ -4,7 +4,7 @@ big_title: WAF-WAF OFFER
 categories:
   - category_title: SPECIAL OFFER
     products:
-      - product_title: HAWAIIWAF
+      - product_title: CHICKENWAF
         product_image: /assets/images/Hawaiiwaf2.jpg
         product_description: 'chicken in sauce, cheddar, pickled onions, watercress'
         product_price: 185
