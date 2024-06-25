@@ -89,7 +89,10 @@ categories:
         product_image: /assets/images/nuuu.jpg
         product_description: 'gluten-free and lactose-free waffle, fruit, chocolate topping'
         product_price: 179
-      - {}
+      - product_title: Proteinwaf
+        product_image: /assets/images/momo.jpg
+        product_description: '(protein pancake), cream cheese, peanut butter, banana, cookie'
+        product_price: 189
       - {}
   - category_title: Menu
     products:
