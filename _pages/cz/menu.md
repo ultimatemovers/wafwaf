@@ -97,7 +97,7 @@ categories:
       - product_title: CREPEDILLA
         product_image: /assets/images/crepedilla2022-2.jpg
         product_description: 'kuřecí maso, cheddar, baby špenát, zakysaná smetana'
-        product_price: 199
+        product_price: 189
       - product_title: BIGWAF
         product_image: /assets/images/big-waf-2022.jpg
         product_description: >-
