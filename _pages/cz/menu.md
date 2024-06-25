@@ -48,12 +48,6 @@ categories:
         product_price: 169
   - category_title: FRESH MENU
     products:
-      - product_title: CAESARWAF
-        product_image: /assets/images/CaesarWaf.jpg
-        product_description: >-
-          vaflové krutony, kuřecí maso, slanina, parmazán, cherry rajčata,
-          římský salát, dresink
-        product_price: 189
       - product_title: PROTEINWAF
         product_image: /assets/images/Proteinwaf.jpg
         product_description: 'lívance, tvaroh, arašídové máslo, banán, cookies sušenky'
@@ -64,10 +58,6 @@ categories:
           bezlepková a bez laktózová vafle, sezónní ovoce, čokoládová poleva
           *obsahuje stopy lepku z důvodu přípravy na stejném zařízení
         product_price: 185
-      - product_title: HALLOUMIWAF
-        product_image: /assets/images/Halloumiwaf_1.jpg
-        product_description: 'avokádová pomazánka, halloumi sýr, rukola, rajcę'
-        product_price: 195
   - category_title: SLADKÉ
     products:
       - product_title: CREAMWAF
