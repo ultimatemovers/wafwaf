@@ -115,7 +115,7 @@ categories:
       - product_title: Ice-Tea
         product_image: /assets/images/icetea2022-2.jpg
         product_description: ledový čaj s limetkou
-        product_price: 59
+        product_price: 55
       - product_title: Citronáda
         product_image: /assets/images/citronada2022-2.jpg
         product_description: domácí citronáda s mátou
