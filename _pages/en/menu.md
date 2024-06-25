@@ -117,15 +117,7 @@ categories:
       - product_title: WAFRAPPE
         product_image: /assets/images/wafrappe2022.jpg
         product_description: 'vanilla ice, coffee, homemade whipped cream, lotus'
-        product_price: null
-      - product_title: DALGONWAF
-        product_image: /assets/images/dalgonwaf-small.jpg
-        product_description: 'coffee cream, milk, ice'
-        product_price: null
-      - product_title: WAF&SMOOTHIE PURPLE
-        product_image: /assets/images/purplesmoothie-small.jpg
-        product_description: 'blueberries, banana, kiwi, honey'
-        product_price: null
+        product_price: 109
       - product_title: Strawberry Milkshake
         product_image: /assets/images/milkshake-jahodovy2022.jpg
         product_description: >-
