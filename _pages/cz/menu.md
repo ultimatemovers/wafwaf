@@ -132,6 +132,9 @@ categories:
           mléko, banán, vanilková zmrzlina, karamelový toping, barevné posypky,
           šlehačka
         product_price: 119
+      - product_title: WAFRAPPE
+        product_description: 'mléko, káva, zmrzlina, karamelová poleva, domácí šlehačka'
+        product_price: 109
 layout: menu
 _template: menu
 ---
