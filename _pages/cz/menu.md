@@ -81,7 +81,7 @@ categories:
       - product_title: WAFREO
         product_image: /assets/images/wafreo-small.jpg
         product_description: 'jahody, nutella, oreo, domácí šlehačka'
-        product_price: 195
+        product_price: 189
   - category_title: SLANÉ
     products:
       - product_title: BOLOGNELLA
