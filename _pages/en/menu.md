@@ -16,7 +16,10 @@ categories:
         product_image: /assets/images/crrr.jpg
         product_description: '(pancake), strawberries, sour cream, strawberry topping'
         product_price: 149
-      - {}
+      - product_title: FRUITWAF+ICE-TEA
+        product_image: /assets/images/fuuu.jpg
+        product_description: '(mini pancake), chocolate topping, forest fruit, banana + ice-tea'
+        product_price: 99
   - category_title: SPECIAL OFFER
     products:
       - product_title: CHICKENWAF
