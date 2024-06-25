@@ -70,18 +70,10 @@ categories:
         product_price: 179
   - category_title: SLADKÉ
     products:
-      - product_title: CREAMWAF
-        product_image: /assets/images/cream-waf-small.jpg
-        product_description: 'jahody, zakysaná smetana, jahodový toping, '
-        product_price: 179
       - product_title: SKYWAF
         product_image: /assets/images/Skywaf.png
         product_description: 'vafle, salko toping, jahody, lotus posyp a sušenka'
-        product_price: 185
-      - product_title: CAKEWAF
-        product_image: /assets/images/cake-waf-2022.jpg
-        product_description: 'tvarohový krém, karamelový toping, borůvky, banán, jahoda'
-        product_price: 185
+        product_price: 169
       - product_title: WAFTELLA
         product_image: /assets/images/waftella-2022.jpg
         product_description: 'nutella, oreo, jahody, maliny, mascarpone'
@@ -90,16 +82,6 @@ categories:
         product_image: /assets/images/wafreo-small.jpg
         product_description: 'jahody, nutella, oreo, domácí šlehačka'
         product_price: 195
-      - product_title: PEARWAF
-        product_image: /assets/images/Pearwaf.png
-        product_description: >-
-          glazované hrušky, cini minis, čokoládové kousky, javorový sirup,
-          domácí šlehačka
-        product_price: 185
-      - product_title: WAF&CUT
-        product_image: /assets/images/wafcut.jpg
-        product_description: 'vafle nakrájena na kousky, posypané skořicovým cukrem, nutella '
-        product_price: null
   - category_title: SLANÉ
     products:
       - product_title: BOLOGNELLA
