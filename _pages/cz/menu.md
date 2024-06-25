@@ -13,6 +13,7 @@ categories:
       - product_title: CREAMWAF
         product_price: 149
       - product_title: FRUITWAF+ICE-TEA
+        product_image: /assets/images/Fruitwaf 2024.jpg
         product_description: '(lívance), čokoládová poleva, lesní ovoce, banán'
         product_price: 99
       - product_title: WAF&FRIES
