@@ -137,6 +137,7 @@ categories:
         product_price: 199
       - product_title: TacoWaf menu
         product_image: /assets/images/vrou.jpg
+        product_description: '(pancake), cream cheese, mango, blueberries, strawberries+ drink'
         product_price: 209
   - category_title: 'BREAKFEST UNTIL 12:00'
     products:
