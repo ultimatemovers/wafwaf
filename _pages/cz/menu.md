@@ -9,6 +9,7 @@ categories:
         product_description: palačinka s nutellou a banánem
         product_price: 129
       - product_title: WAF&CUT
+        product_description: kousky vafle s nutellou a skořicovým cukrem
         product_price: 89
       - product_title: CREAMWAF
         product_image: /assets/images/CREAM&WAF-2022.jpg
