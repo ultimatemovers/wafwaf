@@ -46,35 +46,17 @@ categories:
         product_price: 169
   - category_title: SWEET
     products:
-      - product_title: CREAMWAF
-        product_image: /assets/images/cream-waf-small.jpg
-        product_description: >-
-          stuffed with sour cream, strawberries and sugar, topped with
-          strawberry topping
-        product_price: null
-      - product_title: CAKEWAF
-        product_image: /assets/images/cake-waf-2022.jpg
-        product_description: 'cream, strawberries, blueberries, bananas, salty caramel topping'
-        product_price: null
-      - product_title: SKYWAF
-        product_image: /assets/images/skywaf-small.jpg
-        product_description: 'waffles, salco topping, strawberries, lotus sprinkles and biscuit'
-        product_price: null
       - product_title: WAFTELLA
         product_image: /assets/images/waftella-2022.jpg
-        product_description: 'nutella, oreo, strawberries, raspberries, mascarpone'
-        product_price: null
+        product_description: '(pancake), nutella, oreo, strawberries, raspberries, mascarpone'
+        product_price: 195
       - product_title: WAFREO
         product_image: /assets/images/wafreo-small.jpg
         product_description: 'strawberries, nutella, oreo, homemade whipped cream'
         product_price: null
-      - product_title: PEARWAF
-        product_image: /assets/images/pearwaf-2022.jpg
-        product_description: 'glazed pears, cini minis, chocolate pieces, caramel topping,'
-        product_price: null
-      - product_title: WAF&CUT
-        product_image: /assets/images/wafcut.jpg
-        product_description: 'waffles cut into pieces, sprinkled with cinnamon sugar, nutella'
+      - product_title: SKYWAF
+        product_image: /assets/images/skywaf-small.jpg
+        product_description: 'waffles, salco topping, strawberries, lotus sprinkles and biscuit'
         product_price: null
   - category_title: SAVORY
     products:
