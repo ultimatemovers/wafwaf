@@ -114,6 +114,10 @@ categories:
         product_image: /assets/images/Domácí limonáda malina.jpg
         product_description: homemade lemonade
         product_price: 89
+      - product_title: MANGO LEMONADE
+        product_image: /assets/images/Limonáda Mango.jpg
+        product_description: homemade lemonade
+        product_price: 89
       - product_title: WAFRAPPE
         product_image: /assets/images/wafrappe2022.jpg
         product_description: 'vanilla ice, coffee, homemade whipped cream, lotus'
