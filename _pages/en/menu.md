@@ -85,7 +85,7 @@ categories:
       - product_title: Waftella menu
       - product_title: Wafreo menu
       - product_title: Skywaf menu
-      - {}
+      - product_title: Bigwafmenu
       - {}
       - {}
   - category_title: 'BREAKFEST UNTIL 12:00'
