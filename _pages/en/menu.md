@@ -12,7 +12,10 @@ categories:
         product_image: /assets/images/cutut.jpg
         product_description: waffle pieces with  nutella and cinnamon sugar
         product_price: 89
-      - {}
+      - product_title: CREAMWAF
+        product_image: /assets/images/crrr.jpg
+        product_description: '(pancake), strawberries, sour cream, strawberry topping'
+        product_price: 149
       - {}
   - category_title: SPECIAL OFFER
     products:
