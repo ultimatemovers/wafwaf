@@ -8,7 +8,10 @@ categories:
         product_image: /assets/images/palalal.jpg
         product_description: '(pancake), nutella, banana'
         product_price: 129
-      - {}
+      - product_title: WAF&CUT
+        product_image: /assets/images/cutut.jpg
+        product_description: waffle pieces with  nutella and cinnamon sugar
+        product_price: 89
       - {}
       - {}
   - category_title: SPECIAL OFFER
