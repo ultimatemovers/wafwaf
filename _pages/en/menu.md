@@ -2,6 +2,14 @@
 permalink: /en/menu/
 big_title: WAF-WAF OFFER
 categories:
+  - category_title: HOME&HAPPY
+    products:
+      - product_title: Pancake with nutella and banana
+        product_image: /assets/images/palalal.jpg
+        product_description: '(pancake), nutella, banana'
+      - {}
+      - {}
+      - {}
   - category_title: SPECIAL OFFER
     products:
       - product_title: CHICKENWAF
@@ -41,10 +49,6 @@ categories:
       - product_title: SKYWAF
         product_image: /assets/images/skywaf-small.jpg
         product_description: 'waffles, salco topping, strawberries, lotus sprinkles and biscuit'
-        product_price: null
-      - product_title: COCOWAF
-        product_image: /assets/images/cocowaf-2022.jpg
-        product_description: 'vanilla topping, caramel topping, raspberries, cocoa'
         product_price: null
       - product_title: WAFTELLA
         product_image: /assets/images/waftella-2022.jpg
