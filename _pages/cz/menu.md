@@ -6,6 +6,8 @@ categories:
     products:
       - product_title: Sýrový toast
         product_image: /assets/images/WafToast - sýr (1).jpg
+        product_description: 'lívance, tavený sýr'
+        product_price: 45
       - product_title: WafToast - Šunka & Sýr
         product_image: /assets/images/WafToast---Å¡unka_sÃ½r.jpg
         product_description: 'šunka, sýr'
