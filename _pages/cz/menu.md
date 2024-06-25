@@ -204,6 +204,7 @@ categories:
           šlehačka
         product_price: 119
       - product_title: WAFRAPPE
+        product_image: /assets/images/Wafrappe2022.jpg
         product_description: 'mléko, káva, zmrzlina, karamelová poleva, domácí šlehačka'
         product_price: 109
 layout: menu
