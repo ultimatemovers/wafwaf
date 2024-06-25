@@ -16,6 +16,7 @@ categories:
         product_description: '(lívance), čokoládová poleva, lesní ovoce, banán'
         product_price: 99
       - product_title: WAF&FRIES
+        product_image: /assets/images/Wafflefries.jpg
         product_description: waffle fries s kečupem a majonézou
         product_price: 59
   - category_title: SNÍDANĚ
