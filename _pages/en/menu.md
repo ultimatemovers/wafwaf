@@ -82,7 +82,7 @@ categories:
         product_price: 249
   - category_title: 'BREAKFEST UNTIL 12:00'
     products:
-      - product_title: WafToast-ham&cheese
+      - product_title: Waf-Toast-ham&cheese
         product_price: 49
       - {}
       - {}
