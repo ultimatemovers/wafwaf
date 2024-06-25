@@ -72,8 +72,8 @@ categories:
         product_price: 169
       - product_title: CREPEDILLA
         product_image: /assets/images/crepedilla2022-2.jpg
-        product_description: 'chicken, cheddar topping, baby spinach, sour cream'
-        product_price: null
+        product_description: '(pancake), chicken, cheddar topping, baby spinach, sour cream'
+        product_price: 189
       - product_title: BIGWAF
         product_image: /assets/images/big-waf-2022.jpg
         product_description: >-
