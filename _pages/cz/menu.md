@@ -54,7 +54,10 @@ categories:
           (lívance), tvarohový krém, karamelová poleva, banán, borůvky, lístek
           máty
         product_price: 169
-      - {}
+      - product_title: TACOWAF
+        product_image: /assets/images/TAC.jpg
+        product_description: '(lívance), limetkový krém, mango, borůvky, jahody, lístek máty'
+        product_price: 179
       - product_title: PROTEINWAF
         product_image: /assets/images/Proteinwaf.jpg
         product_description: 'lívance, tvaroh, arašídové máslo, banán, cookies sušenky'
