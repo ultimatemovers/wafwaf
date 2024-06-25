@@ -134,6 +134,7 @@ categories:
         product_price: 219
       - product_title: CakeWaf menu
         product_image: /assets/images/cxysfg.jpg
+        product_description: '(pancake), cream cheese, banana, caramel topping, blueberries+ drink'
         product_price: 199
   - category_title: 'BREAKFEST UNTIL 12:00'
     products:
