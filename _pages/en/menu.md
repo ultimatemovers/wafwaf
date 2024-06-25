@@ -131,6 +131,9 @@ categories:
         product_price: 239
       - product_title: Crepedilla menu
         product_image: ''
+        product_description: >-
+          (pancake), chicken, cheddar topping, baby spinach, sour cream+drink+
+          waf&fries
         product_price: 259
       - product_title: PlainWaf menu
         product_image: /assets/images/mmmmmm.jpg
