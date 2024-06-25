@@ -126,9 +126,13 @@ locations:
     location_contact: |-
       Otevírací doba:
 
-      Pondělí - Neděle:
+      Pondělí - Pátek:
 
       08:00 - 20:00
+
+      Sobota - Neděle 
+
+      09:00 - 20:00
 
       Kontaktní telefonní číslo:
 
