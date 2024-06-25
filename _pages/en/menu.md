@@ -87,7 +87,7 @@ categories:
       - product_title: Skywaf menu
       - product_title: Bigwafmenu
       - product_title: Beefwaf menu
-      - {}
+      - product_title: IronWaf menu
   - category_title: 'BREAKFEST UNTIL 12:00'
     products:
       - product_title: Syrniki
