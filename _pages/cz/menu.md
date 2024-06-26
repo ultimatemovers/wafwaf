@@ -42,7 +42,7 @@ categories:
         product_description: 'slanina, sýr'
         product_price: 54
       - product_title: Eggwaf
-        product_image: /assets/images/eggwaf-small.jpg
+        product_image: /assets/images/eggwaffff.jpg
         product_description: >-
           sázená vajíčka, slanina, cheddar, baby špenát, cherry rajčátka,
           pažitka a kousky vaflí polité cheddarem
