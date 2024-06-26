@@ -170,6 +170,7 @@ categories:
           sezonní ovoce, čokoládová poleva + nápoj
         product_price: 209
       - product_title: ProteinWaf menu
+        product_image: /assets/images/nknkn.jpg
         product_description: '(proteinové lívance), tvaroh, arašídové máslo, banán'
         product_price: 219
       - product_title: CakeWaf menu
