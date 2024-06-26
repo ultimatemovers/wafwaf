@@ -119,30 +119,6 @@ categories:
           bezlepková a bez laktózová vafle, sezónní ovoce, čokoládová poleva
           *obsahuje stopy lepku, není vhodná pro celiaky
         product_price: 179
-  - category_title: SPECIÁLNÍ NABÍDKA
-    products:
-      - product_title: CHICKENWAF
-        product_image: /assets/images/Hawaiiwaf.jpg
-        product_description: 'kuřecí maso v omáčce, cheddar, nakládaná cibule, řeřicha  '
-        product_price: 185
-      - product_title: PISTACHIOWAF
-        product_image: /assets/images/Pistachiowaf.jpg
-        product_description: >-
-          pistáciová poleva, drcené pistácie, maliny, sušené maliny, kousky
-          pomeranče
-        product_price: 189
-      - product_title: LEMONWAF
-        product_image: /assets/images/Lemonwaf.jpg
-        product_description: >-
-          makové lívance, citronóvový krém, protein, borůvky, proteinové křupky,
-          sušené borůvky
-        product_price: 175
-      - product_title: SPRINGWAF
-        product_image: /assets/images/Springwaf.jpg
-        product_description: >-
-          hráškový krém, vaječná omeleta s mozzarellou, polosušená rajčata,
-          řeřicha 
-        product_price: 169
   - category_title: SLADKÉ
     products:
       - product_title: SKYWAF
@@ -211,6 +187,30 @@ categories:
         product_image: /assets/images/Wafrappe2022.jpg
         product_description: 'mléko, káva, zmrzlina, karamelová poleva, domácí šlehačka'
         product_price: 109
+  - category_title: SPECIÁLNÍ NABÍDKA
+    products:
+      - product_title: CHICKENWAF
+        product_image: /assets/images/Hawaiiwaf.jpg
+        product_description: 'kuřecí maso v omáčce, cheddar, nakládaná cibule, řeřicha  '
+        product_price: 185
+      - product_title: PISTACHIOWAF
+        product_image: /assets/images/Pistachiowaf.jpg
+        product_description: >-
+          pistáciová poleva, drcené pistácie, maliny, sušené maliny, kousky
+          pomeranče
+        product_price: 189
+      - product_title: LEMONWAF
+        product_image: /assets/images/Lemonwaf.jpg
+        product_description: >-
+          makové lívance, citronóvový krém, protein, borůvky, proteinové křupky,
+          sušené borůvky
+        product_price: 175
+      - product_title: SPRINGWAF
+        product_image: /assets/images/Springwaf.jpg
+        product_description: >-
+          hráškový krém, vaječná omeleta s mozzarellou, polosušená rajčata,
+          řeřicha 
+        product_price: 169
 layout: menu
 _template: menu
 ---
