@@ -174,7 +174,7 @@ categories:
         product_description: 'pancake, cheese 2x'
         product_price: 45
       - product_title: EGGWAF
-        product_image: /assets/images/eggwaf-small.jpg
+        product_image: '/assets/images/vcxybn,.jpg'
         product_description: >-
           fried eggs, bacon, cheddar, baby spinach, cherry tomatoes, chives and
           pieces of waffles topped with cheddar
