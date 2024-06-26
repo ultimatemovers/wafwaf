@@ -25,8 +25,8 @@ excerpt: >+
   Těšíme se na Vás na našich pobočkách.
 
 button_text: Více informací
-post_image: /assets/images/granila.JPG
-feature_image: /assets/images/IMG_7728.JPG
+post_image: /assets/images/WhatsApp Image 2024-06-26 at 13.11.40.jpeg
+feature_image: /assets/images/WhatsApp Image 2024-06-26 at 13.11.40.jpeg
 _template: post
 ---
 
