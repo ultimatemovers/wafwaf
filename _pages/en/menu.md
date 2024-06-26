@@ -128,6 +128,7 @@ categories:
           salad, cranberries+ drink+ waf&fries
         product_price: 265
       - product_title: IronWaf menu
+        product_image: /assets/images/ironwafffff.jpg
         product_description: '(waffle),egg, bacon, cheddar, rocket salad+ drink +waf&fries'
         product_price: 239
       - product_title: Crepedilla menu
